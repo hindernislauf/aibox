@@ -108,29 +108,101 @@ const allServices = [
     type: "프리미엄",
     tags: ["AI도구모음이 필요해", "재무"],
     upvotes: 36
+  },
+  {
+    name: "Synchron",
+    domain: "https://www.aixploria.com/en/synchron-brain-computer-interface-ai/",
+    description: "생각으로 장치를 제어하는 ​​뇌-컴퓨터 인터페이스입니다.",
+    category: "보조 기술(AT)",
+    type: "유급의",
+    tags: ["보조 기술(AT)", "로봇 및 장치"],
+    upvotes: 27
+  },
+  {
+    name: "Novae.Travel",
+    domain: "https://chat.novae.travel/",
+    description: "항공편, 호텔, 명소/투어 예약, 예산, 운전 및 대중교통 길찾기, 위치 기반 서비스를 갖춘 풍부한 AI 휴가 플래너 기능",
+    category: "여행하다",
+    type: "무료",
+    tags: ["A익스플로리아 셀렉션", "여행하다"],
+    upvotes: 32
+  },
+  {
+    name: "FacePoke",
+    domain: "https://www.aixploria.com/out/FacePoke",
+    description: "사진 속 얼굴에 애니메이션을 적용하는 재미있는 AI 도구입니다.",
+    category: "이미지 편집",
+    type: "무료",
+    tags: ["놀라운", "이미지 편집"],
+    upvotes: 24
+  },
+  {
+    name: "Wix Logo Maker",
+    domain: "https://www.aixploria.com/out/WixLogoMaker",
+    description: "AI로 전문적인 로고를 쉽게 만들어보세요.",
+    category: "로고 제작",
+    type: "프리미엄",
+    tags: ["로고 제작"],
+    upvotes: 27
+  },
+  {
+    name: "Beyond 12",
+    domain: "https://www.aixploria.com/out/Beyond12",
+    description: "학생들을 위해 특별히 고안된 AI 지원 프로그램입니다.",
+    category: "교육 / 연구",
+    type: "무료",
+    tags: ["교육 / 연구"],
+    upvotes: 27
+  },
+  {
+    name: "Depth Pro",
+    domain: "https://www.aixploria.com/out/DepthPro",
+    description: "Apple이 설계한 새로운 AI 시스템으로 2D 이미지에서 상세한 3D 깊이 맵을 생성할 수 있습니다.",
+    category: "3D 모델",
+    type: "무료",
+    tags: ["3D 모델", "미래의 도구"],
+    upvotes: 36
+  },
+  {
+    name: "GptPanda",
+    domain: "https://www.gptpanda.io/",
+    description: "ChatGPT를 Slack 공간에 무료로 통합하세요.",
+    category: "사업",
+    type: "프리미엄",
+    tags: ["A익스플로리아 셀렉션", "사업"],
+    upvotes: 31
+  },
+  {
+    name: "WingmanX",
+    domain: "https://wingmanx.ai/main/a",
+    description: "성공을 촉진하기 위한 최고의 리즈 픽업 라인, 개인화된 조언 및 맞춤형 응답을 생성하여 데이트 생활을 향상시키는 AI 비서",
+    category: "데이트 및 관계",
+    type: "유급의",
+    tags: ["A익스플로리아 셀렉션", "데이트 및 관계"],
+    upvotes: 27
   }
 ];
 
 export default function handler(req, res) {
   const { category, page = 1, limit = 12 } = req.query;
-  console.log('Requested category:', category); // 디버깅용
+  const pageNumber = parseInt(page);
+  const limitNumber = parseInt(limit);
 
-  const filteredServices = category
+  let filteredServices = category
     ? allServices.filter(service => service.category.toLowerCase() === category.toLowerCase())
     : allServices;
 
-  console.log('Filtered services:', filteredServices); // 디버깅용
+  const totalServices = filteredServices.length;
+  const totalPages = Math.ceil(totalServices / limitNumber);
 
-  const startIndex = (page - 1) * limit;
-  const endIndex = page * limit;
+  const startIndex = (pageNumber - 1) * limitNumber;
+  const endIndex = startIndex + limitNumber;
   const paginatedServices = filteredServices.slice(startIndex, endIndex);
-
-  const totalPages = Math.ceil(filteredServices.length / limit);
 
   res.status(200).json({
     services: paginatedServices,
-    currentPage: page,
+    currentPage: pageNumber,
     totalPages: totalPages,
-    totalServices: filteredServices.length
+    totalServices: totalServices
   });
 }

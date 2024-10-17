@@ -14,6 +14,19 @@ const categories = [
     ],
     totalServices: 12
   },
+  {
+    id: 'image-generators',
+    name: 'Image Generators',
+    icon: '🖼️',
+    services: [
+      { name: 'MidJourney V6.1', icon: '🎨' },
+      { name: 'Adobe Firefly 3', icon: '🔥' },
+      { name: 'Stable Diffusion', icon: '🖌️' },
+      { name: 'Leonardo AI', icon: '🎭' },
+      { name: 'FLUX.1', icon: '⚡' },
+    ],
+    totalServices: 188
+  },
   // 필요하다면 다른 카테고리들 추가...
 ];
 

@@ -1,14 +1,10 @@
-import { useState, useEffect } from 'react';
+import { useEffect, useState } from 'react';
 import Head from 'next/head';
 import Link from 'next/link';
-import styles from '../styles/Category.module.css';
-import Pagination from '../components/Pagination';
-import ServiceCard from '../components/ServiceCard';
+import styles from '../styles/Home.module.css';
 
 export default function Home() {
   const [categories, setCategories] = useState([]);
-  const [currentPage, setCurrentPage] = useState(1);
-  const [totalPages, setTotalPages] = useState(1);
 
   useEffect(() => {
     fetch('/api/categories')
@@ -46,11 +42,6 @@ export default function Home() {
           </div>
         ))}
       </div>
-      <Pagination 
-        currentPage={currentPage} 
-        totalPages={totalPages} 
-        onPageChange={setCurrentPage} 
-      />
     </>
   );
 }

@@ -19,9 +19,6 @@ export default function Pagination({ currentPage, totalPages, onPageChange }) {
           {number}
         </button>
       ))}
-      {currentPage < totalPages && (
-        <button onClick={() => onPageChange(currentPage + 1)}>Next »</button>
-      )}
     </div>
   );
 }
