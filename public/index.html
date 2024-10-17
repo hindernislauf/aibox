@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Services Dashboard</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f2f5;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+            gap: 20px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        .category-box {
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            padding: 15px;
+        }
+        .category-title {
+            font-size: 16px;
+            font-weight: bold;
+            margin-bottom: 10px;
+            display: flex;
+            align-items: center;
+        }
+        .category-title img {
+            width: 20px;
+            height: 20px;
+            margin-right: 8px;
+        }
+        .service-list {
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+        }
+        .service-item {
+            display: flex;
+            align-items: center;
+            margin-bottom: 6px;
+            font-size: 14px;
+        }
+        .service-icon {
+            width: 16px;
+            height: 16px;
+            margin-right: 8px;
+        }
+        .see-all {
+            font-size: 12px;
+            color: #007bff;
+            text-decoration: none;
+            display: block;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container" id="categoryContainer">
+        <!-- Category boxes will be dynamically added here -->
+    </div>
+
+    <script>
+        const categories = [
+            {
+                title: "최신 AI",
+                icon: "🎯",
+                services: [
+                    { name: "Social Content AI", icon: "✨" },
+                    { name: "Liquid AI", icon: "💧" },
+                    { name: "F5-TTS", icon: "🎙️" },
+                    { name: "Relyance AI", icon: "🔍" },
+                    { name: "Swarm by OpenAI", icon: "🐝" },
+                    { name: "Tesla Robotaxi", icon: "🚕" },
+                    { name: "PMRF", icon: "🤖" },
+                    { name: "AI Shopping Guides", icon: "🛒" },
+                    { name: "Readyverse", icon: "🌐" },
+                    { name: "MarketAlerts.ai", icon: "📊" }
+                ],
+                total: 3242
+            },
+        ];
+
+        function createCategoryBox(category) {
+            const box = document.createElement('div');
+            box.className = 'category-box';
+            
+            const title = document.createElement('h2');
+            title.className = 'category-title';
+            title.innerHTML = `${category.icon} ${category.title}`;
+            box.appendChild(title);
+            
+            const list = document.createElement('ul');
+            list.className = 'service-list';
+            category.services.forEach(service => {
+                const item = document.createElement('li');
+                item.className = 'service-item';
+                item.innerHTML = `<span class="service-icon">${service.icon}</span> ${service.name}`;
+                list.appendChild(item);
+            });
+            box.appendChild(list);
+            
+            const seeAll = document.createElement('a');
+            seeAll.className = 'see-all';
+            seeAll.href = '#';
+            seeAll.textContent = `See all category (${category.total}) →`;
+            box.appendChild(seeAll);
+            
+            return box;
+        }
+
+        const container = document.getElementById('categoryContainer');
+        categories.forEach(category => {
+            container.appendChild(createCategoryBox(category));
+        });
+    </script>
+</body>
+</html>
