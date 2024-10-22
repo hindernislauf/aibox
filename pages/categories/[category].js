@@ -3,10 +3,6 @@ import { useEffect, useState } from 'react';
 import ServiceCard from '../../components/ServiceCard';
 import styles from '../../styles/Category.module.css';
 
-const getProxiedImageUrl = (url) => {
-  // implementation of getProxiedImageUrl function
-};
-
 export default function Category() {
   const router = useRouter();
   const { category } = router.query;
@@ -40,10 +36,6 @@ export default function Category() {
 
   if (isLoading) {
     return <div>로딩 중...</div>;
-  }
-
-  if (error) {
-    return <div>오류: {error}</div>;
   }
 
   if (!categoryData) {

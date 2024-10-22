@@ -46,3 +46,8 @@
 .seeMoreButton:hover {
   background-color: #818181;
 }
+
+.categoryTitle {
+  text-align: center;
+  margin-bottom: 15px;
+}

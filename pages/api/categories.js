@@ -26,7 +26,7 @@ export default async function handler(req, res) {
         JOIN categories c ON c.id = sc.category_id
         WHERE c.name = $1 
         ORDER BY s.name, s.upvotes DESC 
-        LIMIT 5
+        LIMIT 10
       `, [category.name]);
 
       return {
@@ -40,12 +40,12 @@ export default async function handler(req, res) {
       };
     }));
 
-    // 모든 아이템을 포함하는 'all_categories' 추가
+    // All Categories 항목 추가
     const allItems = await db.query(`
-      SELECT DISTINCT ON (s.id) s.* 
+      SELECT DISTINCT ON (s.name) s.* 
       FROM services s
-      ORDER BY s.id, s.upvotes DESC 
-      LIMIT 5
+      ORDER BY s.name, s.upvotes DESC 
+      LIMIT 10
     `);
 
     const allCategories = {
