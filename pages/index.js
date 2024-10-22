@@ -3,16 +3,17 @@ import Head from 'next/head';
 import Link from 'next/link';
 import styles from '../styles/Home.module.css';
 
+const getProxiedImageUrl = (url) => {
+  return `https://images.weserv.nl/?url=${encodeURIComponent(url)}&w=48&h=48&fit=contain&output=png`;
+};
+
 export default function Home() {
   const [categories, setCategories] = useState([]);
 
   useEffect(() => {
     fetch('/api/categories')
       .then(response => response.json())
-      .then(data => {
-        console.log('Fetched categories:', data);
-        setCategories(data);
-      })
+      .then(data => setCategories(data))
       .catch(error => console.error('Error fetching categories:', error));
   }, []);
 
@@ -25,19 +26,25 @@ export default function Home() {
       <div className={styles.container}>
         {categories.map((category, index) => (
           <div key={index} className={styles.category}>
-            <h2 className={styles.categoryTitle}>
-              {category.icon} {category.name}
-            </h2>
+            <h2 className={styles.categoryTitle}>{category.name}</h2>
             <ul className={styles.serviceList}>
-              {category.services.slice(0, 5).map((service, serviceIndex) => (
-                <li key={serviceIndex} className={styles.serviceItem}>
-                  <span className={styles.serviceIcon}>{service.icon}</span>
-                  <span className={styles.serviceName}>{service.name}</span>
+              {category.items.map((item, itemIndex) => (
+                <li key={itemIndex} className={styles.serviceItem}>
+                  <img 
+                    src={item.logo} 
+                    alt={item.name} 
+                    className={styles.serviceIcon}
+                    onError={(e) => {
+                      e.target.onerror = null;
+                      e.target.src = '/default-favicon.png'; // 기본 이미지 경로
+                    }}
+                  />
+                  <span className={styles.serviceName}>{item.name}</span>
                 </li>
               ))}
             </ul>
             <Link href={`/categories/${category.id}`} className={styles.seeAll}>
-              See all category ({category.totalServices}) →
+              모든 카테고리 보기 ({category.totalItems}) →
             </Link>
           </div>
         ))}

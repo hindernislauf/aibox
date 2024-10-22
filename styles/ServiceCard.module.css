@@ -1,22 +1,46 @@
 .card {
-    border: 1px solid #ddd;
-    border-radius: 8px;
-    padding: 16px;
-    margin-bottom: 16px;
-  }
-  
-  .cardHeader {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-bottom: 8px;
-  }
-  
-  .serviceLogo {
-    width: 32px;
-    height: 32px;
-    object-fit: contain;
-    margin-bottom: 8px;
-  }
-  
-  /* 필요한 다른 스타일들을 추가하세요 */
+  border: 1px solid #e0e0e0;
+  border-radius: 10px;
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  background-color: white;
+}
+
+.rank {
+  font-weight: bold;
+  color: #666;
+}
+
+.logo {
+  width: 60px;
+  height: 60px;
+  object-fit: contain;
+  margin-bottom: 15px;
+}
+
+.type {
+  padding: 3px 8px;
+  border-radius: 12px;
+  font-size: 12px;
+  background-color: #E8F5E9;
+  color: #4CAF50;
+  display: inline-block;
+  margin-bottom: 10px;
+}
+
+.rating, .category, .upvotes {
+  font-size: 14px;
+  color: #666;
+  margin-bottom: 5px;
+}
+
+.visitButton {
+  display: inline-block;
+  padding: 10px;
+  background-color: #4CAF50;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  margin-top: 10px;
+}
