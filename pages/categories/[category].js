@@ -1,5 +1,6 @@
 import { useRouter } from 'next/router';
 import { useEffect, useState } from 'react';
+import Head from 'next/head';
 import ServiceCard from '../../components/ServiceCard';
 import styles from '../../styles/Category.module.css';
 
@@ -9,6 +10,7 @@ export default function Category() {
   const [categoryData, setCategoryData] = useState(null);
   const [isLoading, setIsLoading] = useState(true);
   const [error, setError] = useState(null);
+  const [searchTerm, setSearchTerm] = useState('');
 
   useEffect(() => {
     if (category) {
@@ -34,8 +36,18 @@ export default function Category() {
     }
   }, [category]);
 
+  const handleSearch = (e) => {
+    e.preventDefault();
+    // 여기에 검색 로직을 추가할 수 있습니다.
+    console.log('Searching for:', searchTerm);
+  };
+
   if (isLoading) {
     return <div>로딩 중...</div>;
+  }
+
+  if (error) {
+    return <div>오류: {error}</div>;
   }
 
   if (!categoryData) {
@@ -43,13 +55,31 @@ export default function Category() {
   }
 
   return (
-    <div className={styles.container}>
-      <h1>{categoryData.name} 서비스</h1>
-      <div className={styles.serviceGrid}>
-        {categoryData.items.map((service, index) => (
-          <ServiceCard key={index} service={service} rank={index + 1} />
-        ))}
+    <>
+      <Head>
+        <title>{categoryData.name} - AI 서비스 대시보드</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      </Head>
+      <div className={styles.searchContainer}>
+        <h1 className={styles.title}>{categoryData.name}</h1>
+        <form onSubmit={handleSearch} className={styles.searchForm}>
+          <input
+            type="text"
+            value={searchTerm}
+            onChange={(e) => setSearchTerm(e.target.value)}
+            placeholder="AI 서비스 검색..."
+            className={styles.searchInput}
+          />
+          <button type="submit" className={styles.searchButton}>검색</button>
+        </form>
       </div>
-    </div>
+      <div className={styles.container}>
+        <div className={styles.serviceGrid}>
+          {categoryData.items.map((service, index) => (
+            <ServiceCard key={index} service={service} rank={index + 1} />
+          ))}
+        </div>
+      </div>
+    </>
   );
 }

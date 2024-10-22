@@ -54,6 +54,7 @@ export default function Home() {
               <ul className={styles.serviceList}>
                 {category.items.map((item, itemIndex) => (
                   <li key={itemIndex} className={styles.serviceItem}>
+                    <span className={styles.itemNumber}>{itemIndex + 1}.</span>
                     <img 
                       src={item.logo} 
                       alt={item.name} 

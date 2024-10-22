@@ -50,7 +50,7 @@ export default async function handler(req, res) {
 
     const allCategories = {
       id: 'all-categories',
-      name: 'All Categories',
+      name: '모든 서비스',
       items: allItems.rows.map(item => ({
         ...item,
         logo: `https://images.weserv.nl/?url=${encodeURIComponent(item.logo)}&w=48&h=48&fit=contain&output=png`
