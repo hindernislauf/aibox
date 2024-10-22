@@ -1,16 +1,10 @@
 import '../styles/globals.css'
-import { useEffect, useState } from 'react';
+import { useEffect } from 'react';
 
 function MyApp({ Component, pageProps }) {
-  const [isClient, setIsClient] = useState(false);
-
   useEffect(() => {
-    setIsClient(true);
+    // 클라이언트 측 코드
   }, []);
-
-  if (!isClient) {
-    return null;
-  }
 
   return <Component {...pageProps} />
 }

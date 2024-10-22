@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react';
 import Head from 'next/head';
 import Link from 'next/link';
 import styles from '../styles/Home.module.css';
+import { useRouter } from 'next/router';
 
 const getProxiedImageUrl = (url) => {
   return `https://images.weserv.nl/?url=${encodeURIComponent(url)}&w=48&h=48&fit=contain&output=png`;
@@ -10,6 +11,7 @@ const getProxiedImageUrl = (url) => {
 export default function Home() {
   const [categories, setCategories] = useState([]);
   const [isLoading, setIsLoading] = useState(true);
+  const router = useRouter();
 
   useEffect(() => {
     fetch('/api/categories')
@@ -25,6 +27,7 @@ export default function Home() {
         if (!Array.isArray(data)) {
           throw new Error('Invalid data format');
         }
+        console.log('Received categories data:', data);  // 추가된 로그
         setCategories(data);
         setIsLoading(false);
       })
@@ -63,9 +66,11 @@ export default function Home() {
                   </li>
                 ))}
               </ul>
-              <Link href={`/categories/${category.id}`} className={styles.seeAll}>
-                모든 카테고리 보기 ({category.totalItems}) →
-              </Link>
+              <div className={styles.seeMoreButtonContainer}>
+                <button onClick={() => router.push(`/categories/${encodeURIComponent(category.id)}`)} className={styles.seeMoreButton}>
+                  더 보기 ({category.totalItems})
+                </button>
+              </div>
             </div>
           ))
         )}

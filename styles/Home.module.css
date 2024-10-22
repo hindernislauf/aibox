@@ -23,3 +23,26 @@
     object-fit: contain;
     margin-right: 10px;
   }
+
+.seeMoreButtonContainer {
+  width: 100%;
+  padding: 0 0px;
+  margin-top: 15px;
+}
+
+.seeMoreButton {
+  width: 100%;
+  background-color: #d5d6d9;
+  color: rgb(0, 0, 0);
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s ease;
+  text-align: center;
+}
+
+.seeMoreButton:hover {
+  background-color: #818181;
+}
