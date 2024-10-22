@@ -60,17 +60,17 @@ export default function Category() {
         <title>{categoryData.name} - AI 서비스 대시보드</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       </Head>
-      <div className={styles.searchContainer}>
-        <h1 className={styles.title}>{categoryData.name}</h1>
-        <form onSubmit={handleSearch} className={styles.searchForm}>
+      <div className="pageHeader">
+        <h1 className="pageTitle">{categoryData.name}</h1>
+        <form onSubmit={handleSearch} className="searchForm">
           <input
             type="text"
             value={searchTerm}
             onChange={(e) => setSearchTerm(e.target.value)}
             placeholder="AI 서비스 검색..."
-            className={styles.searchInput}
+            className="searchInput"
           />
-          <button type="submit" className={styles.searchButton}>검색</button>
+          <button type="submit" className="searchButton">검색</button>
         </form>
       </div>
       <div className={styles.container}>
