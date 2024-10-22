@@ -50,6 +50,7 @@ export default function Home() {
           categories.map((category, index) => (
             <div key={index} className={styles.category}>
               <h2 className={styles.categoryTitle}>{category.name}</h2>
+              <hr className={styles.divider} />
               <ul className={styles.serviceList}>
                 {category.items.map((item, itemIndex) => (
                   <li key={itemIndex} className={styles.serviceItem}>
