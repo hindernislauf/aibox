@@ -9,12 +9,29 @@ const getProxiedImageUrl = (url) => {
 
 export default function Home() {
   const [categories, setCategories] = useState([]);
+  const [isLoading, setIsLoading] = useState(true);
 
   useEffect(() => {
     fetch('/api/categories')
-      .then(response => response.json())
-      .then(data => setCategories(data))
-      .catch(error => console.error('Error fetching categories:', error));
+      .then(response => {
+        if (!response.ok) {
+          return response.json().then(err => {
+            throw new Error(err.message || `HTTP error! status: ${response.status}`);
+          });
+        }
+        return response.json();
+      })
+      .then(data => {
+        if (!Array.isArray(data)) {
+          throw new Error('Invalid data format');
+        }
+        setCategories(data);
+        setIsLoading(false);
+      })
+      .catch(error => {
+        console.error('Error fetching categories:', error);
+        setIsLoading(false);
+      });
   }, []);
 
   return (
@@ -24,30 +41,34 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       </Head>
       <div className={styles.container}>
-        {categories.map((category, index) => (
-          <div key={index} className={styles.category}>
-            <h2 className={styles.categoryTitle}>{category.name}</h2>
-            <ul className={styles.serviceList}>
-              {category.items.map((item, itemIndex) => (
-                <li key={itemIndex} className={styles.serviceItem}>
-                  <img 
-                    src={item.logo} 
-                    alt={item.name} 
-                    className={styles.serviceIcon}
-                    onError={(e) => {
-                      e.target.onerror = null;
-                      e.target.src = '/default-favicon.png'; // 기본 이미지 경로
-                    }}
-                  />
-                  <span className={styles.serviceName}>{item.name}</span>
-                </li>
-              ))}
-            </ul>
-            <Link href={`/categories/${category.id}`} className={styles.seeAll}>
-              모든 카테고리 보기 ({category.totalItems}) →
-            </Link>
-          </div>
-        ))}
+        {isLoading ? (
+          <div>로딩 중...</div>
+        ) : (
+          categories.map((category, index) => (
+            <div key={index} className={styles.category}>
+              <h2 className={styles.categoryTitle}>{category.name}</h2>
+              <ul className={styles.serviceList}>
+                {category.items.map((item, itemIndex) => (
+                  <li key={itemIndex} className={styles.serviceItem}>
+                    <img 
+                      src={item.logo} 
+                      alt={item.name} 
+                      className={styles.serviceIcon}
+                      onError={(e) => {
+                        e.target.onerror = null;
+                        e.target.src = '/default-favicon.png'; // 기본 이미지 경로
+                      }}
+                    />
+                    <span className={styles.serviceName}>{item.name}</span>
+                  </li>
+                ))}
+              </ul>
+              <Link href={`/categories/${category.id}`} className={styles.seeAll}>
+                모든 카테고리 보기 ({category.totalItems}) →
+              </Link>
+            </div>
+          ))
+        )}
       </div>
     </>
   );
