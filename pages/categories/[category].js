@@ -3,6 +3,10 @@ import { useEffect, useState } from 'react';
 import ServiceCard from '../../components/ServiceCard';
 import styles from '../../styles/Category.module.css';
 
+const getProxiedImageUrl = (url) => {
+  // implementation of getProxiedImageUrl function
+};
+
 export default function Category() {
   const router = useRouter();
   const { category } = router.query;
@@ -12,10 +16,13 @@ export default function Category() {
 
   useEffect(() => {
     if (category) {
-      fetch(`/api/category/${category}`)
+      const encodedCategory = encodeURIComponent(category);
+      fetch(`/api/category/${encodedCategory}`)
         .then(response => {
           if (!response.ok) {
-            throw new Error('카테고리를 찾을 수 없습니다.');
+            return response.json().then(err => {
+              throw new Error(err.message || '카테고리를 찾을 수 없습니다.');
+            });
           }
           return response.json();
         })
