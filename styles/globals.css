@@ -1,8 +1,68 @@
+@import url('https://cdn.jsdelivr.net/gh/sunn-us/SUIT/fonts/static/woff2/SUIT.css');
+
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'SUIT', sans-serif;
     background-color: #f0f2f5;
     margin: 0;
     padding: 20px;
+    padding-top: 60px; /* Navbar의 높이만큼 여백 추가 */
 }
 
 /* 여기에 다른 스타일들을 추가 */
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.pageHeader {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem 0;
+  margin-bottom: 2rem;
+}
+
+.pageTitle {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+  color: #4285F4;
+  text-align: center;
+}
+
+.searchForm {
+  display: flex;
+  width: 100%;
+  max-width: 584px;
+}
+
+.searchInput {
+  flex-grow: 1;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: 1px solid #dfe1e5;
+  border-radius: 24px 0 0 24px;
+  outline: none;
+}
+
+.searchInput:focus {
+  box-shadow: 0 1px 6px rgba(32,33,36,.28);
+  border-color: rgba(223,225,229,0);
+}
+
+.searchButton {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #d5d6d9;
+  color: rgb(0, 0, 0);
+  border: none;
+  border-radius: 0 24px 24px 0;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.searchButton:hover {
+  background-color: #818181;
+}

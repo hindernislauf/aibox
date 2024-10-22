@@ -1,12 +1,13 @@
-import '../styles/globals.css'
-import { useEffect } from 'react';
+import '../styles/globals.css';
+import Navbar from '../components/Navbar';
 
 function MyApp({ Component, pageProps }) {
-  useEffect(() => {
-    // 클라이언트 측 코드
-  }, []);
-
-  return <Component {...pageProps} />
+  return (
+    <>
+      <Navbar />
+      <Component {...pageProps} />
+    </>
+  );
 }
 
-export default MyApp
+export default MyApp;
