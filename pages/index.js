@@ -11,6 +11,7 @@ const getProxiedImageUrl = (url) => {
 export default function Home() {
   const [categories, setCategories] = useState([]);
   const [isLoading, setIsLoading] = useState(true);
+  const [searchTerm, setSearchTerm] = useState('');
   const router = useRouter();
 
   useEffect(() => {
@@ -37,12 +38,31 @@ export default function Home() {
       });
   }, []);
 
+  const handleSearch = (e) => {
+    e.preventDefault();
+    // 여기에 검색 로직을 추가할 수 있습니다.
+    console.log('Searching for:', searchTerm);
+  };
+
   return (
     <>
       <Head>
         <title>AI 서비스 대시보드</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       </Head>
+      <div className={styles.searchContainer}>
+        <h1 className={styles.title}>AIBOX</h1>
+        <form onSubmit={handleSearch} className={styles.searchForm}>
+          <input
+            type="text"
+            value={searchTerm}
+            onChange={(e) => setSearchTerm(e.target.value)}
+            placeholder="AI 서비스 검색..."
+            className={styles.searchInput}
+          />
+          <button type="submit" className={styles.searchButton}>검색</button>
+        </form>
+      </div>
       <div className={styles.container}>
         {isLoading ? (
           <div>로딩 중...</div>
