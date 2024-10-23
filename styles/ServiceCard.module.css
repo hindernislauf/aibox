@@ -27,10 +27,33 @@
   padding: 3px 8px;
   border-radius: 12px;
   font-size: 12px;
-  background-color: #E8F5E9;
-  color: #4CAF50;
   display: inline-block;
   margin-bottom: 10px;
+  width: 70px;  /* 고정 너비 설정 */
+  text-align: center;  /* 텍스트 중앙 정렬 */
+  white-space: nowrap;  /* 텍스트 줄바꿈 방지 */
+  overflow: hidden;  /* 넘치는 텍스트 숨김 */
+  text-overflow: ellipsis;  /* 넘치는 텍스트를 ...으로 표시 */
+}
+
+.무료 {
+  background-color: #E8F5E9;
+  color: #4CAF50;
+}
+
+.유료 {
+  background-color: #FFEBEE;
+  color: #F44336;
+}
+
+.부분무료 {
+  background-color: #FFF3E0;
+  color: #FF9800;
+}
+
+.무료체험 {
+  background-color: #FFFDE7;
+  color: #FBC02D;
 }
 
 .rating, .category, .upvotes {
