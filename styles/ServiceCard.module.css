@@ -6,34 +6,100 @@
   background-color: white;
   width: 300px;
   height: 478.94px;
-  overflow: hidden;
   display: flex;
   flex-direction: column;
+  position: relative;
 }
 
 .rank {
+  position: absolute;
+  top: 15px;
+  left: 15px;
   font-weight: bold;
   color: #666;
+  font-size: 18px;
+}
+
+.type {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  padding: 3px 8px;
+  border-radius: 12px;
+  font-size: 12px;
+  width: 70px;
+  text-align: center;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  margin-top: 60px;
+  margin-bottom: 15px;
 }
 
 .logo {
   width: 60px;
   height: 60px;
   object-fit: contain;
-  margin-bottom: 15px;
+  margin-right: 15px;
 }
 
-.type {
-  padding: 3px 8px;
-  border-radius: 12px;
-  font-size: 12px;
-  display: inline-block;
+.name {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.description {
+  margin-top: auto;
+  margin-bottom: auto;
+  padding-top: 30px;
+  font-size: 14px;
+  color: #666;
+  flex-grow: 1;
+  max-height: 150px;
+  overflow-y: auto;
+}
+
+.footer {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.stats {
+  font-size: 14px;
+  color: #666;
   margin-bottom: 10px;
-  width: 70px;  /* 고정 너비 설정 */
-  text-align: center;  /* 텍스트 중앙 정렬 */
-  white-space: nowrap;  /* 텍스트 줄바꿈 방지 */
-  overflow: hidden;  /* 넘치는 텍스트 숨김 */
-  text-overflow: ellipsis;  /* 넘치는 텍스트를 ...으로 표시 */
+  text-align: center;
+}
+
+.visitButton {
+  width: 100%;
+  padding: 10px;
+  background-color: #d5d6d9;
+  color: rgb(0, 0, 0);
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.visitButton:hover {
+  background-color: #818181;
+}
+
+.무료, .유료, .부분무료, .무료체험, .프리미엄 {
+  display: inline-block;
+  width: 70px;
+  text-align: center;
 }
 
 .무료 {
@@ -56,18 +122,7 @@
   color: #FBC02D;
 }
 
-.rating, .category, .upvotes {
-  font-size: 14px;
-  color: #666;
-  margin-bottom: 5px;
-}
-
-.visitButton {
-  display: inline-block;
-  padding: 10px;
-  background-color: #d5d6d9;
-  color: rgb(0, 0, 0);
-  text-decoration: none;
-  border-radius: 5px;
-  margin-top: 10px;
+.프리미엄 {
+  background-color: #E3F2FD;
+  color: #2196F3;
 }
