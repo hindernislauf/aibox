@@ -18,6 +18,7 @@
   overflow: hidden;
   display: flex;
   flex-direction: column;
+  justify-content: space-between;
 }
 
 /* 나머지 스타일은 그대로 유지 */
@@ -31,7 +32,7 @@
 
 .seeMoreButtonContainer {
   width: 100%;
-  margin-top: 15px;
+  margin-top: auto;
 }
 
 .seeMoreButton {
@@ -70,9 +71,22 @@
 .serviceItem {
   display: flex;
   align-items: center;
-  margin-bottom: 8px;
+  margin-bottom: 5px;
   overflow: hidden;
   white-space: nowrap;
+  position: relative;
+  padding-bottom: 5px;
+}
+
+.serviceItem:not(:last-child)::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 10%;
+  right: 10%;
+  height: 1px;
+  background-color: #e0e0e0;
+  opacity: 0.5;
 }
 
 .serviceName {
@@ -82,9 +96,12 @@
 }
 
 .serviceList {
+  flex-grow: 1;
+  overflow-y: auto;
   padding-left: 0;
   list-style-type: none;
-  margin-bottom: 15px;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 
 .searchContainer {

@@ -2,9 +2,13 @@
   border: 1px solid #e0e0e0;
   border-radius: 10px;
   padding: 20px;
-  margin-bottom: 20px;
   box-shadow: 0 2px 5px rgba(0,0,0,0.1);
   background-color: white;
+  width: 300px;
+  height: 478.94px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
 }
 
 .rank {
