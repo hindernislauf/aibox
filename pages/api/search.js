@@ -54,8 +54,13 @@ export default async function handler(req, res) {
           LEFT JOIN service_categories sc ON s.id = sc.service_id
           LEFT JOIN categories c ON sc.category_id = c.id
           WHERE s.name ILIKE $1 OR s.description ILIKE $1
-          ORDER BY s.upvotes DESC
-          LIMIT 20
+          ORDER BY 
+            CASE 
+              WHEN s.name ILIKE $1 THEN 0
+              ELSE 1
+            END,
+            s.upvotes DESC
+          LIMIT 100
         `;
         params = [`%${q}%`];
       }

@@ -4,6 +4,7 @@ import Link from 'next/link';
 import styles from '../styles/Home.module.css';
 import { useRouter } from 'next/router';
 import Search from '../components/Search';
+import ServiceCard from '../components/ServiceCard';
 
 const getProxiedImageUrl = (url) => {
   return `https://images.weserv.nl/?url=${encodeURIComponent(url)}&w=48&h=48&fit=contain&output=png`;
@@ -13,6 +14,7 @@ export default function Home() {
   const [categories, setCategories] = useState([]);
   const [isLoading, setIsLoading] = useState(true);
   const [searchResults, setSearchResults] = useState([]);
+  const [searchTerm, setSearchTerm] = useState('');
   const router = useRouter();
 
   useEffect(() => {
@@ -38,10 +40,16 @@ export default function Home() {
       });
   }, []);
 
-  const handleSearch = (results) => {
-    const uniqueResults = Array.from(new Set(results.map(r => r.id)))
-      .map(id => results.find(r => r.id === id));
-    setSearchResults(uniqueResults);
+  const handleSearch = (results, term) => {
+    setSearchTerm(term);
+    const sortedResults = results.sort((a, b) => {
+      const aNameMatch = a.name.toLowerCase().includes(term.toLowerCase());
+      const bNameMatch = b.name.toLowerCase().includes(term.toLowerCase());
+      if (aNameMatch && !bNameMatch) return -1;
+      if (!aNameMatch && bNameMatch) return 1;
+      return b.upvotes - a.upvotes;
+    });
+    setSearchResults(sortedResults);
   };
 
   return (
@@ -58,13 +66,9 @@ export default function Home() {
         {isLoading ? (
           <div>로딩 중...</div>
         ) : searchResults.length > 0 ? (
-          <div className={styles.searchResults}>
-            <h2>검색 결과</h2>
-            {searchResults.map((result, index) => (
-              <div key={index} className={styles.searchResultItem}>
-                <h3>{result.name}</h3>
-                <p>{result.description}</p>
-              </div>
+          <div className={styles.serviceGrid}>
+            {searchResults.map((service, index) => (
+              <ServiceCard key={service.id || index} service={service} rank={index + 1} />
             ))}
           </div>
         ) : (
@@ -82,7 +86,7 @@ export default function Home() {
                       className={styles.serviceIcon}
                       onError={(e) => {
                         e.target.onerror = null;
-                        e.target.src = '/default-favicon.png'; // 기본 이미지 경로
+                        e.target.src = '/default-favicon.png';
                       }}
                     />
                     <span className={styles.serviceName}>{item.name}</span>

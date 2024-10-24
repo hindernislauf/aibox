@@ -26,7 +26,7 @@ export default async function handler(req, res) {
         JOIN categories c ON c.id = sc.category_id
         WHERE c.name = $1 
         ORDER BY s.name, s.upvotes DESC 
-        LIMIT 10
+        LIMIT 20
       `, [category.name]);
 
       return {
@@ -45,7 +45,7 @@ export default async function handler(req, res) {
       SELECT DISTINCT ON (s.name) s.* 
       FROM services s
       ORDER BY s.name, s.upvotes DESC 
-      LIMIT 10
+      LIMIT 50
     `);
 
     const allCategories = {
