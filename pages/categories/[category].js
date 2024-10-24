@@ -3,6 +3,7 @@ import { useEffect, useState } from 'react';
 import Head from 'next/head';
 import ServiceCard from '../../components/ServiceCard';
 import styles from '../../styles/Category.module.css';
+import Search from '../../components/Search';
 
 export default function Category() {
   const router = useRouter();
@@ -36,10 +37,11 @@ export default function Category() {
     }
   }, [category]);
 
-  const handleSearch = (e) => {
-    e.preventDefault();
-    // 여기에 검색 로직을 추가할 수 있습니다.
-    console.log('Searching for:', searchTerm);
+  const handleSearch = (results, term) => {
+    setSearchTerm(term);
+    // 여기에 검색 결과를 처리하는 로직을 추가할 수 있습니다.
+    console.log('Searching for:', term);
+    console.log('Search results:', results);
   };
 
   if (isLoading) {
@@ -62,16 +64,7 @@ export default function Category() {
       </Head>
       <div className="pageHeader">
         <h1 className="pageTitle">{categoryData.name}</h1>
-        <form onSubmit={handleSearch} className="searchForm">
-          <input
-            type="text"
-            value={searchTerm}
-            onChange={(e) => setSearchTerm(e.target.value)}
-            placeholder="AI 서비스 검색..."
-            className="searchInput"
-          />
-          <button type="submit" className="searchButton">검색</button>
-        </form>
+        <Search onSearch={handleSearch} router={router} />
       </div>
       <div className={styles.container}>
         <div className={styles.serviceGrid}>

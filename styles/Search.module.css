@@ -1,0 +1,33 @@
+.searchContainer {
+  position: relative;
+  width: 100%;
+  max-width: 584px;
+}
+
+.searchInput {
+  width: 100%;
+  padding: 10px 120px 10px 20px;
+  font-size: 16px;
+  border: 1px solid #dfe1e5;
+  border-radius: 24px;
+  outline: none;
+  box-shadow: 0 1px 6px rgba(32,33,36,0.28);
+  box-sizing: border-box;
+}
+
+.clearButton {
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+  background: none;
+  border: none;
+  color: #9AA0A6;
+  font-size: 14px;
+  cursor: pointer;
+  padding: 5px 10px;
+}
+
+.clearButton:hover {
+  color: #202124;
+}
