@@ -3,6 +3,8 @@ import Head from 'next/head';
 import Link from 'next/link';
 import styles from '../styles/Home.module.css';
 import { useRouter } from 'next/router';
+import Search from '../components/Search';
+import ServiceCard from '../components/ServiceCard';
 
 const getProxiedImageUrl = (url) => {
   return `https://images.weserv.nl/?url=${encodeURIComponent(url)}&w=48&h=48&fit=contain&output=png`;
@@ -11,6 +13,7 @@ const getProxiedImageUrl = (url) => {
 export default function Home() {
   const [categories, setCategories] = useState([]);
   const [isLoading, setIsLoading] = useState(true);
+  const [searchResults, setSearchResults] = useState([]);
   const [searchTerm, setSearchTerm] = useState('');
   const router = useRouter();
 
@@ -28,7 +31,6 @@ export default function Home() {
         if (!Array.isArray(data)) {
           throw new Error('Invalid data format');
         }
-        console.log('Received categories data:', data);  // 추가된 로그
         setCategories(data);
         setIsLoading(false);
       })
@@ -38,10 +40,16 @@ export default function Home() {
       });
   }, []);
 
-  const handleSearch = (e) => {
-    e.preventDefault();
-    // 여기에 검색 로직을 추가할 수 있습니다.
-    console.log('Searching for:', searchTerm);
+  const handleSearch = (results, term) => {
+    setSearchTerm(term);
+    const sortedResults = results.sort((a, b) => {
+      const aNameMatch = a.name.toLowerCase().includes(term.toLowerCase());
+      const bNameMatch = b.name.toLowerCase().includes(term.toLowerCase());
+      if (aNameMatch && !bNameMatch) return -1;
+      if (!aNameMatch && bNameMatch) return 1;
+      return b.upvotes - a.upvotes;
+    });
+    setSearchResults(sortedResults);
   };
 
   return (
@@ -52,20 +60,17 @@ export default function Home() {
       </Head>
       <div className="pageHeader">
         <h1 className="pageTitle">AIBOX</h1>
-        <form onSubmit={handleSearch} className="searchForm">
-          <input
-            type="text"
-            value={searchTerm}
-            onChange={(e) => setSearchTerm(e.target.value)}
-            placeholder="AI 서비스 검색..."
-            className="searchInput"
-          />
-          <button type="submit" className="searchButton">검색</button>
-        </form>
+        <Search onSearch={handleSearch} router={router} />
       </div>
       <div className={styles.container}>
         {isLoading ? (
           <div>로딩 중...</div>
+        ) : searchResults.length > 0 ? (
+          <div className={styles.serviceGrid}>
+            {searchResults.map((service, index) => (
+              <ServiceCard key={service.id || index} service={service} rank={index + 1} />
+            ))}
+          </div>
         ) : (
           categories.map((category, index) => (
             <div key={index} className={styles.category}>
@@ -81,7 +86,7 @@ export default function Home() {
                       className={styles.serviceIcon}
                       onError={(e) => {
                         e.target.onerror = null;
-                        e.target.src = '/default-favicon.png'; // 기본 이미지 경로
+                        e.target.src = '/default-favicon.png';
                       }}
                     />
                     <span className={styles.serviceName}>{item.name}</span>

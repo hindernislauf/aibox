@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "next dev -H 0.0.0.0",
+    "dev": "next dev",
     "build": "next build",
-    "start": "next start -H 0.0.0.0",
+    "start": "next start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -21,13 +21,18 @@
   },
   "homepage": "https://github.com/hindernislauf/aibox#readme",
   "dependencies": {
+    "@elastic/elasticsearch": "^8.15.1",
+    "axios": "^1.7.7",
     "express": "^4.21.1",
     "i18next": "^23.16.0",
+    "lodash": "^4.17.21",
     "mongoose": "^8.7.1",
-    "next": "^14.2.15",
+    "next": "^15.0.1",
+    "pg": "^8.13.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-i18next": "^15.0.3",
+    "react-query": "^3.39.3",
     "styled-components": "^6.1.13"
   }
 }

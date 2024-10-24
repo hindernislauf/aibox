@@ -2,45 +2,127 @@
   border: 1px solid #e0e0e0;
   border-radius: 10px;
   padding: 20px;
-  margin-bottom: 20px;
   box-shadow: 0 2px 5px rgba(0,0,0,0.1);
   background-color: white;
+  width: 300px;
+  height: 478.94px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
 }
 
 .rank {
+  position: absolute;
+  top: 15px;
+  left: 15px;
   font-weight: bold;
   color: #666;
+  font-size: 18px;
+}
+
+.type {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  padding: 3px 8px;
+  border-radius: 12px;
+  font-size: 12px;
+  width: 70px;
+  text-align: center;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  margin-top: 60px;
+  margin-bottom: 15px;
 }
 
 .logo {
   width: 60px;
   height: 60px;
   object-fit: contain;
-  margin-bottom: 15px;
+  margin-right: 15px;
 }
 
-.type {
-  padding: 3px 8px;
-  border-radius: 12px;
-  font-size: 12px;
-  background-color: #E8F5E9;
-  color: #4CAF50;
-  display: inline-block;
-  margin-bottom: 10px;
+.name {
+  font-size: 18px;
+  font-weight: bold;
 }
 
-.rating, .category, .upvotes {
+.description {
+  margin-top: auto;
+  margin-bottom: auto;
+  padding-top: 30px;
   font-size: 14px;
   color: #666;
-  margin-bottom: 5px;
+  flex-grow: 1;
+  max-height: 150px;
+  overflow-y: auto;
+}
+
+.footer {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.stats {
+  font-size: 14px;
+  color: #666;
+  margin-bottom: 10px;
+  text-align: center;
 }
 
 .visitButton {
-  display: inline-block;
+  width: 100%;
   padding: 10px;
   background-color: #d5d6d9;
   color: rgb(0, 0, 0);
-  text-decoration: none;
+  border: none;
   border-radius: 5px;
-  margin-top: 10px;
+  cursor: pointer;
+  font-size: 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.visitButton:hover {
+  background-color: #818181;
+}
+
+.무료, .유료, .부분무료, .무료체험, .프리미엄 {
+  display: inline-block;
+  width: 70px;
+  text-align: center;
+}
+
+.무료 {
+  background-color: #E8F5E9;
+  color: #4CAF50;
+}
+
+.유료 {
+  background-color: #FFEBEE;
+  color: #F44336;
+}
+
+.부분무료 {
+  background-color: #FFF3E0;
+  color: #FF9800;
+}
+
+.무료체험 {
+  background-color: #FFFDE7;
+  color: #FBC02D;
+}
+
+.프리미엄 {
+  background-color: #E3F2FD;
+  color: #2196F3;
 }
