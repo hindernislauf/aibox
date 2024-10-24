@@ -25,6 +25,7 @@ export default function Search({ onSearch }) {
     setSearchTerm('');
     if (inputRef.current) {
       inputRef.current.value = '';
+      inputRef.current.focus();
     }
     onSearch([], '');
   };
