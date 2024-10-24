@@ -3,6 +3,7 @@ import Head from 'next/head';
 import Link from 'next/link';
 import styles from '../styles/Home.module.css';
 import { useRouter } from 'next/router';
+import Search from '../components/Search';
 
 const getProxiedImageUrl = (url) => {
   return `https://images.weserv.nl/?url=${encodeURIComponent(url)}&w=48&h=48&fit=contain&output=png`;
@@ -11,7 +12,7 @@ const getProxiedImageUrl = (url) => {
 export default function Home() {
   const [categories, setCategories] = useState([]);
   const [isLoading, setIsLoading] = useState(true);
-  const [searchTerm, setSearchTerm] = useState('');
+  const [searchResults, setSearchResults] = useState([]);
   const router = useRouter();
 
   useEffect(() => {
@@ -28,7 +29,6 @@ export default function Home() {
         if (!Array.isArray(data)) {
           throw new Error('Invalid data format');
         }
-        console.log('Received categories data:', data);  // 추가된 로그
         setCategories(data);
         setIsLoading(false);
       })
@@ -38,10 +38,10 @@ export default function Home() {
       });
   }, []);
 
-  const handleSearch = (e) => {
-    e.preventDefault();
-    // 여기에 검색 로직을 추가할 수 있습니다.
-    console.log('Searching for:', searchTerm);
+  const handleSearch = (results) => {
+    const uniqueResults = Array.from(new Set(results.map(r => r.id)))
+      .map(id => results.find(r => r.id === id));
+    setSearchResults(uniqueResults);
   };
 
   return (
@@ -52,20 +52,21 @@ export default function Home() {
       </Head>
       <div className="pageHeader">
         <h1 className="pageTitle">AIBOX</h1>
-        <form onSubmit={handleSearch} className="searchForm">
-          <input
-            type="text"
-            value={searchTerm}
-            onChange={(e) => setSearchTerm(e.target.value)}
-            placeholder="AI 서비스 검색..."
-            className="searchInput"
-          />
-          <button type="submit" className="searchButton">검색</button>
-        </form>
+        <Search onSearch={handleSearch} router={router} />
       </div>
       <div className={styles.container}>
         {isLoading ? (
           <div>로딩 중...</div>
+        ) : searchResults.length > 0 ? (
+          <div className={styles.searchResults}>
+            <h2>검색 결과</h2>
+            {searchResults.map((result, index) => (
+              <div key={index} className={styles.searchResultItem}>
+                <h3>{result.name}</h3>
+                <p>{result.description}</p>
+              </div>
+            ))}
+          </div>
         ) : (
           categories.map((category, index) => (
             <div key={index} className={styles.category}>

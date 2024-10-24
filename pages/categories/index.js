@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 import Link from 'next/link';
-import styles from '../../styles/Categories.module.css';
+import styles from '../../styles/Category.module.css';
 
 export default function Categories() {
   const [categories, setCategories] = useState([]);
