@@ -48,7 +48,7 @@ export default function SearchResults() {
     <>
       <Head>
         <title>검색 결과: {q} - AI 서비스 대시보드</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
       </Head>
       <div className={styles.container}>
         <h1 className={styles.title}>'{q}' 검색 결과</h1>

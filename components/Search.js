@@ -51,6 +51,7 @@ export default function Search({ onSearch }) {
         placeholder="AI 서비스 검색..."
         className={styles.searchInput}
         ref={inputRef}
+        style={{ maxWidth: '100%' }}
       />
       <button onClick={handleClear} className={styles.clearButton}>
         ESC (Delete all)
