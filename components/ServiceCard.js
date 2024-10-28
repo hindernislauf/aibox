@@ -4,6 +4,11 @@ import styles from '../styles/ServiceCard.module.css';
 
 export default function ServiceCard({ service, rank }) {
   const typeClass = (service.type || '').replace(/\s+/g, '').toLowerCase();
+  
+  // URL에서 로고 URL 생성
+  const logoUrl = service.url ? 
+    `https://www.aixploria.com/wp-content/uploads/favicons/${service.name.toLowerCase().replace(/\s+/g, '-')}.png` 
+    : '/default-favicon.png';
 
   return (
     <div className={styles.card}>
@@ -11,12 +16,13 @@ export default function ServiceCard({ service, rank }) {
       <div className={`${styles.type} ${styles[typeClass]}`}>{service.type || '무료'}</div>
       <div className={styles.header}>
         <img 
-          src={service.logo} 
+          src={logoUrl} 
           alt={`${service.name} logo`} 
           className={styles.logo}
           onError={(e) => {
             e.target.onerror = null;
-            e.target.src = '/default-favicon.png'; // 기본 이미지 경로
+            // 첫 번째 시도 실패시 기본 이미지로 폴백
+            e.target.src = '/default-favicon.png';
           }}
         />
         <h3 className={styles.name}>{service.name}</h3>
