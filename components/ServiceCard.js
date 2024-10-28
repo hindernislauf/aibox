@@ -4,11 +4,6 @@ import styles from '../styles/ServiceCard.module.css';
 
 export default function ServiceCard({ service, rank }) {
   const typeClass = (service.type || '').replace(/\s+/g, '').toLowerCase();
-  
-  // 서비스의 실제 URL에서 로고 URL 생성
-  const logoUrl = service.url ? 
-    new URL(service.url).origin + '/favicon.ico'  // 실제 서비스의 favicon 사용
-    : '/default-favicon.png';
 
   return (
     <div className={styles.card}>
@@ -16,12 +11,12 @@ export default function ServiceCard({ service, rank }) {
       <div className={`${styles.type} ${styles[typeClass]}`}>{service.type || '무료'}</div>
       <div className={styles.header}>
         <img 
-          src={logoUrl} 
+          src={service.logo} 
           alt={`${service.name} logo`} 
           className={styles.logo}
           onError={(e) => {
             e.target.onerror = null;
-            e.target.src = '/default-favicon.png';
+            e.target.src = '/default-favicon.png'; // 기본 이미지 경로
           }}
         />
         <h3 className={styles.name}>{service.name}</h3>
