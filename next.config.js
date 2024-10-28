@@ -8,6 +8,7 @@ const nextConfig = {
     unoptimized: true,
     domains: ['images.weserv.nl']
   },
+  // 라우팅 설정 명시적 추가
   async rewrites() {
     return [
       {
@@ -15,6 +16,11 @@ const nextConfig = {
         destination: '/api/:path*'
       }
     ];
+  },
+  // 빌드 출력 경로 설정
+  outputFileTracing: true,
+  generateBuildId: async () => {
+    return 'build-' + Date.now();
   }
 }
 
