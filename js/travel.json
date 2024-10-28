@@ -1,0 +1,293 @@
+{
+  "name": "Travel",
+  "items": [
+    {
+      "name": "Ask Layla",
+      "description": "« 최고의 목적지를 찾아주는 AI 여행사. 항공편과 호텔을 예약하고, 개인화된 활동 아이디어를 찾고, 여행 일정을 계획하는 등의 작업을 할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ask-layla.png",
+      "url": "https://www.aixploria.com/en/ask-layla-ai-travel-trip/",
+      "type": "무료",
+      "category": "#Life Assistants, #Travel",
+      "upvotes": 48
+    },
+    {
+      "name": "Tripplanner AI",
+      "description": "« 여행 전문가 AI로 여행을 완벽하게 구성하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/tripplanner-ai.png",
+      "url": "https://www.aixploria.com/en/tripplanner-ai/",
+      "type": "무료",
+      "category": "#Life Assistants, #Travel",
+      "upvotes": 9
+    },
+    {
+      "name": "Trips by TripAdvisor",
+      "description": "« 유명한 TripAdvisor 웹사이트의 공식 AI 도우미와 함께 여행을 계획하세요. 무료 여행 일정과 유용한 팁 받기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/trips-by-tripadvisor.png",
+      "url": "https://www.aixploria.com/en/trips-by-tripadvisor/",
+      "type": "무료",
+      "category": "#Life Assistants, #Travel",
+      "upvotes": 29
+    },
+    {
+      "name": "GuideGeek",
+      "description": "« 스마트폰용 AI 도우미로 여행을 계획해보세요. WhatsApp, Messenger 또는 Instagram에서 직접 맞춤형 지역 추천을 받아보세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/guidegeek.png",
+      "url": "https://www.aixploria.com/en/guidegeek-ai-travel-assistant/",
+      "type": "무료",
+      "category": "#Life Assistants, #Travel",
+      "upvotes": 30
+    },
+    {
+      "name": "Wanderboat",
+      "description": "« 여행 및 나들이 아이디어를 찾는 데 탁월한 AI 동반자와 함께 완벽한 여행을 계획하세요. 레스토랑, 활동, 맞춤형 여행 일정 등을 빠르게 검색하고 찾을 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/wanderboat.png",
+      "url": "https://www.aixploria.com/en/wanderboat-ai-travel/",
+      "type": "무료",
+      "category": "#Travel",
+      "upvotes": 30
+    },
+    {
+      "name": "Wonderplan",
+      "description": "« 여행하는 동안 따라갈 일정이나 활동 계획을 쉽게 생성하기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/wonderplan.png",
+      "url": "https://www.aixploria.com/en/wonderplan/",
+      "type": "무료",
+      "category": "#Life Assistants, #Travel",
+      "upvotes": 5
+    },
+    {
+      "name": "Mindtrip AI",
+      "description": "« 항공편, 호텔, 레스토랑, 액티비티 등 개인화된 일정을 제안하는 AI를 통해 맞춤형 여행을 찾아보세요. 모든 것이 중앙 집중화됨 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/mindtrip-ai.png",
+      "url": "https://www.aixploria.com/en/mindtrip-ai/",
+      "type": "부분 무료",
+      "category": "#Travel",
+      "upvotes": 23
+    },
+    {
+      "name": "Staypia",
+      "description": "« AI 기반 시스템으로 호텔을 예약하세요. 전 세계 316만 개 이상의 호텔에 대한 최고의 상품 찾기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/staypia.png",
+      "url": "https://www.aixploria.com/en/staypia/",
+      "type": "무료",
+      "category": "#Life Assistants, #Travel",
+      "upvotes": 0
+    },
+    {
+      "name": "Novae.Travel",
+      "description": "« 항공편, 호텔, 명소/투어 예약, 예산, 운전 및 대중교통 길찾기, 위치 기반 서비스를 갖춘 풍부한 AI 휴가 플래너 기능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/novae-travel.png",
+      "url": "https://www.aixploria.com/en/novae-travel-ai/",
+      "type": "무료",
+      "category": "#AIxploria Selection, #Travel",
+      "upvotes": 33
+    },
+    {
+      "name": "Curiosio",
+      "description": "« 귀하의 선호도에 따라 여행 일정과 예산을 최적화하는 AI로 도로 여행을 쉽게 구성하세요. 맞춤형 여행 제안 및 통합 예약 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/curiosio.png",
+      "url": "https://www.aixploria.com/en/curiosio-ai-road-trip-planner/",
+      "type": "무료",
+      "category": "#Travel",
+      "upvotes": 21
+    },
+    {
+      "name": "Roam Around",
+      "description": "« AI 지원 여행 일정 작성자. 간단하고 사용하기 쉬운 웹사이트 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/roam-around.png",
+      "url": "https://www.aixploria.com/en/roam-around/",
+      "type": "무료",
+      "category": "#Life Assistants, #Travel",
+      "upvotes": 10
+    },
+    {
+      "name": "IPlan AI",
+      "description": "« 마지막 세부사항까지 여행을 계획하는 AI. 맞춤형 여행 일정도 받아보세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/iplan-ai.png",
+      "url": "https://www.aixploria.com/en/iplan-ai/",
+      "type": "무료",
+      "category": "#Life Assistants, #Travel",
+      "upvotes": 0
+    },
+    {
+      "name": "Traivl",
+      "description": "« 목적지를 입력하면 AI가 바, 레스토랑, 재미있는 활동 등 여행을 구성합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/traivl.png",
+      "url": "https://www.aixploria.com/en/traivl/",
+      "type": "무료",
+      "category": "#Life Assistants, #Travel",
+      "upvotes": 4
+    },
+    {
+      "name": "Journeai",
+      "description": "« Google 지도에 직접 표시되는 관광 및 맞춤 추천 정보 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/journeai.png",
+      "url": "https://www.aixploria.com/en/journeai/",
+      "type": "무료",
+      "category": "#Life Assistants, #Travel",
+      "upvotes": 5
+    },
+    {
+      "name": "JourneyPlan",
+      "description": "« 귀하의 관심사에 따라 이 AI가 귀하의 욕구에 맞는 맞춤형 여행 계획을 설계합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/journeyplan.png",
+      "url": "https://www.aixploria.com/en/journeyplan/",
+      "type": "무료",
+      "category": "#Life Assistants, #Travel",
+      "upvotes": 10
+    },
+    {
+      "name": "Bigfoot",
+      "description": "« 귀하의 도시에서 할 수 있는 놀라운 일들을 찾아보세요. 이 AI 챗봇은 귀하의 관심사에 따라 맞춤형 이벤트, 레스토랑, 경험을 추천합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/bigfoot.png",
+      "url": "https://www.aixploria.com/en/bigfoot-ai-city/",
+      "type": "무료",
+      "category": "#Travel",
+      "upvotes": 23
+    },
+    {
+      "name": "Vacation & Travel Chat",
+      "description": "« 여행이나 휴가 중에 최고의 레스토랑과 활동에 대한 추천을 받아보세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/vacation---038--travel-chat.png",
+      "url": "https://www.aixploria.com/en/vacation-travel-chat/",
+      "type": "무료",
+      "category": "#ChatBots, #Life Assistants",
+      "upvotes": 4
+    },
+    {
+      "name": "Byway",
+      "description": "« 비행기를 타지 않고도 유럽을 여행할 수 있습니다. 숙박 옵션과 기차, 버스, 페리를 이용한 맞춤형 여행 일정에 대한 조언을 받아보세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/byway.png",
+      "url": "https://www.aixploria.com/en/byway-ai-travel/",
+      "type": "무료",
+      "category": "#Travel",
+      "upvotes": 21
+    },
+    {
+      "name": "Aitinerary",
+      "description": "« 목적지와 숙박 날짜를 기준으로 이 AI가 맞춤 여행을 만들어 드립니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/aitinerary.png",
+      "url": "https://www.aixploria.com/en/aitinerary/",
+      "type": "무료",
+      "category": "#Life Assistants, #Travel",
+      "upvotes": 2
+    },
+    {
+      "name": "Travel Plan AI",
+      "description": "« AI의 도움을 받아 여행 계획 작성(일별) »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/travel-plan-ai.png",
+      "url": "https://www.aixploria.com/en/travel-plan-ai/",
+      "type": "무료",
+      "category": "#Life Assistants, #Travel",
+      "upvotes": 3
+    },
+    {
+      "name": "Swifty",
+      "description": "« 계획, 예약(항공편 및 호텔), 결제, 청구서 발행 등 모든 것을 관리하는 비즈니스 여행 전문 자율 AI 비서 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/swifty.png",
+      "url": "https://www.aixploria.com/en/swifty-ai/",
+      "type": "무료",
+      "category": "#Business, #Travel",
+      "upvotes": 2
+    },
+    {
+      "name": "Bestflights",
+      "description": "« 귀하의 항공편에 가장 적합한 가격을 찾으십시오. AI 알고리즘을 사용하여 최저 비용으로 항공편 예약 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/bestflights.png",
+      "url": "https://www.aixploria.com/en/bestflights-ai/",
+      "type": "무료",
+      "category": "#Travel",
+      "upvotes": 6
+    },
+    {
+      "name": "Wandrr AI",
+      "description": "« 전문 여행사에서 이 지역 최고의 즐길거리를 찾아드립니다. 전체 일정 및 일정 수신 가능성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/wandrr-ai.png",
+      "url": "https://www.aixploria.com/en/wandrr-ai/",
+      "type": "무료",
+      "category": "#Travel",
+      "upvotes": 3
+    },
+    {
+      "name": "FindAMeal",
+      "description": "« AI를 통해 지도에서 최고의 식사 장소를 보여주는 레스토랑을 찾아보세요. 전 세계에서 작동합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/findameal.png",
+      "url": "https://www.aixploria.com/en/findameal-ai/",
+      "type": "무료",
+      "category": "#Life Assistants, #Travel",
+      "upvotes": 3
+    },
+    {
+      "name": "Copilot2trip",
+      "description": "« 여행 및 휴가 관련 AI 보조 전문가로부터 정보, 일정, 추천 받기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/copilot2trip.png",
+      "url": "https://www.aixploria.com/en/copilot2trip/",
+      "type": "무료",
+      "category": "#Travel",
+      "upvotes": 0
+    },
+    {
+      "name": "Marauder",
+      "description": "« 개인 정보 보호 전용 AI로 위치 기록을 보호하세요. 모든 위치 데이터를 기기에 로컬로 저장하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/marauder.png",
+      "url": "https://www.aixploria.com/en/marauder-ai/",
+      "type": "무료",
+      "category": "#Life Assistants, #Travel",
+      "upvotes": 0
+    },
+    {
+      "name": "Nowy",
+      "description": "« AI로 강화된 모바일 앱을 통해 꿈의 여행을 더욱 강렬하게 발견하고 계획하고 경험해 보세요. 안드로이드 및 IOS 호환 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/nowy.png",
+      "url": "https://www.aixploria.com/en/nowy/",
+      "type": "무료",
+      "category": "#Social Networks, #Travel",
+      "upvotes": 1
+    },
+    {
+      "name": "FreePlanTour",
+      "description": "« 여행, 여행 또는 휴가 중에 도움이 되는 맞춤형 일정을 생성하는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/freeplantour.png",
+      "url": "https://www.aixploria.com/en/freeplantour/",
+      "type": "부분 무료",
+      "category": "#Life Assistants, #Travel",
+      "upvotes": 1
+    },
+    {
+      "name": "Airbnb Review Summarizer",
+      "description": "« 귀하의 선호도에 따라 Airbnb 리뷰를 요약하는 Chrome 확장 프로그램입니다. 시간을 절약해주는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/airbnb-review-summarizer.png",
+      "url": "https://www.aixploria.com/en/airbnb-review-summarizer/",
+      "type": "무료",
+      "category": "#Summarizer, #Travel",
+      "upvotes": 1
+    },
+    {
+      "name": "Narrated Tours",
+      "description": "« 도시를 방문할 때 맞춤형 오디오 투어를 생성하거나 들어보세요. 투어 가이드에 적합 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/narrated-tours.png",
+      "url": "https://www.aixploria.com/en/narrated-tours/",
+      "type": "유료",
+      "category": "#Life Assistants, #Travel",
+      "upvotes": 1
+    },
+    {
+      "name": "Orkoi",
+      "description": "« AI의 도움으로 여행과 여행에 대한 맞춤형 계획을 세우십시오. 액티비티, 레스토랑 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/orkoi.png",
+      "url": "https://www.aixploria.com/en/orkoi/",
+      "type": "무료",
+      "category": "#Amazing, #Life Assistants",
+      "upvotes": 7
+    },
+    {
+      "name": "AI Chat Travel Assistant",
+      "description": "« AI 기반 조언과 추천으로 맞춤형 여행 계획을 도와주는 어시스턴트 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-chat-travel-assistant.png",
+      "url": "https://www.aixploria.com/en/ai-chat-travel-assistant/",
+      "type": "부분 무료",
+      "category": "#Travel",
+      "upvotes": 0
+    }
+  ]
+}

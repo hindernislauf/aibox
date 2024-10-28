@@ -1,0 +1,851 @@
+{
+  "name": "Websites & Design",
+  "items": [
+    {
+      "name": "Canva AI",
+      "description": "« 디지털 제작 및 시각 디자인을 위한 도구 세트입니다. AI 기반 플랫폼으로 모든 시각적 요소를 빠르게 생성하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/canva-ai.png",
+      "url": "https://www.aixploria.com/en/canva-ai/",
+      "type": "부분 무료",
+      "category": "#Business, #Marketing",
+      "upvotes": 223
+    },
+    {
+      "name": "Websim AI",
+      "description": "« AI로 실시간으로 창작하는 새로운 방법. 웹사이트, 게임, 애플리케이션 등을 자동으로 빠르게 만들 수 있는 플레이그라운드를 찾아보세요. 프롬프트를 통해 작동 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/websim-ai.png",
+      "url": "https://www.aixploria.com/en/websim-ai-create-game-website/",
+      "type": "무료",
+      "category": "#Games, #No Code/Low Code",
+      "upvotes": 37
+    },
+    {
+      "name": "Framer AI",
+      "description": "« 코딩 없이 즉시 웹사이트를 만들고 게시하세요. 무료 템플릿을 통한 맞춤화 및 영감 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/framer-ai.png",
+      "url": "https://www.aixploria.com/en/framer-ai/",
+      "type": "부분 무료",
+      "category": "#No Code/Low Code, #Websites & Design",
+      "upvotes": 102
+    },
+    {
+      "name": "Notion Sites",
+      "description": "« 직관적인 AI 도구를 사용하여 코딩 없이 우아한 웹사이트를 만드세요. 쉽게 페이지를 사용자 정의하고, 동적 콘텐츠를 추가하고, 모든 것을 빠르게 게시하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/notion-sites.png",
+      "url": "https://www.aixploria.com/en/notion-sites/",
+      "type": "무료",
+      "category": "#No Code/Low Code, #Websites & Design",
+      "upvotes": 50
+    },
+    {
+      "name": "10Web",
+      "description": "« 사이트 품질을 향상시키는 AI 도구를 갖춘 자동 전자 상거래 및 Wordpress 사이트 빌더 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/10web.png",
+      "url": "https://www.aixploria.com/en/10web/",
+      "type": "부분 무료",
+      "category": "#No Code/Low Code, #Websites & Design",
+      "upvotes": 60
+    },
+    {
+      "name": "Icons8 AI",
+      "description": "« 인간, 얼굴 및 일러스트레이션 생성기, 배경 억제, 지능형 업스케일링, 얼굴 교환, 아이콘 등 강력한 AI 도구 전체 제품군 살펴보기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/icons8-ai.png",
+      "url": "https://www.aixploria.com/en/icons8-ai-design/",
+      "type": "무료",
+      "category": "#Art, #Websites & Design",
+      "upvotes": 39
+    },
+    {
+      "name": "Uizard IO",
+      "description": "« 아이디어, 스크린샷 또는 간단한 스케치로 멋진 디자인을 만들어 보세요. 코드가 필요하지 않습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/uizard_icon_yellow_light.webp",
+      "url": "https://www.aixploria.com/en/uizard-io/",
+      "type": "부분 무료",
+      "category": "#No Code/Low Code, #Websites & Design",
+      "upvotes": 103
+    },
+    {
+      "name": "AI Website Generator",
+      "description": "« 프로젝트에 대한 간단한 설명으로 몇 분 안에 전문적인 웹사이트를 만드세요. 이 웹사이트 생성기는 HubSpot의 강력한 AI로 구동됩니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/04/HubSpot-fav.png",
+      "url": "https://www.aixploria.com/en/ai-website-generator-hubspot/",
+      "type": "Free-Trial",
+      "category": "#No Code/Low Code, #Websites & Design",
+      "upvotes": 29
+    },
+    {
+      "name": "Durable",
+      "description": "« 30초 이내에 웹사이트 구축 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/durable.png",
+      "url": "https://www.aixploria.com/en/durable/",
+      "type": "유료",
+      "category": "#Business, #No Code/Low Code",
+      "upvotes": 88
+    },
+    {
+      "name": "Screenshot To Code",
+      "description": "« 스크린샷을 분석하고 동일한 결과를 얻을 수 있는 코드를 제공할 수 있는 야심찬 GitHub 프로젝트 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/screenshot-to-code.png",
+      "url": "https://www.aixploria.com/en/screenshot-to-code-ai/",
+      "type": "무료",
+      "category": "#Github Projects, #No Code/Low Code",
+      "upvotes": 105
+    },
+    {
+      "name": "Solo by Mozilla",
+      "description": "« 코드가 없고 반응성이 뛰어나며 SEO에 최적화된 웹사이트를 만들 수 있는 자동화된 사이트 빌더 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/solo-by-mozilla.png",
+      "url": "https://www.aixploria.com/en/solo-by-mozilla/",
+      "type": "무료",
+      "category": "#No Code/Low Code, #Websites & Design",
+      "upvotes": 30
+    },
+    {
+      "name": "Visily AI",
+      "description": "« 코딩 없이 전문적인 디자인으로 애플리케이션 구축 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/visily-ai.png",
+      "url": "https://www.aixploria.com/en/visily-ai/",
+      "type": "무료",
+      "category": "#No Code/Low Code, #Websites & Design",
+      "upvotes": 3
+    },
+    {
+      "name": "AI Website Builder Wix",
+      "description": "« AI 덕분에 기록적인 시간 안에 전문적인 웹사이트를 만드세요. 맞춤형 디자인, 최적화된 콘텐츠, 고급 기능을 손쉽게 이용하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-website-builder-wix.png",
+      "url": "https://www.aixploria.com/en/ai-website-builder-by-wix/",
+      "type": "유료",
+      "category": "#No Code/Low Code, #Websites & Design",
+      "upvotes": 17
+    },
+    {
+      "name": "AI Website Builder 2.0",
+      "description": "« AI를 사용하여 몇 분 안에 전문적인 웹사이트를 만드세요. 10Web으로 콘텐츠, 이미지 생성 및 SEO 최적화 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-website-builder-2-0.png",
+      "url": "https://www.aixploria.com/en/10web-ai-website-builder-2-0/",
+      "type": "Free-Trial",
+      "category": "#No Code/Low Code, #Websites & Design",
+      "upvotes": 41
+    },
+    {
+      "name": "Studio",
+      "description": "« 몇 번의 클릭만으로 AI의 도움으로 최신 웹사이트 만들기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/studio.png",
+      "url": "https://www.aixploria.com/en/studio/",
+      "type": "유료",
+      "category": "#No Code/Low Code, #Websites & Design",
+      "upvotes": 4
+    },
+    {
+      "name": "Bubble",
+      "description": "« 코딩 없이 완전한 웹 애플리케이션을 만드세요. 인터페이스를 시각적으로 디자인하고 비즈니스 논리를 정의하며 강력한 애플리케이션을 신속하게 배포합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/buuu.png",
+      "url": "https://www.aixploria.com/en/bubble-ai-website-no-code/",
+      "type": "부분 무료",
+      "category": "#No Code/Low Code, #Websites & Design",
+      "upvotes": 34
+    },
+    {
+      "name": "Stunning AI",
+      "description": "« ChatGPT 인공지능으로 구동되는 웹사이트 빌더 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/stunning-ai.png",
+      "url": "https://www.aixploria.com/en/stunning-ai/",
+      "type": "부분 무료",
+      "category": "#Extensions ChatGPT, #No Code/Low Code",
+      "upvotes": 7
+    },
+    {
+      "name": "B12.io",
+      "description": "« AI의 지원을 받는 자동 웹사이트 빌더 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/b12-io.png",
+      "url": "https://www.aixploria.com/en/b12-io/",
+      "type": "유료",
+      "category": "#No Code/Low Code, #Websites & Design",
+      "upvotes": 2
+    },
+    {
+      "name": "All in One Accessibility®",
+      "description": "« AI 기반 도구는 WCAG 2.0, 2.1, 2.2 및 ADA 웹 사이트 접근성 향상을 향상시킵니다. 2분만에 빠른 설치. 140개 이상의 언어 지원. 모든 CMS, LMS, CRM, 전자상거래 및 웹사이트 빌더 플랫폼과 호환 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/09/all-in-one-accessibility-logo.png",
+      "url": "https://www.aixploria.com/en/skynet-technologies-ai-all-in-one-accessibility/",
+      "type": "Free-Trial",
+      "category": "#AIxploria Selection, #Assistive technology (AT)",
+      "upvotes": 41
+    },
+    {
+      "name": "Teleporthq",
+      "description": "« 독특하고 참여적이고 협력적인 웹사이트 빌더 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/teleporthq.png",
+      "url": "https://www.aixploria.com/en/teleporthq/",
+      "type": "부분 무료",
+      "category": "#No Code/Low Code, #Websites & Design",
+      "upvotes": 12
+    },
+    {
+      "name": "AI CSS Animation",
+      "description": "« 프롬프트나 음성을 사용하여 동적 CSS 애니메이션을 쉽게 만들 수 있습니다. 전체 코드에 액세스하여 애니메이션을 쉽게 수정할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-css-animation.png",
+      "url": "https://www.aixploria.com/en/ai-css-animation/",
+      "type": "무료",
+      "category": "#No Code/Low Code, #Websites & Design",
+      "upvotes": 20
+    },
+    {
+      "name": "Creatie AI",
+      "description": "« 사용하기 쉬운 IA 디자인 도구(UI/UX)로 창의력을 높이세요. 이미지 편집, 3D 아이콘 생성, 스타일링: 프로세스의 모든 단계 최적화 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/creatie-ai.png",
+      "url": "https://www.aixploria.com/en/creatie-ai-ui-ux-design/",
+      "type": "무료",
+      "category": "#Websites & Design",
+      "upvotes": 17
+    },
+    {
+      "name": "Mars Ai",
+      "description": "« 로우코드 웹사이트와 모바일 애플리케이션을 쉽게 구축하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/mars-ai.png",
+      "url": "https://www.aixploria.com/en/mars-ai/",
+      "type": "무료",
+      "category": "#Assistant Code, #No Code/Low Code",
+      "upvotes": 4
+    },
+    {
+      "name": "Build AI",
+      "description": "« AI의 도움으로 매우 빠르게 애플리케이션 구축 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/build-ai.png",
+      "url": "https://www.aixploria.com/en/build-ai/",
+      "type": "유료",
+      "category": "#No Code/Low Code, #Websites & Design",
+      "upvotes": 7
+    },
+    {
+      "name": "Dreamsands IO",
+      "description": "« 염두에 두고 있는 웹사이트 만들기: 이미지, 그림 또는 지도를 기능 코드로 변환 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/dreamsands-io.png",
+      "url": "https://www.aixploria.com/en/dreamsands-io/",
+      "type": "무료",
+      "category": "#No Code/Low Code, #Websites & Design",
+      "upvotes": 1
+    },
+    {
+      "name": "MakeMyWeb",
+      "description": "« 단순성과 속도를 위해 설계된 웹사이트 생성기(Tru-AI 마법사). 반응형 사이트 제작 및 디자인 선택 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/makemyweb.png",
+      "url": "https://www.aixploria.com/en/makemyweb/",
+      "type": "부분 무료",
+      "category": "#No Code/Low Code, #Websites & Design",
+      "upvotes": 3
+    },
+    {
+      "name": "Dora",
+      "description": "« 간단한 인터페이스로 코드 없는 웹사이트를 디자인합니다. 2번의 클릭으로 3D 애니메이션 제작 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/dora.png",
+      "url": "https://www.aixploria.com/en/dora/",
+      "type": "무료",
+      "category": "#3D model, #No Code/Low Code",
+      "upvotes": 5
+    },
+    {
+      "name": "AI Gradient Generator",
+      "description": "« 무료 고성능 AI 생성기를 사용하여 아름다운 그라디언트를 쉽게 생성하세요. 프롬프트를 사용하여 디자인에 맞게 색상, 각도 및 크기 조정 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-gradient-generator.png",
+      "url": "https://www.aixploria.com/en/ai-gradient-generator/",
+      "type": "무료",
+      "category": "#Websites & Design",
+      "upvotes": 20
+    },
+    {
+      "name": "Elementor AI",
+      "description": "« Elementor에 AI가 통합된 WordPress 사이트를 구축하세요. 프로젝트 상황에 맞게 자동으로 조정되는 텍스트, 코드 및 이미지 제안 받기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/elementor-ai.png",
+      "url": "https://www.aixploria.com/en/elementor-ai-website-builder/",
+      "type": "유료",
+      "category": "#No Code/Low Code, #Websites & Design",
+      "upvotes": 25
+    },
+    {
+      "name": "Motiff",
+      "description": "« AI로 구동되는 전문적인 UI 디자인 도구입니다. 10배 더 빠르게 제작, 협업 및 프로토타입을 제작하세요. 강력한 렌더링 엔진과 통합 개발자 모드의 이점을 누리세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/motiff.png",
+      "url": "https://www.aixploria.com/en/motiff-ai-ui/",
+      "type": "무료",
+      "category": "#Websites & Design",
+      "upvotes": 14
+    },
+    {
+      "name": "SVG.io",
+      "description": "« 지침(프롬프트 텍스트)과 함께 작동하는 무료 SVG 생성기입니다. 아이디어를 설명하면 AI가 고품질 SVG를 생성합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/svg-io/",
+      "type": "무료",
+      "category": "#Image Generators, #Websites & Design",
+      "upvotes": 3
+    },
+    {
+      "name": "Relume AI",
+      "description": "« AI를 사용하여 웹사이트를 더 빠르게 생성하고 간단한 설명을 자세한 사이트맵으로 바꾼 다음 실제 구성요소와 콘텐츠로 모형을 만듭니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/relume-ai.png",
+      "url": "https://www.aixploria.com/en/relume-ai/",
+      "type": "부분 무료",
+      "category": "#Websites & Design",
+      "upvotes": 23
+    },
+    {
+      "name": "tldraw",
+      "description": "« 웹 사이트 레이아웃에 대한 아이디어를 막연하게 스케치하면 AI가 시각적으로 매력적인 인터페이스(UI) 디자인을 담당합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/tldraw.png",
+      "url": "https://www.aixploria.com/en/tldraw-ai/",
+      "type": "무료",
+      "category": "#Websites & Design",
+      "upvotes": 5
+    },
+    {
+      "name": "Fontjoy",
+      "description": "« AI 덕분에 버튼 클릭만으로 균형 잡히고 미학적으로 만족스러운 글꼴 조합을 생성할 수 있습니다. 디자이너 및 시각적 콘텐츠 제작자에게 이상적입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/fontjoy.png",
+      "url": "https://www.aixploria.com/en/fontjoy-ai/",
+      "type": "무료",
+      "category": "#Websites & Design",
+      "upvotes": 15
+    },
+    {
+      "name": "Sketch2App",
+      "description": "« GPT-4의 비전 모드를 사용하여 스케치를 코드(디자인 UI)로 변환하세요. 사용하기 쉽고 오픈 소스이며 무료입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/sketch2app.png",
+      "url": "https://www.aixploria.com/en/sketch2app-ai/",
+      "type": "무료",
+      "category": "#No Code/Low Code, #Websites & Design",
+      "upvotes": 3
+    },
+    {
+      "name": "Wegic AI",
+      "description": "« 이 AI와 간단히 상호작용하여 완전히 사용자 정의 가능한 웹사이트를 디자인하세요. 기술적 능력이 없어도 웹사이트를 디자인, 수정 및 최적화할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/wegic-ai.png",
+      "url": "https://www.aixploria.com/en/wegic-ai/",
+      "type": "부분 무료",
+      "category": "#Developer Tools, #Websites & Design",
+      "upvotes": 19
+    },
+    {
+      "name": "Formless by Typeform",
+      "description": "« 질문하고 답변할 수 있는 AI 기반 대화형 양식입니다. Salesforce, Zapier, Circle 등과 통합 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/formless-by-typeform.png",
+      "url": "https://www.aixploria.com/en/formless-by-typeform-ai/",
+      "type": "유료",
+      "category": "#No Code/Low Code, #Websites & Design",
+      "upvotes": 7
+    },
+    {
+      "name": "Sivi AI",
+      "description": "« 텍스트를 배너, 소셜 게시물, 광고 등의 시각적 콘텐츠로 즉시 변환합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/sivi-ai.png",
+      "url": "https://www.aixploria.com/en/sivi-ai/",
+      "type": "무료",
+      "category": "#Marketing, #Websites & Design",
+      "upvotes": 1
+    },
+    {
+      "name": "Rapidpages",
+      "description": "« React & Tailwind를 사용하여 랜딩 페이지를 빠르게 생성하는 AI 도우미. 사용자 정의 및 무료 호스팅 포함 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/rapidpages/",
+      "type": "무료",
+      "category": "#Websites & Design",
+      "upvotes": 1
+    },
+    {
+      "name": "Colors by Deblank",
+      "description": "« AI 보조자의 도움으로 색상 팔레트를 발견하고 시각화합니다. 키워드를 입력하면 도구가 디자인에 딱 맞는 색상을 만들어줍니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/colors-by-deblank.png",
+      "url": "https://www.aixploria.com/en/colors-by-deblank-ai/",
+      "type": "무료",
+      "category": "#Art, #Websites & Design",
+      "upvotes": 24
+    },
+    {
+      "name": "Khroma",
+      "description": "« 귀하의 취향에 맞춰 훈련된 AI가 만든 무한한 색상 팔레트를 발견해보세요. 좋아하는 콤보를 검색하고 저장하고 내보냅니다. 디자이너의 필수품 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/khroma.png",
+      "url": "https://www.aixploria.com/en/khroma-ai-color-design/",
+      "type": "무료",
+      "category": "#Art, #Websites & Design",
+      "upvotes": 20
+    },
+    {
+      "name": "Piktochart AI",
+      "description": "« 사용하기 쉬운 IA 시각적 디자인 생성기. 프롬프트에서 몇 초 만에 상세하고 편집 가능한 인포그래픽을 얻을 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/piktochart-ai.png",
+      "url": "https://www.aixploria.com/en/piktochart-ai/",
+      "type": "무료",
+      "category": "#Websites & Design",
+      "upvotes": 0
+    },
+    {
+      "name": "Dorik",
+      "description": "« 귀하의 아이디어를 기능적인 프로젝트로 변환하는 자동화된 웹 사이트 생성을 위한 전문 IA 도구입니다. 매우 빠르게 웹사이트를 생성하는 데 이상적입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/dorik.png",
+      "url": "https://www.aixploria.com/en/dorik-ai/",
+      "type": "유료",
+      "category": "#No Code/Low Code, #Websites & Design",
+      "upvotes": 8
+    },
+    {
+      "name": "Mobirise",
+      "description": "« 프롬프트에서 작동하는 자동 웹사이트 빌더. 귀하의 아이디어를 설명하면 AI가 귀하를 위한 맞춤형 사이트를 생성합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/mobirise.png",
+      "url": "https://www.aixploria.com/en/mobirise/",
+      "type": "무료",
+      "category": "#No Code/Low Code, #Websites & Design",
+      "upvotes": 3
+    },
+    {
+      "name": "Locofy",
+      "description": "« 디자인 아이디어를 읽기 쉽고 기능적인 코드로 전환: Figma, Adobe XD, React Native, HTML/CSS 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/locofy.png",
+      "url": "https://www.aixploria.com/en/locofy/",
+      "type": "무료",
+      "category": "#Websites & Design",
+      "upvotes": 0
+    },
+    {
+      "name": "SharkTank AI",
+      "description": "« AI 비즈니스 전문가와 함께 창업 아이디어를 검증해보세요. 귀하의 프로젝트, 귀하가 찾고 있는 자금 조달 및 시작을 위한 자산 제안을 제시하십시오. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/sharktank-ai/",
+      "type": "무료",
+      "category": "#Business, #Finance",
+      "upvotes": 3
+    },
+    {
+      "name": "SitesGPT",
+      "description": "« GPT를 사용하여 2분 이내에 개인 웹사이트를 만드세요. 코딩 없음, 콘텐츠, 블로그, 이력서 등 자동 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/sitesgpt.png",
+      "url": "https://www.aixploria.com/en/sitesgpt/",
+      "type": "무료",
+      "category": "#Websites & Design",
+      "upvotes": 0
+    },
+    {
+      "name": "ScrapX AI",
+      "description": "« 웹사이트에 변경 사항이 발생하는 즉시 이메일이나 Slack을 통해 알림을 받을 수 있는 웹사이트입니다. 실용적인 모니터링 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/scrapx-ai.png",
+      "url": "https://www.aixploria.com/en/scrapx-ai/",
+      "type": "부분 무료",
+      "category": "#AI detection, #Websites & Design",
+      "upvotes": 3
+    },
+    {
+      "name": "DesignlyAI",
+      "description": "« 새로운 디자인 아이디어를 생각해내는 데 도움이 되는 웹사이트 디자인 생성기입니다. AI를 통해 새로운 시각적 개념 발견 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/designlyai.png",
+      "url": "https://www.aixploria.com/en/designlyai/",
+      "type": "부분 무료",
+      "category": "#Websites & Design",
+      "upvotes": 5
+    },
+    {
+      "name": "Seamless Studio",
+      "description": "« 독창적인 고품질 모형의 자동 생성. 전문 AI 설계 보조자의 혜택을 누리세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/seamless-studio.png",
+      "url": "https://www.aixploria.com/en/seamless-studio/",
+      "type": "무료",
+      "category": "#Business, #Websites & Design",
+      "upvotes": 1
+    },
+    {
+      "name": "UiMagic",
+      "description": "« 멋진 (웹) 디자인을 자동으로 생성, 편집 및 디자인하는 AI 도우미 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/uimagic.png",
+      "url": "https://www.aixploria.com/en/uimagic/",
+      "type": "부분 무료",
+      "category": "#No Code/Low Code, #Websites & Design",
+      "upvotes": 5
+    },
+    {
+      "name": "MAGE AI",
+      "description": "« GPT와 Wasp를 결합하여 웹 애플리케이션을 쉽게 개발할 수 있습니다. React, Node.js 또는 Prisma에서 앱을 만드는 과정을 단순화하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/mage-ai.png",
+      "url": "https://www.aixploria.com/en/mage-ai/",
+      "type": "무료",
+      "category": "#No Code/Low Code, #Websites & Design",
+      "upvotes": 0
+    },
+    {
+      "name": "Sitekick",
+      "description": "« 단 몇 분 만에 랜딩 페이지 또는 포트폴리오 디자인 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/sitekick.png",
+      "url": "https://www.aixploria.com/en/sitekick/",
+      "type": "부분 무료",
+      "category": "#No Code/Low Code, #Websites & Design",
+      "upvotes": 8
+    },
+    {
+      "name": "PageGenie",
+      "description": "« 비즈니스 아이디어를 즉시 랜딩 페이지로 변환 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/pagegenie.png",
+      "url": "https://www.aixploria.com/en/pagegenie/",
+      "type": "무료",
+      "category": "#No Code/Low Code, #Websites & Design",
+      "upvotes": 0
+    },
+    {
+      "name": "Draw My UI",
+      "description": "« AI를 사용하여 직관적으로 사용자 인터페이스 디자인을 만듭니다(API 필요). 스케치를 통해 이 도구는 효과적인 UI 디자인을 생성합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/draw-my-ui/",
+      "type": "무료",
+      "category": "#Websites & Design",
+      "upvotes": 1
+    },
+    {
+      "name": "AI Backdrop",
+      "description": "« 이 마케팅 지향 배경 생성기로 설득력 있고 사실적인 배경 만들기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-backdrop.png",
+      "url": "https://www.aixploria.com/en/ai-backdrop/",
+      "type": "무료",
+      "category": "#E-commerce, #Websites & Design",
+      "upvotes": 0
+    },
+    {
+      "name": "Banner GPT",
+      "description": "« 전문적으로 디자인된 블로그 배너를 쉽게 만들 수 있는 AI. 사이트의 그래픽 아이덴티티를 유지하는 배너 제작 가능성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/banner-gpt.png",
+      "url": "https://www.aixploria.com/en/banner-gpt/",
+      "type": "무료",
+      "category": "#Websites & Design",
+      "upvotes": 0
+    },
+    {
+      "name": "Galileo AI",
+      "description": "« 사용자 인터페이스(UI)를 생성하는 코드 없는 AI 디자인 도구는 텍스트 프롬프트를 통해 작동합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/galileo-ai.png",
+      "url": "https://www.aixploria.com/en/galileo-ai/",
+      "type": "유료",
+      "category": "#Websites & Design",
+      "upvotes": 18
+    },
+    {
+      "name": "Aiter",
+      "description": "« 웹사이트 주소만을 이용해 광고 콘텐츠와 마케팅 전략을 생성하는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/aiter.png",
+      "url": "https://www.aixploria.com/en/aiter/",
+      "type": "무료",
+      "category": "#Marketing, #Websites & Design",
+      "upvotes": 1
+    },
+    {
+      "name": "VisualSitemaps",
+      "description": "« 간단하고 쉽게 대화형 시각적 사이트맵을 만들고 사이트 구조를 분석하며 콘텐츠 아이디어를 생성하고 정보 아키텍처를 개선합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/visualsitemaps.png",
+      "url": "https://www.aixploria.com/en/visualsitemaps-ai/",
+      "type": "Free-Trial",
+      "category": "#Developer Tools, #Websites & Design",
+      "upvotes": 16
+    },
+    {
+      "name": "Chat2Design",
+      "description": "« 즉시 고품질 디자인을 만드는 AI 비서. 광범위한 사용자 정의 옵션과 Figma와의 원활한 통합 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/chat2design.png",
+      "url": "https://www.aixploria.com/en/chat2design-ai/",
+      "type": "부분 무료",
+      "category": "#Websites & Design",
+      "upvotes": 3
+    },
+    {
+      "name": "Devi AI Website Builder",
+      "description": "« AI 웹 페이지 빌더를 사용하여 10초 안에 사이트와 랜딩 페이지를 만드세요. 코딩 기술이 필요하지 않습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/devi-ai-website-builder.png",
+      "url": "https://www.aixploria.com/en/devi-ai-website-builder/",
+      "type": "부분 무료",
+      "category": "#No Code/Low Code, #Websites & Design",
+      "upvotes": 1
+    },
+    {
+      "name": "Feather.so",
+      "description": "« Notion의 페이지나 글을 SEO 친화적인 블로그로 바꾸세요. 코딩 기술이 필요하지 않습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/feather-so.png",
+      "url": "https://www.aixploria.com/en/feather-notion-to-blog/",
+      "type": "유료",
+      "category": "#No Code/Low Code, #Websites & Design",
+      "upvotes": 1
+    },
+    {
+      "name": "Feedbuck AI",
+      "description": "« 귀하의 웹사이트 URL을 입력하고 귀하의 비즈니스에 맞는 사용자 피드백 위젯을 받으세요. MVP를 검증하고 제품 시장에 적합한 제품을 빠르게 찾으세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/feedbuck-ai.png",
+      "url": "https://www.aixploria.com/en/feedbuck-ai/",
+      "type": "유료",
+      "category": "#E-commerce, #Websites & Design",
+      "upvotes": 14
+    },
+    {
+      "name": "Lando",
+      "description": "« AI로 30대 모바일 앱의 랜딩페이지를 만들어보세요. App Store 또는 Google Play 링크를 입력하고 전문적인 디자인을 받아보세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/lando.png",
+      "url": "https://www.aixploria.com/en/lando-ai-landing-pages/",
+      "type": "부분 무료",
+      "category": "#No Code/Low Code, #Websites & Design",
+      "upvotes": 16
+    },
+    {
+      "name": "Exoname",
+      "description": "« 프롬프트에서 프로젝트를 설명하면 AI가 목표 달성에 가장 적합한 도메인 이름을 찾으려고 노력할 것입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/exoname.png",
+      "url": "https://www.aixploria.com/en/exoname/",
+      "type": "무료",
+      "category": "#Websites & Design",
+      "upvotes": 0
+    },
+    {
+      "name": "Typper",
+      "description": "« 디자인 개선을 위한 실시간 제안을 받고, 콘텐츠를 쉽게 생성하고, 더욱 창의적으로 브레인스토밍하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/typper.png",
+      "url": "https://www.aixploria.com/en/typper-ai/",
+      "type": "무료",
+      "category": "#Websites & Design",
+      "upvotes": 1
+    },
+    {
+      "name": "Eraser AI",
+      "description": "« 다이어그램이나 문서를 생성하고 편집하기 위한 AI 부조종사. AI는 쉽게 반복할 수 있는 편집 가능한 코드를 생성합니다. 팀과의 실시간 공동작업 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/eraser-ai.png",
+      "url": "https://www.aixploria.com/en/eraser-ai/",
+      "type": "Free-Trial",
+      "category": "#Websites & Design",
+      "upvotes": 17
+    },
+    {
+      "name": "TalkForm AI",
+      "description": "« 대화형 AI를 통해 양식 작성 방식을 변화시키세요. 손쉽게 양식을 작성, 작성 및 분석하세요. GitHub에서도 사용 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/talkform-ai.png",
+      "url": "https://www.aixploria.com/en/talkform-ai/",
+      "type": "무료",
+      "category": "#Github Projects, #Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "Miniapps.ai",
+      "description": "« 초보자가 아니더라도 누구나 접근할 수 있는 AI 기반 애플리케이션 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/miniapps-ai.png",
+      "url": "https://www.aixploria.com/en/miniapps-ai/",
+      "type": "무료",
+      "category": "#No Code/Low Code, #Websites & Design",
+      "upvotes": 1
+    },
+    {
+      "name": "CandyIcons",
+      "description": "« AI가 생성한 거대한 아이콘 카탈로그. 귀하는 전체 저작권에 대한 모든 권리를 갖습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/candyicons.png",
+      "url": "https://www.aixploria.com/en/candyicons/",
+      "type": "유료",
+      "category": "#Websites & Design",
+      "upvotes": 1
+    },
+    {
+      "name": "Apphive",
+      "description": "« AI로 단순화된 모바일 애플리케이션 만들기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/apphive.png",
+      "url": "https://www.aixploria.com/en/apphive/",
+      "type": "유료",
+      "category": "#No Code/Low Code, #Websites & Design",
+      "upvotes": 0
+    },
+    {
+      "name": "FrequentlyAskedAI",
+      "description": "« 지능형 FAQ를 신속하게 생성하여 모든 고객 질문에 대한 즉각적인 답변 제공 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/frequentlyaskedai.png",
+      "url": "https://www.aixploria.com/en/frequentlyaskedai/",
+      "type": "유료",
+      "category": "#Customer Support, #E-commerce",
+      "upvotes": 1
+    },
+    {
+      "name": "Pictorial",
+      "description": "« 귀하의 웹사이트에 통합될 고품질 디자인 및 그래픽 요소를 AI로 자동 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/pictorial.png",
+      "url": "https://www.aixploria.com/en/pictorial/",
+      "type": "부분 무료",
+      "category": "#Websites & Design",
+      "upvotes": 0
+    },
+    {
+      "name": "BestBanner",
+      "description": "« 귀하의 웹사이트를 위한 효율적인 이미지 최적화 및 압축 마법사. 품질 저하 없이 사이트 속도 향상 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/bestbanner.png",
+      "url": "https://www.aixploria.com/en/bestbanner/",
+      "type": "부분 무료",
+      "category": "#Image editing, #Websites & Design",
+      "upvotes": 0
+    },
+    {
+      "name": "DomainHuntAI",
+      "description": "« 귀하의 웹사이트에 대한 도메인 이름 제안을 생성하는 강력한 AI. 귀하의 비즈니스에 딱 맞는 도메인 이름 찾기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/domainhuntai.png",
+      "url": "https://www.aixploria.com/en/domainhuntai/",
+      "type": "무료",
+      "category": "#Websites & Design",
+      "upvotes": 0
+    },
+    {
+      "name": "Gizzmo AI",
+      "description": "« Amazon 제휴 기사 생성을 단순화하는 WordPress 플러그인입니다. 단 몇 번의 클릭만으로 최적화된 콘텐츠 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/gizzmo-ai.png",
+      "url": "https://www.aixploria.com/en/gizzmo-ai/",
+      "type": "유료",
+      "category": "#E-commerce, #Websites & Design",
+      "upvotes": 0
+    },
+    {
+      "name": "Zarla AI",
+      "description": "« 콘텐츠와 디자인을 생성하는 AI로 전문적인 웹사이트를 빠르게 만드세요. 자동 SSL 및 SEO 최적화 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/zarla-ai.png",
+      "url": "https://www.aixploria.com/en/zarla-ai/",
+      "type": "유료",
+      "category": "#Websites & Design",
+      "upvotes": 0
+    },
+    {
+      "name": "DomainWoohoo",
+      "description": "« 완벽한 도메인 이름을 찾는 데 도움이 되는 도우미. AI는 도메인 이름의 사용 가능 여부를 즉시 알려줍니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/domainwoohoo/",
+      "type": "무료",
+      "category": "#Websites & Design",
+      "upvotes": 0
+    },
+    {
+      "name": "AutoBlogging Pro",
+      "description": "« WordPress 웹사이트 및 블로그에 대한 SEO 기사 생성을 자동화하는 AI 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/autoblogging-pro.png",
+      "url": "https://www.aixploria.com/en/autoblogging-pro/",
+      "type": "부분 무료",
+      "category": "#Websites & Design",
+      "upvotes": 0
+    },
+    {
+      "name": "Kombai",
+      "description": "« AI 모델을 사용하여 한 번의 클릭으로 Figma 모형을 고품질 React 및 HTML + CSS(바닐라/테일윈드) 코드로 변환합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/kombai.png",
+      "url": "https://www.aixploria.com/en/kombai/",
+      "type": "부분 무료",
+      "category": "#Websites & Design",
+      "upvotes": 0
+    },
+    {
+      "name": "PageGPT",
+      "description": "« 맞춤형 디자인, 카피라이팅 등을 제공하는 AI 기반 랜딩 페이지 제작기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/pagegpt/",
+      "type": "부분 무료",
+      "category": "#Marketing, #Websites & Design",
+      "upvotes": 0
+    },
+    {
+      "name": "Mixo AI",
+      "description": "« 아이디어에 대한 간단한 설명을 통해 사이트의 모든 콘텐츠를 자동으로 생성합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/mixo-ai.png",
+      "url": "https://www.aixploria.com/en/mixo-ai/",
+      "type": "유료",
+      "category": "#Business, #No Code/Low Code",
+      "upvotes": 1
+    },
+    {
+      "name": "IconifyAI",
+      "description": "« 단 몇 초 만에 전문적인 품질의 웹 및 앱 아이콘 생성기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/iconifyai.png",
+      "url": "https://www.aixploria.com/en/iconifyai/",
+      "type": "유료",
+      "category": "#Image Generators, #Websites & Design",
+      "upvotes": 2
+    },
+    {
+      "name": "FlutterFlow AI Gen",
+      "description": "« 텍스트 프롬프트로 아이디어를 설명하여 모바일 애플리케이션과 웹사이트를 구축하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/flutterflow-ai-gen.png",
+      "url": "https://www.aixploria.com/en/flutterflow-ai-gen/",
+      "type": "부분 무료",
+      "category": "#No Code/Low Code, #Websites & Design",
+      "upvotes": 0
+    },
+    {
+      "name": "Pineapple Builder",
+      "description": "« AI를 활용한 자동화된 웹사이트 생성 및 개발: 포트폴리오, 전자상거래, 랜딩 페이지 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/pineapple-builder.png",
+      "url": "https://www.aixploria.com/en/pineapple-builder/",
+      "type": "부분 무료",
+      "category": "#No Code/Low Code, #Websites & Design",
+      "upvotes": 0
+    },
+    {
+      "name": "Landing AI",
+      "description": "« 랜딩 페이지 웹사이트의 빠른 디자인. 해당 분야 AI 전문가가 제작한 디자인 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/landing-ai.png",
+      "url": "https://www.aixploria.com/en/landing-ai/",
+      "type": "유료",
+      "category": "#No Code/Low Code, #Websites & Design",
+      "upvotes": 1
+    },
+    {
+      "name": "DoMyShoot",
+      "description": "« 전자상거래 사이트를 위한 제품 사진 촬영의 간편하고 전문적인 구현 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/domyshoot.png",
+      "url": "https://www.aixploria.com/en/domyshoot/",
+      "type": "부분 무료",
+      "category": "#E-commerce, #Websites & Design",
+      "upvotes": 1
+    },
+    {
+      "name": "Reetail AI",
+      "description": "« 코딩이나 지식 없이도 1분 안에 전자상거래 사이트 만들기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/reetail-ai.png",
+      "url": "https://www.aixploria.com/en/reetail-ai/",
+      "type": "부분 무료",
+      "category": "#E-commerce, #No Code/Low Code",
+      "upvotes": 0
+    },
+    {
+      "name": "Kleap",
+      "description": "« 단 몇 초 만에 AI의 도움으로 웹사이트 만들기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/kleap.png",
+      "url": "https://www.aixploria.com/en/kleap/",
+      "type": "부분 무료",
+      "category": "#No Code/Low Code, #Websites & Design",
+      "upvotes": 0
+    },
+    {
+      "name": "TurnCage",
+      "description": "« 몇 가지 질문을 통해 이 AI는 아름다운 디자인의 웹사이트를 만듭니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/turncage/",
+      "type": "유료",
+      "category": "#No Code/Low Code, #Websites & Design",
+      "upvotes": 1
+    },
+    {
+      "name": "Conju",
+      "description": "« 직관적인 드래그 앤 드롭 인터페이스를 사용하여 코드 없이 애플리케이션 생성 및 구축 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/conju.png",
+      "url": "https://www.aixploria.com/en/conju/",
+      "type": "부분 무료",
+      "category": "#No Code/Low Code, #Websites & Design",
+      "upvotes": 0
+    },
+    {
+      "name": "AIPage.dev",
+      "description": "« AI 지원 랜딩 페이지 생성. 간단한 텍스트 설명으로 작동하며 코딩이 필요하지 않습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/aipage-dev/",
+      "type": "무료",
+      "category": "#No Code/Low Code, #Websites & Design",
+      "upvotes": 1
+    },
+    {
+      "name": "R.O.B.",
+      "description": "« Robot Of Business(R.O.B.)를 사용하면 단 한 줄의 코드도 작성하지 않고도 빠르게 웹사이트를 만들 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/r-o-b-.png",
+      "url": "https://www.aixploria.com/en/r-o-b/",
+      "type": "유료",
+      "category": "#Business, #No Code/Low Code",
+      "upvotes": 0
+    }
+  ]
+}

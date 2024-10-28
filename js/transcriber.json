@@ -1,0 +1,698 @@
+{
+  "name": "Transcriber",
+  "items": [
+    {
+      "name": "FireFlies",
+      "description": "« 회의나 강의실 세션 중에 메모를 자동화하세요. 이 소프트웨어는 모든 것을 캡처하고 기록하여 귀중한 시간을 절약해 줍니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/fireflies.png",
+      "url": "https://www.aixploria.com/en/fireflies/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Productivity",
+      "upvotes": 74
+    },
+    {
+      "name": "Descript",
+      "description": "« 비디오와 팟캐스트를 쉽게 편집할 수 있는 강력한 AI 도구입니다. 쓰기, 녹음, 복사, 편집 및 공유를 모두 한 곳에서 수행할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/descript.png",
+      "url": "https://www.aixploria.com/en/descript/",
+      "type": "부분 무료",
+      "category": "#Text To Speech, #Transcriber",
+      "upvotes": 41
+    },
+    {
+      "name": "Translate.Video",
+      "description": "« 자막, 더빙, 전사가 포함된 동영상을 번역할 수 있는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/translate-video.png",
+      "url": "https://www.aixploria.com/en/translate-video/",
+      "type": "부분 무료",
+      "category": "#Transcriber, #Translation",
+      "upvotes": 33
+    },
+    {
+      "name": "Otter AI",
+      "description": "« 구두 대화를 텍스트로 기록합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/otter-ai.png",
+      "url": "https://www.aixploria.com/en/otter-ai/",
+      "type": "무료",
+      "category": "#Business, #Education / Studies",
+      "upvotes": 90
+    },
+    {
+      "name": "FineVoice Speech to Text",
+      "description": "« 이 AI 도구를 사용하여 오디오 파일을 40개 이상의 언어로 된 텍스트로 쉽게 변환하세요. TEXT, JSON, VTT 및 SRT 파일과 호환 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/finevoice-speech-to-text.png",
+      "url": "https://www.aixploria.com/en/finevoice-speech-to-text-ai/",
+      "type": "부분 무료",
+      "category": "#Text To Speech, #Transcriber",
+      "upvotes": 79
+    },
+    {
+      "name": "Video To Blog",
+      "description": "« YouTube URL에서 모든 비디오를 SEO 블로그 게시물로 변환할 수 있습니다. HTML, TXT, PDF 등으로 내보내기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/video-to-blog.png",
+      "url": "https://www.aixploria.com/en/videotoblog-ai/",
+      "type": "부분 무료",
+      "category": "#Summarizer, #Transcriber",
+      "upvotes": 61
+    },
+    {
+      "name": "Wondercraft AI",
+      "description": "« AI를 통해 아이디어에 생기를 불어넣으세요. 고품질 AI 음성으로 팟캐스트, 오디오북, 광고를 만들어 보세요. 콘텐츠를 번역하고 국제적으로 공유하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/wondercraft-ai.png",
+      "url": "https://www.aixploria.com/en/wondercraft-ai-podcast-audiobook/",
+      "type": "Free-Trial",
+      "category": "#Business, #Text To Speech",
+      "upvotes": 37
+    },
+    {
+      "name": "Cogram",
+      "description": "« 회의 중에 메모하고 만족스러운 요약을 제공할 수 있는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/cogram.png",
+      "url": "https://www.aixploria.com/en/cogram/",
+      "type": "유료",
+      "category": "#Productivity, #Summarizer",
+      "upvotes": 36
+    },
+    {
+      "name": "Peech",
+      "description": "« 비디오 콘텐츠를 대량으로 제작합니다. 한 곳에서 프로젝트 편집 및 기록 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/peech.png",
+      "url": "https://www.aixploria.com/en/peech/",
+      "type": "무료",
+      "category": "#Transcriber, #Video Edition",
+      "upvotes": 14
+    },
+    {
+      "name": "Free Subtitles AI",
+      "description": "« 모든 유형의 미디어에서 작동하는 무료 자막 생성기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/free-subtitles-ai.png",
+      "url": "https://www.aixploria.com/en/free-subtitles-ai/",
+      "type": "무료",
+      "category": "#Transcriber, #Video Edition",
+      "upvotes": 0
+    },
+    {
+      "name": "Krisp",
+      "description": "« 소음 없는 비즈니스 통화를 위한 AI 비서. 배경 소음을 제거하고 회의 내용을 자동으로 기록하며 지능적인 요약을 생성하여 재택근무 생산성을 최적화합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/krisp.png",
+      "url": "https://www.aixploria.com/en/krisp/",
+      "type": "Free-Trial",
+      "category": "#Audio Editing, #Productivity",
+      "upvotes": 7
+    },
+    {
+      "name": "VoicePen",
+      "description": "« 이 인공 지능은 오디오를 텍스트(예: 블로그 형식)로 변환합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/voicepen.png",
+      "url": "https://www.aixploria.com/en/voicepen/",
+      "type": "부분 무료",
+      "category": "#Transcriber",
+      "upvotes": 24
+    },
+    {
+      "name": "Assembly AI",
+      "description": "« 고급 감지 기능(ASR, NLP 및 STT)이 가능한 모델을 사용하여 오디오 녹음 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/assembly-ai.png",
+      "url": "https://www.aixploria.com/en/assembly-ai/",
+      "type": "유료",
+      "category": "#Developer Tools, #Transcriber",
+      "upvotes": 11
+    },
+    {
+      "name": "Bluedot",
+      "description": "« Bluedot은 봇이 통화에 참여하지 않고도 회의를 녹음하는 AI 메모 작성기입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/bluedot.png",
+      "url": "https://www.aixploria.com/en/bluedot-ai-note-taker/",
+      "type": "Free-Trial",
+      "category": "#Extensions ChatGPT, #Transcriber",
+      "upvotes": 28
+    },
+    {
+      "name": "Castmagic",
+      "description": "« 팟캐스트를 소셜 네트워크에 맞게 변환하고 최적화할 수 있도록 변환하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/castmagic.png",
+      "url": "https://www.aixploria.com/en/castmagic/",
+      "type": "부분 무료",
+      "category": "#Audio Editing, #Transcriber",
+      "upvotes": 18
+    },
+    {
+      "name": "Whisper Large V3 Turbo",
+      "description": "« 놀라운 정확도로 50개 이상의 언어로 된 오디오 문서를 자동으로 복사하고 번역합니다. 마이크를 통한 무료 액세스 및 실시간 전사 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/whisper-large-v3-turbo.png",
+      "url": "https://www.aixploria.com/en/whisper-large-v3-turbo/",
+      "type": "무료",
+      "category": "#AIxploria Selection, #Transcriber",
+      "upvotes": 37
+    },
+    {
+      "name": "Noty AI",
+      "description": "« 모든 내용을 듣고 글로(실시간) 전사할 수 있는 진정한 회의 도우미 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/noty-ai.png",
+      "url": "https://www.aixploria.com/en/noty-ai/",
+      "type": "부분 무료",
+      "category": "#Productivity, #Summarizer",
+      "upvotes": 15
+    },
+    {
+      "name": "Tactiq",
+      "description": "« 이 AI 도우미로 회의를 개선해 보세요. 대화에서 실시간 기록, 지능형 요약 및 실행 가능한 항목을 가져옵니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/tactiq.png",
+      "url": "https://www.aixploria.com/en/tactiq-ai-meeting-assistant/",
+      "type": "부분 무료",
+      "category": "#Business, #Transcriber",
+      "upvotes": 29
+    },
+    {
+      "name": "Koolio.ai",
+      "description": "« 팟캐스트를 향상시키고 전환 또는 음향 효과를 추가할 수 있는 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/koolio-ai.png",
+      "url": "https://www.aixploria.com/en/koolio-ai/",
+      "type": "무료",
+      "category": "#Audio Editing, #Transcriber",
+      "upvotes": 12
+    },
+    {
+      "name": "Bliro",
+      "description": "« Bliro는 눈에 보이는 회의 봇 없이도 온라인 및 대면 회의를 모두 기록하고 요약하여 수동으로 메모하는 데 드는 시간을 절약해 줍니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/bliro.png",
+      "url": "https://www.aixploria.com/en/bliro-ai-meeting-assistant/",
+      "type": "부분 무료",
+      "category": "#AIxploria Selection, #Transcriber",
+      "upvotes": 32
+    },
+    {
+      "name": "Podium",
+      "description": "« 오디오에서 손으로 쓴 대본, 메모 또는 장을 빠르게 만들기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/podium.png",
+      "url": "https://www.aixploria.com/en/podium/",
+      "type": "부분 무료",
+      "category": "#Transcriber",
+      "upvotes": 21
+    },
+    {
+      "name": "Clearword",
+      "description": "« 실시간 AI를 사용하여 메모 작성, 작업 생성, 이메일 작성 등을 용이하게 하는 효율적인 회의 도우미. 팀워크 및 협업 최적화에 이상적입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/clearword.png",
+      "url": "https://www.aixploria.com/en/clearword-ai/",
+      "type": "무료",
+      "category": "#Productivity, #Transcriber",
+      "upvotes": 16
+    },
+    {
+      "name": "Whisper Memos",
+      "description": "« 당신의 목소리를 녹음한 다음 당신의 말을 녹음하여 이메일로 보내는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/whisper-memos.png",
+      "url": "https://www.aixploria.com/en/whisper-memos/",
+      "type": "유료",
+      "category": "#Productivity, #Transcriber",
+      "upvotes": 2
+    },
+    {
+      "name": "Laxis",
+      "description": "« 회의 중 모든 대화를 캡처하고 생산성을 높이세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/laxis.png",
+      "url": "https://www.aixploria.com/en/laxis/",
+      "type": "부분 무료",
+      "category": "#Productivity, #Transcriber",
+      "upvotes": 21
+    },
+    {
+      "name": "Contentfries",
+      "description": "« 비디오 자막 생성을 자동화하세요. 120개 이상의 언어가 지원됩니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/contentfries.png",
+      "url": "https://www.aixploria.com/en/contentfries/",
+      "type": "부분 무료",
+      "category": "#Transcriber",
+      "upvotes": 1
+    },
+    {
+      "name": "VideoDubber",
+      "description": "« 30개 이상의 언어로 번역, 더빙 및 텍스트 음성 변환을 제공하는 지능형 비디오 번역기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/videodubber.png",
+      "url": "https://www.aixploria.com/en/videodubber/",
+      "type": "무료",
+      "category": "#Transcriber, #Translation",
+      "upvotes": 5
+    },
+    {
+      "name": "Whisper Timestamped",
+      "description": "« 각 단어에 대한 정확한 타임스탬프를 사용하여 오디오를 녹음하고 자막을 추가하세요. AI는 로컬에서 작동하며 다국어를 지원하고 강력하며 빠릅니다. 비디오 및 팟캐스트에 적합 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/whisper-timestamped.png",
+      "url": "https://www.aixploria.com/en/whisper-timestamped-ai-xenova/",
+      "type": "무료",
+      "category": "#Transcriber",
+      "upvotes": 21
+    },
+    {
+      "name": "SubMagic",
+      "description": "« 강력하고 매력적이며 사용하기 쉬운 자막 생성기. TikTok 비디오 플랫폼에서 자주 사용되는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/submagic.png",
+      "url": "https://www.aixploria.com/en/submagic/",
+      "type": "유료",
+      "category": "#Transcriber",
+      "upvotes": 8
+    },
+    {
+      "name": "Notta AI",
+      "description": "« 대화를 듣고 이를 텍스트로 기록할 수 있는 AI. 회의, Zoom, Google Meet, Microsoft Teams 등에서도 작동합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/notta-ai.png",
+      "url": "https://www.aixploria.com/en/notta-ai/",
+      "type": "부분 무료",
+      "category": "#Business, #Transcriber",
+      "upvotes": 8
+    },
+    {
+      "name": "Shownotes",
+      "description": "« ChatGPT를 사용하여 YouTube 동영상을 팟캐스트로 자동 변환 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/shownotes.png",
+      "url": "https://www.aixploria.com/en/shownotes/",
+      "type": "부분 무료",
+      "category": "#Extensions ChatGPT, #Summarizer",
+      "upvotes": 2
+    },
+    {
+      "name": "Scribbler",
+      "description": "« YouTube 비디오나 팟캐스트에 대한 정보나 요약을 얻으세요. 이메일로 요약 받기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/scribbler.png",
+      "url": "https://www.aixploria.com/en/scribbler-ai/",
+      "type": "부분 무료",
+      "category": "#Summarizer, #Transcriber",
+      "upvotes": 2
+    },
+    {
+      "name": "Read AI",
+      "description": "« 회의와 커뮤니케이션을 최적화하는 AI 도우미. 상호작용에 대한 자동 요약, 기록 및 분석을 받아보세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/read-ai.png",
+      "url": "https://www.aixploria.com/en/read-ai/",
+      "type": "Free-Trial",
+      "category": "#Summarizer, #Transcriber",
+      "upvotes": 25
+    },
+    {
+      "name": "Buzz Captions",
+      "description": "« OpenAI의 Whisper를 통해 90개 이상의 언어로 오디오 녹음 및 번역(오프라인 포함) »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/buzz-captions.png",
+      "url": "https://www.aixploria.com/en/buzz-captions/",
+      "type": "무료",
+      "category": "#Transcriber, #Translation",
+      "upvotes": 3
+    },
+    {
+      "name": "OpenVINO by Audacity",
+      "description": "« Audacity용 AI 플러그인을 사용하여 팟캐스트를 편집하고 음악을 만들어 보세요. 노이즈 제거, 텍스트 변환, 트랙 생성 및 분리 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/openvino-by-audacity.png",
+      "url": "https://www.aixploria.com/en/openvino-by-audacity/",
+      "type": "무료",
+      "category": "#Audio Editing, #Music",
+      "upvotes": 18
+    },
+    {
+      "name": "Talknotes",
+      "description": "« 당신이 말하는 모든 것(음성 및 음성 녹음)을 손으로 메모하는 AI. 50개 언어로 전사 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/talknotes.png",
+      "url": "https://www.aixploria.com/en/talknotes/",
+      "type": "무료",
+      "category": "#Memory, #Transcriber",
+      "upvotes": 1
+    },
+    {
+      "name": "AudioPen",
+      "description": "« 당신의 말을 전사하고 텍스트로 요약하는 AI. 불필요한 반복도 제거할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/audiopen.png",
+      "url": "https://www.aixploria.com/en/audiopen/",
+      "type": "부분 무료",
+      "category": "#Transcriber",
+      "upvotes": 5
+    },
+    {
+      "name": "Circleback",
+      "description": "« Meet, Zoom 또는 Teams 회의의 자동 기록 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/circleback.png",
+      "url": "https://www.aixploria.com/en/circleback/",
+      "type": "무료",
+      "category": "#Business, #Productivity",
+      "upvotes": 5
+    },
+    {
+      "name": "SolidPoint",
+      "description": "« YouTube 링크를 복사하여 붙여넣고 몇 초 안에 요약을 확인하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/solidpoint.png",
+      "url": "https://www.aixploria.com/en/solidpoint/",
+      "type": "무료",
+      "category": "#Summarizer, #Transcriber",
+      "upvotes": 2
+    },
+    {
+      "name": "Type Studio",
+      "description": "« 동영상을 쉽게 편집하고 필기 버전(PDF 파일, 자막 등)으로 전사할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/type-studio.png",
+      "url": "https://www.aixploria.com/en/type-studio/",
+      "type": "부분 무료",
+      "category": "#Transcriber, #Translation",
+      "upvotes": 3
+    },
+    {
+      "name": "Summarize.ing",
+      "description": "« YouTube 동영상의 빠른 요약을 받아보세요. AI는 비디오 콘텐츠를 명확하게 구성하고 마인드맵을 생성할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/summarize-ing.png",
+      "url": "https://www.aixploria.com/en/summarize-ing-ai/",
+      "type": "부분 무료",
+      "category": "#Summarizer, #Transcriber",
+      "upvotes": 13
+    },
+    {
+      "name": "Whisper OpenAI",
+      "description": "« 다국어 및 번역에 탁월한 유연한 음성 인식 모델입니다. 다양한 오디오 애플리케이션에 이상적입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/whisper-openai.png",
+      "url": "https://www.aixploria.com/en/whisper-openai/",
+      "type": "무료",
+      "category": "#Github Projects, #Transcriber",
+      "upvotes": 9
+    },
+    {
+      "name": "Voicenotes AI",
+      "description": "« 즉시 기록, 지능형 요약, 번역 등을 제공하는 이 AI 음성 메모 앱으로 생각을 포착하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/voicenotes-ai.png",
+      "url": "https://www.aixploria.com/en/voicenotes-ai/",
+      "type": "부분 무료",
+      "category": "#Transcriber",
+      "upvotes": 16
+    },
+    {
+      "name": "Whisper WebGPU",
+      "description": "« AI 덕분에 브라우저에서 실시간으로 음성을 녹음할 수 있습니다. 100개 언어로 오프라인으로 작동합니다. OpenAI의 Whisper 모델을 기반으로 합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/whisper-webgpu.png",
+      "url": "https://www.aixploria.com/en/whisper-webgpu-ai-xenova/",
+      "type": "무료",
+      "category": "#Github Projects, #Transcriber",
+      "upvotes": 16
+    },
+    {
+      "name": "iListen AI",
+      "description": "« AI를 사용하여 기사나 웹페이지를 팟캐스트로 전환하세요. 어디에서나 읽거나 들을 수 있는 맞춤형 요약을 받아보세요. Chrome 확장 프로그램 사용 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ilisten-ai.png",
+      "url": "https://www.aixploria.com/en/ilisten-ai-podcasts/",
+      "type": "Free-Trial",
+      "category": "#Education / Studies, #Summarizer",
+      "upvotes": 17
+    },
+    {
+      "name": "Dictation IO",
+      "description": "« 구두로 말한 내용을 실시간으로 선택한 언어로 텍스트로 전사하고 번역합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/dictation-io.png",
+      "url": "https://www.aixploria.com/en/dictation-io/",
+      "type": "무료",
+      "category": "#Transcriber",
+      "upvotes": 0
+    },
+    {
+      "name": "Steno",
+      "description": "« 어떤 소프트웨어도 사용하지 않고 좋아하는 팟캐스트의 자동 AI 녹음 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/steno.png",
+      "url": "https://www.aixploria.com/en/steno/",
+      "type": "무료",
+      "category": "#Productivity, #Transcriber",
+      "upvotes": 2
+    },
+    {
+      "name": "Lingosync",
+      "description": "« 비디오를 40개 이상의 언어로 쉽게 번역하세요. E-러닝이나 소셜 네트워크에도 적합합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/lingosync.png",
+      "url": "https://www.aixploria.com/en/lingosync/",
+      "type": "부분 무료",
+      "category": "#Transcriber, #Translation",
+      "upvotes": 2
+    },
+    {
+      "name": "Diplop AI",
+      "description": "« AI를 사용하여 커뮤니케이션을 사용 가능한 데이터(로컬 녹음, 음성 및 영상 통화 등)로 추출, 기록 및 분류합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/diplop-ai.png",
+      "url": "https://www.aixploria.com/en/diplop-ai/",
+      "type": "무료",
+      "category": "#Productivity, #Transcriber",
+      "upvotes": 0
+    },
+    {
+      "name": "WhisperTranscribe",
+      "description": "« 오디오를 텍스트로 바꿔보세요. 정확한 전사본을 얻고 자동으로 콘텐츠 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/whispertranscribe.png",
+      "url": "https://www.aixploria.com/en/whispertranscribe-ai/",
+      "type": "부분 무료",
+      "category": "#Transcriber",
+      "upvotes": 0
+    },
+    {
+      "name": "BlogFox",
+      "description": "« Anthropic의 Claude Opus를 효과적으로 활용하는 AI 도구를 사용하여 YouTube 동영상을 SEO에 최적화된 블로그 게시물로 전환하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/blogfox.png",
+      "url": "https://www.aixploria.com/en/blogfox-ai-convert-youtube-video/",
+      "type": "Free-Trial",
+      "category": "#Transcriber, #Writing & Web SEO",
+      "upvotes": 14
+    },
+    {
+      "name": "RambleFix",
+      "description": "« AI를 통해 단 몇 초 만에 정리되지 않은 생각을 명확하고 일관된 텍스트로 변환하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/ramblefix/",
+      "type": "무료",
+      "category": "#Assistive technology (AT), #Life Assistants",
+      "upvotes": 0
+    },
+    {
+      "name": "CopyFish",
+      "description": "« 손쉬운 검색, 저장 및 전송을 위해 이미지, PDF 및 비디오에서 텍스트를 빠르게 추출하고 번역합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/copyfish.png",
+      "url": "https://www.aixploria.com/en/copyfish/",
+      "type": "무료",
+      "category": "#Transcriber",
+      "upvotes": 0
+    },
+    {
+      "name": "TubeOnAI",
+      "description": "« YouTube 비디오나 팟캐스트를 듣고 오디오 및 텍스트 요약을 만들 수 있는 AI입니다. 빠르게 학습하고 최신 정보를 얻는 데 이상적입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/tubeonai.png",
+      "url": "https://www.aixploria.com/en/tubeonai/",
+      "type": "부분 무료",
+      "category": "#Summarizer, #Transcriber",
+      "upvotes": 1
+    },
+    {
+      "name": "YouTube to Chatbot",
+      "description": "« YouTube 비디오를 대화형 텍스트 대화로 바꿔보세요. 고객 지원, 교육, 엔터테인먼트 등에 이상적입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/youtube-to-chatbot/",
+      "type": "무료",
+      "category": "#ChatBots, #Transcriber",
+      "upvotes": 1
+    },
+    {
+      "name": "SubtitleO",
+      "description": "« 비디오에 자막을 추가하도록 설계된 AI 도우미. 동영상 사운드를 쉽게 텍스트로 변환할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/subtitleo.png",
+      "url": "https://www.aixploria.com/en/subtitleo/",
+      "type": "무료",
+      "category": "#Transcriber",
+      "upvotes": 0
+    },
+    {
+      "name": "Scribewave AI",
+      "description": "« 이 AI는 90개 이상의 언어로 오디오 및 비디오 파일에 대한 자막을 자동으로 기록하고, 캡션을 작성하고, 생성합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/scribewave-ai.png",
+      "url": "https://www.aixploria.com/en/scribewave-ai/",
+      "type": "부분 무료",
+      "category": "#Transcriber, #Video Edition",
+      "upvotes": 1
+    },
+    {
+      "name": "XspaceGPT",
+      "description": "« Twitter Spaces를 보다 접근하기 쉬운 형식(MP3 또는 텍스트 파일)으로 변환하세요. 라이브 없이 토론을 팔로우하는 데 적합합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/xspacegpt.png",
+      "url": "https://www.aixploria.com/en/xspacegpt-ai/",
+      "type": "부분 무료",
+      "category": "#Social Networks, #Transcriber",
+      "upvotes": 1
+    },
+    {
+      "name": "VidToQuiz",
+      "description": "« 비디오와 텍스트를 대화형 퀴즈로 변환할 수 있는 AI 도구입니다. 교육이나 비즈니스에 적합 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/vidtoquiz.png",
+      "url": "https://www.aixploria.com/en/vidtoquiz-ai/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Transcriber",
+      "upvotes": 2
+    },
+    {
+      "name": "Transvribe",
+      "description": "« YouTube 동영상에 대해 질문하고 생산성을 높이세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/02/favicon-defa.png",
+      "url": "https://www.aixploria.com/en/transvribe/",
+      "type": "무료",
+      "category": "#Productivity, #Transcriber",
+      "upvotes": 2
+    },
+    {
+      "name": "YT Copycat",
+      "description": "“이 AI 도우미를 사용하여 YouTube 동영상을 고품질 텍스트로 바꿔보세요. 블로거와 전문가에게 이상적입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/yt-copycat.png",
+      "url": "https://www.aixploria.com/en/yt-copycat/",
+      "type": "부분 무료",
+      "category": "#Transcriber",
+      "upvotes": 0
+    },
+    {
+      "name": "Hanami Live Translator",
+      "description": "« 음성 인식 및 기계 번역을 사용하여 오디오를 텍스트로 자동 번역합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/hanami-live-translator.png",
+      "url": "https://www.aixploria.com/en/hanami-live-translator/",
+      "type": "무료",
+      "category": "#Github Projects, #Transcriber",
+      "upvotes": 0
+    },
+    {
+      "name": "Gladia",
+      "description": "« AI를 사용하여 오디오를 정확하게 분석하고, 기록하고, 번역하세요. API를 통한 정확하고 안전한 텍스트 변환의 ​​이점 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/gladia.png",
+      "url": "https://www.aixploria.com/en/gladia/",
+      "type": "부분 무료",
+      "category": "#Transcriber",
+      "upvotes": 0
+    },
+    {
+      "name": "MeetGeek",
+      "description": "« 비즈니스 회의를 실시간으로 기록, 녹음 및 요약합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/meetgeek.png",
+      "url": "https://www.aixploria.com/en/meetgeek/",
+      "type": "무료",
+      "category": "#Business, #Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "TalkToVid",
+      "description": "« 간단히 비디오의 URL을 제공하여 비디오 대본과 대화 도우미를 받으세요. YouTube는 아직 지원되지 않습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/talktovid.png",
+      "url": "https://www.aixploria.com/en/talktovid/",
+      "type": "무료",
+      "category": "#Transcriber",
+      "upvotes": 0
+    },
+    {
+      "name": "Taption",
+      "description": "« 오디오 및 비디오 콘텐츠를 텍스트로 효율적으로 변환합니다. 40개 이상의 언어로 자막 생성 및 비디오 번역 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/taption.png",
+      "url": "https://www.aixploria.com/en/taption/",
+      "type": "부분 무료",
+      "category": "#Transcriber",
+      "upvotes": 0
+    },
+    {
+      "name": "AI Transcription by Riverside",
+      "description": "« 오디오와 비디오를 100개 이상의 언어로 빠르고 정확하게 텍스트로 변환할 수 있는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-transcription-by-riverside.png",
+      "url": "https://www.aixploria.com/en/ai-transcription-by-riverside/",
+      "type": "무료",
+      "category": "#Transcriber",
+      "upvotes": 1
+    },
+    {
+      "name": "Ermine",
+      "description": "« 데이터의 기밀성과 보안을 보장하면서 마이크에서 직접 오디오를 텍스트로 변환합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ermine.png",
+      "url": "https://www.aixploria.com/en/ermine/",
+      "type": "무료",
+      "category": "#Transcriber",
+      "upvotes": 0
+    },
+    {
+      "name": "tl;dv",
+      "description": "« 회의를 녹음, 방송, 복사하는 데 도움이 되는 AI(Google Meet 및 Zoom) »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/tl-dv.png",
+      "url": "https://www.aixploria.com/en/tldv/",
+      "type": "부분 무료",
+      "category": "#Productivity, #Transcriber",
+      "upvotes": 3
+    },
+    {
+      "name": "Briefly AI",
+      "description": "« 간단히 말해서 AI는 AI를 사용하여 회의를 기록하고 요약하는 도구입니다. 단 몇 분 만에 분을 생성할 수도 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/briefly-ai.png",
+      "url": "https://www.aixploria.com/en/briefly-ai/",
+      "type": "무료",
+      "category": "#Productivity, #Transcriber",
+      "upvotes": 0
+    },
+    {
+      "name": "Supertranslate",
+      "description": "« 100개 이상의 언어로 자동 자막 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/supertranslate.png",
+      "url": "https://www.aixploria.com/en/supertranslate/",
+      "type": "부분 무료",
+      "category": "#Transcriber",
+      "upvotes": 2
+    },
+    {
+      "name": "Sonix",
+      "description": "« 단 몇 초만에 자동으로 자막을 전사하고 번역하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/sonix.png",
+      "url": "https://www.aixploria.com/en/sonix/",
+      "type": "유료",
+      "category": "#Transcriber, #Translation",
+      "upvotes": 2
+    },
+    {
+      "name": "Eightify",
+      "description": "« YouTube 동영상을 요약하고 스크립트로 작성할 수 있는 Chrome용 확장 프로그램 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/eightify.png",
+      "url": "https://www.aixploria.com/en/eightify/",
+      "type": "유료",
+      "category": "#Summarizer, #Transcriber",
+      "upvotes": 0
+    },
+    {
+      "name": "Podsqueeze",
+      "description": "« 에피소드 노트, 트윗, 타임스탬프, 뉴스레터 등 팟캐스트용 콘텐츠를 빠르게 생성하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/podsqueeze.png",
+      "url": "https://www.aixploria.com/en/podsqueeze/",
+      "type": "부분 무료",
+      "category": "#Transcriber",
+      "upvotes": 1
+    },
+    {
+      "name": "Zeemo",
+      "description": "« 소프트웨어나 특별한 기술 없이도 동영상을 글로 옮겨 보세요. 17개 언어로 이용 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/zeemo.png",
+      "url": "https://www.aixploria.com/en/zeemo/",
+      "type": "부분 무료",
+      "category": "#Transcriber, #Translation",
+      "upvotes": 0
+    },
+    {
+      "name": "Auri AI",
+      "description": "« 철자 교정, 의역, 번역 및 텍스트 생성 기능을 제공하는 AI 글쓰기 도우미 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/auri-ai.png",
+      "url": "https://www.aixploria.com/en/auri-ai/",
+      "type": "부분 무료",
+      "category": "#Productivity, #Transcriber",
+      "upvotes": 0
+    },
+    {
+      "name": "Audioread",
+      "description": "« 읽은 내용을 팟캐스트로 쉽게 변환하세요. PDF, 기사, 이메일 등을 들어보세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/audioread.png",
+      "url": "https://www.aixploria.com/en/audioread/",
+      "type": "부분 무료",
+      "category": "#Files & Spreadsheets, #Transcriber",
+      "upvotes": 0
+    },
+    {
+      "name": "Deciphr AI",
+      "description": "« 좋아하는 팟캐스트의 메모와 요약을 쉽게 생성할 수 있는 AI 플랫폼 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/deciphr-ai.png",
+      "url": "https://www.aixploria.com/en/deciphr-ai/",
+      "type": "무료",
+      "category": "#Summarizer, #Transcriber",
+      "upvotes": 1
+    }
+  ]
+}

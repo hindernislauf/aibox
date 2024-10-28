@@ -1,0 +1,698 @@
+{
+  "name": "Human Resources",
+  "items": [
+    {
+      "name": "AIApply",
+      "description": "« 취업 가능성을 높이는 멀티태스킹 도구: 이력서 작성, 자기 소개서, 면접 연습 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/aiapply.png",
+      "url": "https://www.aixploria.com/en/aiapply/",
+      "type": "Free-Trial",
+      "category": "#Human Resources",
+      "upvotes": 28
+    },
+    {
+      "name": "RemotePeople",
+      "description": "« 정확하고 상세하며 매력적인 채용 제안을 작성하는 데 도움이 되는 AI 채용 정보 생성기입니다. 콘텐츠를 맞춤화하고 법적 표준을 준수하며 최고의 후보자를 빠르게 유치하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/remotepeople.png",
+      "url": "https://www.aixploria.com/en/remotepeople-ai-tool-job-description/",
+      "type": "무료",
+      "category": "#AIxploria Selection, #Business",
+      "upvotes": 36
+    },
+    {
+      "name": "Cover Letter by Grammarly",
+      "description": "« AI가 자기소개서를 작성하게 하세요. 이력서를 업로드하면 자동으로 생성됩니다(DOC, TXT 및 DOCX 호환) »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/cover-letter-by-grammarly.png",
+      "url": "https://www.aixploria.com/en/cover-letter-generator-by-grammarly/",
+      "type": "무료",
+      "category": "#Human Resources",
+      "upvotes": 23
+    },
+    {
+      "name": "Teal Resume Builder",
+      "description": "« AI를 사용하여 매우 전문적이고 매력적인 이력서를 만드세요. 즉시 사용할 수 있도록 미리 만들어진 템플릿입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/teal-resume-builder.png",
+      "url": "https://www.aixploria.com/en/teal-resume-builder/",
+      "type": "부분 무료",
+      "category": "#Human Resources",
+      "upvotes": 4
+    },
+    {
+      "name": "Kickresume",
+      "description": "« AI와 사용자 정의 가능한 템플릿을 사용하여 매우 빠르게 이력서를 작성할 수 있는 전문 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/kickresume.png",
+      "url": "https://www.aixploria.com/en/kickresume/",
+      "type": "유료",
+      "category": "#Human Resources, #Productivity",
+      "upvotes": 8
+    },
+    {
+      "name": "Resume Worded",
+      "description": "« LinkedIn 프로필 페이지를 쉽게 개선하고 채용 담당자에게 더욱 매력적으로 다가가세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/resume-worded.png",
+      "url": "https://www.aixploria.com/en/resume-worded/",
+      "type": "부분 무료",
+      "category": "#Human Resources, #Social Networks",
+      "upvotes": 12
+    },
+    {
+      "name": "Careerflow",
+      "description": "« AI 구직 및 관리 플랫폼으로 구직을 단순화하세요. 개인화된 CRM의 혜택을 누리고 모든 기회를 놓치지 마세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/careerflow.png",
+      "url": "https://www.aixploria.com/en/careerflow-ai/",
+      "type": "무료",
+      "category": "#Human Resources",
+      "upvotes": 6
+    },
+    {
+      "name": "GeniusReview",
+      "description": "« 기업 채용을 빠르고 쉽게 평가할 수 있는 AI 기반 도구입니다. 파일 설계 및 자동 분석 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/geniusreview.png",
+      "url": "https://www.aixploria.com/en/geniusreview/",
+      "type": "무료",
+      "category": "#Business, #Human Resources",
+      "upvotes": 11
+    },
+    {
+      "name": "Careered AI",
+      "description": "« AI는 성공적인 이력서, 지원서 및 자기소개서를 작성하는 데 도움을 줍니다. 눈에 띄는 데 이상적인 자동 개인화 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/careered-ai.png",
+      "url": "https://www.aixploria.com/en/careered-ai/",
+      "type": "무료",
+      "category": "#Human Resources",
+      "upvotes": 2
+    },
+    {
+      "name": "Qatalog",
+      "description": "« 프로젝트 관리 및 협업을 촉진하는 전용 관리 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/qatalog.png",
+      "url": "https://www.aixploria.com/en/qatalog/",
+      "type": "부분 무료",
+      "category": "#Human Resources, #Productivity",
+      "upvotes": 7
+    },
+    {
+      "name": "AI Career Coach",
+      "description": "« AI 덕분에 개인화된 경력 코칭의 혜택을 누리세요. 진로 탐색, 인터뷰 준비, 프로필(학생 또는 재교육)에 맞는 조언 받기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-career-coach.png",
+      "url": "https://www.aixploria.com/en/ai-career-coach/",
+      "type": "무료",
+      "category": "#Education / Studies, #Human Resources",
+      "upvotes": 25
+    },
+    {
+      "name": "Cody",
+      "description": "« 당신의 지휘를 맡는 ​​진정한 고성능 회사원 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/cody.png",
+      "url": "https://www.aixploria.com/en/cody/",
+      "type": "부분 무료",
+      "category": "#Business, #Human Resources",
+      "upvotes": 29
+    },
+    {
+      "name": "Resume Trick",
+      "description": "« AI 지원 전문 이력서 또는 자기소개서를 작성하세요. 다양한 템플릿을 사용하여 성공 가능성 높이기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/resume-trick.png",
+      "url": "https://www.aixploria.com/en/resume-trick/",
+      "type": "무료",
+      "category": "#Human Resources, #Life Assistants",
+      "upvotes": 5
+    },
+    {
+      "name": "Leet Resumes",
+      "description": "« 이력서를 업로드하면 AI가 완전히 다시 작성한 개선된 사본을 받게 됩니다. doc, pdf 및 docx 파일과 호환 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/leet-resumes.png",
+      "url": "https://www.aixploria.com/en/leet-resumes/",
+      "type": "무료",
+      "category": "#Human Resources",
+      "upvotes": 5
+    },
+    {
+      "name": "WorkHub",
+      "description": "« AI 기반 플랫폼에서 팀 기술과 효율성 향상 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/workhub.png",
+      "url": "https://www.aixploria.com/en/workhub/",
+      "type": "부분 무료",
+      "category": "#Human Resources, #Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "Qureos Resume Builder",
+      "description": "« 시선을 사로잡는 이력서를 디자인하세요. 템플릿을 선택하고 개인화한 후 다운로드하여 채용 담당자에게 깊은 인상을 남깁니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/qureos-resume-builder.png",
+      "url": "https://www.aixploria.com/en/qureos-resume-builder/",
+      "type": "무료",
+      "category": "#Human Resources",
+      "upvotes": 1
+    },
+    {
+      "name": "Fordi AI",
+      "description": "« 전문가 간의 익명 평가를 위한 AI 플랫폼입니다. AI를 통해 더욱 빠르고 생산적인 분석이 가능합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/fordi-ai.png",
+      "url": "https://www.aixploria.com/en/fordi-ai/",
+      "type": "무료",
+      "category": "#Human Resources, #Productivity",
+      "upvotes": 2
+    },
+    {
+      "name": "DeepReview",
+      "description": "« 이 AI 도구를 사용하여 전문적인 문서를 최적화하세요. 매력적인 이력서, 자기 소개서, 성과 리뷰 등을 작성하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/deepreview.png",
+      "url": "https://www.aixploria.com/en/deepreview/",
+      "type": "무료",
+      "category": "#Human Resources",
+      "upvotes": 0
+    },
+    {
+      "name": "Taskade",
+      "description": "« 혁신적인 참여 기술을 통해 팀 단위로 쉽게 디자인할 수 있는 AI 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/taskade.png",
+      "url": "https://www.aixploria.com/en/taskade/",
+      "type": "부분 무료",
+      "category": "#Human Resources, #Memory",
+      "upvotes": 3
+    },
+    {
+      "name": "Jobright AI",
+      "description": "« AI 부조종사를 사용하여 구직에서 실제 결과를 얻으세요. 귀하에게 맞춤형 기회를 찾아주고, 이력서를 개선하며, 적합한 채용 담당자와 연락할 수 있게 해줍니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/jobright-ai.png",
+      "url": "https://www.aixploria.com/en/jobright-ai/",
+      "type": "무료",
+      "category": "#Human Resources",
+      "upvotes": 21
+    },
+    {
+      "name": "CareerHub AI",
+      "description": "« GPT의 도움으로 전문적으로 뛰어난 능력을 갖추는 데 도움이 되는 맞춤형 직업 조언을 받아보세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/careerhub-ai.png",
+      "url": "https://www.aixploria.com/en/careerhub-ai/",
+      "type": "무료",
+      "category": "#Business, #Human Resources",
+      "upvotes": 4
+    },
+    {
+      "name": "Arvin AI",
+      "description": "« 이 다재다능한 ChatGPT 확장 프로그램을 통해 글쓰기, 이력서 등에 도움을 받으세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/arvin-ai.png",
+      "url": "https://www.aixploria.com/en/arvin-ai/",
+      "type": "유료",
+      "category": "#Extensions ChatGPT, #Human Resources",
+      "upvotes": 6
+    },
+    {
+      "name": "GitMind AI",
+      "description": "« 팀으로 공유할 수 있는 AI 생성 마인드 맵. 브레인스토밍 세션을 크게 자극합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/gitmind-ai.png",
+      "url": "https://www.aixploria.com/en/gitmind-ai/",
+      "type": "부분 무료",
+      "category": "#Human Resources, #Productivity",
+      "upvotes": 5
+    },
+    {
+      "name": "Tezi AI",
+      "description": "« 면접을 검색하고, 미리 선택하고, 일정을 잡는 AI Max를 통해 대규모 채용을 해보세요. HR 전문가의 교육을 받아 ATS에 쉽게 통합됩니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/tezi-ai.png",
+      "url": "https://www.aixploria.com/en/tezi-ai/",
+      "type": "부분 무료",
+      "category": "#Human Resources",
+      "upvotes": 25
+    },
+    {
+      "name": "Make Me A Cover Letter",
+      "description": "« 개인적이고 영향력 있는 자기소개서를 디자인하기 위한 효과적인 AI 도구입니다. 몇 가지 초기 질문만으로 작동합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/make-me-a-cover-letter-ai/",
+      "type": "무료",
+      "category": "#Human Resources",
+      "upvotes": 10
+    },
+    {
+      "name": "Resume.co",
+      "description": "« 전문적으로 이력서나 자기 소개서를 작성하기 위한 빠른 IA 솔루션입니다. 또한 사용자 정의 가능한 템플릿과 무료 예제도 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/resume-co.png",
+      "url": "https://www.aixploria.com/en/resume-co/",
+      "type": "부분 무료",
+      "category": "#Human Resources",
+      "upvotes": 4
+    },
+    {
+      "name": "Upcat AI",
+      "description": "« 자기 소개서를 작성하고 구직을 최적화하는 AI. Chrome 확장 프로그램으로 사용 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/upcat-ai.png",
+      "url": "https://www.aixploria.com/en/upcat-ai/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Human Resources",
+      "upvotes": 1
+    },
+    {
+      "name": "Applaime",
+      "description": "« 개인화된 자기 소개서를 빠르게 생성할 수 있는 AI 기반 서비스입니다. 시간을 절약하고 애플리케이션 품질을 향상시키세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/applaime.png",
+      "url": "https://www.aixploria.com/en/applaime/",
+      "type": "무료",
+      "category": "#Human Resources",
+      "upvotes": 1
+    },
+    {
+      "name": "Proposal Genie",
+      "description": "« 자신의 서비스에 대한 관련 설명을 작성하려는 프리랜서를 위한 작성 도우미 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/proposal-genie.png",
+      "url": "https://www.aixploria.com/en/proposal-genie/",
+      "type": "부분 무료",
+      "category": "#Human Resources",
+      "upvotes": 0
+    },
+    {
+      "name": "Thisresumedoesnotexist",
+      "description": "« 실제로 존재하지 않는 특이한 이력서를 빠르게 생성하기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/thisresumedoesnotexist.png",
+      "url": "https://www.aixploria.com/en/thisresumedoesnotexist/",
+      "type": "무료",
+      "category": "#Human Resources, #This*DoesNotExist",
+      "upvotes": 0
+    },
+    {
+      "name": "JobHire AI",
+      "description": "« AI 기반 이력서 작성 서비스로 빠르게 취업하세요. 올바른 도구를 사용하면 취업 가능성을 높일 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/jobhire-ai.png",
+      "url": "https://www.aixploria.com/en/jobhire-ai-cv-resume/",
+      "type": "유료",
+      "category": "#Human Resources",
+      "upvotes": 20
+    },
+    {
+      "name": "Moveworks",
+      "description": "« 직원 지원을 자동화하고 생산성을 향상시키는 AI. 효율성과 비용을 최적화하려는 기업(CIO)에게 이상적입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/moveworks.png",
+      "url": "https://www.aixploria.com/en/moveworks/",
+      "type": "유료",
+      "category": "#Human Resources",
+      "upvotes": 1
+    },
+    {
+      "name": "MyCody",
+      "description": "« 경력 경로를 중앙 집중화하고 관리하는 애플리케이션입니다. AI의 도움으로 모든 경력 목표 달성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/mycody.png",
+      "url": "https://www.aixploria.com/en/mycody-ai/",
+      "type": "무료",
+      "category": "#Human Resources",
+      "upvotes": 12
+    },
+    {
+      "name": "CoverLetterGPT",
+      "description": "« AI를 사용하여 독특하고 효과적인 자기 소개서나 CV를 작성하면 눈에 띄고 시간을 절약할 수 있는 애플리케이션을 얻을 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/coverlettergpt.png",
+      "url": "https://www.aixploria.com/en/coverlettergpt/",
+      "type": "무료",
+      "category": "#Human Resources",
+      "upvotes": 2
+    },
+    {
+      "name": "BeamJobs",
+      "description": "« AI에 최적화된 이력서로 경력을 강화하세요. 채용 소프트웨어에 적합한 템플릿 선택, 효과적인 핵심 포인트 생성, 개인화된 분석 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/beamjobs.png",
+      "url": "https://www.aixploria.com/en/beamjobs-ai-cv-resume/",
+      "type": "부분 무료",
+      "category": "#Human Resources",
+      "upvotes": 17
+    },
+    {
+      "name": "ResumeRanker",
+      "description": "« 이력서 및 자기 소개서 작성을 최적화하는 AI 플랫폼. AI 덕분에 일자리를 찾을 확률이 배가됩니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/resumeranker.png",
+      "url": "https://www.aixploria.com/en/resumeranker-ai/",
+      "type": "Free-Trial",
+      "category": "#Human Resources",
+      "upvotes": 5
+    },
+    {
+      "name": "Whimsical",
+      "description": "« 아이디어를 정리하고 마인드맵 스타일의 비주얼을 자동으로 생성하는 데 도움이 되는 협업 AI 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/whimsical.png",
+      "url": "https://www.aixploria.com/en/whimsical-ai/",
+      "type": "부분 무료",
+      "category": "#Human Resources, #Productivity",
+      "upvotes": 5
+    },
+    {
+      "name": "Jobscan",
+      "description": "« CV(ATS 기준)를 효율적으로 스캔하고 최적화하는 스마트 도구입니다. 구직 성공 확률 높이기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/jobscan.png",
+      "url": "https://www.aixploria.com/en/jobscan-ai/",
+      "type": "부분 무료",
+      "category": "#Human Resources",
+      "upvotes": 6
+    },
+    {
+      "name": "Final Round",
+      "description": "« 화상회의를 통해 취업 면접을 듣고 취업 가능성을 최대화하는 데 도움을 주는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/final-round.png",
+      "url": "https://www.aixploria.com/en/final-round-ai/",
+      "type": "부분 무료",
+      "category": "#Human Resources",
+      "upvotes": 4
+    },
+    {
+      "name": "Rezi",
+      "description": "« AI를 사용하여 이력서를 더욱 안정적이고 매력적으로 만드는 이력서 및 자기소개서 작성기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/rezi.png",
+      "url": "https://www.aixploria.com/en/rezi-ai/",
+      "type": "부분 무료",
+      "category": "#Human Resources, #Life Assistants",
+      "upvotes": 2
+    },
+    {
+      "name": "Resume Scanner",
+      "description": "« 후보자의 이력서를 스캔하고 평가하는 AI. 또한 후보자의 기술을 평가하기 위한 질문도 생성됩니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/resume-scanner.png",
+      "url": "https://www.aixploria.com/en/resume-scanner-ai/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Human Resources",
+      "upvotes": 3
+    },
+    {
+      "name": "Triibe",
+      "description": "« 직원 참여 전문 기업을 위한 AI 플랫폼. AI 챗봇, 대화형 뉴스 피드, 여론 조사, 분석 등이 포함됩니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/triibe-ai/",
+      "type": "부분 무료",
+      "category": "#Human Resources",
+      "upvotes": 2
+    },
+    {
+      "name": "HireLakeAI",
+      "description": "« 포괄적인 후보자 평가 및 선택 도구를 갖춘 이 AI 플랫폼으로 채용을 최적화하세요. HR 소프트웨어와 쉽게 통합 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/hirelakeai.png",
+      "url": "https://www.aixploria.com/en/hirelakeai/",
+      "type": "무료",
+      "category": "#Human Resources",
+      "upvotes": 1
+    },
+    {
+      "name": "PyjamaHR",
+      "description": "« 광고부터 후보자 후속 조치까지 채용 프로세스를 간소화하는 완벽한 AI 채용 및 ATS 소프트웨어 패키지 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/pyjamahr.png",
+      "url": "https://www.aixploria.com/en/pyjamahr-ai-ats/",
+      "type": "Free-Trial",
+      "category": "#Business, #Human Resources",
+      "upvotes": 19
+    },
+    {
+      "name": "MailMaestro",
+      "description": "« 이메일을 작성하고 스레드와 첨부 파일을 요약하는 AI 도우미입니다. 받은편지함 관리도 개선됩니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/mailmaestro.png",
+      "url": "https://www.aixploria.com/en/mailmaestro-ai/",
+      "type": "부분 무료",
+      "category": "#E-mail, #Human Resources",
+      "upvotes": 3
+    },
+    {
+      "name": "CoverQuick",
+      "description": "« 이 직관적인 플랫폼으로 구직 활동을 단순화하세요. AI를 사용하여 관련 CV 및 자기 소개서를 쉽게 작성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/coverquick.png",
+      "url": "https://www.aixploria.com/en/coverquick/",
+      "type": "무료",
+      "category": "#Business, #Human Resources",
+      "upvotes": 4
+    },
+    {
+      "name": "Potis AI",
+      "description": "« 채용 부조종사는 자동화된 행동 인터뷰를 실시합니다. 후보자의 실제 기술 평가 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/potis-ai.png",
+      "url": "https://www.aixploria.com/en/potis-ai/",
+      "type": "부분 무료",
+      "category": "#Human Resources, #Productivity",
+      "upvotes": 4
+    },
+    {
+      "name": "Haller AI",
+      "description": "« AI 솔루션으로 비즈니스 운영을 최적화하세요. 콘텐츠 관리, HR 및 영업 워크플로에 이상적인 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/haller-ai.png",
+      "url": "https://www.aixploria.com/en/haller-ai/",
+      "type": "부분 무료",
+      "category": "#Business, #Human Resources",
+      "upvotes": 2
+    },
+    {
+      "name": "Human Circles AI",
+      "description": "« 네트워킹을 최적화하고 새로운 협력자를 찾으세요. 이 AI를 LinkedIn과 통합하여 보다 정확한 연결의 이점을 누리세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/human-circles-ai.png",
+      "url": "https://www.aixploria.com/en/human-circles-ai/",
+      "type": "무료",
+      "category": "#Business, #Human Resources",
+      "upvotes": 3
+    },
+    {
+      "name": "Coach Marlee",
+      "description": "« 목표를 빠르게 달성할 수 있도록 도와주는 다양한 AI 코치 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/coach-marlee.png",
+      "url": "https://www.aixploria.com/en/coach-marlee/",
+      "type": "무료",
+      "category": "#Human Resources, #Life Assistants",
+      "upvotes": 1
+    },
+    {
+      "name": "Interviews Chat",
+      "description": "« 답변을 분석하고 실시간으로 제안하는 AI로 취업 면접을 준비하세요(다국어 및 보안) »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/interviews-chat.png",
+      "url": "https://www.aixploria.com/en/interviews-chat/",
+      "type": "유료",
+      "category": "#Human Resources",
+      "upvotes": 14
+    },
+    {
+      "name": "Network AI",
+      "description": "« 네트워크를 개발하고 해당 분야의 전문가와 연결해 주는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/network-ai.png",
+      "url": "https://www.aixploria.com/en/network-ai/",
+      "type": "무료",
+      "category": "#Business, #Human Resources",
+      "upvotes": 1
+    },
+    {
+      "name": "Match That Role",
+      "description": "« 이력서와 구인 정보를 분석하여 자동으로 매칭하는 AI 도구로 완벽한 일자리 찾기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/match-that-role.png",
+      "url": "https://www.aixploria.com/en/match-that-role/",
+      "type": "무료",
+      "category": "#Human Resources",
+      "upvotes": 1
+    },
+    {
+      "name": "Metawork",
+      "description": "« 가상 사무실을 통해 팀의 원격 관리 최적화: 실시간 가시성, 원활한 커뮤니케이션, 생산성 정보 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/metawork.png",
+      "url": "https://www.aixploria.com/en/metawork-ai/",
+      "type": "무료",
+      "category": "#Human Resources, #Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "Work Hunty",
+      "description": "« 지원서를 자동으로 저장하고 AI로 손쉽게 자기 소개서 작성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/work-hunty.png",
+      "url": "https://www.aixploria.com/en/work-hunty-ai/",
+      "type": "무료",
+      "category": "#Human Resources",
+      "upvotes": 12
+    },
+    {
+      "name": "Canyon AI",
+      "description": "« 맞춤형 CV를 생성하고 양식을 미리 채우는 AI 플랫폼으로 입사 지원을 최적화하세요. 맞춤형 조언으로 인터뷰 준비하기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/canyon-ai.png",
+      "url": "https://www.aixploria.com/en/canyon-ai-job/",
+      "type": "유료",
+      "category": "#Human Resources",
+      "upvotes": 14
+    },
+    {
+      "name": "NexGenTeam",
+      "description": "« 영업, 콘텐츠 제작 및 디자인을 전문으로 하는 디지털 직원입니다. 회사의 생산성 극대화에 이상적입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/nexgenteam.png",
+      "url": "https://www.aixploria.com/en/nexgenteam-ai/",
+      "type": "무료",
+      "category": "#Future Tools, #Human Resources",
+      "upvotes": 2
+    },
+    {
+      "name": "Eightfold",
+      "description": "« 채용 관리를 용이하게 하는 초현대적인 AI 플랫폼입니다. 최고의 인재를 유지하고 교육하며 보다 효율적으로 채용합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/eightfold.png",
+      "url": "https://www.aixploria.com/en/eightfold-ai/",
+      "type": "유료",
+      "category": "#Human Resources",
+      "upvotes": 3
+    },
+    {
+      "name": "Rise",
+      "description": "« 이 도구를 사용하여 일정을 최적화하고, 팀 회의에 가장 적합한 시간을 찾고, 동료와 쉽게 계획을 세우고, 모든 사람의 의제를 주시하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/rise.png",
+      "url": "https://www.aixploria.com/en/rise-ai/",
+      "type": "부분 무료",
+      "category": "#Human Resources, #Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "InterviewCoachAI",
+      "description": "« 이 AI 도구를 사용하여 전문가처럼 취업 면접을 준비하세요. 귀하의 경력, 대상 직위 및 대상 회사를 고려합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/interviewcoachai.png",
+      "url": "https://www.aixploria.com/en/interviewcoachai/",
+      "type": "무료",
+      "category": "#Human Resources, #Life Assistants",
+      "upvotes": 1
+    },
+    {
+      "name": "Resumatic",
+      "description": "« AI 지원 CV 작성기. 이력서를 최적화하고 분석하여 채용 담당자에게 미치는 영향을 높입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/resumatic.png",
+      "url": "https://www.aixploria.com/en/resumatic/",
+      "type": "부분 무료",
+      "category": "#Business, #Human Resources",
+      "upvotes": 2
+    },
+    {
+      "name": "Minerva Copilot",
+      "description": "« ChatGPT에서 자동으로 구동되는 이 Chrome 확장 프로그램을 사용하여 구직을 최적화하세요. 자기 소개서도 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/minerva-copilot.png",
+      "url": "https://www.aixploria.com/en/minerva-copilot/",
+      "type": "무료",
+      "category": "#Human Resources, #Life Assistants",
+      "upvotes": 1
+    },
+    {
+      "name": "Cover Letter AI",
+      "description": "« AI를 사용하여 몇 분 만에 개인화된 자기 소개서 쉽게 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/cover-letter-ai.png",
+      "url": "https://www.aixploria.com/en/cover-letter-ai/",
+      "type": "부분 무료",
+      "category": "#Human Resources",
+      "upvotes": 1
+    },
+    {
+      "name": "Holly AI",
+      "description": "« AI 기반 가상 채용 에이전트로 채용을 최적화하세요. 타겟 후보자 선택 및 지속적인 학습의 이점 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/holly-ai.png",
+      "url": "https://www.aixploria.com/en/holly-ai/",
+      "type": "Free-Trial",
+      "category": "#Human Resources",
+      "upvotes": 10
+    },
+    {
+      "name": "Eesel",
+      "description": "« 문서를 보다 효율적으로 구성하고 액세스할 수 있도록 브라우저에 탭을 추가하는 확장 프로그램입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/eesel.png",
+      "url": "https://www.aixploria.com/en/eesel/",
+      "type": "무료",
+      "category": "#Human Resources, #Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "Ferret",
+      "description": "« 당신이 피해야 할 사람과 당신에게 도움이 될 사람을 알려주는 도우미 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ferret.png",
+      "url": "https://www.aixploria.com/en/ferret/",
+      "type": "부분 무료",
+      "category": "#Human Resources, #Legal Assistants",
+      "upvotes": 4
+    },
+    {
+      "name": "Trickle",
+      "description": "« 보다 효과적인 팀워크를 위해 메모, 작업 및 지식 기반을 결합한 AI 지원 작업 공간 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/trickle.png",
+      "url": "https://www.aixploria.com/en/trickle/",
+      "type": "부분 무료",
+      "category": "#Human Resources, #Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "FastTrack",
+      "description": "« 후보자 심사를 자동화하고 지능적인 질문을 하며 채용 프로세스를 최적화하는 AI 채용 양식 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/fasttrack.png",
+      "url": "https://www.aixploria.com/en/fasttrack/",
+      "type": "부분 무료",
+      "category": "#Business, #Human Resources",
+      "upvotes": 1
+    },
+    {
+      "name": "InterviewBot AI",
+      "description": "« 다양한 주제와 맞춤형 조언으로 전문 면접 준비를 도와주는 AI 어시스턴트 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/interviewbot-ai.png",
+      "url": "https://www.aixploria.com/en/interviewbot-ai/",
+      "type": "부분 무료",
+      "category": "#Human Resources, #Life Assistants",
+      "upvotes": 2
+    },
+    {
+      "name": "Todo.is",
+      "description": "« 작업과 프로젝트를 관리하고 생산성을 높이며 팀으로서 더욱 효과적으로 협업할 수 있는 플랫폼 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/todo-is/",
+      "type": "부분 무료",
+      "category": "#Human Resources, #Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "Chadview",
+      "description": "« Zoom, Teams 또는 Google Meet 회의에서 실시간 응답을 제공하는 Chatbot(확장 프로그램) »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/chadview.png",
+      "url": "https://www.aixploria.com/en/chadview/",
+      "type": "유료",
+      "category": "#ChatBots, #Human Resources",
+      "upvotes": 1
+    },
+    {
+      "name": "ResumeCheck AI",
+      "description": "« AI를 사용하여 이력서를 확인하고 최적화하세요. 실수를 쉽게 자동으로 수정하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/resumecheck-ai/",
+      "type": "부분 무료",
+      "category": "#Human Resources, #Life Assistants",
+      "upvotes": 1
+    },
+    {
+      "name": "MajorGen",
+      "description": "« LinkedIn 프로필을 사용하거나 기존 이력서를 가져와서 바로 사용할 수 있는 이력서와 자기 소개서 만들기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/majorgen.png",
+      "url": "https://www.aixploria.com/en/majorgen/",
+      "type": "유료",
+      "category": "#Human Resources, #Life Assistants",
+      "upvotes": 0
+    },
+    {
+      "name": "Krock IO",
+      "description": "« 애니메이션이나 비디오 프로젝트에서 실시간으로 팀 단위로 협업하세요. 팀편집, 영상편집 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/krock-io.png",
+      "url": "https://www.aixploria.com/en/krock-io/",
+      "type": "유료",
+      "category": "#Human Resources, #Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "CareerDekho AI",
+      "description": "« 맞춤형 제안으로 이상적인 직업을 찾는 데 도움이 되는 AI 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/careerdekho-ai.png",
+      "url": "https://www.aixploria.com/en/careerdekho-ai/",
+      "type": "무료",
+      "category": "#Business, #Human Resources",
+      "upvotes": 2
+    },
+    {
+      "name": "Spoke AI",
+      "description": "« 팀에게 목표 알림, 즉시 알림 등을 제공하는 비즈니스용 OS »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/spoke-ai.png",
+      "url": "https://www.aixploria.com/en/spoke-ai/",
+      "type": "부분 무료",
+      "category": "#Human Resources, #Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "Magical AI",
+      "description": "« 회의를 계획하는 AI. 안건 작성, 시간 제안 및 자동 메모 작성 포함 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/magical-ai.png",
+      "url": "https://www.aixploria.com/en/magical-ai/",
+      "type": "부분 무료",
+      "category": "#Human Resources, #Productivity",
+      "upvotes": 1
+    }
+  ]
+}

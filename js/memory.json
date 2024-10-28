@@ -1,0 +1,185 @@
+{
+  "name": "Memory",
+  "items": [
+    {
+      "name": "QuizLet",
+      "description": "« 교육용 게임, 플래시카드, 연습 퀴즈를 통해 더 쉽게 알아보세요. 브라우저와 모바일에서 사용 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/quizlet.png",
+      "url": "https://www.aixploria.com/en/quizlet-ai/",
+      "type": "무료",
+      "category": "#Education / Studies, #Memory",
+      "upvotes": 7
+    },
+    {
+      "name": "Rewind AI",
+      "description": "« 프롬프트(MAC)에서 보거나 들은 내용을 검색하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/rewind-ai.png",
+      "url": "https://www.aixploria.com/en/rewind-ai/",
+      "type": "부분 무료",
+      "category": "#Life Assistants, #Memory",
+      "upvotes": 2
+    },
+    {
+      "name": "Reflect AI",
+      "description": "« AI를 사용하여 메모 작성 및 쓰기 능력 향상 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/reflect-ai.png",
+      "url": "https://www.aixploria.com/en/reflect-ai/",
+      "type": "부분 무료",
+      "category": "#Memory",
+      "upvotes": 2
+    },
+    {
+      "name": "Mem AI",
+      "description": "« 이 AI가 제어하게 하여 모든 프로젝트 데이터를 자동으로 구성하고 분류합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/mem-ai.png",
+      "url": "https://www.aixploria.com/en/mem-ai/",
+      "type": "부분 무료",
+      "category": "#Memory, #Productivity",
+      "upvotes": 2
+    },
+    {
+      "name": "Glasp",
+      "description": "« 콘텐츠 제작 및 뉴스레터를 위한 매력적인 텍스트 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/glasp.png",
+      "url": "https://www.aixploria.com/en/glasp/",
+      "type": "무료",
+      "category": "#Business, #Memory",
+      "upvotes": 4
+    },
+    {
+      "name": "Taskade",
+      "description": "« 혁신적인 참여 기술을 통해 팀 단위로 쉽게 디자인할 수 있는 AI 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/taskade.png",
+      "url": "https://www.aixploria.com/en/taskade/",
+      "type": "부분 무료",
+      "category": "#Human Resources, #Memory",
+      "upvotes": 3
+    },
+    {
+      "name": "Memoru Flashcards",
+      "description": "« 모든 과목의 학습을 향상시키는 AI 지원 플래시카드 시스템. 개인화된 목표, 퀴즈 등을 제공합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/memoru-flashcards.png",
+      "url": "https://www.aixploria.com/en/memoru-flashcards-ai/",
+      "type": "무료",
+      "category": "#Education / Studies, #Memory",
+      "upvotes": 3
+    },
+    {
+      "name": "Slay School",
+      "description": "« 수업 노트를 플래시카드나 퀴즈로 변환하여 효과적으로 공부할 수 있습니다. Anki 및 Quizlet으로 내보낼 수 있음 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/slay-school.png",
+      "url": "https://www.aixploria.com/en/slay-school-ai/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Memory",
+      "upvotes": 4
+    },
+    {
+      "name": "Revisely",
+      "description": "« 플래시카드, AI 퀴즈, 주제별 비디오 및 다양한 실용적인 도구를 사용하여 효과적으로 수정하세요. 학생, 교사 및 학습 전문가에게 이상적입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/revisely.png",
+      "url": "https://www.aixploria.com/en/revisely-ai-tools/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Memory",
+      "upvotes": 20
+    },
+    {
+      "name": "Talknotes",
+      "description": "« 당신이 말하는 모든 것(음성 및 음성 녹음)을 손으로 메모하는 AI. 50개 언어로 전사 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/talknotes.png",
+      "url": "https://www.aixploria.com/en/talknotes/",
+      "type": "무료",
+      "category": "#Memory, #Transcriber",
+      "upvotes": 1
+    },
+    {
+      "name": "Heyday",
+      "description": "« 기억해야 할 콘텐츠를 자동으로 알려주는 지능형 비서 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/heyday.png",
+      "url": "https://www.aixploria.com/en/heyday/",
+      "type": "유료",
+      "category": "#Memory",
+      "upvotes": 0
+    },
+    {
+      "name": "MemoryLane",
+      "description": "« 기억을 개인화된 책으로 변환하여 기억을 보존하는 데 도움이 되는 치료 AI 도구입니다. 신뢰할 수 있는 AI Genie와 당신의 인생 이야기를 공유하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/memorylane.png",
+      "url": "https://www.aixploria.com/en/memorylane-ai/",
+      "type": "유료",
+      "category": "#Assistive technology (AT), #Life Assistants",
+      "upvotes": 19
+    },
+    {
+      "name": "Metkagram",
+      "description": "« 주석이 달린 카드와 AI 생성 메모리를 사용하여 보다 효과적으로 언어를 배우세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/metkagram.png",
+      "url": "https://www.aixploria.com/en/metkagram/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Memory",
+      "upvotes": 2
+    },
+    {
+      "name": "Penseum",
+      "description": "« 학술 콘텐츠를 구조화하고 분석하는 이 AI 도구를 사용하여 학습을 향상시키세요. 실용적인 플래시카드와 맞춤형 질문 만들기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/penseum.png",
+      "url": "https://www.aixploria.com/en/penseum-ai/",
+      "type": "무료",
+      "category": "#Education / Studies, #Memory",
+      "upvotes": 2
+    },
+    {
+      "name": "MyMemo",
+      "description": "« 중요한 정보의 기억력을 향상시키는 AI 도구입니다. 직관적인 인터페이스 덕분에 버튼 클릭만으로 지식을 중앙 집중화하고 액세스할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/mymemo.png",
+      "url": "https://www.aixploria.com/en/mymemo-ai/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Memory",
+      "upvotes": 10
+    },
+    {
+      "name": "Jungle",
+      "description": "« 암기에 도움이 되는 작은 메모리 카드를 만드는 Chrome 확장 프로그램(질문/답변) »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/jungle.png",
+      "url": "https://www.aixploria.com/en/wisdolia/",
+      "type": "무료",
+      "category": "#Education / Studies, #Memory",
+      "upvotes": 3
+    },
+    {
+      "name": "Paperclips",
+      "description": "« PDF 파일에서 플래시카드를 생성합니다. 학생들의 학습 및 시험 준비를 촉진합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/paperclips.png",
+      "url": "https://www.aixploria.com/en/paperclips/",
+      "type": "유료",
+      "category": "#Education / Studies, #Memory",
+      "upvotes": 1
+    },
+    {
+      "name": "MyMind",
+      "description": "« 아무것도 잊어버리지 않도록 지능적인 방법으로 메모하고, 분류하고, 주문하는 기억 보조 장치 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/mymind.png",
+      "url": "https://www.aixploria.com/en/mymind/",
+      "type": "유료",
+      "category": "#Memory, #Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "Sana Labs",
+      "description": "« 협업 AI 플랫폼으로 비즈니스 운영 방식 자동화 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/sana-labs.png",
+      "url": "https://www.aixploria.com/en/sana-labs/",
+      "type": "유료",
+      "category": "#Memory, #Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "Personal AI",
+      "description": "« 쉽게 새로운 아이디어를 생성하고 새로운 개념을 만들어내는 AI 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/personal-ai.png",
+      "url": "https://www.aixploria.com/en/personal-ai/",
+      "type": "부분 무료",
+      "category": "#Memory, #Productivity",
+      "upvotes": 0
+    }
+  ]
+}

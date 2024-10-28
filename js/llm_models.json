@@ -1,0 +1,887 @@
+{
+  "name": "LLM models",
+  "items": [
+    {
+      "name": "OpenAI o1",
+      "description": "« OpenAI의 이 새로운 AI 모델은 복잡한 추론을 위해 강화 훈련을 받았습니다. 대답하기 전에 내부적으로 생각할 수 있습니다. 몇 가지 어려운 테스트에서 인간을 능가합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/openai-o1.png",
+      "url": "https://www.aixploria.com/en/openai-o1-gpt/",
+      "type": "유료",
+      "category": "#LLM models",
+      "upvotes": 104
+    },
+    {
+      "name": "GPT-4o",
+      "description": "« OpenAI의 새로운 플래그십 모델인 GPT-4o를 만나보세요. AI와의 자연스러운 상호 작용을 위해 실시간으로 오디오, 비전 및 텍스트를 분석합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/gpt-4o.png",
+      "url": "https://www.aixploria.com/en/gpt-4o-model-ai-openai/",
+      "type": "무료",
+      "category": "#LLM models",
+      "upvotes": 162
+    },
+    {
+      "name": "Claude 3.5 Sonnet",
+      "description": "« 추론, 코딩 및 이미지 분석 분야에서 경쟁사보다 뛰어난 Anthropic이 설계한 고급 LLM 모델입니다. 성능 향상, 속도 2배 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/claude-3-5-sonnet.png",
+      "url": "https://www.aixploria.com/en/claude-3-5-sonnet/",
+      "type": "부분 무료",
+      "category": "#LLM models",
+      "upvotes": 112
+    },
+    {
+      "name": "Playground OpenAI",
+      "description": "« OpenAI의 GPT 템플릿을 최대한 활용하세요. 귀하에게 적합한 것을 선택하고 해당 API를 활용하십시오. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/playground-openai.png",
+      "url": "https://www.aixploria.com/en/playground-openai/",
+      "type": "유료",
+      "category": "#Developer Tools, #LLM models",
+      "upvotes": 482
+    },
+    {
+      "name": "Gemini Pro 1.5",
+      "description": "« Gemini Pro 1.5는 매우 긴 콘텐츠(1백만 개의 토큰 컨텍스트 길이)를 효율적이고 정확하게 분석하기 위해 Google이 설계한 LLM 모델입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/gemini-pro-1-5.png",
+      "url": "https://www.aixploria.com/en/gemini-pro-1-5-google/",
+      "type": "무료",
+      "category": "#LLM models",
+      "upvotes": 126
+    },
+    {
+      "name": "Opus by Anthropic",
+      "description": "« 높은 성능 점수로 모든 종류의 작업을 수행할 수 있는 매우 강력한 기능을 갖춘 LLM 모델입니다. 클로드 3과 함께 사용 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/opus-by-anthropic.png",
+      "url": "https://www.aixploria.com/en/opus-by-anthropic-claude-ai/",
+      "type": "부분 무료",
+      "category": "#LLM models",
+      "upvotes": 75
+    },
+    {
+      "name": "Llama 3",
+      "description": "« Llama 3은 Meta AI가 설계한 고성능 오픈 소스 LLM 모델로, 카운터에 4,000억 개의 매개변수가 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/llama-3.png",
+      "url": "https://www.aixploria.com/en/llama-3-model-meta-ai/",
+      "type": "무료",
+      "category": "#LLM models",
+      "upvotes": 49
+    },
+    {
+      "name": "VASA-1 by Microsoft",
+      "description": "« 이미지나 오디오 클립에서 사실적인 말하는 얼굴을 생성하는 AI 프로젝트입니다. 완벽한 입술 동기화, 감정, 얼굴의 뉘앙스 및 자연스러운 머리 움직임 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/vasa-1-by-microsoft.png",
+      "url": "https://www.aixploria.com/en/vasa-1-by-microsoft-ai-talking-faces/",
+      "type": "무료",
+      "category": "#Future Tools, #LLM models",
+      "upvotes": 48
+    },
+    {
+      "name": "Pixtral12B",
+      "description": "« 텍스트와 이미지를 처리할 수 있는 120억 개의 매개변수를 갖춘 다중 모드 모델입니다. 콘텐츠 생성, 시각적 분석 및 이미지 관련 질문에 답변 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/pixtral12b.png",
+      "url": "https://www.aixploria.com/en/pixtral12b/",
+      "type": "무료",
+      "category": "#LLM models",
+      "upvotes": 43
+    },
+    {
+      "name": "Llama 3.2",
+      "description": "« 경량 및 다중 모드 버전을 포함한 Meta의 차세대 AI 언어 모델입니다. 개방형 및 사용자 정의 가능한 모델을 사용하여 모바일에서 AI 애플리케이션을 만들고 이미지와 텍스트를 분석합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/12/meta-icon-ai.webp",
+      "url": "https://www.aixploria.com/en/llama-3-2-meta-ai/",
+      "type": "무료",
+      "category": "#LLM models",
+      "upvotes": 53
+    },
+    {
+      "name": "Code Llama 70B",
+      "description": "« 700억 개의 매개변수를 사용하여 고품질 코드를 생성할 수 있는 [ Code Llama ] 모델의 더욱 강력한 버전 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/code-llama-70b.png",
+      "url": "https://www.aixploria.com/en/code-llama-70b/",
+      "type": "무료",
+      "category": "#Assistant Code, #LLM models",
+      "upvotes": 50
+    },
+    {
+      "name": "GitHub Models",
+      "description": "« Microsoft에서 개발자에게 무료로 제공하는 LLM 모델 세트: Llama 3.1, GPT-4o, GPT-4o mini, Phi 3, Mistral Large 2 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/github-models.png",
+      "url": "https://www.aixploria.com/en/github-models-ai-azure-microsoft/",
+      "type": "무료",
+      "category": "#Developer Tools, #Github Projects",
+      "upvotes": 33
+    },
+    {
+      "name": "HuggingChat",
+      "description": "« Hugging Face 회사에서 제작한 무료 오픈 소스 대화형 ChatBot입니다. ChatGPT 과 유사함 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/huggingchat.png",
+      "url": "https://www.aixploria.com/en/huggingchat/",
+      "type": "무료",
+      "category": "#AI Chat & Assistant, #LLM models",
+      "upvotes": 14
+    },
+    {
+      "name": "StableLM",
+      "description": "« ChatGPT의 무료 오픈 소스 대안이 될 수 있는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/stablelm.png",
+      "url": "https://www.aixploria.com/en/stablelm/",
+      "type": "무료",
+      "category": "#AI Chat & Assistant, #Github Projects",
+      "upvotes": 15
+    },
+    {
+      "name": "GPT-4o mini",
+      "description": "« OpenAI의 저렴하지만 강력한 LLM 모델: 다중 모달 추론, 컴퓨터 코딩, 긴 형식의 글쓰기 등. 챗봇, 데이터 분석 및 작업 자동화에 이상적입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/gpt-4o-mini.png",
+      "url": "https://www.aixploria.com/en/gpt-4o-mini-ai-openai-llm/",
+      "type": "무료",
+      "category": "#LLM models",
+      "upvotes": 41
+    },
+    {
+      "name": "Llama 3.1 405B",
+      "description": "« OpenAI의 GPT-4와 성능이 동일하다고 주장되는 Meta의 무료 오픈 소스 LLM 모델 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/llama-3-1-405b.png",
+      "url": "https://www.aixploria.com/en/llama-3-405b-meta-ai/",
+      "type": "무료",
+      "category": "#LLM models",
+      "upvotes": 37
+    },
+    {
+      "name": "GPT2-chatbot",
+      "description": "« 신비한 새 AI 모델의 놀라운 기능을 테스트해 보세요. OpenAI의 GPT-4.5 또는 GPT-5일까요? 그 기원은 아직 알려지지 않았습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/gpt2-chatbot.png",
+      "url": "https://www.aixploria.com/en/gpt2-chatbot-ai-model/",
+      "type": "무료",
+      "category": "#LLM models, #SuperTools",
+      "upvotes": 39
+    },
+    {
+      "name": "Genie by Deepmind",
+      "description": "« 프롬프트(텍스트-게임)에서 비디오 게임의 전체 세계를 자율적으로 생성할 수 있는 AI 모델 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/genie-by-deepmind.png",
+      "url": "https://www.aixploria.com/en/genie-by-deepmind-ai-game/",
+      "type": "무료",
+      "category": "#Future Tools, #Games",
+      "upvotes": 19
+    },
+    {
+      "name": "ImgenArena.ai",
+      "description": "« AI 생성 이미지의 품질을 평가하기 위한 재미있는 플랫폼입니다. 프롬프트와 이미지가 가장 잘 일치하는 항목에 투표하고 가장 성능이 뛰어난 AI 모델 순위에 기여하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/imgen-arena/",
+      "type": "무료",
+      "category": "#Games, #LLM models",
+      "upvotes": 24
+    },
+    {
+      "name": "Leaderboard LLM",
+      "description": "« 인정된 기술 기준(Elo, MT-Bench 또는 MMLU)을 기반으로 한 최고의 LLM 모델 순위입니다. 최고의 성과를 내는 LLM을 찾아보세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/leaderboard-llm.png",
+      "url": "https://www.aixploria.com/en/leaderboard-llm/",
+      "type": "무료",
+      "category": "#LLM models",
+      "upvotes": 16
+    },
+    {
+      "name": "Llama 2",
+      "description": "« 상업적으로 사용할 수 있는 새로운 오픈 소스 언어 모델입니다. 요청 시 베타 버전을 사용할 수 있습니다. Meta가 만든 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/llama-2.png",
+      "url": "https://www.aixploria.com/en/llama-2/",
+      "type": "무료",
+      "category": "#LLM models",
+      "upvotes": 188
+    },
+    {
+      "name": "Molmo by Ai2",
+      "description": "« 텍스트와 이미지를 이해하고 생성할 수 있는 오픈 소스 다중 모드 언어 모델입니다. 컴퓨터 비전, 이미지 생성 및 시각적 추론 작업에 사용 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/molmo-by-ai2.png",
+      "url": "https://www.aixploria.com/en/molmo-by-ai2/",
+      "type": "무료",
+      "category": "#AI Chat & Assistant, #LLM models",
+      "upvotes": 41
+    },
+    {
+      "name": "Mistral-medium",
+      "description": "« 현재 사용 가능한 가장 강력한 오픈 소스 LLM 모델 중 하나입니다. 현재 이 모델은 API를 통해서만 사용할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/mistral-medium.png",
+      "url": "https://www.aixploria.com/en/mistral-medium/",
+      "type": "무료",
+      "category": "#LLM models",
+      "upvotes": 17
+    },
+    {
+      "name": "DeepSeek-V2.5",
+      "description": "« 2,360억 개의 매개변수를 갖춘 강력한 LLM 모델. 매우 경쟁력 있는 API 가격($0.14/백만 토큰)으로 수학, 코딩 및 추론 분야에서 뛰어난 성능을 발휘합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/deepseek-v2-5.png",
+      "url": "https://www.aixploria.com/en/deepseek-v2-5-llm-model-code/",
+      "type": "무료",
+      "category": "#Developer Tools, #LLM models",
+      "upvotes": 22
+    },
+    {
+      "name": "Labs by Perplexity",
+      "description": "« Mistral Medium, Code Llama 70B, Mixtral 8x7B, Llava 7b 등 다양한 최신 LLM 모델과 무료로 채팅하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/labs-by-perplexity.png",
+      "url": "https://www.aixploria.com/en/labs-by-perplexity/",
+      "type": "무료",
+      "category": "#AI Useful, #LLM models",
+      "upvotes": 38
+    },
+    {
+      "name": "Jan.ai",
+      "description": "« 수많은 LLM 모델과 쉽게 토론할 수 있는 무료 오픈 소스 소프트웨어입니다. 직관적인 다중 플랫폼 인터페이스 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/jan-ai.png",
+      "url": "https://www.aixploria.com/en/jan-ai/",
+      "type": "무료",
+      "category": "#LLM models",
+      "upvotes": 13
+    },
+    {
+      "name": "Minigpt-4",
+      "description": "« 이미지를 정확하게 설명하고, 웹사이트를 만들고, 스토리를 생성하는 등의 작업을 수행할 수 있는 GPT-4의 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/minigpt-4/",
+      "type": "무료",
+      "category": "#AI Chat & Assistant, #Github Projects",
+      "upvotes": 5
+    },
+    {
+      "name": "Gemma 2",
+      "description": "« Google DeepMind의 차세대 오픈 소스 AI 모델. 더욱 강력하고 정확한 LLM 모델은 9B와 27B의 두 가지 버전으로 제공됩니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/gemma-2.png",
+      "url": "https://www.aixploria.com/en/gemma-2-google-deepmind-ai/",
+      "type": "무료",
+      "category": "#Developer Tools, #LLM models",
+      "upvotes": 32
+    },
+    {
+      "name": "NVIDIA NIM APIs",
+      "description": "« 고급 AI 모델을 쉽게 탐색하고 애플리케이션에 통합하세요. 프로젝트에 최적화된 성능과 다양한 기능의 이점을 누리십시오. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/nvidia-nim-apis.png",
+      "url": "https://www.aixploria.com/en/nvidia-nim-apis/",
+      "type": "부분 무료",
+      "category": "#Developer Tools, #LLM models",
+      "upvotes": 41
+    },
+    {
+      "name": "Stable Diffusion 3 Medium",
+      "description": "« Stability AI의 가장 발전된 오픈 소스 AI 모델(20억 개의 매개변수). 더욱 사실적인 이미지 생성: 포토리얼리즘, 일관성, 복잡한 메시지 이해 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/stable-diffusion-3-medium.png",
+      "url": "https://www.aixploria.com/en/stable-diffusion-3-medium-ai-model/",
+      "type": "무료",
+      "category": "#Image Generators, #LLM models",
+      "upvotes": 31
+    },
+    {
+      "name": "Nemotron-70B",
+      "description": "« NVIDIA가 맞춤화한 고성능 AI 언어 모델. 텍스트, 코드 및 채팅 생성 작업에 대한 보다 유용하고 정확한 답변을 활용하세요. NVIDIA 하드웨어에 최적화된 통합 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/nemotron-70b.png",
+      "url": "https://www.aixploria.com/en/nemotron-70b-nvidia-llm-model/",
+      "type": "무료",
+      "category": "#LLM models",
+      "upvotes": 37
+    },
+    {
+      "name": "Command R+",
+      "description": "« 비즈니스를 위한 강력한 언어 모델(LLM)입니다. 10개 언어 지원 및 인용 고급 검색 덕분에 환각 감소 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/command-r-.png",
+      "url": "https://www.aixploria.com/en/command-r-by-cohere/",
+      "type": "유료",
+      "category": "#LLM models",
+      "upvotes": 19
+    },
+    {
+      "name": "Gr00t by Nvidia",
+      "description": "« Nvidia는 인간을 관찰하여 학습할 수 있는 휴머노이드 로봇을 만들기 위한 AI 모델인 Gr00t를 출시합니다. 로봇 공학의 주요 발전 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/gr00t-by-nvidia.png",
+      "url": "https://www.aixploria.com/en/groot-by-nvidia-ai/",
+      "type": "무료",
+      "category": "#LLM models, #Robots and Devices",
+      "upvotes": 64
+    },
+    {
+      "name": "SEAL Leaderboards",
+      "description": "« 가장 성능이 뛰어난 AI 모델의 순위를 확인하세요. 다양한 분야의 각 LLM 모델에 대한 점수와 전문가 평가를 살펴보세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/seal-leaderboards.png",
+      "url": "https://www.aixploria.com/en/seal-leaderboards-by-scale-ai/",
+      "type": "무료",
+      "category": "#LLM models",
+      "upvotes": 28
+    },
+    {
+      "name": "Groq",
+      "description": "« LPU(언어 처리 장치) 개발로 AI 모델 실행 속도를 최대 10배까지 가속화할 수 있는 대담한 스타트업 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/groq.png",
+      "url": "https://www.aixploria.com/en/groq-ai/",
+      "type": "무료",
+      "category": "#LLM models, #SuperTools",
+      "upvotes": 21
+    },
+    {
+      "name": "UniAnimate",
+      "description": "« 단일 참조 이미지에서 길고 일관된 비디오를 생성합니다. 인간과 함께 영상을 애니메이션화하기 위한 통합 확산 모델입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/unianimate-ai-video/",
+      "type": "무료",
+      "category": "#LLM models, #Video Generators",
+      "upvotes": 30
+    },
+    {
+      "name": "Fluid AI",
+      "description": "« Mac용 개인 AI 비서. 오프라인으로 작동하여 민감한 데이터를 보호합니다. 음성 제어로 ChatGPT 품질을 즐겨보세요. 설치가 용이함 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/fluid-ai.png",
+      "url": "https://www.aixploria.com/en/fluid-private-ai-assistant-mac/",
+      "type": "무료",
+      "category": "#AI Chat & Assistant, #LLM models",
+      "upvotes": 34
+    },
+    {
+      "name": "AutoGen",
+      "description": "« LLM을 기반으로 하는 다중 에이전트 시스템을 생성하기 위한 Microsoft의 오픈 소스 프레임워크입니다. 향상된 API 덕분에 복잡한 AI 애플리케이션을 쉽게 개발하고 추론 성능을 최적화하며 비용을 절감할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/autogen.png",
+      "url": "https://www.aixploria.com/en/autogen-agentic-ai-microsoft/",
+      "type": "무료",
+      "category": "#AI Agents, #Developer Tools",
+      "upvotes": 31
+    },
+    {
+      "name": "LearnLM by Google",
+      "description": "« Google이 교육계를 위해 만든 일련의 생성적 AI 모델입니다. 교육 경험을 촉진하고 개인화하는 데 이상적입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/learnlm-by-google.png",
+      "url": "https://www.aixploria.com/en/learnlm-google-ai-models/",
+      "type": "무료",
+      "category": "#Education / Studies, #Future Tools",
+      "upvotes": 29
+    },
+    {
+      "name": "Mistral Large 2",
+      "description": "« 여러 언어로 복잡한 추론이 가능한 고성능 AI 모델입니다. GPT-4에 가까운 인상적인 결과 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/mistral-large-2.png",
+      "url": "https://www.aixploria.com/en/mistral-large-ai-llm-model/",
+      "type": "무료",
+      "category": "#LLM models",
+      "upvotes": 94
+    },
+    {
+      "name": "GodMode by Smol.ai",
+      "description": "« ChatGPT, Claude 2, Bing, Perplexity, Bard, Llama2, HuggingChat 등과 동시에 채팅하는 GitHub 프로젝트 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/godmode-by-smol-ai.png",
+      "url": "https://www.aixploria.com/en/godmode-by-smol-ai/",
+      "type": "무료",
+      "category": "#AI Chat & Assistant, #Github Projects",
+      "upvotes": 9
+    },
+    {
+      "name": "OpenELM by Apple",
+      "description": "« 클라우드 없이 귀하의 장치에서 직접 Apple이 설계한 강력한 오픈 소스 LLM 모델입니다. 정확성을 극대화하기 위해 진화적인 알고리즘으로 훈련됨 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/openelm-by-apple.png",
+      "url": "https://www.aixploria.com/en/openelm-by-apple-ai-llm/",
+      "type": "무료",
+      "category": "#LLM models",
+      "upvotes": 34
+    },
+    {
+      "name": "Codestral",
+      "description": "« Codestral은 코드 생성을 위해 설계된 220억 개의 매개변수 AI 모델입니다. 80개 이상의 프로그래밍 언어에 대한 교육을 받았으며 Mistral의 채팅 인터페이스를 통해 액세스할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/codestral.png",
+      "url": "https://www.aixploria.com/en/codestral-ai-mistral-coding/",
+      "type": "무료",
+      "category": "#Assistant Code, #LLM models",
+      "upvotes": 27
+    },
+    {
+      "name": "Assistants by HuggingFace",
+      "description": "« HuggingFace 커뮤니티에서 만든 가장 인기 있는 AI 비서와 채팅하세요. 사용된 모델: Llama-2, Openchat, Mixtral 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/assistants-by-huggingface.png",
+      "url": "https://www.aixploria.com/en/assistants-by-huggingface-ai/",
+      "type": "무료",
+      "category": "#LLM models",
+      "upvotes": 32
+    },
+    {
+      "name": "Ollama",
+      "description": "« Llama2, Mixtral 또는 Code Llama와 같은 현지 LLM 언어 모델과 채팅하세요. macOS, Linux 및 곧 Windows와도 호환 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ollama.png",
+      "url": "https://www.aixploria.com/en/ollama-ai/",
+      "type": "무료",
+      "category": "#AI Useful, #LLM models",
+      "upvotes": 19
+    },
+    {
+      "name": "Hermes 3",
+      "description": "« 추론에 최적화된 오픈 소스 언어 모델입니다. 고급 자연어 처리 및 복잡한 문제 해결 기능의 이점을 누리세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/hermes-3.png",
+      "url": "https://www.aixploria.com/en/hermes-3-llm-model/",
+      "type": "무료",
+      "category": "#LLM models",
+      "upvotes": 23
+    },
+    {
+      "name": "Pinokio",
+      "description": "« 단 한 번의 클릭으로 로컬 PC에 Stable Diffusion, Llama 2, AudioLDM 2, LDM 3D, Audiocraft, ComfyUI 등 수많은 AI를 설치합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/pinokio.png",
+      "url": "https://www.aixploria.com/en/pinokio/",
+      "type": "무료",
+      "category": "#AI Useful, #LLM models",
+      "upvotes": 3
+    },
+    {
+      "name": "ChatALL",
+      "description": "« 단일 쿼리로 여러 AI 챗봇(+25)과 상호 작용하고 더 나은 답변을 얻으세요. 많은 LLM과 호환 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/chatall.png",
+      "url": "https://www.aixploria.com/en/chatall/",
+      "type": "무료",
+      "category": "#AI Useful, #ChatBots",
+      "upvotes": 7
+    },
+    {
+      "name": "Morpheus-1 by Prophetic AI",
+      "description": "« 자각몽을 유도하고 안정화하도록 설계된 놀라운 AI ​​모델입니다. 꿈을 탐색하고 통제하는 데 이상적입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/morpheus-1-by-prophetic-ai.png",
+      "url": "https://www.aixploria.com/en/morpheus-1-by-prophetic-ai/",
+      "type": "무료",
+      "category": "#Amazing, #Future Tools",
+      "upvotes": 14
+    },
+    {
+      "name": "AlphaFold 3 (Google DeepMind)",
+      "description": "« 모든 살아있는 분자의 구조와 상호 작용을 예측할 수 있는 AI 모델입니다. 잠재력: 단백질, DNA, RNA 및 리간드를 정확하게 모델링하여 생물학 및 약물 발견을 혁신합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/05/deepmind-logo.webp",
+      "url": "https://www.aixploria.com/en/alphafold-3-google-deepmind-ai-model/",
+      "type": "무료",
+      "category": "#LLM models, #Research & Science",
+      "upvotes": 48
+    },
+    {
+      "name": "BlueGPT",
+      "description": "« 모든 AI 모델을 한 곳에서: 텍스트, 이미지 및 다이어그램을 생성합니다. 문서나 토론을 더욱 빠르게 분석하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/bluegpt.png",
+      "url": "https://www.aixploria.com/en/bluegpt-ai-models/",
+      "type": "Free-Trial",
+      "category": "#AI Useful, #LLM models",
+      "upvotes": 24
+    },
+    {
+      "name": "G1 Llama Meta",
+      "description": "« Meta의 Llama-3.1을 기반으로 하는 OpenAI o1에서 영감을 받은 오픈 소스 언어 모델입니다. 추론 체인을 사용하여 약 70%의 정확도로 복잡한 문제를 해결합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/g1-llama-meta.png",
+      "url": "https://www.aixploria.com/en/g1-llama-meta-groq/",
+      "type": "무료",
+      "category": "#Github Projects, #LLM models",
+      "upvotes": 27
+    },
+    {
+      "name": "Gemma by Google",
+      "description": "« Gemini에서 영감을 받은 다양한 개방형, 경량, 최첨단 모델. 현재 두 가지 모델(2B 및 7B)을 사용할 수 있습니다. 상업적 사용 승인됨 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/gemma-by-google.png",
+      "url": "https://www.aixploria.com/en/gemma-ai-open-model-by-google/",
+      "type": "무료",
+      "category": "#LLM models",
+      "upvotes": 90
+    },
+    {
+      "name": "PROTEUS by Apparate",
+      "description": "« 초현실적이고 표현력이 뛰어난 가상 인간을 실시간으로 생성하는 AI입니다. 이 모델들은 웃고, 노래하고, 말하고, 심지어 울 수도 있습니다! 간단한 고성능 API 사용 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/proteus-by-apparate-ai/",
+      "type": "무료",
+      "category": "#Avatars, #LLM models",
+      "upvotes": 23
+    },
+    {
+      "name": "Mistral-Next",
+      "description": "« 매우 유망해 보이는 LLM 모델입니다(아직 정보가 많지 않음). Chatbot Arena 플랫폼에서 직접 테스트해 보실 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/mistral-next.png",
+      "url": "https://www.aixploria.com/en/mistral-next-ai-llm/",
+      "type": "무료",
+      "category": "#LLM models",
+      "upvotes": 24
+    },
+    {
+      "name": "Skild.ai",
+      "description": "« 로봇공학 세계를 위한 AI 모델 교육을 위한 플랫폼입니다. 이를 통해 로봇은 여러 가지 복잡한 작업을 자율적이고 안전하게 수행할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/07/favicon-5.png",
+      "url": "https://www.aixploria.com/en/skild-ai-robots/",
+      "type": "유료",
+      "category": "#LLM models, #Robots and Devices",
+      "upvotes": 38
+    },
+    {
+      "name": "LM Studio",
+      "description": "« 인터넷에 연결하지 않고도 장치에서 언어 모델(LLM)을 쉽게 실행할 수 있습니다. 기밀 유지 및 데이터 보안 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/lm-studio.png",
+      "url": "https://www.aixploria.com/en/lm-studio-ai/",
+      "type": "무료",
+      "category": "#LLM models",
+      "upvotes": 26
+    },
+    {
+      "name": "Mosaic AI by Databricks",
+      "description": "« 회사의 데이터를 IA 기술에 통합하는 최고의 플랫폼입니다. 예측 모델 및 LLM을 쉽게 생성, 배포 및 모니터링 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/mosaic-ai-by-databricks.png",
+      "url": "https://www.aixploria.com/en/mosaic-ai-by-databricks-lmm/",
+      "type": "Free-Trial",
+      "category": "#Data & Analytics, #Developer Tools",
+      "upvotes": 26
+    },
+    {
+      "name": "Sam2 by Meta",
+      "description": "« Meta AI가 만든 오픈 소스 모델로 이미지나 비디오의 모든 개체를 분할할 수 있습니다. 요소를 가리키고 클릭하기만 하면 정확한 마스크를 만들 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/sam2-by-meta.png",
+      "url": "https://www.aixploria.com/en/sam2-by-meta/",
+      "type": "무료",
+      "category": "#LLM models",
+      "upvotes": 33
+    },
+    {
+      "name": "ChatHub",
+      "description": "« ChatGPT, Claude, Bard, Bing 등 여러 ChatBot을 동시에 사용할 수 있는 Chrome 확장 프로그램 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/chathub.png",
+      "url": "https://www.aixploria.com/en/chathub/",
+      "type": "무료",
+      "category": "#AI Chat & Assistant, #LLM models",
+      "upvotes": 6
+    },
+    {
+      "name": "Miqu-1-70b",
+      "description": "« Llama 2 데이터로 훈련된 오픈 소스 LLM 모델로, 대부분의 최신 모델보다 성능이 뛰어나며 GPT-4에 접근합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/miqu-1-70b.png",
+      "url": "https://www.aixploria.com/en/miqu-1-70b/",
+      "type": "무료",
+      "category": "#Future Tools, #LLM models",
+      "upvotes": 12
+    },
+    {
+      "name": "MARS5 by Camb.ai",
+      "description": "« 140개 이상의 언어로 실감나는 음성을 재현할 수 있는 TTS 모델입니다. 단 2~3초의 참조 오디오로 비디오의 자연스러운 렌더링을 즐겨보세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/mars5-by-camb-ai.png",
+      "url": "https://www.aixploria.com/en/mars5-by-camb-ai/",
+      "type": "무료",
+      "category": "#LLM models, #Text To Speech",
+      "upvotes": 22
+    },
+    {
+      "name": "AIML API",
+      "description": "« 통합 API를 통해 200개가 넘는 AI 모델에 액세스하세요. 200개 이상의 모델에 대한 단일 API 키를 사용하여 AI 기능을 애플리케이션에 쉽게 통합하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/aiml-api.png",
+      "url": "https://www.aixploria.com/en/aiml-api/",
+      "type": "유료",
+      "category": "#Developer Tools, #LLM models",
+      "upvotes": 33
+    },
+    {
+      "name": "NVIDIA NVLM-1",
+      "description": "« NVIDIA가 개발한 고급 다중 모드 언어 모델 제품군입니다. 많은 시각 및 언어 작업에서 독점 모델을 능가하는 동시에 텍스트 작업의 성능을 향상시킵니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/nvidia-nvlm-1.png",
+      "url": "https://www.aixploria.com/en/nvidia-nvlm-1/",
+      "type": "무료",
+      "category": "#Developer Tools, #LLM models",
+      "upvotes": 29
+    },
+    {
+      "name": "Reka Core",
+      "description": "« 성능 측면에서 GPT-4 및 Claude 3에 필적하는 다중 모드 모델입니다. 여기에는 이미지, 비디오, 사운드가 포함됩니다. 32개 언어로 추론하고, 코딩하고, 말할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/reka-core.png",
+      "url": "https://www.aixploria.com/en/reka-core-llm-multimodal-model/",
+      "type": "무료",
+      "category": "#LLM models",
+      "upvotes": 30
+    },
+    {
+      "name": "Qwen2",
+      "description": "« 최대 720억 개의 매개변수를 갖춘 새로운 언어 모델. 27개 언어로 교육받은 이 LLM은 코딩과 수학 분야에서 탁월합니다. 오픈 소스로 사용 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/qwen2-ai-model-llm/",
+      "type": "무료",
+      "category": "#LLM models",
+      "upvotes": 20
+    },
+    {
+      "name": "Guanaco AI",
+      "description": "« 7B 매개변수 모델로 훈련된 고성능 다국어 대화형 챗봇 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/guanaco-ai.png",
+      "url": "https://www.aixploria.com/en/guanaco-ai/",
+      "type": "무료",
+      "category": "#AI Chat & Assistant, #LLM models",
+      "upvotes": 4
+    },
+    {
+      "name": "Open Assistant",
+      "description": "« 모든 종류의 질문에 답할 수 있는 오픈소스 AI 대화 에이전트 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/open-assistant.png",
+      "url": "https://www.aixploria.com/en/open-assistant/",
+      "type": "무료",
+      "category": "#AI Chat & Assistant, #LLM models",
+      "upvotes": 3
+    },
+    {
+      "name": "V-JEPA by Meta",
+      "description": "« 비디오를 시청하여 학습하는 비생성 LLM 모델입니다. 탁월한 인식 및 감지 결과를 제공합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/v-jepa-by-meta.png",
+      "url": "https://www.aixploria.com/en/v-jepa-by-meta-ai/",
+      "type": "무료",
+      "category": "#Github Projects, #LLM models",
+      "upvotes": 30
+    },
+    {
+      "name": "Unsloth AI",
+      "description": "« 24시간 이내에 나만의 ChatGPT를 쉽게 만들고 훈련할 수 있습니다. 최대 30배 더 빠르고 30% 더 정확합니다. 코딩 방법을 알 필요가 없습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/unsloth-ai.png",
+      "url": "https://www.aixploria.com/en/unsloth-ai/",
+      "type": "무료",
+      "category": "#ChatBots, #LLM models",
+      "upvotes": 22
+    },
+    {
+      "name": "MGIE by Apple",
+      "description": "« 프롬프트를 참조하여 모든 이미지를 수정할 수 있는 MLLM 모델(다중 모드 모델) »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/mgie-by-apple.png",
+      "url": "https://www.aixploria.com/en/mgie-by-apple/",
+      "type": "무료",
+      "category": "#Image editing, #LLM models",
+      "upvotes": 13
+    },
+    {
+      "name": "AlphaGeometry by Google",
+      "description": "« 기존 방법을 능가하는 Google이 만든 AI 기하학 전문가 모델입니다. 복잡한 수학적 문제를 해결할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/alphageometry-by-google.png",
+      "url": "https://www.aixploria.com/en/alphageometry-by-google-ai/",
+      "type": "무료",
+      "category": "#LLM models, #Research & Science",
+      "upvotes": 11
+    },
+    {
+      "name": "Chat with MLX",
+      "description": "« 다양한 오픈 소스 LLM 템플릿과 호환되는 올인원 인터페이스를 통해 안전하게 문서에 대해 토론하세요. Apple MLX 프레임워크 기반 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/chat-with-mlx.png",
+      "url": "https://www.aixploria.com/en/chat-with-mlx-apple-llm/",
+      "type": "무료",
+      "category": "#Github Projects, #LLM models",
+      "upvotes": 23
+    },
+    {
+      "name": "SignLLM",
+      "description": "« 수화에 대한 예측 LLM 모델. 텍스트를 사실적인 기호로 변환하고 청각 장애인의 접근성과 포용성을 촉진합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/signllm-ai-model/",
+      "type": "무료",
+      "category": "#Future Tools, #LLM models",
+      "upvotes": 22
+    },
+    {
+      "name": "Liquid AI",
+      "description": "« LFM이라는 강력한 생성 AI 모델 세트입니다. 더 적은 메모리와 컴퓨팅 리소스를 사용하면서 기존의 대규모 언어 모델보다 우수한 성능을 얻습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/liquid-ai.png",
+      "url": "https://www.aixploria.com/en/liquid-ai/",
+      "type": "부분 무료",
+      "category": "#Developer Tools, #LLM models",
+      "upvotes": 28
+    },
+    {
+      "name": "Qwen2-Math",
+      "description": "« 고급 추론 기능과 복잡한 문제 해결 능력을 갖춘 수학 전문 AI 모델입니다. 곧 이중 언어(영어-중국어)를 구사할 예정입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/qwen2-math-ai-model/",
+      "type": "무료",
+      "category": "#LLM models",
+      "upvotes": 23
+    },
+    {
+      "name": "Mixtral 8x22B",
+      "description": "« 최고 수준의 성능을 제공하는 오픈 소스 LLM 모델(Apache 2.0 라이센스에 따라)입니다. 접근 가능하고 저렴한 API »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/04/faviconV2.png",
+      "url": "https://www.aixploria.com/en/mixtral-8x22b/",
+      "type": "무료",
+      "category": "#LLM models",
+      "upvotes": 20
+    },
+    {
+      "name": "Grok-1",
+      "description": "« 약 3,140억 개의 매개변수를 포함하는 매우 큰 LLM 모델입니다. GitHub 플랫폼에서 오픈 소스로 제공됩니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/grok-1.png",
+      "url": "https://www.aixploria.com/en/grok-1-llm-model-open-source/",
+      "type": "무료",
+      "category": "#LLM models",
+      "upvotes": 24
+    },
+    {
+      "name": "Chatbot UI",
+      "description": "« 다양한 AI 언어 모델(LLM)을 설치하고 상호 작용할 수 있는 오픈 소스 소프트웨어 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/chatbot-ui.png",
+      "url": "https://www.aixploria.com/en/chatbot-ui/",
+      "type": "무료",
+      "category": "#ChatBots, #LLM models",
+      "upvotes": 7
+    },
+    {
+      "name": "AudioSparx by Stability.ai",
+      "description": "« Stability.ai가 만든 강력하고 새로운 오픈 소스 텍스트 음악 AI 모델입니다. 최대 95초 동안 CD 품질의 음악을 생성할 수 있는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/audiosparx-by-stability-ai.png",
+      "url": "https://www.aixploria.com/en/audiosparx-by-stability-ai/",
+      "type": "무료",
+      "category": "#Github Projects, #LLM models",
+      "upvotes": 5
+    },
+    {
+      "name": "Flux-Dev-Lora-Trainer",
+      "description": "« Flux Dev를 사용하여 이미지 생성을 위한 LoRA 모델을 빠르게 훈련하세요. 기존 모델을 조정하고 시간을 절약할 수 있는 가능성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/flux-dev-lora-trainer.png",
+      "url": "https://www.aixploria.com/en/flux-dev-lora-trainer/",
+      "type": "유료",
+      "category": "#Art, #LLM models",
+      "upvotes": 24
+    },
+    {
+      "name": "Phi-3-mini by Microsoft",
+      "description": "« 38억 개의 매개변수에도 불구하고 강력한 SLM. LLM으로 구동되며 GPT-3.5 또는 Anthropic의 Claude 3 Haiku와 같은 거대 기업과 경쟁합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/phi-3-mini-by-microsoft.png",
+      "url": "https://www.aixploria.com/en/phi-3-mini-by-microsoft/",
+      "type": "무료",
+      "category": "#LLM models",
+      "upvotes": 22
+    },
+    {
+      "name": "DBRX by Databricks",
+      "description": "« 인상적인 성능을 갖춘 오픈 소스 언어 모델입니다. 이 LLM 모델은 프로그래밍 우수성 측면에서 GPT-3.5 및 경쟁사인 Gemini 1.0 Pro보다 성능이 뛰어납니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/dbrx-by-databricks.png",
+      "url": "https://www.aixploria.com/en/dbrx-by-databricks-ai-llm-model/",
+      "type": "무료",
+      "category": "#LLM models",
+      "upvotes": 29
+    },
+    {
+      "name": "nanoGPT",
+      "description": "« 대화형 스프레드시트에서 GPT의 내부 작동 방식을 알아보세요. 아키텍처, 행렬 계산 및 데이터 흐름을 확인하세요. 재미있고 유익함 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/nanogpt.png",
+      "url": "https://www.aixploria.com/en/nanogpt-ai-spreadsheet-llms/",
+      "type": "무료",
+      "category": "#Education / Studies, #Github Projects",
+      "upvotes": 19
+    },
+    {
+      "name": "Stable LM 2",
+      "description": "« 16억 개의 매개변수를 갖춘 다소 컴팩트한 LLM 모델입니다. 속도와 성능 사이의 균형을 원하는 개발자에게 이상적입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/stable-lm-2.png",
+      "url": "https://www.aixploria.com/en/stable-lm-2/",
+      "type": "무료",
+      "category": "#LLM models",
+      "upvotes": 8
+    },
+    {
+      "name": "Qwen-VL-Plus",
+      "description": "« 이미지를 매우 정확하게 분석하고 해석할 수 있는 다중 모드 LLM 모델 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/qwen-vl-plus.png",
+      "url": "https://www.aixploria.com/en/qwen-vl-plus/",
+      "type": "무료",
+      "category": "#LLM models",
+      "upvotes": 4
+    },
+    {
+      "name": "Qwen 1.5",
+      "description": "« 현재 사용 가능한 최고의 오픈 소스 모델에 필적하는 고성능 LLM 모델 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/qwen-1-5.png",
+      "url": "https://www.aixploria.com/en/qwen-1-5-llm-model/",
+      "type": "무료",
+      "category": "#Github Projects, #LLM models",
+      "upvotes": 3
+    },
+    {
+      "name": "Sanctum AI",
+      "description": "« 오픈 소스 LLM을 로컬에서 실행하기 위해 MacOS용으로 특별히 설계된 AI 도구입니다. 고급 암호화 시스템을 갖추고 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/sanctum-ai.png",
+      "url": "https://www.aixploria.com/en/sanctum-ai/",
+      "type": "무료",
+      "category": "#LLM models, #Text Generators",
+      "upvotes": 8
+    },
+    {
+      "name": "Dolly 2.0",
+      "description": "« ChatGPT와 같은 LLM 대화형 AI, 100% 무료 오픈 소스. API 사용 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/dolly-2-0.png",
+      "url": "https://www.aixploria.com/en/dolly-2-0/",
+      "type": "무료",
+      "category": "#Future Tools, #LLM models",
+      "upvotes": 0
+    },
+    {
+      "name": "Reka Flash",
+      "description": "« 21B 매개변수를 갖춘 고성능, 다중 언어 다중 모드 언어 모델입니다. Reka Playground의 공개 베타 버전에서 사용 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/reka-flash.png",
+      "url": "https://www.aixploria.com/en/reka-flash-ai/",
+      "type": "무료",
+      "category": "#LLM models",
+      "upvotes": 6
+    },
+    {
+      "name": "GPTBots.ai",
+      "description": "« 개발자가 LLM을 데이터에 원활하게 통합하고 지능형 ChatBot을 생성할 수 있는 AI 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/gptbots-ai.png",
+      "url": "https://www.aixploria.com/en/gptbots-ai/",
+      "type": "부분 무료",
+      "category": "#ChatBots, #Data & Analytics",
+      "upvotes": 3
+    },
+    {
+      "name": "Private LLM",
+      "description": "« 자신만의 AI ChatBot을 쉽게 구축할 수 있습니다. 인터넷 연결 없이도 귀하의 질문에 답변할 수 있는 도우미를 구하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/private-llm.png",
+      "url": "https://www.aixploria.com/en/personal-gpt/",
+      "type": "무료",
+      "category": "#ChatBots, #LLM models",
+      "upvotes": 2
+    },
+    {
+      "name": "I-JEPA",
+      "description": "« 현실 세계를 모방하여 학습하는 LLM 모델입니다. 이 AI는 다른 유사한 AI보다 빠르고 효율적입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/i-jepa.png",
+      "url": "https://www.aixploria.com/en/i-jepa/",
+      "type": "무료",
+      "category": "#Future Tools, #LLM models",
+      "upvotes": 0
+    },
+    {
+      "name": "BloombergGPT",
+      "description": "« 주로 금융계에 특화된 500억 개 이상의 매개변수로 훈련된 유망한 LLM 모델 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/bloomberggpt.png",
+      "url": "https://www.aixploria.com/en/bloomberggpt/",
+      "type": "무료",
+      "category": "#Future Tools, #LLM models",
+      "upvotes": 2
+    },
+    {
+      "name": "Vicuna",
+      "description": "« ChatGPT-4와 성능이 90% 유사한 무료 오픈 소스 ChatBot »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/vicuna.png",
+      "url": "https://www.aixploria.com/en/vicuna/",
+      "type": "무료",
+      "category": "#Future Tools, #LLM models",
+      "upvotes": 0
+    },
+    {
+      "name": "StarCoder",
+      "description": "« 80개 이상의 프로그래밍 언어를 포함하고 GitHub 및 노트북의 텍스트를 사용하는 코드 및 텍스트 기반 모델(LLM) »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/starcoder.png",
+      "url": "https://www.aixploria.com/en/starcoder/",
+      "type": "무료",
+      "category": "#Github Projects, #LLM models",
+      "upvotes": 0
+    },
+    {
+      "name": "Grok-1.5",
+      "description": "« 최적화된 추론 기능과 128,000개 토큰의 컨텍스트 길이를 갖춘 xAI에서 개발한 LLM 모델 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/grok-1-5.png",
+      "url": "https://www.aixploria.com/en/grok-1-5-llm-model/",
+      "type": "무료",
+      "category": "#Future Tools, #LLM models",
+      "upvotes": 29
+    },
+    {
+      "name": "Autoblocks AI",
+      "description": "« 기업에 최적화된 기능으로 LLM 모델 생성, 배포 및 모니터링 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/02/favicon-defa.png",
+      "url": "https://www.aixploria.com/en/autoblocks-ai/",
+      "type": "유료",
+      "category": "#Developer Tools, #LLM models",
+      "upvotes": 0
+    }
+  ]
+}

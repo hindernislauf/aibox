@@ -1,0 +1,437 @@
+{
+  "name": "Research & Science",
+  "items": [
+    {
+      "name": "Perplexity AI",
+      "description": "« 복잡한 질문에 대한 정확한 답변을 제공하는 검색 엔진 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/perplexity-ai.png",
+      "url": "https://www.aixploria.com/en/perplexity-ai/",
+      "type": "무료",
+      "category": "#Education / Studies, #Research & Science",
+      "upvotes": 767
+    },
+    {
+      "name": "WolframAlpha",
+      "description": "« 이 놀라운 AI, 과학 전문가(매우 고급 수준)에게 원하는 것을 계산하거나 물어보세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/wolframalpha.png",
+      "url": "https://www.aixploria.com/en/wolframalpha/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Research & Science",
+      "upvotes": 76
+    },
+    {
+      "name": "Consensus",
+      "description": "« AI 기반 검색 엔진을 통해 과학 연구에 대한 깊은 통찰력 얻기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/consensus.png",
+      "url": "https://www.aixploria.com/en/consensus/",
+      "type": "무료",
+      "category": "#Education / Studies, #Research & Science",
+      "upvotes": 70
+    },
+    {
+      "name": "Scite.ai",
+      "description": "« 과학 논문을 발견하고 평가하기 위한 AI 검색 플랫폼입니다. 12억 건의 인용 및 1억 8,700만 개의 기사 검색 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/scite-ai.png",
+      "url": "https://www.aixploria.com/en/scite-ai/",
+      "type": "유료",
+      "category": "#Education / Studies, #Research & Science",
+      "upvotes": 59
+    },
+    {
+      "name": "Liner AI",
+      "description": "« ChatGPT가 제공하는 작업 공간을 위한 AI 부조종사. 연구 효율성을 향상시키기 위한 정보 및 참고 자료를 빠르게 찾으세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/liner-ai.png",
+      "url": "https://www.aixploria.com/en/liner-ai-search-assistant/",
+      "type": "무료",
+      "category": "#Education / Studies, #Research & Science",
+      "upvotes": 48
+    },
+    {
+      "name": "Semantic Scholar",
+      "description": "« 의미론적 AI 검색 엔진과 개발자를 위한 강력한 API를 통해 2억 2천만 권의 과학 출판물 탐색 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/semantic-scholar.png",
+      "url": "https://www.aixploria.com/en/semantic-scholar-ai-search-engine/",
+      "type": "무료",
+      "category": "#Developer Tools, #Education / Studies",
+      "upvotes": 60
+    },
+    {
+      "name": "Jenny AI",
+      "description": "« 연구 논문을 더 빠르게 작성하세요. AI는 출처를 인용하고, 문장을 완성하고, 논문과 의역을 요약합니다. LaTeX 또는 Word로 내보내기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/jenny-ai.png",
+      "url": "https://www.aixploria.com/en/jenny-ai/",
+      "type": "부분 무료",
+      "category": "#Research & Science, #Text Generators",
+      "upvotes": 33
+    },
+    {
+      "name": "Human or AI?",
+      "description": "« 이미지가 생성된 것이 인간인지 AI인지 추측해야 하는 게임입니다. 이 연구 결과는 매주 발표됩니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/human-or-ai-.png",
+      "url": "https://www.aixploria.com/en/human-or-ai/",
+      "type": "무료",
+      "category": "#Games, #Research & Science",
+      "upvotes": 7
+    },
+    {
+      "name": "SciSpace AI Writer",
+      "description": "« 이 고성능 연구 조교는 글쓰기에 도움이 되는 강력한 AI 기능을 갖추고 있습니다. 내장된 인용, 정확한 자동 완성 및 75개 이상의 언어 지원을 통해 과학 콘텐츠 제작 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/scispace-ai-writer.png",
+      "url": "https://www.aixploria.com/en/scispace-ai-academic-writer/",
+      "type": "부분 무료",
+      "category": "#Research & Science, #Writing & Web SEO",
+      "upvotes": 35
+    },
+    {
+      "name": "Socratic by Google",
+      "description": "« 수학, 과학, 문학 등 학업에 도움이 되는 AI.. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/socratic-by-google.png",
+      "url": "https://www.aixploria.com/en/socratic-by-google/",
+      "type": "무료",
+      "category": "#Education / Studies, #Research & Science",
+      "upvotes": 11
+    },
+    {
+      "name": "Scholarcy",
+      "description": "« 매우 방대한 텍스트나 기사를 요약하고 원하는 데이터를 추출하는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/scholarcy.png",
+      "url": "https://www.aixploria.com/en/scholarcy/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Research & Science",
+      "upvotes": 16
+    },
+    {
+      "name": "Tree of Knowledge AI",
+      "description": "« 대화형 AI 지식 트리의 형태로 인간 지식을 탐색하세요. 학문 간을 탐색하고 모든 연관성을 찾아보세요. 이 프로젝트는 무료이며 오픈 소스입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/tree-of-knowledge-ai/",
+      "type": "무료",
+      "category": "#Education / Studies, #Productivity",
+      "upvotes": 34
+    },
+    {
+      "name": "OpenRead",
+      "description": "« 학술 문서나 과학 논문을 추출, 요약, 분석하는 AI 기반 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/openread.png",
+      "url": "https://www.aixploria.com/en/openread/",
+      "type": "무료",
+      "category": "#Education / Studies, #Research & Science",
+      "upvotes": 5
+    },
+    {
+      "name": "AI Scientist by Sakana",
+      "description": "« 과학 연구를 자동화하는 최초의 AI 시스템을 만나보세요. 아이디어를 창출하고, 실험을 수행하고, 논문을 작성합니다. 반복적이고 개방적인 프로세스 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-scientist-by-sakana.png",
+      "url": "https://www.aixploria.com/en/the-ai-scientist-by-sakana/",
+      "type": "무료",
+      "category": "#Automation, #Github Projects",
+      "upvotes": 32
+    },
+    {
+      "name": "DGM AI",
+      "description": "« AI를 사용하여 전문적이고 자동화된 다이어그램을 생성하세요. UML, ERD, 순서도, UI 와이어프레임 등에 대해 사전 구축된 라이브러리 사용 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/dgm-ai.png",
+      "url": "https://www.aixploria.com/en/dgm-ai/",
+      "type": "무료",
+      "category": "#Education / Studies, #Productivity",
+      "upvotes": 8
+    },
+    {
+      "name": "Morpheus-1 by Prophetic AI",
+      "description": "« 자각몽을 유도하고 안정화하도록 설계된 놀라운 AI ​​모델입니다. 꿈을 탐색하고 통제하는 데 이상적입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/morpheus-1-by-prophetic-ai.png",
+      "url": "https://www.aixploria.com/en/morpheus-1-by-prophetic-ai/",
+      "type": "무료",
+      "category": "#Amazing, #Future Tools",
+      "upvotes": 14
+    },
+    {
+      "name": "AlphaFold 3 (Google DeepMind)",
+      "description": "« 모든 살아있는 분자의 구조와 상호 작용을 예측할 수 있는 AI 모델입니다. 잠재력: 단백질, DNA, RNA 및 리간드를 정확하게 모델링하여 생물학 및 약물 발견을 혁신합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/05/deepmind-logo.webp",
+      "url": "https://www.aixploria.com/en/alphafold-3-google-deepmind-ai-model/",
+      "type": "무료",
+      "category": "#LLM models, #Research & Science",
+      "upvotes": 48
+    },
+    {
+      "name": "Elicit",
+      "description": "« AI의 힘으로 검색을 분류, 요약, 분석 또는 자동화하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/elicit.png",
+      "url": "https://www.aixploria.com/en/elicit/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Research & Science",
+      "upvotes": 13
+    },
+    {
+      "name": "Otio AI",
+      "description": "« 연구원이 학술 콘텐츠를 효율적으로 구성하고 요약하는 데 도움이 되는 AI 지원 연구 및 작성 플랫폼입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/otio-ai.png",
+      "url": "https://www.aixploria.com/en/otio-ai/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Research & Science",
+      "upvotes": 15
+    },
+    {
+      "name": "SciSummary",
+      "description": "« 매우 긴 과학 기사, 논문이라도 쉽게 요약해주는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/scisummary.png",
+      "url": "https://www.aixploria.com/en/scisummary/",
+      "type": "무료",
+      "category": "#Research & Science, #Summarizer",
+      "upvotes": 10
+    },
+    {
+      "name": "AlphaGeometry by Google",
+      "description": "« 기존 방법을 능가하는 Google이 만든 AI 기하학 전문가 모델입니다. 복잡한 수학적 문제를 해결할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/alphageometry-by-google.png",
+      "url": "https://www.aixploria.com/en/alphageometry-by-google-ai/",
+      "type": "무료",
+      "category": "#LLM models, #Research & Science",
+      "upvotes": 11
+    },
+    {
+      "name": "AlphaResearch",
+      "description": "« AI의 도움을 받으며 수백만 개의 문서, 보고서 또는 기사를 찾아보세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/alpharesearch.png",
+      "url": "https://www.aixploria.com/en/alpharesearch/",
+      "type": "부분 무료",
+      "category": "#Finance, #Research & Science",
+      "upvotes": 4
+    },
+    {
+      "name": "Undermind AI",
+      "description": "« 상세한 과학 연구에 탁월한 AI 조수. 정확한 결과 및 심층적인 문헌 평가 얻기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/undermind-ai.png",
+      "url": "https://www.aixploria.com/en/undermind-ai/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Research & Science",
+      "upvotes": 7
+    },
+    {
+      "name": "Lightmatter",
+      "description": "« 광 프로세서를 개발하는 스타트업입니다. AI를 가속화하고 데이터 센터 에너지 소비를 줄이기 위한 광 컴퓨팅의 잠재력 탐색 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/lightmatter.png",
+      "url": "https://www.aixploria.com/en/lightmatter-photonic-ai-chips/",
+      "type": "유료",
+      "category": "#Research & Science, #Robots and Devices",
+      "upvotes": 24
+    },
+    {
+      "name": "Materiom",
+      "description": "« 바이오 기반 재료의 개방형 데이터베이스. 생체재료 레시피에 액세스하고, 전 세계 연구자들과 협력하고, 생성 AI 도구를 사용하여 연구를 가속화하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/materiom.png",
+      "url": "https://www.aixploria.com/en/materiom-ai-biobased-database/",
+      "type": "부분 무료",
+      "category": "#AI Useful, #AIxploria Selection",
+      "upvotes": 33
+    },
+    {
+      "name": "CoolMindMaps",
+      "description": "« AI의 도움으로 어떤 주제에 대해서도 쉽게 검색하고 마인드맵을 생성할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/coolmindmaps.png",
+      "url": "https://www.aixploria.com/en/coolmindmaps/",
+      "type": "무료",
+      "category": "#Productivity, #Research & Science",
+      "upvotes": 4
+    },
+    {
+      "name": "Climate Policy Radar",
+      "description": "« 글로벌 기후법 및 정책에 대한 AI 데이터베이스입니다. 고급 검색 도구와 공개 데이터를 사용하여 5,000개 이상의 문서에 액세스하고 동향을 분석하며 결정을 내릴 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/climate-policy-radar.png",
+      "url": "https://www.aixploria.com/en/climate-policy-radar/",
+      "type": "무료",
+      "category": "#Data & Analytics, #Research & Science",
+      "upvotes": 24
+    },
+    {
+      "name": "Iris AI",
+      "description": "« 다양한 분야에서 AI 지원 연구 수행 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/iris-ai.png",
+      "url": "https://www.aixploria.com/en/iris-ai/",
+      "type": "부분 무료",
+      "category": "#Productivity, #Research & Science",
+      "upvotes": 2
+    },
+    {
+      "name": "Scispace",
+      "description": "« 과학 문헌(논문 등)을 이해하고 쉽게 읽을 수 있도록 도와주는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/scispace.png",
+      "url": "https://www.aixploria.com/en/scispace/",
+      "type": "무료",
+      "category": "#Research & Science",
+      "upvotes": 21
+    },
+    {
+      "name": "Minerva",
+      "description": "« 연구원과 학생이 학술 수준의 정보를 빠르게 찾을 수 있도록 도와주는 검색 도우미 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/minerva.png",
+      "url": "https://www.aixploria.com/en/minerva/",
+      "type": "무료",
+      "category": "#Education / Studies, #Research & Science",
+      "upvotes": 0
+    },
+    {
+      "name": "Wisio",
+      "description": "« 여러 언어로 접근 가능한 과학 글쓰기를 위해 설계된 AI 플랫폼 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/wisio.png",
+      "url": "https://www.aixploria.com/en/wisio/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Research & Science",
+      "upvotes": 2
+    },
+    {
+      "name": "Connected Papers",
+      "description": "« 다양한 검색 영역 항목을 함께 연결하세요. 놓친 내용이 없는지 확인하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/connected-papers.png",
+      "url": "https://www.aixploria.com/en/connected-papers/",
+      "type": "부분 무료",
+      "category": "#Research & Science",
+      "upvotes": 20
+    },
+    {
+      "name": "Chat EQ",
+      "description": "« 과학 연구에 (익명으로) 기여하면서 어렵고 대립적인 토론을 처리하는 방법을 알아보세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/chat-eq.png",
+      "url": "https://www.aixploria.com/en/chat-eq/",
+      "type": "무료",
+      "category": "#Research & Science",
+      "upvotes": 4
+    },
+    {
+      "name": "Cradle",
+      "description": "« 단백질을 빠르고 최적화된 방식으로 설계하려는 생물학자를 위한 AI 기반 지원 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/cradle.png",
+      "url": "https://www.aixploria.com/en/cradle/",
+      "type": "유료",
+      "category": "#Healthcare, #Research & Science",
+      "upvotes": 16
+    },
+    {
+      "name": "ResearchGPT",
+      "description": "« PDF 문서를 검색하고 원하는 답변을 추출할 수 있는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/researchgpt.png",
+      "url": "https://www.aixploria.com/en/researchgpt/",
+      "type": "무료",
+      "category": "#Files & Spreadsheets, #Github Projects",
+      "upvotes": 0
+    },
+    {
+      "name": "DeepCore",
+      "description": "« 자동화된 암석 설명 및 이미지에서 핵심 샘플 추출을 위한 신경망. 지질학자에게 적합합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/deepcore.png",
+      "url": "https://www.aixploria.com/en/deepcore-petroleum-digital-ai/",
+      "type": "무료",
+      "category": "#Research & Science",
+      "upvotes": 1
+    },
+    {
+      "name": "BioGPT",
+      "description": "« 생물 의학 분야를 돕기 위해 생물학 개념으로 훈련된 GPT 하의 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/biogpt.png",
+      "url": "https://www.aixploria.com/en/biogpt/",
+      "type": "무료",
+      "category": "#Github Projects, #Research & Science",
+      "upvotes": 0
+    },
+    {
+      "name": "ResearchRabbit",
+      "description": "« 자신이 선택한 연구 분야(과학 등)의 실제 기사 컬렉션을 만들어 보세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/researchrabbit.png",
+      "url": "https://www.aixploria.com/en/researchrabbit/",
+      "type": "무료",
+      "category": "#Research & Science",
+      "upvotes": 8
+    },
+    {
+      "name": "ArxivGPT",
+      "description": "« arXiv 플랫폼의 과학 문서와 논문을 요약하는 AI 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/arxivgpt.png",
+      "url": "https://www.aixploria.com/en/arxivgpt/",
+      "type": "무료",
+      "category": "#Research & Science",
+      "upvotes": 0
+    },
+    {
+      "name": "Adept AI",
+      "description": "« 인터넷에 연결하여 도움을 주고 싶어하는 GPT의 AI 경쟁자 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/adept-ai.png",
+      "url": "https://www.aixploria.com/en/adept-ai/",
+      "type": "무료",
+      "category": "#Future Tools, #Research & Science",
+      "upvotes": 1
+    },
+    {
+      "name": "Summate",
+      "description": "« 전체 텍스트 RSS 및 OpenAI의 도움으로 지능형 데이터 추출 및 기사 요약 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/summate.png",
+      "url": "https://www.aixploria.com/en/summate/",
+      "type": "무료",
+      "category": "#Research & Science, #Summarizer",
+      "upvotes": 0
+    },
+    {
+      "name": "Papers GPT",
+      "description": "« GPT에 과학 논문을 제출하고 모든 영역에서 전문가 AI 확보 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/papers-gpt.png",
+      "url": "https://www.aixploria.com/en/papers-gpt/",
+      "type": "무료",
+      "category": "#Research & Science",
+      "upvotes": 3
+    },
+    {
+      "name": "ExplainPaper",
+      "description": "« 읽기 어려운 텍스트라도 명확하고 간단한 설명을 들을 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/explainpaper/",
+      "type": "무료",
+      "category": "#Research & Science",
+      "upvotes": 1
+    },
+    {
+      "name": "Galactica",
+      "description": "« 광범위한 과학 연구 자료로 훈련된 인공지능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/galactica.png",
+      "url": "https://www.aixploria.com/en/galactica/",
+      "type": "무료",
+      "category": "#Research & Science",
+      "upvotes": 2
+    },
+    {
+      "name": "Podcast",
+      "description": "« 매주 AI가 특정 주제(과학, 영화 등)로 새로운 팟캐스트를 생성합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/podcast.png",
+      "url": "https://www.aixploria.com/en/podcast/",
+      "type": "무료",
+      "category": "#Research & Science",
+      "upvotes": 0
+    },
+    {
+      "name": "Laion",
+      "description": "« 머신러닝 및 데이터 최적화(생태적) 관련 연구 활성화 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/laion.png",
+      "url": "https://www.aixploria.com/en/laion/",
+      "type": "무료",
+      "category": "#Research & Science",
+      "upvotes": 1
+    },
+    {
+      "name": "Koala AI",
+      "description": "« 학술 연구를 위해 특별히 설계되고 훈련된 AI 기반 ChatBot »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/koala-ai.png",
+      "url": "https://www.aixploria.com/en/koala-ai/",
+      "type": "무료",
+      "category": "#Research & Science",
+      "upvotes": 1
+    },
+    {
+      "name": "Byterat",
+      "description": "« 배터리 엔지니어 전용 AI 기반 플랫폼입니다. AI를 통한 테스트 데이터 활용 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/byterat.png",
+      "url": "https://www.aixploria.com/en/byterat/",
+      "type": "유료",
+      "category": "#Research & Science",
+      "upvotes": 2
+    }
+  ]
+}

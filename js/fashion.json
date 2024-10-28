@@ -1,0 +1,203 @@
+{
+  "name": "Fashion",
+  "items": [
+    {
+      "name": "Outfits AI",
+      "description": "« 새로운 옷 아이디어를 찾을 수 있도록 옷을 바꿔주는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/outfits-ai.png",
+      "url": "https://www.aixploria.com/en/outfits-ai/",
+      "type": "부분 무료",
+      "category": "#Amazing, #Fashion",
+      "upvotes": 8
+    },
+    {
+      "name": "AI HairStyles",
+      "description": "« 트렌드와 패션을 아는 AI를 사용하여 셀카 중 하나에서 새로운 헤어스타일을 시도해 보세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-hairstyles.png",
+      "url": "https://www.aixploria.com/en/ai-hairstyles/",
+      "type": "유료",
+      "category": "#Amazing, #Fashion",
+      "upvotes": 7
+    },
+    {
+      "name": "GlamAR",
+      "description": "« 증강 현실 가상 피팅으로 매출을 늘리세요. 메이크업, 안경, 주얼리... 고객이 실시간으로 제품을 볼 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/04/favicon-glamar.png",
+      "url": "https://www.aixploria.com/en/glamar-ai/",
+      "type": "Free-Trial",
+      "category": "#E-commerce, #Fashion",
+      "upvotes": 39
+    },
+    {
+      "name": "Pixite AI",
+      "description": "« 아이디어를 입력하고 독특한 의류 디자인을 얻으세요. 의류 인쇄 및 주문 옵션 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/pixite-ai.png",
+      "url": "https://www.aixploria.com/en/pixite-ai/",
+      "type": "무료",
+      "category": "#Fashion",
+      "upvotes": 5
+    },
+    {
+      "name": "Outfit Anyone",
+      "description": "« AI를 사용하여 다양한 유형의 의류를 즉시 테스트합니다. 전자상거래 제품 검색을 위한 이상적인 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/outfit-anyone.png",
+      "url": "https://www.aixploria.com/en/outfit-anyone-ai/",
+      "type": "무료",
+      "category": "#E-commerce, #Fashion",
+      "upvotes": 8
+    },
+    {
+      "name": "Botika",
+      "description": "« 템플릿과 맞춤 의류로 패션 사진 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/botika.png",
+      "url": "https://www.aixploria.com/en/botika/",
+      "type": "부분 무료",
+      "category": "#Fashion",
+      "upvotes": 3
+    },
+    {
+      "name": "AI Fashion Models insMind",
+      "description": "« 여성, 남성, 다양한 피부색 등 AI 모델을 쉽게 생성할 수 있는 고품질 솔루션 기술 지식 없이도 모델을 훈련, 테스트 및 통합할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-fashion-models-insmind.png",
+      "url": "https://www.aixploria.com/en/ai-fashion-models-insmind/",
+      "type": "부분 무료",
+      "category": "#Fashion",
+      "upvotes": 27
+    },
+    {
+      "name": "Hair by AI",
+      "description": "« 당신의 형태를 존중하면서 조언해주는 패셔너블한 헤어스타일 전문 AI 비서 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/hair-by-ai.png",
+      "url": "https://www.aixploria.com/en/hair-by-ai/",
+      "type": "유료",
+      "category": "#Fashion",
+      "upvotes": 2
+    },
+    {
+      "name": "Cala",
+      "description": "« 적합한 도구를 사용하여 세련되고 트렌디한 제품을 디자인할 수 있는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/cala.png",
+      "url": "https://www.aixploria.com/en/cala/",
+      "type": "부분 무료",
+      "category": "#Fashion",
+      "upvotes": 1
+    },
+    {
+      "name": "My AI Tees",
+      "description": "« 간단한 설명이나 이미지로 인쇄된 맞춤형 티셔츠 제작 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/my-ai-tees/",
+      "type": "유료",
+      "category": "#Fashion",
+      "upvotes": 2
+    },
+    {
+      "name": "Kolors Virtual",
+      "description": "« 이 특이한 AI를 사용하여 자신의 사진에 가상으로 옷을 입어보세요. 올바른 선택을 하는 데 도움이 되도록 다양한 의상과 스타일을 빠르게 시각화합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/kolors-virtual.png",
+      "url": "https://www.aixploria.com/en/kolors-virtual-ai/",
+      "type": "무료",
+      "category": "#E-commerce, #Fashion",
+      "upvotes": 20
+    },
+    {
+      "name": "PerfectCorp Business",
+      "description": "« 뷰티 및 패션 산업을 위한 AI 도구 모음입니다. 가상 체험을 만들고, 트렌드를 분석하고, 고객을 위한 맞춤 제품 추천을 제공합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/perfectcorp-business.png",
+      "url": "https://www.aixploria.com/en/perfectcorp-business-skin-beauty/",
+      "type": "유료",
+      "category": "#Business, #Fashion",
+      "upvotes": 29
+    },
+    {
+      "name": "Barbie Selfie Generator",
+      "description": "« 당신을 진짜 바비 인형으로 만들어주는 필터를 사용하여 사진을 쉽게 변형해 보세요. 피부가 좋아지고 더욱 아름다워집니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/barbie-selfie-generator.png",
+      "url": "https://www.aixploria.com/en/barbie-selfie-generator-ai/",
+      "type": "부분 무료",
+      "category": "#Amazing, #Fashion",
+      "upvotes": 10
+    },
+    {
+      "name": "Artificial Printer",
+      "description": "« 인공 지능을 사용하여 맞춤형 티셔츠를 빠르게 만듭니다. 무제한의 디자인, 고품질 소재 및 전 세계 배송 보장 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/artificial-printer.png",
+      "url": "https://www.aixploria.com/en/artificial-printer-ai-t-shirt-design/",
+      "type": "유료",
+      "category": "#Fashion",
+      "upvotes": 20
+    },
+    {
+      "name": "AI Apparel",
+      "description": "« AI의 도움으로 완전히 디자인된 독특한 티셔츠를 만들어보세요. 디자인 아이디어를 고품질 섬유 제품으로 전환하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-apparel.png",
+      "url": "https://www.aixploria.com/en/ai-apparel/",
+      "type": "유료",
+      "category": "#Amazing, #Fashion",
+      "upvotes": 4
+    },
+    {
+      "name": "FashionAdvisorAI",
+      "description": "« 현재 패션에 대해 질문하고 실시간으로 업데이트된 답변을 받으세요(패션) »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/fashionadvisorai.png",
+      "url": "https://www.aixploria.com/en/fashionadvisorai/",
+      "type": "무료",
+      "category": "#Fashion",
+      "upvotes": 1
+    },
+    {
+      "name": "VmakeAI",
+      "description": "« 사진을 쉽게 편집하고 제품 이미지를 맞춤 설정하세요. 옷을 입을 수 있는 현실적인 인간 모델도 생성하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/vmakeai.png",
+      "url": "https://www.aixploria.com/en/vmakeai/",
+      "type": "부분 무료",
+      "category": "#E-commerce, #Fashion",
+      "upvotes": 0
+    },
+    {
+      "name": "HairStyle AI",
+      "description": "« 사진 중 하나에서 다른 헤어스타일을 시도해 보세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/hairstyle-ai.png",
+      "url": "https://www.aixploria.com/en/hairstyle-ai/",
+      "type": "유료",
+      "category": "#Amazing, #Fashion",
+      "upvotes": 4
+    },
+    {
+      "name": "YouCam Makeup by Perfect Corp",
+      "description": "« 메이크업을 완벽하게 하고, 새로운 머리 모양이나 손톱을 테스트하기 위한 AI 미용 도구 세트입니다. 모바일 애플리케이션에서 사용 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/youcam-makeup-by-perfect-corp.png",
+      "url": "https://www.aixploria.com/en/youcam-makeup-by-perfect-corp/",
+      "type": "부분 무료",
+      "category": "#Fashion, #Life Assistants",
+      "upvotes": 3
+    },
+    {
+      "name": "Makeup AI by Persona",
+      "description": "« 카메라를 켜고 메이크업 기술을 숙달한 AI의 안내를 받아보세요. 당신의 얼굴에 딱 맞는 메이크업을 받으세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/makeup-ai-persona/",
+      "type": "부분 무료",
+      "category": "#Fashion, #Life Assistants",
+      "upvotes": 2
+    },
+    {
+      "name": "Wardrobe AI",
+      "description": "« AI 맞춤형 추천으로 옷장을 현대화하세요. 간단한 사진으로 작업 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/wardrobe-ai/",
+      "type": "무료",
+      "category": "#Fashion",
+      "upvotes": 1
+    },
+    {
+      "name": "SnapDress",
+      "description": "« 사진을 업로드하고 빠르게 옷을 갈아입으세요. AI를 통해 새로운 아이디어와 트렌드 제안 받기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/snapdress.png",
+      "url": "https://www.aixploria.com/en/snapdress/",
+      "type": "무료",
+      "category": "#Fashion, #Life Assistants",
+      "upvotes": 3
+    }
+  ]
+}

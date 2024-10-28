@@ -1,0 +1,230 @@
+{
+  "name": "Voice Cloning",
+  "items": [
+    {
+      "name": "ElevenLabs",
+      "description": "« 자연스러운 목소리로 텍스트를 읽고 심지어 자신의 목소리도 복제할 수 있는 AI 기반 음성 리더기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/elevenlabs.png",
+      "url": "https://www.aixploria.com/en/eleven-labs/",
+      "type": "부분 무료",
+      "category": "#AIxploria Selection, #Text To Speech",
+      "upvotes": 382
+    },
+    {
+      "name": "Murf.AI",
+      "description": "« 텍스트 음성 변환, 번역, 음성 복제, 전사 등 AI를 사용한 다양한 음성 제작 도구를 제공하는 사이트 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/02/murf-ai-favicon.webp",
+      "url": "https://www.aixploria.com/en/murf-ai/",
+      "type": "Free-Trial",
+      "category": "#AIxploria Selection, #Text To Speech",
+      "upvotes": 90
+    },
+    {
+      "name": "Audiobox by Meta",
+      "description": "« 오디오 편집을 위한 지능형 도구 상자: 음성 복제, 오디오 생성, 채우기 및 음향 효과, 마법의 오디오 편집기 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/12/meta-icon-ai.webp",
+      "url": "https://www.aixploria.com/en/audiobox-by-meta-ai/",
+      "type": "무료",
+      "category": "#Audio Editing, #Text To Speech",
+      "upvotes": 13
+    },
+    {
+      "name": "Play HT",
+      "description": "« 당신이 주거나 쓰는 거의 모든 것을 읽을 수 있는 음성 생성기. 자신의 목소리로 텍스트를 읽을 수도 있습니다(음성 복제 도구) »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/play-ht.png",
+      "url": "https://www.aixploria.com/en/play-ht/",
+      "type": "부분 무료",
+      "category": "#Text To Speech, #Voice Cloning",
+      "upvotes": 71
+    },
+    {
+      "name": "Uberduck",
+      "description": "« 텍스트를 쓰고 별이 읽게 하세요. 자신의 목소리를 복제할 가능성. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/uberduck.png",
+      "url": "https://www.aixploria.com/en/uberduck/",
+      "type": "무료",
+      "category": "#Text To Speech, #Voice Cloning",
+      "upvotes": 52
+    },
+    {
+      "name": "Descript",
+      "description": "« 비디오와 팟캐스트를 쉽게 편집할 수 있는 강력한 AI 도구입니다. 쓰기, 녹음, 복사, 편집 및 공유를 모두 한 곳에서 수행할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/descript.png",
+      "url": "https://www.aixploria.com/en/descript/",
+      "type": "부분 무료",
+      "category": "#Text To Speech, #Transcriber",
+      "upvotes": 41
+    },
+    {
+      "name": "Voicemy.ai",
+      "description": "« 수백 명의 국제 스타 목소리를 제공하는 사이트 덕분에 AI 커버를 만들 수 있습니다. 음성을 복제할 수도 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/voicemy-ai.png",
+      "url": "https://www.aixploria.com/en/voicemy-ai/",
+      "type": "부분 무료",
+      "category": "#Audio Editing, #Music",
+      "upvotes": 14
+    },
+    {
+      "name": "OpenVoice AI",
+      "description": "« 신속하게 음성을 복제하고 텍스트 음성 변환 콘텐츠를 생성하세요. 감정, 악센트, 리듬, 일시정지 및 현실적인 억양 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/openvoice-ai.png",
+      "url": "https://www.aixploria.com/en/openvoice-ai/",
+      "type": "무료",
+      "category": "#Text To Speech, #Voice Cloning",
+      "upvotes": 18
+    },
+    {
+      "name": "Delphi AI",
+      "description": "« PDF, 비디오, 팟캐스트 등을 사용하여 자신의 디지털 복제본을 생성하기 위한 플랫폼입니다. 제작자와 영향력 있는 사람에게 적합합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/delphi-ai.png",
+      "url": "https://www.aixploria.com/en/delphi-ai-clone/",
+      "type": "부분 무료",
+      "category": "#Amazing, #Avatars",
+      "upvotes": 27
+    },
+    {
+      "name": "CloneDub",
+      "description": "« 동일한 음성을 유지하면서 오디오를 어떤 언어로든 변환하세요. 차세대 음성복제 기술 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/clonedub.png",
+      "url": "https://www.aixploria.com/en/clonedub/",
+      "type": "무료",
+      "category": "#Amazing, #Audio Editing",
+      "upvotes": 10
+    },
+    {
+      "name": "Voice Engine by OpenAI",
+      "description": "« OpenAI의 음성 엔진을 사용하여 음성을 빠르게 복제하세요. 이 AI 모델은 음성 더빙 및 번역에 대한 새로운 관점을 열어줍니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/voice-engine-by-openai.png",
+      "url": "https://www.aixploria.com/en/voice-engine-by-openai/",
+      "type": "무료",
+      "category": "#Future Tools, #Translation",
+      "upvotes": 42
+    },
+    {
+      "name": "Replay.io",
+      "description": "« AI를 사용하여 좋아하는 노래를 쉽게 리믹스할 수 있는 Windows 애플리케이션입니다. 이 도구는 RVC를 사용한 음성 복제 및 형태소 분석 기능도 제공합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/replay-io/",
+      "type": "무료",
+      "category": "#Music, #Voice Cloning",
+      "upvotes": 7
+    },
+    {
+      "name": "Resemble",
+      "description": "« 당신의 목소리를 복제하고 텍스트를 읽어서 재현할 수 있는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/resemble.png",
+      "url": "https://www.aixploria.com/en/resemble/",
+      "type": "무료",
+      "category": "#Text To Speech, #Voice Cloning",
+      "upvotes": 28
+    },
+    {
+      "name": "Applio",
+      "description": "« AI 기반 음성 복제를 위한 강력한 오픈 소스 생태계. 간단한 고성능 인터페이스를 통해 사실적인 음성 생성, 템플릿 사용자 정의 및 API 탐색 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/applio.png",
+      "url": "https://www.aixploria.com/en/applio-ai-voice-clone/",
+      "type": "무료",
+      "category": "#Developer Tools, #Voice Cloning",
+      "upvotes": 27
+    },
+    {
+      "name": "Parler-TTS",
+      "description": "« 6억 개의 매개변수가 있는 모델을 사용하여 텍스트에서 자연스러운 음성을 생성하는 오픈 소스 AI 도구입니다. 나만의 목소리 만들기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/parler-tts.png",
+      "url": "https://www.aixploria.com/en/parler-tts-open-source/",
+      "type": "무료",
+      "category": "#Github Projects, #Text To Speech",
+      "upvotes": 23
+    },
+    {
+      "name": "Vall-E",
+      "description": "« 음성을 완벽하게 재현할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/01/fav-vall-e.webp",
+      "url": "https://www.aixploria.com/en/vall-e/",
+      "type": "무료",
+      "category": "#Future Tools, #Voice Cloning",
+      "upvotes": 0
+    },
+    {
+      "name": "Momento AI",
+      "description": "« 나만의 AI 복제본을 확보하고 팬에게 방해 없이 대화할 수 있는 기회를 제공하세요. 혁신적인 AI 기술의 이점 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/momento-ai/",
+      "type": "무료",
+      "category": "#Amazing, #ChatBots",
+      "upvotes": 4
+    },
+    {
+      "name": "Fish Audio",
+      "description": "« 고급 AI 텍스트 음성 변환 플랫폼. 강력한 API 덕분에 사실적인 음성을 생성하고 사용자 정의하며 프로젝트에 쉽게 통합할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/fish-audio.png",
+      "url": "https://www.aixploria.com/en/fish-audio-api-tts/",
+      "type": "부분 무료",
+      "category": "#Developer Tools, #Text To Speech",
+      "upvotes": 21
+    },
+    {
+      "name": "Respeecher AI",
+      "description": "« 더빙, 광고, e-러닝 등을 위한 자연스러운 목소리를 생성하는 AI 도구를 사용하여 목소리를 다른 목소리로 변환하세요. 할리우드 수준의 AI 음성을 갖춘 마켓플레이스도 제공됩니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/respeecher-ai.png",
+      "url": "https://www.aixploria.com/en/respeecher-ai-voice/",
+      "type": "Free-Trial",
+      "category": "#Text To Speech, #Voice Cloning",
+      "upvotes": 27
+    },
+    {
+      "name": "Neets AI",
+      "description": "« 자연스러운 감정과 톤(TTS)으로 고품질 합성 음성을 생성합니다. 음성 복제 도구의 이점도 누리세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/neets-ai.png",
+      "url": "https://www.aixploria.com/en/neets-ai/",
+      "type": "부분 무료",
+      "category": "#Text To Speech, #Voice Cloning",
+      "upvotes": 2
+    },
+    {
+      "name": "Whisper OpenAI",
+      "description": "« 다국어 및 번역에 탁월한 유연한 음성 인식 모델입니다. 다양한 오디오 애플리케이션에 이상적입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/whisper-openai.png",
+      "url": "https://www.aixploria.com/en/whisper-openai/",
+      "type": "무료",
+      "category": "#Github Projects, #Transcriber",
+      "upvotes": 9
+    },
+    {
+      "name": "SonixTw by Fineshare",
+      "description": "« 당신의 목소리를 복제하고 디지털 더블을 만들 수 있는 야심찬 AI 플랫폼입니다. 복제된 음성을 사용하여 노래하고 텍스트를 읽는 등의 작업을 할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/sonixtw-by-fineshare.png",
+      "url": "https://www.aixploria.com/en/sonixtw-by-fineshare-ai/",
+      "type": "유료",
+      "category": "#Audio Editing, #Voice Cloning",
+      "upvotes": 11
+    },
+    {
+      "name": "Coachvox AI",
+      "description": "« 자신만의 AI 클론을 만들어 상호 작용하고 리드 생성을 돕습니다. 방문자를 잠재 고객으로 전환하는 데 이상적입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/coachvox-ai.png",
+      "url": "https://www.aixploria.com/en/coachvox-ai/",
+      "type": "유료",
+      "category": "#Business, #E-commerce",
+      "upvotes": 5
+    },
+    {
+      "name": "Gotalk.ai",
+      "description": "« 스튜디오 품질의 음성을 생성하는 고성능 텍스트 음성 변환. 자신의 목소리를 복제할 수 있는 옵션과 함께 50개 이상의 언어로 제공됩니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/gotalk-ai.png",
+      "url": "https://www.aixploria.com/en/gotalk-ai/",
+      "type": "유료",
+      "category": "#Text To Speech, #Voice Cloning",
+      "upvotes": 4
+    },
+    {
+      "name": "Gemelo",
+      "description": "« NVIDIA Maxine 기반 AI로 대화형 AI 트윈을 만들고 고객 충성도를 구축하세요. 음성 복제, 아바타, 비전, 상호 작용 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/gemelo.png",
+      "url": "https://www.aixploria.com/en/gemelo-ai/",
+      "type": "부분 무료",
+      "category": "#Avatars, #Developer Tools",
+      "upvotes": 4
+    }
+  ]
+}

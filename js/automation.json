@@ -1,0 +1,392 @@
+{
+  "name": "Automation",
+  "items": [
+    {
+      "name": "HubSpot CRM",
+      "description": "« 특히 직관적인 AI 기반 전문 CRM을 통해 영업 및 마케팅을 최적화하세요. 실시간으로 성과를 추적하고 보다 효율적으로 작업을 자동화합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/04/HubSpot-fav.png",
+      "url": "https://www.aixploria.com/en/hubspot-crm-ai/",
+      "type": "Free-Trial",
+      "category": "#Automation, #Marketing",
+      "upvotes": 217
+    },
+    {
+      "name": "Make",
+      "description": "« 작업 자동화로 생산성을 높이세요(코드 필요 없음). AI의 도움으로 시각적으로 무제한의 복잡한 워크플로우 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/make.png",
+      "url": "https://www.aixploria.com/en/make-ai-automation/",
+      "type": "무료",
+      "category": "#Automation, #No Code/Low Code",
+      "upvotes": 112
+    },
+    {
+      "name": "Zapier",
+      "description": "« 일상적인 작업을 자동화하고 생산성을 극대화하는 지능형 도구입니다. 애플리케이션을 빠르게 연결하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/zapier.png",
+      "url": "https://www.aixploria.com/en/zapier-ai/",
+      "type": "부분 무료",
+      "category": "#AI Useful, #Automation",
+      "upvotes": 192
+    },
+    {
+      "name": "bardeen AI",
+      "description": "« 수동 작업을 기반으로 맞춤형 자동화를 생성하는 도구입니다. 자동화하려는 대상을 간단히 설명하고 AI가 나머지 작업을 수행하도록 하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/bardeen-ai.png",
+      "url": "https://www.aixploria.com/en/bardeen-ai-automation/",
+      "type": "무료",
+      "category": "#Automation, #Productivity",
+      "upvotes": 27
+    },
+    {
+      "name": "Odoo",
+      "description": "« 오픈 소스, 사용자 정의 가능한 올인원 CRM 및 ERP 관리 소프트웨어. AI 보조자를 포함하여 플랫폼에서 40,000개 이상의 애플리케이션을 사용할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/odoo.png",
+      "url": "https://www.aixploria.com/en/odoo-ai/",
+      "type": "무료",
+      "category": "#Automation, #Business",
+      "upvotes": 39
+    },
+    {
+      "name": "Scale AI",
+      "description": "« 쉽고 안전하게 AI 애플리케이션 개발을 가속화하세요. 고품질 라벨링 데이터와 강력한 모델 관리 및 평가 도구의 이점을 활용하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/scale-ai.png",
+      "url": "https://www.aixploria.com/en/scale-ai/",
+      "type": "유료",
+      "category": "#Automation, #Data & Analytics",
+      "upvotes": 29
+    },
+    {
+      "name": "MindStudio",
+      "description": "« 코딩 없이 데이터에 대해 훈련된 AI 애플리케이션을 쉽게 만들 수 있습니다. 강력한 워크플로우로 작업 프로세스 자동화 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/04/MindStudio-fav.png",
+      "url": "https://www.aixploria.com/en/mindstudio/",
+      "type": "Free-Trial",
+      "category": "#AIxploria Selection, #Automation",
+      "upvotes": 63
+    },
+    {
+      "name": "AutoResponder",
+      "description": "« 메시징 서비스를 위한 자동 응답 봇. 효율적인 관리를 위해 WhatsApp, Facebook Messenger, Instagram 및 기타 플랫폼에 개인화된 답장을 설정하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/autoresponder.png",
+      "url": "https://www.aixploria.com/en/autoresponder-ai-messengers/",
+      "type": "Free-Trial",
+      "category": "#Automation, #ChatBots",
+      "upvotes": 55
+    },
+    {
+      "name": "Airtable AI",
+      "description": "« AI를 일상적인 워크플로우에 통합하고 콘텐츠를 더 빠르게 요약, 분류, 자동화 또는 생성하세요. 기밀 AI 모델로 데이터 보호 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/airtable-ai.png",
+      "url": "https://www.aixploria.com/en/airtable-ai/",
+      "type": "부분 무료",
+      "category": "#Automation, #Data & Analytics",
+      "upvotes": 39
+    },
+    {
+      "name": "AI Scientist by Sakana",
+      "description": "« 과학 연구를 자동화하는 최초의 AI 시스템을 만나보세요. 아이디어를 창출하고, 실험을 수행하고, 논문을 작성합니다. 반복적이고 개방적인 프로세스 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-scientist-by-sakana.png",
+      "url": "https://www.aixploria.com/en/the-ai-scientist-by-sakana/",
+      "type": "무료",
+      "category": "#Automation, #Github Projects",
+      "upvotes": 32
+    },
+    {
+      "name": "TabSquare AI",
+      "description": "« 레스토랑 관리를 최적화하는 완벽한 AI 솔루션입니다. 메뉴를 맞춤화하고, 주문 및 결제를 자동화하여 고객 경험을 개선하고 수익을 증대합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/09/tabsquare_fav.png",
+      "url": "https://www.aixploria.com/en/tabsquare-ai-restaurant/",
+      "type": "유료",
+      "category": "#Automation, #Business",
+      "upvotes": 37
+    },
+    {
+      "name": "CapMonster Cloud",
+      "description": "« 다양한 유형의 보안 문자를 자동으로 해결하는 클라우드 서비스입니다. 이 솔루션을 프로젝트에 쉽게 통합하여 안티봇 보호를 우회하고 대규모 웹 작업을 자동화합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/capmonster-cloud.png",
+      "url": "https://www.aixploria.com/en/capmonster-cloud/",
+      "type": "Free-Trial",
+      "category": "#AIxploria Selection, #Automation",
+      "upvotes": 34
+    },
+    {
+      "name": "Cheat Layer AI",
+      "description": "« 비즈니스 및 소프트웨어 엔지니어를 위한 코드 자동화 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/cheat-layer-ai.png",
+      "url": "https://www.aixploria.com/en/cheat-layer-ai/",
+      "type": "부분 무료",
+      "category": "#Assistant Code, #Automation",
+      "upvotes": 5
+    },
+    {
+      "name": "Salesforce Einstein",
+      "description": "« Salesforce 플랫폼에 내장된 AI 도구 모음입니다. 자동으로 생성된 예측 및 콘텐츠를 통해 영업, 고객 서비스 및 마케팅 최적화 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/salesforce-einstein.png",
+      "url": "https://www.aixploria.com/en/salesforce-einstein-ai/",
+      "type": "Free-Trial",
+      "category": "#Automation, #Business",
+      "upvotes": 31
+    },
+    {
+      "name": "Overloop",
+      "description": "« AI로 자동화된 판매 전망 플랫폼. 적합한 리드를 생성하고, 개인화된 이메일 캠페인을 생성하고 손쉽게 전환을 최적화하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/09/Overloop-ai-fav-custom.png",
+      "url": "https://www.aixploria.com/en/overloop-ai-prospect-marketing/",
+      "type": "유료",
+      "category": "#Automation, #Marketing",
+      "upvotes": 41
+    },
+    {
+      "name": "Reworkd AI",
+      "description": "« 코드 없이 웹사이트에서 데이터 추출을 자동화합니다. AI는 추출기를 생성하고 스크래핑을 수행하며 자동으로 오류를 복구합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/reworkd-ai.png",
+      "url": "https://www.aixploria.com/en/reworkd-ai/",
+      "type": "무료",
+      "category": "#Automation, #Data & Analytics",
+      "upvotes": 24
+    },
+    {
+      "name": "Manychat",
+      "description": "« 소셜 네트워크 대화를 자동화하여 더 많은 리드와 매출을 창출하세요. 하루 24시간 모든 메시지에 즉시 응답합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/manychat.png",
+      "url": "https://www.aixploria.com/en/manychat-ai-chatbot/",
+      "type": "무료",
+      "category": "#Automation, #ChatBots",
+      "upvotes": 24
+    },
+    {
+      "name": "Asana AI",
+      "description": "« AI 기반 작업 관리 플랫폼. 문서 요약, 작업 우선순위 지정, 보고서 생성 등을 수행할 수 있는 100% AI 동료와 함께 팀의 생산성을 높이세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/asana-ai.png",
+      "url": "https://www.aixploria.com/en/asana-ai/",
+      "type": "유료",
+      "category": "#Automation, #ChatBots",
+      "upvotes": 23
+    },
+    {
+      "name": "KaneAI",
+      "description": "« 팀이 자연어를 사용하여 테스트를 생성, 디버그 및 발전시키는 데 도움이 되는 지능형 테스트 에이전트입니다. 세계 최초의 완전한 소프트웨어 테스팅 도우미 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/kaneai.png",
+      "url": "https://www.aixploria.com/en/kaneai-testing-agent-lambdatest/",
+      "type": "부분 무료",
+      "category": "#AI Agents, #Automation",
+      "upvotes": 31
+    },
+    {
+      "name": "Numeric",
+      "description": "« 비즈니스 회계를 단순화하는 AI 도우미. 조정 자동화, 차이 분석 생성, 기술 메모 작성을 통해 시간 절약 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/numeric.png",
+      "url": "https://www.aixploria.com/en/numeric-ai-accounting/",
+      "type": "부분 무료",
+      "category": "#Automation, #Finance",
+      "upvotes": 30
+    },
+    {
+      "name": "Sintra.ai",
+      "description": "« 비즈니스 작업을 자동화하는 강력한 AI 플랫폼입니다. 특정 활동에 특화된 챗봇을 사용하여 높은 수준의 정확성을 누리세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/sintra-ai.png",
+      "url": "https://www.aixploria.com/en/sintra-ai/",
+      "type": "유료",
+      "category": "#Automation, #ChatBots",
+      "upvotes": 27
+    },
+    {
+      "name": "Thunderbit",
+      "description": "« Chrome 확장 프로그램으로 제공되는 AI로 반복적인 작업을 자동화하세요. 귀하의 요구사항을 설명하면 AI가 맞춤형 자동화 솔루션을 구축합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/thunderbit.png",
+      "url": "https://www.aixploria.com/en/thunderbit-ai-automation/",
+      "type": "무료",
+      "category": "#Automation, #Extensions ChatGPT",
+      "upvotes": 15
+    },
+    {
+      "name": "OmniAI",
+      "description": "« 문서에서 데이터 추출을 자동화하는 AI 플랫폼. 간단하고 안전한 API를 통해 PDF, 프리젠테이션 및 웹사이트를 구조화된 데이터로 쉽게 변환합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/omniai.png",
+      "url": "https://www.aixploria.com/en/omniai-automate-document/",
+      "type": "유료",
+      "category": "#Automation, #Files & Spreadsheets",
+      "upvotes": 27
+    },
+    {
+      "name": "Unify",
+      "description": "« B2B 잠재고객 발굴을 최적화하는 올인원 AI 플랫폼입니다. 1억 2천만 개가 넘는 연락처에 액세스하고, 개인화된 이메일 캠페인을 자동화하고, 기존 CRM 도구와 데이터를 동기화하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/10/unify-ai-gtm.png",
+      "url": "https://www.aixploria.com/en/unify-ai-gtm/",
+      "type": "유료",
+      "category": "#Automation, #Marketing",
+      "upvotes": 27
+    },
+    {
+      "name": "Amelia.ai",
+      "description": "« 확장 가능한 지능형 가상 도우미를 통해 고객 서비스를 자동화하고, 내부 프로세스를 최적화하며, 개인화된 사용자 경험을 제공하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/amelia-ai.png",
+      "url": "https://www.aixploria.com/en/amelia-ai-agent-conversation-voice/",
+      "type": "유료",
+      "category": "#AI Agents, #Automation",
+      "upvotes": 29
+    },
+    {
+      "name": "Otto AI",
+      "description": "« 데이터 검색, 분석, 추출을 자동화하는 AI로 워크플로우를 최적화하세요. 코딩 없이 시각적 작업 흐름 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/otto-ai.png",
+      "url": "https://www.aixploria.com/en/otto-ai/",
+      "type": "Free-Trial",
+      "category": "#Automation, #Data & Analytics",
+      "upvotes": 21
+    },
+    {
+      "name": "Jace.ai",
+      "description": "« 가장 복잡한 작업을 쉽게 자동화할 수 있는 자율 AI 에이전트입니다. 그냥 물어보세요. 그러면 작업이 완료됩니다! »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/jace-ai.png",
+      "url": "https://www.aixploria.com/en/jace-ai-zeta-labs-ai-agent/",
+      "type": "부분 무료",
+      "category": "#AI Agents, #Automation",
+      "upvotes": 21
+    },
+    {
+      "name": "SheetGod",
+      "description": "« Google Apps Script를 통한 기본 작업 자동화 및 복잡한 Excel 수식 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/sheetgod.png",
+      "url": "https://www.aixploria.com/en/sheetgod/",
+      "type": "부분 무료",
+      "category": "#Automation, #Files & Spreadsheets",
+      "upvotes": 4
+    },
+    {
+      "name": "Ajelix",
+      "description": "« 수식, 번역, 보고서, 분석, VBA 스크립트 등 다양한 도구를 갖춘 Excel 및 Google 스프레드시트용 AI 도우미 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ajelix.png",
+      "url": "https://www.aixploria.com/en/ajelix-ai/",
+      "type": "부분 무료",
+      "category": "#Automation, #Files & Spreadsheets",
+      "upvotes": 4
+    },
+    {
+      "name": "La Growth Machine",
+      "description": "« LinkedIn 및 이메일 판매 캠페인을 자동화하는 AI 플랫폼입니다. 리드와 대화를 더욱 효과적으로 분석하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/la-growth-machine.png",
+      "url": "https://www.aixploria.com/en/la-growth-machine-ai-leads/",
+      "type": "Free-Trial",
+      "category": "#Automation, #Marketing",
+      "upvotes": 20
+    },
+    {
+      "name": "Bookeeping.ai",
+      "description": "« 재무 관리를 단순화하는 AI 회계 보조원입니다. 자동으로 거래 가져오기, 보고서 생성, 세금 양식 작성 및 실시간 재정 조언 받기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/bookeeping-ai.png",
+      "url": "https://www.aixploria.com/en/bookeeping-ai/",
+      "type": "Free-Trial",
+      "category": "#Automation, #Business",
+      "upvotes": 21
+    },
+    {
+      "name": "Questflow",
+      "description": "« 팀 자동화를 위한 협업 작업 공간: 이메일, 캘린더, 소셜 네트워크, 데이터 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/questflow.png",
+      "url": "https://www.aixploria.com/en/questflow-ai/",
+      "type": "부분 무료",
+      "category": "#Automation, #Business",
+      "upvotes": 16
+    },
+    {
+      "name": "PipeLime",
+      "description": "« AI 기반 자동화를 통해 검증된 리드를 생성하여 판매를 최적화하세요. 전환율을 빠르게 개선하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/pipelime.png",
+      "url": "https://www.aixploria.com/en/pipelime-ai/",
+      "type": "부분 무료",
+      "category": "#Automation, #Business",
+      "upvotes": 16
+    },
+    {
+      "name": "Skyvern",
+      "description": "« 포괄적인 지원으로 복잡한 웹 작업을 자동화하세요. 데이터 추출부터 송장 관리까지 이 도구는 코드 없이 생산성을 높여줍니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/skyvern.png",
+      "url": "https://www.aixploria.com/en/skyvern-ai-automation/",
+      "type": "유료",
+      "category": "#Automation, #Developer Tools",
+      "upvotes": 21
+    },
+    {
+      "name": "Syncly",
+      "description": "« 모든 고객 피드백을 중앙 집중화하고 분석합니다. AI는 부정적인 신호를 감지하고 조치의 우선순위를 정합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/syncly.png",
+      "url": "https://www.aixploria.com/en/syncly-ai/",
+      "type": "Free-Trial",
+      "category": "#Automation, #Customer Support",
+      "upvotes": 15
+    },
+    {
+      "name": "TeamCreate",
+      "description": "« 다양한 기업 역할을 위해 사용자 정의 가능한 AI 보조자 팀을 만듭니다. 코딩 없이 Slack 및 200개 이상의 앱을 통해 작업 자동화 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/teamcreate.png",
+      "url": "https://www.aixploria.com/en/teamcreate-ai/",
+      "type": "Free-Trial",
+      "category": "#Automation, #Business",
+      "upvotes": 18
+    },
+    {
+      "name": "Bizwith.ai",
+      "description": "« AI 기반 자동화로 비즈니스를 강화하십시오. 고객 지원, 콘텐츠 제작 등 최적화 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/bizwith-ai.png",
+      "url": "https://www.aixploria.com/en/bizwith-ai/",
+      "type": "부분 무료",
+      "category": "#Automation, #Business",
+      "upvotes": 1
+    },
+    {
+      "name": "Open Agent Studio",
+      "description": "« 코딩 없이 강력한 자동화 에이전트를 만드세요. 에이전트의 변화에 ​​대한 탄력성을 높이는 의미 체계 대상 시스템 기능 제공(에이전트) »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/open-agent-studio.png",
+      "url": "https://www.aixploria.com/en/open-agent-studio/",
+      "type": "무료",
+      "category": "#AI Agents, #Automation",
+      "upvotes": 25
+    },
+    {
+      "name": "Alice AI",
+      "description": "« 질문에 답변할 수 있을 뿐만 아니라 작업을 자동화할 수 있는 AI와 채팅하여 생산성을 높이세요. 사용 가능한 모델: GPT-4, Claude 3, Perplexity 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/alice-ai.png",
+      "url": "https://www.aixploria.com/en/alice-ai-assistant/",
+      "type": "유료",
+      "category": "#Automation, #Productivity",
+      "upvotes": 11
+    },
+    {
+      "name": "Klaviyo",
+      "description": "« AI로 마케팅 캠페인을 자동화하세요. 실시간 고객 데이터를 사용하여 매우 개인화된 이메일 및 SMS 보내기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/klaviyo.png",
+      "url": "https://www.aixploria.com/en/klaviyo-ai-email-automation/",
+      "type": "부분 무료",
+      "category": "#Automation, #E-mail",
+      "upvotes": 16
+    },
+    {
+      "name": "AgentCrew",
+      "description": "« 세심하게 설계된 고성능 AI 워크플로우로 생산성을 높이세요. 다양한 비즈니스 작업을 쉽게 자동화 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/agentcrew.png",
+      "url": "https://www.aixploria.com/en/agentcrew-ai-automation-workflows/",
+      "type": "Free-Trial",
+      "category": "#Automation",
+      "upvotes": 17
+    },
+    {
+      "name": "Viable",
+      "description": "« 품질 저하 없이 데이터를 자동화하는 서비스 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/viable.png",
+      "url": "https://www.aixploria.com/en/viable/",
+      "type": "부분 무료",
+      "category": "#Automation, #Data & Analytics",
+      "upvotes": 0
+    },
+    {
+      "name": "Bannerbear",
+      "description": "« 이미지, 비디오, PDF 등을 생성하기 위한 마케팅 자동화 도구, API 및 통합 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/bannerbear.png",
+      "url": "https://www.aixploria.com/en/bannerbear/",
+      "type": "유료",
+      "category": "#Automation, #E-commerce",
+      "upvotes": 1
+    }
+  ]
+}

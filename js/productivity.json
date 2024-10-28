@@ -1,0 +1,2111 @@
+{
+  "name": "Productivity",
+  "items": [
+    {
+      "name": "ChatGPT",
+      "description": "« 세계에서 가장 유명한 대화 도우미. 질문하고 정확한 답변을 얻으세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/chatgpt.png",
+      "url": "https://www.aixploria.com/en/chatgpt/",
+      "type": "무료",
+      "category": "#AI Chat & Assistant, #ChatBots",
+      "upvotes": 1267
+    },
+    {
+      "name": "Notion AI",
+      "description": "« 창의력을 높이고, 더 빨리 쓰고, 더 효과적으로 정리하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/02/notion-ai-favicon.webp",
+      "url": "https://www.aixploria.com/en/notion-ai/",
+      "type": "부분 무료",
+      "category": "#AI Useful, #Education / Studies",
+      "upvotes": 230
+    },
+    {
+      "name": "HubSpot CRM",
+      "description": "« 특히 직관적인 AI 기반 전문 CRM을 통해 영업 및 마케팅을 최적화하세요. 실시간으로 성과를 추적하고 보다 효율적으로 작업을 자동화합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/04/HubSpot-fav.png",
+      "url": "https://www.aixploria.com/en/hubspot-crm-ai/",
+      "type": "Free-Trial",
+      "category": "#Automation, #Marketing",
+      "upvotes": 217
+    },
+    {
+      "name": "FireFlies",
+      "description": "« 회의나 강의실 세션 중에 메모를 자동화하세요. 이 소프트웨어는 모든 것을 캡처하고 기록하여 귀중한 시간을 절약해 줍니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/fireflies.png",
+      "url": "https://www.aixploria.com/en/fireflies/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Productivity",
+      "upvotes": 74
+    },
+    {
+      "name": "Make",
+      "description": "« 작업 자동화로 생산성을 높이세요(코드 필요 없음). AI의 도움으로 시각적으로 무제한의 복잡한 워크플로우 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/make.png",
+      "url": "https://www.aixploria.com/en/make-ai-automation/",
+      "type": "무료",
+      "category": "#Automation, #No Code/Low Code",
+      "upvotes": 112
+    },
+    {
+      "name": "Gamma App",
+      "description": "« 노트와 템플릿에서 대화형 콘텐츠를 쉽게 만들 수 있게 해주는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/gamma-app.png",
+      "url": "https://www.aixploria.com/en/gamma-app/",
+      "type": "무료",
+      "category": "#Presentation, #Productivity",
+      "upvotes": 25
+    },
+    {
+      "name": "BeforeSunset AI",
+      "description": "« 검증된 계획 방법을 사용하는 맞춤형 AI 일일 플래너입니다. 이제 할 일, 캘린더, 메모가 통합되었습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/beforesunset-ai.png",
+      "url": "https://www.aixploria.com/en/beforesunset-ai-oasis/",
+      "type": "부분 무료",
+      "category": "#Life Assistants, #Productivity",
+      "upvotes": 111
+    },
+    {
+      "name": "Zapier",
+      "description": "« 일상적인 작업을 자동화하고 생산성을 극대화하는 지능형 도구입니다. 애플리케이션을 빠르게 연결하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/zapier.png",
+      "url": "https://www.aixploria.com/en/zapier-ai/",
+      "type": "부분 무료",
+      "category": "#AI Useful, #Automation",
+      "upvotes": 192
+    },
+    {
+      "name": "Merlin",
+      "description": "« ChatGPT, GPT-4, Claude2 및 Llama 2를 포함한 AI의 모든 기능을 즐겨찾는 웹사이트에 통합하는 Chrome 확장 프로그램입니다. 이메일 작성, 기사 요약, 코드 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/merlin.png",
+      "url": "https://www.aixploria.com/en/merlin/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Productivity",
+      "upvotes": 41
+    },
+    {
+      "name": "AI Services by Fiverr",
+      "description": "« 모든 프로젝트에 도움을 줄 수 있는 10,000명 이상의 AI 전문가를 만나보세요. 디지털 아트부터 애플리케이션 개발까지 20가지 이상의 서비스 유형 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/03/fiverr-icon.webp",
+      "url": "https://www.aixploria.com/en/ai-service-by-fiver/",
+      "type": "유료",
+      "category": "#AI Useful, #Productivity",
+      "upvotes": 41
+    },
+    {
+      "name": "Rewind AI",
+      "description": "« 프롬프트(MAC)에서 보거나 들은 내용을 검색하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/rewind-ai.png",
+      "url": "https://www.aixploria.com/en/rewind-ai/",
+      "type": "부분 무료",
+      "category": "#Life Assistants, #Memory",
+      "upvotes": 2
+    },
+    {
+      "name": "bardeen AI",
+      "description": "« 수동 작업을 기반으로 맞춤형 자동화를 생성하는 도구입니다. 자동화하려는 대상을 간단히 설명하고 AI가 나머지 작업을 수행하도록 하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/bardeen-ai.png",
+      "url": "https://www.aixploria.com/en/bardeen-ai-automation/",
+      "type": "무료",
+      "category": "#Automation, #Productivity",
+      "upvotes": 27
+    },
+    {
+      "name": "NotebookLM",
+      "description": "« 문서를 정리하고 분석하는 AI 연구 조수. 정보를 더 잘 이해하고 활용할 수 있도록 소스를 가져오고, 질문하고, 지능적인 요약을 얻으세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/notebooklm.png",
+      "url": "https://www.aixploria.com/en/notebooklm-ai-google/",
+      "type": "무료",
+      "category": "#Education / Studies, #Productivity",
+      "upvotes": 51
+    },
+    {
+      "name": "Odoo",
+      "description": "« 오픈 소스, 사용자 정의 가능한 올인원 CRM 및 ERP 관리 소프트웨어. AI 보조자를 포함하여 플랫폼에서 40,000개 이상의 애플리케이션을 사용할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/odoo.png",
+      "url": "https://www.aixploria.com/en/odoo-ai/",
+      "type": "무료",
+      "category": "#Automation, #Business",
+      "upvotes": 39
+    },
+    {
+      "name": "Superhuman",
+      "description": "« 정리정돈된 AI로 우편함을 주문하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/superhuman.png",
+      "url": "https://www.aixploria.com/en/superhuman/",
+      "type": "유료",
+      "category": "#E-mail, #Productivity",
+      "upvotes": 3
+    },
+    {
+      "name": "AmigoChat",
+      "description": "« 등록 없이 무료로 안전한 대화형 AI와 채팅하세요. 이 도구는 이미지, SEO 블로그 게시물, 요약을 생성하고 숙제 등을 수행할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/amigochat.png",
+      "url": "https://www.aixploria.com/en/amigochat-ai-gpt-bot/",
+      "type": "무료",
+      "category": "#ChatBots, #Productivity",
+      "upvotes": 35
+    },
+    {
+      "name": "Tree of Knowledge AI",
+      "description": "« 대화형 AI 지식 트리의 형태로 인간 지식을 탐색하세요. 학문 간을 탐색하고 모든 연관성을 찾아보세요. 이 프로젝트는 무료이며 오픈 소스입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/tree-of-knowledge-ai/",
+      "type": "무료",
+      "category": "#Education / Studies, #Productivity",
+      "upvotes": 34
+    },
+    {
+      "name": "Kickresume",
+      "description": "« AI와 사용자 정의 가능한 템플릿을 사용하여 매우 빠르게 이력서를 작성할 수 있는 전문 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/kickresume.png",
+      "url": "https://www.aixploria.com/en/kickresume/",
+      "type": "유료",
+      "category": "#Human Resources, #Productivity",
+      "upvotes": 8
+    },
+    {
+      "name": "Cogniflow",
+      "description": "« AI를 프로젝트에 신속하게 통합: 50개 이상의 언어(코드 없음)로 문서 채팅, 정보 추출 또는 이미지 분석 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/02/cogniflow-fav-ai-icon.webp",
+      "url": "https://www.aixploria.com/en/cogniflow/",
+      "type": "부분 무료",
+      "category": "#No Code/Low Code, #Productivity",
+      "upvotes": 53
+    },
+    {
+      "name": "Reclaim AI",
+      "description": "« 비서 역할을 하고 의제에 따라 작업을 계획하는 AI 비서 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/reclaim-ai.png",
+      "url": "https://www.aixploria.com/en/reclaim-ai/",
+      "type": "부분 무료",
+      "category": "#Business, #Productivity",
+      "upvotes": 5
+    },
+    {
+      "name": "Airtable AI",
+      "description": "« AI를 일상적인 워크플로우에 통합하고 콘텐츠를 더 빠르게 요약, 분류, 자동화 또는 생성하세요. 기밀 AI 모델로 데이터 보호 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/airtable-ai.png",
+      "url": "https://www.aixploria.com/en/airtable-ai/",
+      "type": "부분 무료",
+      "category": "#Automation, #Data & Analytics",
+      "upvotes": 39
+    },
+    {
+      "name": "Cogram",
+      "description": "« 회의 중에 메모하고 만족스러운 요약을 제공할 수 있는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/cogram.png",
+      "url": "https://www.aixploria.com/en/cogram/",
+      "type": "유료",
+      "category": "#Productivity, #Summarizer",
+      "upvotes": 36
+    },
+    {
+      "name": "Nanonets",
+      "description": "« 이미지, 이메일, 텍스트, 문서의 데이터를 즉시 캡처할 수 있는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/nanonets.png",
+      "url": "https://www.aixploria.com/en/nanonets/",
+      "type": "부분 무료",
+      "category": "#Data & Analytics, #No Code/Low Code",
+      "upvotes": 2
+    },
+    {
+      "name": "GeniusReview",
+      "description": "« 기업 채용을 빠르고 쉽게 평가할 수 있는 AI 기반 도구입니다. 파일 설계 및 자동 분석 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/geniusreview.png",
+      "url": "https://www.aixploria.com/en/geniusreview/",
+      "type": "무료",
+      "category": "#Business, #Human Resources",
+      "upvotes": 11
+    },
+    {
+      "name": "Alfred",
+      "description": "« IOS 사용자를 위한 ChatGPT 도우미와 결합된 검색 엔진 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/alfred.png",
+      "url": "https://www.aixploria.com/en/alfred/",
+      "type": "부분 무료",
+      "category": "#Productivity, #Search engine",
+      "upvotes": 6
+    },
+    {
+      "name": "Rize IO",
+      "description": "« 시간과 집중력을 더 잘 관리할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/rize-io.png",
+      "url": "https://www.aixploria.com/en/rize-io/",
+      "type": "무료",
+      "category": "#Education / Studies, #Productivity",
+      "upvotes": 5
+    },
+    {
+      "name": "TinyWow",
+      "description": "« 당신의 모든 문제를 해결해 줄 AI 도구 (PDF, 이미지, 비디오, 글 등) »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/tinywow.png",
+      "url": "https://www.aixploria.com/en/tinywow/",
+      "type": "무료",
+      "category": "#Files & Spreadsheets, #Productivity",
+      "upvotes": 23
+    },
+    {
+      "name": "Chapple AI",
+      "description": "« 텍스트, 이미지, 오디오, 프로그래밍 코드 등 모든 종류의 창의적인 콘텐츠를 빠르게 생성하기 위한 AI 도구 세트 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/02/chapple-ai.png",
+      "url": "https://www.aixploria.com/en/chapple-ai/",
+      "type": "Free-Trial",
+      "category": "#Productivity, #Writing & Web SEO",
+      "upvotes": 13
+    },
+    {
+      "name": "Miro",
+      "description": "« 프로젝트 브레인스토밍, 계획 및 실행을 위한 온라인 협업 시각적 작업 공간입니다. 다이어그램 작성, 화이트보드, 작업 관리 등을 위한 도구를 제공합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/miro.png",
+      "url": "https://www.aixploria.com/en/miro-ai-visual-workspace/",
+      "type": "부분 무료",
+      "category": "#Business, #Productivity",
+      "upvotes": 32
+    },
+    {
+      "name": "Bedrock (Amazon)",
+      "description": "« ChatGPT와 직접 경쟁하는 생성 AI입니다. Amazon 회사에서 제작함 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/bedrock--amazon-.png",
+      "url": "https://www.aixploria.com/en/bedrock-amazon/",
+      "type": "무료",
+      "category": "#Business, #Developer Tools",
+      "upvotes": 13
+    },
+    {
+      "name": "Minigpt-4",
+      "description": "« 이미지를 정확하게 설명하고, 웹사이트를 만들고, 스토리를 생성하는 등의 작업을 수행할 수 있는 GPT-4의 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/minigpt-4/",
+      "type": "무료",
+      "category": "#AI Chat & Assistant, #Github Projects",
+      "upvotes": 5
+    },
+    {
+      "name": "Rationale",
+      "description": "« 기업가적 맥락에서 내릴 수 있는 최선의 결정을 선택하는 AI 애플리케이션 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/rationale.png",
+      "url": "https://www.aixploria.com/en/rationale/",
+      "type": "부분 무료",
+      "category": "#Business, #Productivity",
+      "upvotes": 2
+    },
+    {
+      "name": "PromptDrive.ai",
+      "description": "« ChatGPT 또는 Midjourney와 같은 AI를 사용하여 생산성을 구성, 공유 및 향상시키는 올인원 프롬프트 관리 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/promptdrive-ai.png",
+      "url": "https://www.aixploria.com/en/promptdrive-ai/",
+      "type": "무료",
+      "category": "#Productivity, #Prompts & Aids",
+      "upvotes": 2
+    },
+    {
+      "name": "ChatGPT For Search Engines",
+      "description": "« 즐겨찾는 검색 엔진과 ChatGPT의 원클릭 통합 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/chatgpt-for-search-engines/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Productivity",
+      "upvotes": 8
+    },
+    {
+      "name": "Mem AI",
+      "description": "« 이 AI가 제어하게 하여 모든 프로젝트 데이터를 자동으로 구성하고 분류합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/mem-ai.png",
+      "url": "https://www.aixploria.com/en/mem-ai/",
+      "type": "부분 무료",
+      "category": "#Memory, #Productivity",
+      "upvotes": 2
+    },
+    {
+      "name": "Wand AI",
+      "description": "« 복잡한 문제를 해결하고 비즈니스 역량을 향상시키세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/wand-ai.png",
+      "url": "https://www.aixploria.com/en/wand-ai/",
+      "type": "부분 무료",
+      "category": "#No Code/Low Code, #Productivity",
+      "upvotes": 2
+    },
+    {
+      "name": "Qatalog",
+      "description": "« 프로젝트 관리 및 협업을 촉진하는 전용 관리 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/qatalog.png",
+      "url": "https://www.aixploria.com/en/qatalog/",
+      "type": "부분 무료",
+      "category": "#Human Resources, #Productivity",
+      "upvotes": 7
+    },
+    {
+      "name": "Mindmap.ai",
+      "description": "« 아이디어를 설명하면 이 AI가 핵심 포인트가 포함된 시각적 지도를 생성합니다. 아이디어를 시각적으로 정리하고 계획을 개선하는 데 도움이 됩니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/mindmap-ai.png",
+      "url": "https://www.aixploria.com/en/mindmap-ai/",
+      "type": "무료",
+      "category": "#AI Useful, #Education / Studies",
+      "upvotes": 3
+    },
+    {
+      "name": "Assisterr",
+      "description": "« AI를 사용하여 분산형 네트워크에서 통찰력을 얻으세요. web3 네트워크의 잠재력을 최대한 활용하고 협력하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/assisterr.png",
+      "url": "https://www.aixploria.com/en/assisterr/",
+      "type": "유료",
+      "category": "#Developer Tools, #Productivity",
+      "upvotes": 2
+    },
+    {
+      "name": "Cody",
+      "description": "« 당신의 지휘를 맡는 ​​진정한 고성능 회사원 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/cody.png",
+      "url": "https://www.aixploria.com/en/cody/",
+      "type": "부분 무료",
+      "category": "#Business, #Human Resources",
+      "upvotes": 29
+    },
+    {
+      "name": "Ipso AI",
+      "description": "« 의제에 따라 이메일을 작성하세요(GPT3) »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ipso-ai.png",
+      "url": "https://www.aixploria.com/en/ipso-ai/",
+      "type": "유료",
+      "category": "#E-mail, #Extensions ChatGPT",
+      "upvotes": 1
+    },
+    {
+      "name": "GPTHotline",
+      "description": "« ChatGPT의 도움으로 작동하는 놀라운 WhatsApp용 ChatBot »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/gpthotline.png",
+      "url": "https://www.aixploria.com/en/gpthotline/",
+      "type": "유료",
+      "category": "#ChatBots, #Extensions ChatGPT",
+      "upvotes": 2
+    },
+    {
+      "name": "Bright Eye",
+      "description": "« 모바일 콘텐츠 전문 이미지 생성기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/bright-eye.png",
+      "url": "https://www.aixploria.com/en/bright-eye/",
+      "type": "무료",
+      "category": "#Image Generators, #Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "Krisp",
+      "description": "« 소음 없는 비즈니스 통화를 위한 AI 비서. 배경 소음을 제거하고 회의 내용을 자동으로 기록하며 지능적인 요약을 생성하여 재택근무 생산성을 최적화합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/krisp.png",
+      "url": "https://www.aixploria.com/en/krisp/",
+      "type": "Free-Trial",
+      "category": "#Audio Editing, #Productivity",
+      "upvotes": 7
+    },
+    {
+      "name": "Contenda",
+      "description": "« AI를 통해 입증된 마케팅 기법 재사용 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/contenda.png",
+      "url": "https://www.aixploria.com/en/contenda/",
+      "type": "부분 무료",
+      "category": "#Marketing, #Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "DGM AI",
+      "description": "« AI를 사용하여 전문적이고 자동화된 다이어그램을 생성하세요. UML, ERD, 순서도, UI 와이어프레임 등에 대해 사전 구축된 라이브러리 사용 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/dgm-ai.png",
+      "url": "https://www.aixploria.com/en/dgm-ai/",
+      "type": "무료",
+      "category": "#Education / Studies, #Productivity",
+      "upvotes": 8
+    },
+    {
+      "name": "Glean",
+      "description": "« 모든 비즈니스 애플리케이션을 검색하는 AI. 그렇다면 귀중한 정보를 받아보세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/glean.png",
+      "url": "https://www.aixploria.com/en/glean/",
+      "type": "부분 무료",
+      "category": "#Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "Cal",
+      "description": "« 고성능 이벤트 기획 도구. AI가 모든 계획을 관리하므로 회의를 정리하는 데 집중하기보다는 회의에 집중할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/cal.png",
+      "url": "https://www.aixploria.com/en/cal-ai/",
+      "type": "무료",
+      "category": "#Productivity",
+      "upvotes": 3
+    },
+    {
+      "name": "Noty AI",
+      "description": "« 모든 내용을 듣고 글로(실시간) 전사할 수 있는 진정한 회의 도우미 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/noty-ai.png",
+      "url": "https://www.aixploria.com/en/noty-ai/",
+      "type": "부분 무료",
+      "category": "#Productivity, #Summarizer",
+      "upvotes": 15
+    },
+    {
+      "name": "Userdoc",
+      "description": "« 이 관리 전문가 AI를 사용하여 팀을 보다 쉽게 ​​구성, 분석 및 관리하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/userdoc.png",
+      "url": "https://www.aixploria.com/en/userdoc/",
+      "type": "부분 무료",
+      "category": "#Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "SlideSpeak AI",
+      "description": "« 프레젠테이션과 문서를 마스터하기 위해 ChatGPT가 제공하는 AI 도우미입니다. PowerPoint 또는 Word 파일을 요약하고, 슬라이드를 생성하고, 문서 내용에 대해 질문하여 생산성을 향상하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/slidespeak-ai.png",
+      "url": "https://www.aixploria.com/en/slidespeak-ai-presentation-powerpoint/",
+      "type": "부분 무료",
+      "category": "#AIxploria Selection, #Presentation",
+      "upvotes": 32
+    },
+    {
+      "name": "Asana AI",
+      "description": "« AI 기반 작업 관리 플랫폼. 문서 요약, 작업 우선순위 지정, 보고서 생성 등을 수행할 수 있는 100% AI 동료와 함께 팀의 생산성을 높이세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/asana-ai.png",
+      "url": "https://www.aixploria.com/en/asana-ai/",
+      "type": "유료",
+      "category": "#Automation, #ChatBots",
+      "upvotes": 23
+    },
+    {
+      "name": "Mindmap Generator",
+      "description": "« 이 무료 AI 마인드 맵 생성기를 사용하여 아이디어를 쉽게 만들고 시각화하세요. 단 몇 번의 클릭만으로 생산성과 브레인스토밍 향상 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/mindmap-generator.png",
+      "url": "https://www.aixploria.com/en/mindmap-generator-ai-everlearns/",
+      "type": "무료",
+      "category": "#Education / Studies, #Productivity",
+      "upvotes": 17
+    },
+    {
+      "name": "Ghostwrite",
+      "description": "« 이메일을 대신 작성해 주는 Chrome 확장 프로그램 형태의 인공 지능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ghostwrite.png",
+      "url": "https://www.aixploria.com/en/ghostwrite/",
+      "type": "무료",
+      "category": "#E-mail, #Extensions ChatGPT",
+      "upvotes": 2
+    },
+    {
+      "name": "MightyGPT",
+      "description": "« WhatsApp 및 iMessage(GPT3)에서 반복적인 작업을 자동화하는 AI 도우미 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/mightygpt.png",
+      "url": "https://www.aixploria.com/en/mightygpt/",
+      "type": "유료",
+      "category": "#ChatBots, #Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "ClickUp Brain",
+      "description": "« 회사 내 작업, 문서 및 사람을 연결하는 강력한 신경망. AI 덕분에 프로젝트를 관리하고, 콘텐츠를 만들고, 모든 지식에 액세스할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/clickup-brain.png",
+      "url": "https://www.aixploria.com/en/clickup-brain-ai/",
+      "type": "Free-Trial",
+      "category": "#Business, #Productivity",
+      "upvotes": 24
+    },
+    {
+      "name": "Maester App",
+      "description": "« GPT-3으로 훈련된 모델 기반 검색 엔진. 대학생이나 회사에 적합합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/maester-app.png",
+      "url": "https://www.aixploria.com/en/maester-app/",
+      "type": "무료",
+      "category": "#Productivity, #Search engine",
+      "upvotes": 4
+    },
+    {
+      "name": "Texti",
+      "description": "« 긴 인터넷 세션 동안 항상 함께 할 AI 비서 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/texti.png",
+      "url": "https://www.aixploria.com/en/texti/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "WorkHub",
+      "description": "« AI 기반 플랫폼에서 팀 기술과 효율성 향상 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/workhub.png",
+      "url": "https://www.aixploria.com/en/workhub/",
+      "type": "부분 무료",
+      "category": "#Human Resources, #Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "Puzzle",
+      "description": "« 귀하의 비즈니스 분야와 관련된 용어집이나 어휘를 빠르게 생성하십시오. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/puzzle.png",
+      "url": "https://www.aixploria.com/en/puzzle/",
+      "type": "부분 무료",
+      "category": "#Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "Motion AI",
+      "description": "« 이 AI 달력 도우미를 사용하여 생산성을 빠르게 높이세요. 지능적으로 하루를 계획하고, 회의 일정을 잡고, 완벽한 할 일 목록을 만드세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/motion-ai.png",
+      "url": "https://www.aixploria.com/en/motion-ai-calendar/",
+      "type": "Free-Trial",
+      "category": "#Life Assistants, #Productivity",
+      "upvotes": 31
+    },
+    {
+      "name": "Clearword",
+      "description": "« 실시간 AI를 사용하여 메모 작성, 작업 생성, 이메일 작성 등을 용이하게 하는 효율적인 회의 도우미. 팀워크 및 협업 최적화에 이상적입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/clearword.png",
+      "url": "https://www.aixploria.com/en/clearword-ai/",
+      "type": "무료",
+      "category": "#Productivity, #Transcriber",
+      "upvotes": 16
+    },
+    {
+      "name": "Fillout AI",
+      "description": "« AI를 사용하여 양식, 설문 조사 및 퀴즈를 쉽게 만들 수 있습니다. 템플릿과 Google 시트, Google 지도, 웹사이트 등과의 통합이 포함됩니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/fillout-ai.png",
+      "url": "https://www.aixploria.com/en/fillout-ai/",
+      "type": "무료",
+      "category": "#Education / Studies, #Files & Spreadsheets",
+      "upvotes": 8
+    },
+    {
+      "name": "Whisper Memos",
+      "description": "« 당신의 목소리를 녹음한 다음 당신의 말을 녹음하여 이메일로 보내는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/whisper-memos.png",
+      "url": "https://www.aixploria.com/en/whisper-memos/",
+      "type": "유료",
+      "category": "#Productivity, #Transcriber",
+      "upvotes": 2
+    },
+    {
+      "name": "Fordi AI",
+      "description": "« 전문가 간의 익명 평가를 위한 AI 플랫폼입니다. AI를 통해 더욱 빠르고 생산적인 분석이 가능합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/fordi-ai.png",
+      "url": "https://www.aixploria.com/en/fordi-ai/",
+      "type": "무료",
+      "category": "#Human Resources, #Productivity",
+      "upvotes": 2
+    },
+    {
+      "name": "Laxis",
+      "description": "« 회의 중 모든 대화를 캡처하고 생산성을 높이세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/laxis.png",
+      "url": "https://www.aixploria.com/en/laxis/",
+      "type": "부분 무료",
+      "category": "#Productivity, #Transcriber",
+      "upvotes": 21
+    },
+    {
+      "name": "Kwirk",
+      "description": "« AI 기반의 실용적인 사무 도구 모음과 개인 코치 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/kwirk.png",
+      "url": "https://www.aixploria.com/en/kwirk/",
+      "type": "유료",
+      "category": "#Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "Enzyme",
+      "description": "« 제품 개발의 모든 단계를 감독하는 AI 지원 소프트웨어 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/enzyme.png",
+      "url": "https://www.aixploria.com/en/enzyme/",
+      "type": "유료",
+      "category": "#Business, #Productivity",
+      "upvotes": 3
+    },
+    {
+      "name": "GptPanda",
+      "description": "« ChatGPT를 Slack 공간에 무료로 통합하세요. 질문에 답변하고 작업을 관리할 수 있는 다국어 AI 도우미의 이점을 활용하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/10/gptpanda-fav-64.png",
+      "url": "https://www.aixploria.com/en/gptpanda/",
+      "type": "부분 무료",
+      "category": "#AIxploria Selection, #Business",
+      "upvotes": 31
+    },
+    {
+      "name": "Taskade",
+      "description": "« 혁신적인 참여 기술을 통해 팀 단위로 쉽게 디자인할 수 있는 AI 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/taskade.png",
+      "url": "https://www.aixploria.com/en/taskade/",
+      "type": "부분 무료",
+      "category": "#Human Resources, #Memory",
+      "upvotes": 3
+    },
+    {
+      "name": "AIPRM ChatGPT",
+      "description": "« 최고의 프롬프트 템플릿을 추가하여 ChatGPT에서 창을 사용자 정의하세요. 카테고리별로 정렬 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/aiprm-chatgpt.png",
+      "url": "https://www.aixploria.com/en/aiprm-chatgpt/",
+      "type": "부분 무료",
+      "category": "#Extensions ChatGPT, #Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "Julius.ai",
+      "description": "« 데이터 분석 및 시각화(CSV 및 Excel)를 단순화하는 전문가입니다. Julius가 동적 애니메이션을 분석, 정리 또는 생성하도록 합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/julius-ai.png",
+      "url": "https://www.aixploria.com/en/julius-ai/",
+      "type": "유료",
+      "category": "#Business, #Files & Spreadsheets",
+      "upvotes": 12
+    },
+    {
+      "name": "Saner.ai",
+      "description": "« 메모나 텍스트를 사용하여 손쉽게 새로운 아이디어를 포착하고 개발하세요. 이 AI 도우미로 시간을 절약하고 생산성을 높이세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/saner-ai.png",
+      "url": "https://www.aixploria.com/en/saner-ai/",
+      "type": "Free-Trial",
+      "category": "#Education / Studies, #Productivity",
+      "upvotes": 65
+    },
+    {
+      "name": "ChatGPT Writer",
+      "description": "« 이제 필수적인 Chrome 확장 프로그램으로 ChatGPT의 모든 기능을 활용하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/chatgpt-writer.png",
+      "url": "https://www.aixploria.com/en/chatgpt-writer/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "Capacities.io",
+      "description": "« 사용자 정의 가능한 콘텐츠, 작업 관리 및 구성으로 생산성을 최적화하는 AI 플랫폼입니다. Windows 및 Mac에서 사용 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/capacities-io.png",
+      "url": "https://www.aixploria.com/en/capacities-io-ai/",
+      "type": "무료",
+      "category": "#Productivity",
+      "upvotes": 10
+    },
+    {
+      "name": "Coda AI",
+      "description": "« 올인원 작업 공간으로 팀워크를 촉진하는 AI 도구입니다. 문서와 애플리케이션 병합을 위한 완벽한 솔루션 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/coda-ai.png",
+      "url": "https://www.aixploria.com/en/coda-ai/",
+      "type": "부분 무료",
+      "category": "#Business, #Productivity",
+      "upvotes": 19
+    },
+    {
+      "name": "theGist",
+      "description": "« Slack에서 즉시 스레드 요약을 작성하는 편리한 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/thegist.png",
+      "url": "https://www.aixploria.com/en/thegist/",
+      "type": "부분 무료",
+      "category": "#Productivity, #Summarizer",
+      "upvotes": 2
+    },
+    {
+      "name": "Delibr",
+      "description": "« 프로젝트 리더와 관리자를 위한 강력한 도구(작성 지원, 피드백 등) »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/delibr.png",
+      "url": "https://www.aixploria.com/en/delibr/",
+      "type": "유료",
+      "category": "#Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "Tooltips AI",
+      "description": "« 단락이나 단어를 선택하면 AI가 간단한 설명을 제공합니다(Chrome 확장 프로그램) »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/tooltips-ai.png",
+      "url": "https://www.aixploria.com/en/tooltips-ai/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "Thunderbit",
+      "description": "« Chrome 확장 프로그램으로 제공되는 AI로 반복적인 작업을 자동화하세요. 귀하의 요구사항을 설명하면 AI가 맞춤형 자동화 솔루션을 구축합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/thunderbit.png",
+      "url": "https://www.aixploria.com/en/thunderbit-ai-automation/",
+      "type": "무료",
+      "category": "#Automation, #Extensions ChatGPT",
+      "upvotes": 15
+    },
+    {
+      "name": "GitMind AI",
+      "description": "« 팀으로 공유할 수 있는 AI 생성 마인드 맵. 브레인스토밍 세션을 크게 자극합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/gitmind-ai.png",
+      "url": "https://www.aixploria.com/en/gitmind-ai/",
+      "type": "부분 무료",
+      "category": "#Human Resources, #Productivity",
+      "upvotes": 5
+    },
+    {
+      "name": "Scribe AI",
+      "description": "« AI를 사용하여 프로세스를 단계별 시각적 가이드(튜토리얼)로 전환하세요. 컨텍스트, 브랜딩, 팁을 추가하세요. 링크, PDF 또는 삽입을 통해 결과 공유 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/scribe-ai.png",
+      "url": "https://www.aixploria.com/en/scribe-ai/",
+      "type": "부분 무료",
+      "category": "#Files & Spreadsheets, #Productivity",
+      "upvotes": 23
+    },
+    {
+      "name": "Xembly",
+      "description": "« 중복된 작업을 처리하고 중요한 것에 집중할 수 있게 해주는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/xembly.png",
+      "url": "https://www.aixploria.com/en/xembly/",
+      "type": "유료",
+      "category": "#Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "Adobe Sensei",
+      "description": "« 더 나은 결정을 내리고 마케팅 캠페인 결과를 개선하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/08/adobe-podcast.png",
+      "url": "https://www.aixploria.com/en/adobe-sensei/",
+      "type": "유료",
+      "category": "#Business, #Marketing",
+      "upvotes": 2
+    },
+    {
+      "name": "NeuroSpell",
+      "description": "« 30개 이상의 언어로 사용 가능한 맞춤법 및 문법 검사기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/neurospell.png",
+      "url": "https://www.aixploria.com/en/neurospell/",
+      "type": "무료",
+      "category": "#Education / Studies, #Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "Albus",
+      "description": "« Slack 사용자를 위한 AI 기반 어시스턴트. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/albus.png",
+      "url": "https://www.aixploria.com/en/albus/",
+      "type": "부분 무료",
+      "category": "#Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "OmniAI",
+      "description": "« 문서에서 데이터 추출을 자동화하는 AI 플랫폼. 간단하고 안전한 API를 통해 PDF, 프리젠테이션 및 웹사이트를 구조화된 데이터로 쉽게 변환합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/omniai.png",
+      "url": "https://www.aixploria.com/en/omniai-automate-document/",
+      "type": "유료",
+      "category": "#Automation, #Files & Spreadsheets",
+      "upvotes": 27
+    },
+    {
+      "name": "IngestAI",
+      "description": "« WhatsApp, Telegram, Discord 또는 Slack에 통합할 수 있는 상용 챗봇 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ingestai.png",
+      "url": "https://www.aixploria.com/en/ingestai/",
+      "type": "무료",
+      "category": "#ChatBots, #E-commerce",
+      "upvotes": 2
+    },
+    {
+      "name": "Promptheus",
+      "description": "« 음성을 사용하여 ChatGPT와 대화하는 Chrome 확장 프로그램입니다. 빠르고 유연한 대화 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/promptheus.png",
+      "url": "https://www.aixploria.com/en/promptheus/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "ChatGPT for Excel",
+      "description": "« Microsoft Excel ™ 파일 처리 시 전문 조력자와 함께 생산성을 높이고 AI의 모든 기능을 활용하십시오. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/chatgpt-for-excel.png",
+      "url": "https://www.aixploria.com/en/chatgpt-for-excel/",
+      "type": "무료",
+      "category": "#Files & Spreadsheets, #Productivity",
+      "upvotes": 4
+    },
+    {
+      "name": "GooGPT",
+      "description": "« ChatGPT를 Google 검색 엔진과 직접 연결하여 이 AI의 기능을 10배 확장(GptGo) »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/googpt.png",
+      "url": "https://www.aixploria.com/en/googpt/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "Grimo AI",
+      "description": "« 지식 수집 및 공유를 촉진하는 노트북 스타일의 AI 도구입니다. YouTube, Twitter, Podcast 등 다양한 정보 소스를 이용할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/grimo-ai.png",
+      "url": "https://www.aixploria.com/en/grimo-ai/",
+      "type": "무료",
+      "category": "#Productivity",
+      "upvotes": 13
+    },
+    {
+      "name": "Checklist.gg",
+      "description": "« 목록에 있는 작업이 완료되었는지 실시간으로 확인하는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/checklist-gg.png",
+      "url": "https://www.aixploria.com/en/checklist-gg/",
+      "type": "부분 무료",
+      "category": "#Productivity",
+      "upvotes": 2
+    },
+    {
+      "name": "CoolMindMaps",
+      "description": "« AI의 도움으로 어떤 주제에 대해서도 쉽게 검색하고 마인드맵을 생성할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/coolmindmaps.png",
+      "url": "https://www.aixploria.com/en/coolmindmaps/",
+      "type": "무료",
+      "category": "#Productivity, #Research & Science",
+      "upvotes": 4
+    },
+    {
+      "name": "Circleback",
+      "description": "« Meet, Zoom 또는 Teams 회의의 자동 기록 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/circleback.png",
+      "url": "https://www.aixploria.com/en/circleback/",
+      "type": "무료",
+      "category": "#Business, #Productivity",
+      "upvotes": 5
+    },
+    {
+      "name": "Dola AI",
+      "description": "« 음성, 텍스트, 이미지를 최적의 정리를 위해 정리된 달력으로 변환하는 뛰어난 AI 계획 도우미 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/dola-ai.png",
+      "url": "https://www.aixploria.com/en/dola-ai/",
+      "type": "무료",
+      "category": "#Productivity",
+      "upvotes": 14
+    },
+    {
+      "name": "Melon AI",
+      "description": "« 아이디어를 보다 효과적으로 정리하고 유지하는 데 도움이 되는 학습 시스템입니다. 개인 개발 촉진 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/melon-ai.png",
+      "url": "https://www.aixploria.com/en/melon-ai/",
+      "type": "무료",
+      "category": "#Education / Studies, #Life Assistants",
+      "upvotes": 3
+    },
+    {
+      "name": "Sune AI",
+      "description": "« 보다 효율적인 팀 구성을 위한 협업 플랫폼입니다. AI를 통한 인체공학적 인터페이스 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/sune-ai.png",
+      "url": "https://www.aixploria.com/en/sune-ai/",
+      "type": "무료",
+      "category": "#Productivity",
+      "upvotes": 7
+    },
+    {
+      "name": "Mindfulq",
+      "description": "« 통합 챗봇을 갖춘 AI 강화 검색 엔진. 결과를 효율적으로 재구성하고 관련 답변을 대상으로 하며 소스를 제공합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/mindfulq-ai/",
+      "type": "무료",
+      "category": "#Productivity, #Search engine",
+      "upvotes": 0
+    },
+    {
+      "name": "Zia by Zoho",
+      "description": "« Zoho 플랫폼의 AI 비서인 Zia로 비즈니스를 자동화하세요. 판매 및 생산성 지원에 이상적입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/zia-by-zoho.png",
+      "url": "https://www.aixploria.com/en/zia-by-zoho-ai/",
+      "type": "유료",
+      "category": "#Business, #Productivity",
+      "upvotes": 16
+    },
+    {
+      "name": "MyLens.AI",
+      "description": "« 모든 분야의 주요 이벤트 타임라인을 생성하는 AI로, 여러 테마를 하나의 통합된 스토리로 결합하는 데 이상적입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/mylens-ai.png",
+      "url": "https://www.aixploria.com/en/mylens-ai/",
+      "type": "무료",
+      "category": "#Education / Studies, #Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "SheetGod",
+      "description": "« Google Apps Script를 통한 기본 작업 자동화 및 복잡한 Excel 수식 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/sheetgod.png",
+      "url": "https://www.aixploria.com/en/sheetgod/",
+      "type": "부분 무료",
+      "category": "#Automation, #Files & Spreadsheets",
+      "upvotes": 4
+    },
+    {
+      "name": "Reiden AI",
+      "description": "« 키보드 생산성을 최적화하는 AI 부조종사. 실시간으로 작업 흐름을 분석하고 맞춤형 단축키 추천을 받아보세요. 다양한 인기 애플리케이션과 호환 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/reiden-ai.png",
+      "url": "https://www.aixploria.com/en/reiden-ai/",
+      "type": "무료",
+      "category": "#Productivity",
+      "upvotes": 19
+    },
+    {
+      "name": "Create a Zap by Zapier",
+      "description": "« Zap의 AI 빌더를 사용하여 애플리케이션 간의 상호 작용을 쉽게 생성하세요. 프롬프트를 통해 작업하고 신속하게 작업을 자동화합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/create-a-zap-by-zapier.png",
+      "url": "https://www.aixploria.com/en/create-a-zap-by-zapier-ai/",
+      "type": "무료",
+      "category": "#Developer Tools, #Productivity",
+      "upvotes": 8
+    },
+    {
+      "name": "Amie",
+      "description": "« 조직을 최적화하고 관리하는 AI. 캘린더, 이메일, 할 일 목록을 제어할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/amie.png",
+      "url": "https://www.aixploria.com/en/amie-so-ai/",
+      "type": "부분 무료",
+      "category": "#Life Assistants, #Productivity",
+      "upvotes": 10
+    },
+    {
+      "name": "WebChatGPT",
+      "description": "« ChatGPT 세션 중에 관련 제안을 추가하는 Chrome 확장 프로그램의 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/webchatgpt.png",
+      "url": "https://www.aixploria.com/en/webchatgpt/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "Summarize Tech",
+      "description": "« 모든 YouTube 동영상을 분석하고 간단하고 읽기 쉬운 요약을 만드는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/summarize-tech.png",
+      "url": "https://www.aixploria.com/en/summarize-tech/",
+      "type": "무료",
+      "category": "#AI Useful, #Productivity",
+      "upvotes": 3
+    },
+    {
+      "name": "Whimsical",
+      "description": "« 아이디어를 정리하고 마인드맵 스타일의 비주얼을 자동으로 생성하는 데 도움이 되는 협업 AI 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/whimsical.png",
+      "url": "https://www.aixploria.com/en/whimsical-ai/",
+      "type": "부분 무료",
+      "category": "#Human Resources, #Productivity",
+      "upvotes": 5
+    },
+    {
+      "name": "Cascade",
+      "description": "« 모든 문서에 즉시 액세스하고 정확한 답변을 빠르게 얻으세요. 지식 기반을 Slack, Discord, Microsoft Teams 등에 직접 통합하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/cascade.png",
+      "url": "https://www.aixploria.com/en/cascade-ai-casc/",
+      "type": "무료",
+      "category": "#Files & Spreadsheets, #Productivity",
+      "upvotes": 21
+    },
+    {
+      "name": "Upword",
+      "description": "« Chrome 확장 프로그램과 강력한 AI로 텍스트 요약 생성이 쉬워졌습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/upword.png",
+      "url": "https://www.aixploria.com/en/upword/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Productivity",
+      "upvotes": 2
+    },
+    {
+      "name": "Iris AI",
+      "description": "« 다양한 분야에서 AI 지원 연구 수행 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/iris-ai.png",
+      "url": "https://www.aixploria.com/en/iris-ai/",
+      "type": "부분 무료",
+      "category": "#Productivity, #Research & Science",
+      "upvotes": 2
+    },
+    {
+      "name": "smudge.ai",
+      "description": "« 메뉴에 AI 옵션을 추가하는 확장 기능으로 탐색 기능을 강화하세요. 기사 요약, 실수 수정, 텍스트 번역 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/smudge-ai.png",
+      "url": "https://www.aixploria.com/en/smudge-ai/",
+      "type": "부분 무료",
+      "category": "#Extensions ChatGPT, #Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "Tammy AI",
+      "description": "« YouTube 동영상 요약의 자동 AI 생성. YT 주소를 입력하면 AI가 모든 것을 처리합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/tammy-ai.png",
+      "url": "https://www.aixploria.com/en/tammy-ai/",
+      "type": "무료",
+      "category": "#Productivity, #Summarizer",
+      "upvotes": 2
+    },
+    {
+      "name": "Readbay.ai",
+      "description": "« 독서 세션을 최대한 활용할 수 있도록 도와주는 AI 코치. 휴대전화에서 제공되는 독서 달력과 맞춤 제안을 활용해 보세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/readbay-ai.png",
+      "url": "https://www.aixploria.com/en/readbay-ai/",
+      "type": "무료",
+      "category": "#Education / Studies, #Productivity",
+      "upvotes": 2
+    },
+    {
+      "name": "Steno",
+      "description": "« 어떤 소프트웨어도 사용하지 않고 좋아하는 팟캐스트의 자동 AI 녹음 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/steno.png",
+      "url": "https://www.aixploria.com/en/steno/",
+      "type": "무료",
+      "category": "#Productivity, #Transcriber",
+      "upvotes": 2
+    },
+    {
+      "name": "Meaning AI",
+      "description": "« 시간이 많이 걸리는 앱을 차단하고 불필요한 방해 요소를 방지하는 AI 코치입니다. 간단하고 의도적인 사용을 위해 AI와 채팅하여 잠금을 해제하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/meaning-ai.png",
+      "url": "https://www.aixploria.com/en/meaning-ai/",
+      "type": "무료",
+      "category": "#Life Assistants, #Productivity",
+      "upvotes": 17
+    },
+    {
+      "name": "Questflow",
+      "description": "« 팀 자동화를 위한 협업 작업 공간: 이메일, 캘린더, 소셜 네트워크, 데이터 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/questflow.png",
+      "url": "https://www.aixploria.com/en/questflow-ai/",
+      "type": "부분 무료",
+      "category": "#Automation, #Business",
+      "upvotes": 16
+    },
+    {
+      "name": "PDF GPT",
+      "description": "« PDF 파일을 분석, 요약하고 답변을 얻기 위한 사용하기 쉬운 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/pdf-gpt.png",
+      "url": "https://www.aixploria.com/en/pdf-gpt/",
+      "type": "무료",
+      "category": "#Files & Spreadsheets, #Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "Ayraa",
+      "description": "« 귀하의 전문적인 활동을 즉시 포착하고 정리하는 검색 엔진입니다. Slack, Gmail, Quora, Google Docs, Notion 등과 호환 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ayraa.png",
+      "url": "https://www.aixploria.com/en/ayraa-ai/",
+      "type": "부분 무료",
+      "category": "#Productivity, #Search engine",
+      "upvotes": 1
+    },
+    {
+      "name": "BizIdeas",
+      "description": "« 귀사를 위한 맞춤형 비즈니스 아이디어를 신속하게 생성하는 AI입니다. 브레인스토밍을 강화하는 데 적합합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/bizideas.png",
+      "url": "https://www.aixploria.com/en/bizideas/",
+      "type": "무료",
+      "category": "#Business, #Productivity",
+      "upvotes": 2
+    },
+    {
+      "name": "Potis AI",
+      "description": "« 채용 부조종사는 자동화된 행동 인터뷰를 실시합니다. 후보자의 실제 기술 평가 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/potis-ai.png",
+      "url": "https://www.aixploria.com/en/potis-ai/",
+      "type": "부분 무료",
+      "category": "#Human Resources, #Productivity",
+      "upvotes": 4
+    },
+    {
+      "name": "Diplop AI",
+      "description": "« AI를 사용하여 커뮤니케이션을 사용 가능한 데이터(로컬 녹음, 음성 및 영상 통화 등)로 추출, 기록 및 분류합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/diplop-ai.png",
+      "url": "https://www.aixploria.com/en/diplop-ai/",
+      "type": "무료",
+      "category": "#Productivity, #Transcriber",
+      "upvotes": 0
+    },
+    {
+      "name": "Strut",
+      "description": "« 작가 전용 공동 작업 공간: 더 나은 조직화, 실시간 공동 작업 및 AI를 통한 고품질 콘텐츠 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/strut.png",
+      "url": "https://www.aixploria.com/en/strut-ai/",
+      "type": "무료",
+      "category": "#Productivity, #Writing & Web SEO",
+      "upvotes": 2
+    },
+    {
+      "name": "Haller AI",
+      "description": "« AI 솔루션으로 비즈니스 운영을 최적화하세요. 콘텐츠 관리, HR 및 영업 워크플로에 이상적인 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/haller-ai.png",
+      "url": "https://www.aixploria.com/en/haller-ai/",
+      "type": "부분 무료",
+      "category": "#Business, #Human Resources",
+      "upvotes": 2
+    },
+    {
+      "name": "Daydream AI",
+      "description": "« 비즈니스와 팀을 위해 특별히 설계된 AI 기반 분석 및 보고 도구입니다. 공동 데이터 관리에 적합 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/daydream-ai.png",
+      "url": "https://www.aixploria.com/en/daydream-ai/",
+      "type": "Free-Trial",
+      "category": "#Business, #Data & Analytics",
+      "upvotes": 4
+    },
+    {
+      "name": "Gleek",
+      "description": "« 모든 유형의 데이터에서 이 AI는 자동으로 전문적인 다이어그램을 분석하고 생성합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/gleek.png",
+      "url": "https://www.aixploria.com/en/gleek-ai/",
+      "type": "부분 무료",
+      "category": "#Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "Fluentify",
+      "description": "« 쓰기, 요약, 검색 등 웹상의 모든 작업을 수행하는 데 도움을 주는 부조종사 확장 프로그램 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/fluentify/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "SummerEyes",
+      "description": "« 몇 초 만에 텍스트를 요약할 수 있는 AI로 생산성 최적화 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/summereyes.png",
+      "url": "https://www.aixploria.com/en/summereyes/",
+      "type": "부분 무료",
+      "category": "#Extensions ChatGPT, #Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "B7Labs",
+      "description": "« 단 몇 분 만에 URL을 통해 모든 웹페이지를 요약하는 간단한 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/b7labs.png",
+      "url": "https://www.aixploria.com/en/b7labs/",
+      "type": "무료",
+      "category": "#Productivity, #Summarizer",
+      "upvotes": 1
+    },
+    {
+      "name": "Bearly AI",
+      "description": "« 다양한 파일(PDF, DOC 등) 또는 웹페이지에서 텍스트 요약 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/bearly-ai.png",
+      "url": "https://www.aixploria.com/en/bearly-ai/",
+      "type": "부분 무료",
+      "category": "#Extensions ChatGPT, #Files & Spreadsheets",
+      "upvotes": 1
+    },
+    {
+      "name": "Argil",
+      "description": "« AI로 데이터를 자동화하여 생산성을 높이세요. No-Code 인증 애플리케이션 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/argil.png",
+      "url": "https://www.aixploria.com/en/argil/",
+      "type": "부분 무료",
+      "category": "#No Code/Low Code, #Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "ChatGPT for YouTube",
+      "description": "« YouTube 동영상을 요약하고 시간을 절약할 수 있는 무료 Chrome 확장 프로그램 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/chatgpt-for-youtube.png",
+      "url": "https://www.aixploria.com/en/chatgpt-for-youtube/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "Vimcal",
+      "description": "« 시간 관리를 최적화하는 스마트하고 빠르고 효율적인 달력입니다. 모바일 및 시간대와 호환됩니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/vimcal.png",
+      "url": "https://www.aixploria.com/en/vimcal-ai/",
+      "type": "부분 무료",
+      "category": "#Life Assistants, #Productivity",
+      "upvotes": 2
+    },
+    {
+      "name": "Alice AI",
+      "description": "« 질문에 답변할 수 있을 뿐만 아니라 작업을 자동화할 수 있는 AI와 채팅하여 생산성을 높이세요. 사용 가능한 모델: GPT-4, Claude 3, Perplexity 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/alice-ai.png",
+      "url": "https://www.aixploria.com/en/alice-ai-assistant/",
+      "type": "유료",
+      "category": "#Automation, #Productivity",
+      "upvotes": 11
+    },
+    {
+      "name": "BrainSoup",
+      "description": "« 특정 작업을 수행하기 위해 AI 에이전트 팀 생성을 단순화하는 플랫폼입니다. 자신의 데이터로 작업하는 능력 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/brainsoup.png",
+      "url": "https://www.aixploria.com/en/brainsoup-ai-agent/",
+      "type": "유료",
+      "category": "#ChatBots, #Productivity",
+      "upvotes": 9
+    },
+    {
+      "name": "WriteGPT",
+      "description": "« 글쓰기, 번역 등을 더욱 쉽게 만들어주는 Chrome 확장 프로그램 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/writegpt.png",
+      "url": "https://www.aixploria.com/en/writegpt/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Productivity",
+      "upvotes": 2
+    },
+    {
+      "name": "IKI AI",
+      "description": "« 전문가와 기업을 위한 스마트 라이브러리. 팀으로서 더욱 생산적으로 저장, 검색, 공동 작업 및 학습 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/iki-ai.png",
+      "url": "https://www.aixploria.com/en/iki-ai/",
+      "type": "유료",
+      "category": "#Business, #Productivity",
+      "upvotes": 17
+    },
+    {
+      "name": "Ideamap AI",
+      "description": "« 브레인스토밍 세션에 활력을 불어넣는 AI로 아이디어를 정리하세요. 실시간 공동작업 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ideamap-ai.png",
+      "url": "https://www.aixploria.com/en/ideamap-ai/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Productivity",
+      "upvotes": 3
+    },
+    {
+      "name": "NextThreeBooks",
+      "description": "« 귀하의 독서 취향에 맞는 무료 도서를 찾아주는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/nextthreebooks.png",
+      "url": "https://www.aixploria.com/en/nextthreebooks/",
+      "type": "무료",
+      "category": "#Life Assistants, #Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "Glimpse",
+      "description": "« 요약, 설명, 수정 등 웹 서핑을 돕기 위해 브라우저와 통합되는 AI 도우미 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/glimpse.png",
+      "url": "https://www.aixploria.com/en/glimpse-ai/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "Smart AI assistant by Zoom",
+      "description": "« Zoom 화상 회의 플랫폼 전용 다국어 보조자. 회의 요약, 지능적인 녹음, 이메일 작성 등을 할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/smart-ai-assistant-by-zoom.png",
+      "url": "https://www.aixploria.com/en/smart-ai-assistant-by-zoom/",
+      "type": "유료",
+      "category": "#Productivity, #Summarizer",
+      "upvotes": 3
+    },
+    {
+      "name": "Metawork",
+      "description": "« 가상 사무실을 통해 팀의 원격 관리 최적화: 실시간 가시성, 원활한 커뮤니케이션, 생산성 정보 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/metawork.png",
+      "url": "https://www.aixploria.com/en/metawork-ai/",
+      "type": "무료",
+      "category": "#Human Resources, #Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "GPT for Sheets",
+      "description": "« GPT-3에 따른 AI의 도움으로 Google 스프레드시트에서 데이터를 쉽게 추출하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/gpt-for-sheets.png",
+      "url": "https://www.aixploria.com/en/gpt-for-sheets/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Files & Spreadsheets",
+      "upvotes": 2
+    },
+    {
+      "name": "MyMemo",
+      "description": "« 중요한 정보의 기억력을 향상시키는 AI 도구입니다. 직관적인 인터페이스 덕분에 버튼 클릭만으로 지식을 중앙 집중화하고 액세스할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/mymemo.png",
+      "url": "https://www.aixploria.com/en/mymemo-ai/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Memory",
+      "upvotes": 10
+    },
+    {
+      "name": "Typly",
+      "description": "« 모든 메시지에 답변하여 AI의 도움을 받으세요. 또한 답변에 대한 제안도 제공합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/typly.png",
+      "url": "https://www.aixploria.com/en/typly/",
+      "type": "부분 무료",
+      "category": "#Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "Rise",
+      "description": "« 이 도구를 사용하여 일정을 최적화하고, 팀 회의에 가장 적합한 시간을 찾고, 동료와 쉽게 계획을 세우고, 모든 사람의 의제를 주시하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/rise.png",
+      "url": "https://www.aixploria.com/en/rise-ai/",
+      "type": "부분 무료",
+      "category": "#Human Resources, #Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "PopAI",
+      "description": "« 문서 분석 및 토론, 이미지 생성, 코드 작성 등을 수행할 수 있는 포괄적인 작업 공간입니다. 200개 이상의 언어로 이용 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/popai.png",
+      "url": "https://www.aixploria.com/en/popai-workspace/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Productivity",
+      "upvotes": 15
+    },
+    {
+      "name": "Respell",
+      "description": "« 작업 방식에 적응하고 많은 작업을 자동화하는 직관적인 AI 에이전트입니다. Gmail, Notion 및 Airtable과 같은 도구와 통합 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/respell.png",
+      "url": "https://www.aixploria.com/en/respell-ai/",
+      "type": "무료",
+      "category": "#Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "TalkForm AI",
+      "description": "« 대화형 AI를 통해 양식 작성 방식을 변화시키세요. 손쉽게 양식을 작성, 작성 및 분석하세요. GitHub에서도 사용 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/talkform-ai.png",
+      "url": "https://www.aixploria.com/en/talkform-ai/",
+      "type": "무료",
+      "category": "#Github Projects, #Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "ChatMind",
+      "description": "« 생산성과 창의성을 향상시키는 마인드 맵 생성. 학생, 전문가 등에 적합합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/chatmind.png",
+      "url": "https://www.aixploria.com/en/chatmind/",
+      "type": "무료",
+      "category": "#Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "YouTube Summarized",
+      "description": "« YouTube 동영상을 쉽게 요약할 수 있는 사용하기 쉬운 Chrome 확장 프로그램(OpenAI API 사용) »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/youtube-summarized.png",
+      "url": "https://www.aixploria.com/en/youtube-summarized/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "AI Checklist Generator",
+      "description": "« AI로 맞춤형 체크리스트를 만드세요. 해당 부문을 선택하고 다양한 산업을 포괄하는 사전 제작된 템플릿에 액세스하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-checklist-generator.png",
+      "url": "https://www.aixploria.com/en/ai-checklist-generator/",
+      "type": "무료",
+      "category": "#Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "AI Checklist Generator",
+      "description": "« 작업 관리를 단순화하고 지능적이고 개인화된 체크리스트를 생성하는 AI 도구입니다. 계획 및 구성 개선 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-checklist-generator.png",
+      "url": "https://www.aixploria.com/en/ai-checklist-generator-2/",
+      "type": "무료",
+      "category": "#Life Assistants, #Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "Universal Data Generator",
+      "description": "« AI를 사용하여 연구원과 분석가를 위한 맞춤형 데이터 세트 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/universal-data-generator.png",
+      "url": "https://www.aixploria.com/en/universal-data-generator/",
+      "type": "무료",
+      "category": "#Business, #Data & Analytics",
+      "upvotes": 1
+    },
+    {
+      "name": "The Drive AI",
+      "description": "« 파일 관리 최적화: 저장, 읽기 및 편집이 쉬워졌습니다. 학생, 전문가 및 연구자에게 적합합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/the-drive-ai.png",
+      "url": "https://www.aixploria.com/en/the-drive-ai/",
+      "type": "부분 무료",
+      "category": "#Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "myReach",
+      "description": "« 개인 AI 비서를 통해 조직을 강화하고 정보에 쉽게 액세스하세요. 메모, 파일, 웹사이트 등을 중앙 집중화하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/myreach.png",
+      "url": "https://www.aixploria.com/en/myreach-ai/",
+      "type": "부분 무료",
+      "category": "#Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "DeepTab",
+      "description": "« 생산성을 높이는 AI 도구 세트. 웹을 탐색할 때 챗봇의 도움을 받으세요. Chrome 확장 프로그램으로 사용 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/deeptab.png",
+      "url": "https://www.aixploria.com/en/deeptab-ai/",
+      "type": "부분 무료",
+      "category": "#Extensions ChatGPT, #Productivity",
+      "upvotes": 2
+    },
+    {
+      "name": "Mayday",
+      "description": "« 이 AI 지원 달력으로 시간 관리를 최적화하세요. 회의에 대한 맞춤형 추천 받기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/mayday.png",
+      "url": "https://www.aixploria.com/en/mayday/",
+      "type": "무료",
+      "category": "#Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "Transvribe",
+      "description": "« YouTube 동영상에 대해 질문하고 생산성을 높이세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/02/favicon-defa.png",
+      "url": "https://www.aixploria.com/en/transvribe/",
+      "type": "무료",
+      "category": "#Productivity, #Transcriber",
+      "upvotes": 2
+    },
+    {
+      "name": "Intellisay AI",
+      "description": "« 일상적인 작업을 생성하고 관리하는 음성 생산성 도구입니다. 간단히 계획을 말하면 AI가 이를 기록하고 분석하여 최적화된 일정을 제공합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/intellisay-ai.png",
+      "url": "https://www.aixploria.com/en/intellisay-ai/",
+      "type": "유료",
+      "category": "#Productivity",
+      "upvotes": 21
+    },
+    {
+      "name": "Eesel",
+      "description": "« 문서를 보다 효율적으로 구성하고 액세스할 수 있도록 브라우저에 탭을 추가하는 확장 프로그램입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/eesel.png",
+      "url": "https://www.aixploria.com/en/eesel/",
+      "type": "무료",
+      "category": "#Human Resources, #Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "A Million Dollar Idea",
+      "description": "« 창의적이고 영감을 주는 사업 아이디어를 창출하세요. 새롭고 혁신적인 기회 발견 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/a-million-dollar-idea.png",
+      "url": "https://www.aixploria.com/en/a-million-dollar-idea/",
+      "type": "무료",
+      "category": "#Business, #Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "Collato AI",
+      "description": "« 노트의 내용을 요약하고 생성하는 AI 도구입니다. 회의와 아이디어를 완벽하게 구조화된 문서로 전환하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/collato-ai.png",
+      "url": "https://www.aixploria.com/en/collato-ai-notetaker/",
+      "type": "부분 무료",
+      "category": "#Productivity",
+      "upvotes": 15
+    },
+    {
+      "name": "Article Summarizer",
+      "description": "« 매우 긴 기사도 자동으로 요약하는 도구입니다. Medium, TechCrunch 등과 호환 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/article-summarizer.png",
+      "url": "https://www.aixploria.com/en/article-summarizer/",
+      "type": "무료",
+      "category": "#Education / Studies, #Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "ChatTube",
+      "description": "« YouTube 동영상과 채팅하고 개인화된 AI 상호작용을 할 수 있는 확장 프로그램 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/chattube.png",
+      "url": "https://www.aixploria.com/en/chattube/",
+      "type": "부분 무료",
+      "category": "#Productivity, #Social Networks",
+      "upvotes": 1
+    },
+    {
+      "name": "MeetGeek",
+      "description": "« 비즈니스 회의를 실시간으로 기록, 녹음 및 요약합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/meetgeek.png",
+      "url": "https://www.aixploria.com/en/meetgeek/",
+      "type": "무료",
+      "category": "#Business, #Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "Trickle",
+      "description": "« 보다 효과적인 팀워크를 위해 메모, 작업 및 지식 기반을 결합한 AI 지원 작업 공간 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/trickle.png",
+      "url": "https://www.aixploria.com/en/trickle/",
+      "type": "부분 무료",
+      "category": "#Human Resources, #Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "Seo Review Tools",
+      "description": "« 실시간으로 SEO를 극대화하고 심층적으로 최적화하기 위한 AI 기반의 다양한 도구(66개 이상) »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/seo-review-tools.png",
+      "url": "https://www.aixploria.com/en/seo-review-tools/",
+      "type": "무료",
+      "category": "#Business, #Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "Quivr",
+      "description": "« AI 클라우드에 직접 연결된 두 번째 두뇌를 경험해보세요. 모든 유형의 데이터를 효율적이고 안전하게 저장 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/quivr.png",
+      "url": "https://www.aixploria.com/en/quivr/",
+      "type": "무료",
+      "category": "#Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "1v1 Meetings for Slack",
+      "description": "« Slack 미팅에서 실시간 영상 대화 활용(ChatGPT-4의 도움으로) »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/1v1-meetings-for-slack.png",
+      "url": "https://www.aixploria.com/en/1v1-meetings-for-slack/",
+      "type": "유료",
+      "category": "#Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "Ween.ai",
+      "description": "« 이 AI 기반 플랫폼을 통해 질적 면접 데이터를 제품 기회로 전환하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ween-ai.png",
+      "url": "https://www.aixploria.com/en/ween-ai/",
+      "type": "무료",
+      "category": "#Business, #Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "Insight Journal",
+      "description": "« AI를 사용하여 일지나 작업 일지를 유지하여 일상을 최적화하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/insight-journal.png",
+      "url": "https://www.aixploria.com/en/insight-journal/",
+      "type": "무료",
+      "category": "#Life Assistants, #Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "Hey There",
+      "description": "« 생산성을 빠르게 높일 수 있도록 다양한 분야의 전문 AI 도우미를 제공하는 사이트 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/hey-there.png",
+      "url": "https://www.aixploria.com/en/hey-there/",
+      "type": "부분 무료",
+      "category": "#ChatBots, #Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "MyMind",
+      "description": "« 아무것도 잊어버리지 않도록 지능적인 방법으로 메모하고, 분류하고, 주문하는 기억 보조 장치 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/mymind.png",
+      "url": "https://www.aixploria.com/en/mymind/",
+      "type": "유료",
+      "category": "#Memory, #Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "Sana Labs",
+      "description": "« 협업 AI 플랫폼으로 비즈니스 운영 방식 자동화 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/sana-labs.png",
+      "url": "https://www.aixploria.com/en/sana-labs/",
+      "type": "유료",
+      "category": "#Memory, #Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "Cohesive",
+      "description": "« YouTube 스크립트, 텍스트, 트윗, 패러프레이징, Instagram 게시물 등 모든 종류의 콘텐츠를 생성하기 위한 AI 도구 세트 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/cohesive.png",
+      "url": "https://www.aixploria.com/en/cohesive/",
+      "type": "부분 무료",
+      "category": "#Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "Ultra-Attention",
+      "description": "« 이 AI 기반 도구로 생산성을 높이세요. 프리랜서의 집중력 최적화 및 원격 작업에 이상적 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ultra-attention.png",
+      "url": "https://www.aixploria.com/en/ultra-attention/",
+      "type": "무료",
+      "category": "#Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "Spellpage",
+      "description": "« AI 비서를 활용하여 작업 속도를 높이고 지루한 프로세스를 자동화하는 플랫폼 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/spellpage.png",
+      "url": "https://www.aixploria.com/en/spellpage/",
+      "type": "부분 무료",
+      "category": "#Life Assistants, #Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "SaveDay",
+      "description": "« 멀티미디어 콘텐츠를 저장하고 프레젠테이션을 생성하기 위해 Telegram 애플리케이션용으로 설계된 AI 봇 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/saveday.png",
+      "url": "https://www.aixploria.com/en/saveday/",
+      "type": "무료",
+      "category": "#ChatBots, #Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "Filechat IO",
+      "description": "« PDF, Word 등을 제출하여 개인화된 ChatBot에 질문하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/filechat-io.png",
+      "url": "https://www.aixploria.com/en/filechat-io/",
+      "type": "유료",
+      "category": "#ChatBots, #Files & Spreadsheets",
+      "upvotes": 0
+    },
+    {
+      "name": "AnySolve",
+      "description": "« 직장에서의 효율성을 향상시키는 AI 작업 라이브러리입니다. 반복적인 작업을 쉽게 단순화하고 자동화합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/anysolve/",
+      "type": "부분 무료",
+      "category": "#Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "Raycast Al",
+      "description": "« AI의 강력한 기능을 사용하여 코딩 방식을 개선하고 시간을 절약합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/raycast-al.png",
+      "url": "https://www.aixploria.com/en/raycast-al/",
+      "type": "부분 무료",
+      "category": "#Assistant Code, #Productivity",
+      "upvotes": 3
+    },
+    {
+      "name": "Vondy AI",
+      "description": "« 인상적인 AI 도구 모음: 편집 보조, 이미지 생성기, 광고 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/vondy-ai.png",
+      "url": "https://www.aixploria.com/en/vondy-ai/",
+      "type": "부분 무료",
+      "category": "#Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "Casper AI",
+      "description": "« 기사 요약 등 다양한 사무 작업을 도와주는 스마트 Chrome 확장 프로그램 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/casper-ai.png",
+      "url": "https://www.aixploria.com/en/casper-ai/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "Workist",
+      "description": "« 비즈니스 문서 처리를 자동화하는 AI 소프트웨어. 시간을 절약하고 오류를 줄입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/workist.png",
+      "url": "https://www.aixploria.com/en/workist/",
+      "type": "유료",
+      "category": "#Finance, #Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "tl;dv",
+      "description": "« 회의를 녹음, 방송, 복사하는 데 도움이 되는 AI(Google Meet 및 Zoom) »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/tl-dv.png",
+      "url": "https://www.aixploria.com/en/tldv/",
+      "type": "부분 무료",
+      "category": "#Productivity, #Transcriber",
+      "upvotes": 3
+    },
+    {
+      "name": "Nubrain.ai",
+      "description": "« 콘텐츠 제작, 이미지 생성, 코드 등을 단순화하는 올인원 AI 툴킷 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/nubrain-ai.png",
+      "url": "https://www.aixploria.com/en/nubrain-ai/",
+      "type": "부분 무료",
+      "category": "#Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "Todo.is",
+      "description": "« 작업과 프로젝트를 관리하고 생산성을 높이며 팀으로서 더욱 효과적으로 협업할 수 있는 플랫폼 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/todo-is/",
+      "type": "부분 무료",
+      "category": "#Human Resources, #Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "Briefly AI",
+      "description": "« 간단히 말해서 AI는 AI를 사용하여 회의를 기록하고 요약하는 도구입니다. 단 몇 분 만에 분을 생성할 수도 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/briefly-ai.png",
+      "url": "https://www.aixploria.com/en/briefly-ai/",
+      "type": "무료",
+      "category": "#Productivity, #Transcriber",
+      "upvotes": 0
+    },
+    {
+      "name": "Chadview",
+      "description": "« Zoom, Teams 또는 Google Meet 회의에서 실시간 응답을 제공하는 Chatbot(확장 프로그램) »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/chadview.png",
+      "url": "https://www.aixploria.com/en/chadview/",
+      "type": "유료",
+      "category": "#ChatBots, #Human Resources",
+      "upvotes": 1
+    },
+    {
+      "name": "My AskAI",
+      "description": "« 나만의 맞춤형 ChatGPT를 빠르게 만들고 콘텐츠에서 즉각적인 응답 받기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/my-askai.png",
+      "url": "https://www.aixploria.com/en/my-askai/",
+      "type": "무료",
+      "category": "#ChatBots, #Productivity",
+      "upvotes": 2
+    },
+    {
+      "name": "Flux AI",
+      "description": "« 회의 중에 동행하고 반복적인 작업을 자동화하는 전문 AI 비서 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/flux-ai/",
+      "type": "부분 무료",
+      "category": "#Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "Personal AI",
+      "description": "« 쉽게 새로운 아이디어를 생성하고 새로운 개념을 만들어내는 AI 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/personal-ai.png",
+      "url": "https://www.aixploria.com/en/personal-ai/",
+      "type": "부분 무료",
+      "category": "#Memory, #Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "ResumeCheck AI",
+      "description": "« AI를 사용하여 이력서를 확인하고 최적화하세요. 실수를 쉽게 자동으로 수정하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/resumecheck-ai/",
+      "type": "부분 무료",
+      "category": "#Human Resources, #Life Assistants",
+      "upvotes": 1
+    },
+    {
+      "name": "EasyChat AI",
+      "description": "« Windows에서 ChatGPT를 사용하는 타사 응용 프로그램입니다. Markdown, 다크 모드, API 등과 호환 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/easychat-ai.png",
+      "url": "https://www.aixploria.com/en/easychat-ai/",
+      "type": "유료",
+      "category": "#Extensions ChatGPT, #Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "Scrivvy AI",
+      "description": "« AI로 YouTube 동영상을 자동으로 요약하여 작업 시간을 절약합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/scrivvy-ai.png",
+      "url": "https://www.aixploria.com/en/scrivvy-ai/",
+      "type": "부분 무료",
+      "category": "#Productivity, #Summarizer",
+      "upvotes": 0
+    },
+    {
+      "name": "Webscrape Ai",
+      "description": "« 데이터 수집을 자동화하는 AI 기반의 웹 스크래핑 도구입니다. 코딩 기술이 필요하지 않습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/webscrape-ai.png",
+      "url": "https://www.aixploria.com/en/webscrape-ai/",
+      "type": "유료",
+      "category": "#No Code/Low Code, #Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "Monic AI",
+      "description": "« 메모를 모든 언어의 모의 문제 및 시험으로 전환하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/monic-ai.png",
+      "url": "https://www.aixploria.com/en/monic-ai/",
+      "type": "유료",
+      "category": "#Education / Studies, #Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "MajorGen",
+      "description": "« LinkedIn 프로필을 사용하거나 기존 이력서를 가져와서 바로 사용할 수 있는 이력서와 자기 소개서 만들기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/majorgen.png",
+      "url": "https://www.aixploria.com/en/majorgen/",
+      "type": "유료",
+      "category": "#Human Resources, #Life Assistants",
+      "upvotes": 0
+    },
+    {
+      "name": "ChatGPT for Google",
+      "description": "« ChatGPT를 Google 검색 결과와 연결하세요. Chrome 및 Firefox 브라우저에서 사용할 수 있는 확장 프로그램 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/chatgpt-for-google.png",
+      "url": "https://www.aixploria.com/en/chatgpt-for-google/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "ToolBuilder AI",
+      "description": "« 주식 시장 분석, 영화 추천, 퀴즈 생성 등을 할 수 있는 다기능 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/toolbuilder-ai.png",
+      "url": "https://www.aixploria.com/en/toolbuilder-ai/",
+      "type": "유료",
+      "category": "#Amazing, #Life Assistants",
+      "upvotes": 2
+    },
+    {
+      "name": "Krock IO",
+      "description": "« 애니메이션이나 비디오 프로젝트에서 실시간으로 팀 단위로 협업하세요. 팀편집, 영상편집 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/krock-io.png",
+      "url": "https://www.aixploria.com/en/krock-io/",
+      "type": "유료",
+      "category": "#Human Resources, #Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "Slatebox",
+      "description": "« 텍스트를 시각화하여 쉽게 협업하고 아이디어를 정리할 수 있는 플랫폼 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/slatebox.png",
+      "url": "https://www.aixploria.com/en/slatebox/",
+      "type": "부분 무료",
+      "category": "#Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "BrowseGPT",
+      "description": "« AI를 사용하여 GPT-3에서 웹 검색을 자동화하는 Chrome 확장 프로그램 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/browsegpt.png",
+      "url": "https://www.aixploria.com/en/browsegpt/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "LanguagePro",
+      "description": "« 번역, 수정, 요약 등 언어적 글쓰기를 돕는 전문 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/languagepro.png",
+      "url": "https://www.aixploria.com/en/languagepro/",
+      "type": "부분 무료",
+      "category": "#Productivity, #Summarizer",
+      "upvotes": 2
+    },
+    {
+      "name": "CareerDekho AI",
+      "description": "« 맞춤형 제안으로 이상적인 직업을 찾는 데 도움이 되는 AI 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/careerdekho-ai.png",
+      "url": "https://www.aixploria.com/en/careerdekho-ai/",
+      "type": "무료",
+      "category": "#Business, #Human Resources",
+      "upvotes": 2
+    },
+    {
+      "name": "Liner",
+      "description": "« ChatGPT로 생산성을 높이는 Google Chrome 확장 프로그램입니다. PDF 도우미도 있음 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/liner.png",
+      "url": "https://www.aixploria.com/en/liner/",
+      "type": "부분 무료",
+      "category": "#Extensions ChatGPT, #Files & Spreadsheets",
+      "upvotes": 0
+    },
+    {
+      "name": "AIBrane",
+      "description": "« 어디서나 사용자를 따라다니며 생산성을 대폭 향상시키는 지능형 확장 프로그램 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/aibrane/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "Supernormal",
+      "description": "« 공동작업자와 비디오 업데이트를 통해 연결 상태를 유지하고 정보를 얻으세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/supernormal.png",
+      "url": "https://www.aixploria.com/en/supernormal/",
+      "type": "부분 무료",
+      "category": "#Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "Puppetry",
+      "description": "« 직관적인 애플리케이션(iPhone, iPad, Mac)을 사용하여 사진에 애니메이션을 적용하고 캐릭터를 만들어 보세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/puppetry.png",
+      "url": "https://www.aixploria.com/en/puppetry/",
+      "type": "무료",
+      "category": "#Avatars, #Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "Uminal",
+      "description": "« 웹에서 직접 검색할 수 있는 ChatGPT용 서비스 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/uminal.png",
+      "url": "https://www.aixploria.com/en/uminal/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "AI Genius",
+      "description": "« 웹에서 영구적으로 사용자를 따라다니며 일상 작업에 도움을 주는 AI 기반 Chrome 확장 프로그램 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-genius.png",
+      "url": "https://www.aixploria.com/en/ai-genius/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "MacGPT",
+      "description": "« 메뉴 표시줄에서 Mac의 ChatGPT AI에 빠르게 액세스하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/macgpt.png",
+      "url": "https://www.aixploria.com/en/macgpt/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "VenturusAI",
+      "description": "« AI를 사용하여 비즈니스 아이디어를 평가합니다. 즉각적이고 검색 가능하며 공유 가능한 보고서 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/venturusai.png",
+      "url": "https://www.aixploria.com/en/venturusai/",
+      "type": "무료",
+      "category": "#Business, #Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "Sumly AI",
+      "description": "« AI 기반 플랫폼에서 오디오, 비디오, 팟캐스트 콘텐츠를 쉽게 요약합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/sumly-ai.png",
+      "url": "https://www.aixploria.com/en/sumly-ai/",
+      "type": "무료",
+      "category": "#Productivity, #Summarizer",
+      "upvotes": 0
+    },
+    {
+      "name": "TeamSmart AI",
+      "description": "« 텍스트 요약, 코드 생성 등을 할 수 있는 ChatGPT용 Chrome 확장 프로그램으로 생산성을 높이세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/teamsmart-ai/",
+      "type": "유료",
+      "category": "#Extensions ChatGPT, #Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "AskNotion",
+      "description": "« Notion 페이지를 기반으로 개인 챗봇을 만들고 페이지를 무제한으로 동기화하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/02/favicon-defa.png",
+      "url": "https://www.aixploria.com/en/asknotion/",
+      "type": "유료",
+      "category": "#ChatBots, #Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "StoryLab AI",
+      "description": "« 글쓰기를 향상시키기 위한 콘텐츠 아이디어, 후크 및 계획을 생성하는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/storylab-ai.png",
+      "url": "https://www.aixploria.com/en/storylab-ai/",
+      "type": "부분 무료",
+      "category": "#Productivity, #Writing & Web SEO",
+      "upvotes": 0
+    },
+    {
+      "name": "Spoke AI",
+      "description": "« 팀에게 목표 알림, 즉시 알림 등을 제공하는 비즈니스용 OS »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/spoke-ai.png",
+      "url": "https://www.aixploria.com/en/spoke-ai/",
+      "type": "부분 무료",
+      "category": "#Human Resources, #Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "Adaptiv Academy",
+      "description": "« 귀하의 질문에 답변하고 귀하의 관심사에 따라 직업 선택을 추천하는 AI 비서 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/02/favicon-defa.png",
+      "url": "https://www.aixploria.com/en/adaptiv-academy/",
+      "type": "무료",
+      "category": "#Education / Studies, #Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "NameWizard AI",
+      "description": "« AI의 독창적인 아이디어로 프로젝트에 가장 적합한 도메인 이름을 빠르게 찾으세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/namewizard-ai.png",
+      "url": "https://www.aixploria.com/en/namewizard-ai/",
+      "type": "유료",
+      "category": "#Business, #Productivity",
+      "upvotes": 2
+    },
+    {
+      "name": "PixieBrix",
+      "description": "« AI 지원 Chrome 확장 프로그램으로 생산성을 높이세요. 멀티태스킹 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/pixiebrix.png",
+      "url": "https://www.aixploria.com/en/pixiebrix/",
+      "type": "부분 무료",
+      "category": "#Extensions ChatGPT, #Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "GPT2Markdown",
+      "description": "« ChatGPT를 사용하여 모든 대화를 마크다운 형식으로 쉽게 내보낼 수 있는 확장 프로그램 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/gpt2markdown.png",
+      "url": "https://www.aixploria.com/en/gpt2markdown/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "Glarity",
+      "description": "« 무료 Chrome 확장 프로그램을 사용하여 Google/YouTube 결과에서 ChatGPT 요약을 받아보세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/glarity.png",
+      "url": "https://www.aixploria.com/en/glarity/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "Magical AI",
+      "description": "« 회의를 계획하는 AI. 안건 작성, 시간 제안 및 자동 메모 작성 포함 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/magical-ai.png",
+      "url": "https://www.aixploria.com/en/magical-ai/",
+      "type": "부분 무료",
+      "category": "#Human Resources, #Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "RespoAI",
+      "description": "« 사려 깊고 효과적인 응답을 쉽게 만들 수 있는 브라우저 확장 프로그램 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/respoai.png",
+      "url": "https://www.aixploria.com/en/respoai/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "Superpower GPT",
+      "description": "« 내보내기, 검색 등과 같은 추가 기능으로 ChatGPT 대화 향상 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/superpower-gpt.png",
+      "url": "https://www.aixploria.com/en/superpower-gpt/",
+      "type": "무료",
+      "category": "#ChatBots, #Extensions ChatGPT",
+      "upvotes": 0
+    },
+    {
+      "name": "Auri AI",
+      "description": "« 철자 교정, 의역, 번역 및 텍스트 생성 기능을 제공하는 AI 글쓰기 도우미 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/auri-ai.png",
+      "url": "https://www.aixploria.com/en/auri-ai/",
+      "type": "부분 무료",
+      "category": "#Productivity, #Transcriber",
+      "upvotes": 0
+    },
+    {
+      "name": "Mental Models AI",
+      "description": "« 생산성을 방해할 수 있는 정신적 모델을 해독하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/mental-models-ai.png",
+      "url": "https://www.aixploria.com/en/mental-models-ai/",
+      "type": "부분 무료",
+      "category": "#Life Assistants, #Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "Venturefy",
+      "description": "« 비즈니스 파트너십에 검증된 배지를 표시하여 고객 신뢰도 향상 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/venturefy.png",
+      "url": "https://www.aixploria.com/en/venturefy/",
+      "type": "유료",
+      "category": "#Business, #Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "Botsheets",
+      "description": "« Google Sheets와 직접 연결하여 데이터 수집 및 고객 응답을 자동화합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/botsheets.png",
+      "url": "https://www.aixploria.com/en/botsheets/",
+      "type": "유료",
+      "category": "#Customer Support, #Files & Spreadsheets",
+      "upvotes": 0
+    },
+    {
+      "name": "Mobile GPT",
+      "description": "« ChatGPT를 사용하여 문서 생성, 이미지 생성 등을 수행하는 모바일 애플리케이션 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/mobile-gpt.png",
+      "url": "https://www.aixploria.com/en/mobile-gpt/",
+      "type": "유료",
+      "category": "#Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "Hints",
+      "description": "« 모든 알림을 한 곳에서 받아 GPT-4로 생산성을 높이세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/hints.png",
+      "url": "https://www.aixploria.com/en/hints/",
+      "type": "유료",
+      "category": "#Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "Helper",
+      "description": "« ChatGPT를 즐겨 사용하는 애플리케이션에 쉽게 통합하세요. 생산성 및 효율성 향상 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/helper.png",
+      "url": "https://www.aixploria.com/en/helper/",
+      "type": "무료",
+      "category": "#Productivity",
+      "upvotes": 0
+    }
+  ]
+}

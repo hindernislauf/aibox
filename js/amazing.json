@@ -1,0 +1,1130 @@
+{
+  "name": "Amazing",
+  "items": [
+    {
+      "name": "Character AI",
+      "description": "« 좋아하는 캐릭터와 채팅하고 AI의 새로운 가능성을 발견하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/character-ai.png",
+      "url": "https://www.aixploria.com/en/character-ai/",
+      "type": "무료",
+      "category": "#Amazing, #ChatBots",
+      "upvotes": 318
+    },
+    {
+      "name": "FaceSwapper",
+      "description": "« 사진이나 비디오의 모든 얼굴을 AI로 사실적으로 교체하세요. 즉시 옷을 갈아입고 아바타를 만드는 등 다양한 기능을 제공합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/faceswapper.png",
+      "url": "https://www.aixploria.com/en/faceswapper/",
+      "type": "부분 무료",
+      "category": "#Amazing, #Face Swap & DeepFake",
+      "upvotes": 47
+    },
+    {
+      "name": "Outfits AI",
+      "description": "« 새로운 옷 아이디어를 찾을 수 있도록 옷을 바꿔주는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/outfits-ai.png",
+      "url": "https://www.aixploria.com/en/outfits-ai/",
+      "type": "부분 무료",
+      "category": "#Amazing, #Fashion",
+      "upvotes": 8
+    },
+    {
+      "name": "Misgif",
+      "description": "« Faceswap이라는 AI 기술 덕분에 GIF에 있는 캐릭터의 얼굴을 자신의 얼굴로 바꿀 수 있습니다. 편집 도구도 포함되어 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/misgif.png",
+      "url": "https://www.aixploria.com/en/misgif-ai/",
+      "type": "무료",
+      "category": "#Amazing, #Face Swap & DeepFake",
+      "upvotes": 42
+    },
+    {
+      "name": "AI HairStyles",
+      "description": "« 트렌드와 패션을 아는 AI를 사용하여 셀카 중 하나에서 새로운 헤어스타일을 시도해 보세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-hairstyles.png",
+      "url": "https://www.aixploria.com/en/ai-hairstyles/",
+      "type": "유료",
+      "category": "#Amazing, #Fashion",
+      "upvotes": 7
+    },
+    {
+      "name": "FakeYou",
+      "description": "« 코미디언, 비디오 게임 캐릭터 등과 같은 유명인이 텍스트를 읽도록 하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/fakeyou.png",
+      "url": "https://www.aixploria.com/en/fakeyou/",
+      "type": "부분 무료",
+      "category": "#Amazing",
+      "upvotes": 5
+    },
+    {
+      "name": "Tattoos AI",
+      "description": "« 문신 예술을 완벽하게 마스터하는 지능으로 꿈의 문신을 디자인하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/tattoos-ai.png",
+      "url": "https://www.aixploria.com/en/tattoos-ai/",
+      "type": "부분 무료",
+      "category": "#Amazing, #Life Assistants",
+      "upvotes": 5
+    },
+    {
+      "name": "Animated Drawings",
+      "description": "« 그림에 생명을 불어넣고 매우 놀라운 방식으로 애니메이션을 적용할 수 있는 오픈 소스 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/animated-drawings.png",
+      "url": "https://www.aixploria.com/en/animated-drawings/",
+      "type": "무료",
+      "category": "#Amazing, #Image Generators",
+      "upvotes": 40
+    },
+    {
+      "name": "Faraday.dev",
+      "description": "« 설치 없이 로컬로 여러 LLM 모델에서 텍스트를 생성합니다. 알파카, LLaMA 2, 비쿠나, 비고뉴, 마법사 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/faraday-dev.png",
+      "url": "https://www.aixploria.com/en/faraday-dev/",
+      "type": "무료",
+      "category": "#Amazing, #ChatBots",
+      "upvotes": 72
+    },
+    {
+      "name": "Face Animator",
+      "description": "« 이 재미있는 AI 도구를 사용하여 단일 이미지에서 모든 얼굴의 표현력이 풍부한 비디오 애니메이션을 만드세요. 사진을 업로드하고 반응을 선택하기만 하면 됩니다! »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/face-animator.png",
+      "url": "https://www.aixploria.com/en/face-animator-ai-discopixel/",
+      "type": "무료",
+      "category": "#Amazing, #Image editing",
+      "upvotes": 23
+    },
+    {
+      "name": "Playphrase.me",
+      "description": "« 문장을 작성하면 AI가 사용 가능한 모든 영화 대사를 찾습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/playphrase-me.png",
+      "url": "https://www.aixploria.com/en/playphrase-me/",
+      "type": "무료",
+      "category": "#Amazing",
+      "upvotes": 13
+    },
+    {
+      "name": "Recipes By AI",
+      "description": "« 사용 가능한 재료 목록을 적어두면 새로운 AI 셰프가 레시피를 알려줍니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/recipes-by-ai.png",
+      "url": "https://www.aixploria.com/en/recipes-by-ai/",
+      "type": "무료",
+      "category": "#Amazing, #Life Assistants",
+      "upvotes": 5
+    },
+    {
+      "name": "NEO by 1x Technologies",
+      "description": "« 인간화 된 손을 갖춘 이족 보행 지능형 안드로이드 어시스턴트가 개발 중입니다. 이 프로젝트는 OpenAI에서 지원됩니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/neo-by-1x-technologies.png",
+      "url": "https://www.aixploria.com/en/neo-by-1x-technologies-ai/",
+      "type": "유료",
+      "category": "#Amazing, #Robots and Devices",
+      "upvotes": 12
+    },
+    {
+      "name": "Delphi AI",
+      "description": "« PDF, 비디오, 팟캐스트 등을 사용하여 자신의 디지털 복제본을 생성하기 위한 플랫폼입니다. 제작자와 영향력 있는 사람에게 적합합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/delphi-ai.png",
+      "url": "https://www.aixploria.com/en/delphi-ai-clone/",
+      "type": "부분 무료",
+      "category": "#Amazing, #Avatars",
+      "upvotes": 27
+    },
+    {
+      "name": "Escape AI",
+      "description": "« SF, 공포, 판타지, 코미디 등 오리지널 AI 영화와 단편을 갖춘 새로운 신미래 영화 플랫폼 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/escape-ai.png",
+      "url": "https://www.aixploria.com/en/escape-ai-cinema-film/",
+      "type": "무료",
+      "category": "#Amazing, #Video Generators",
+      "upvotes": 26
+    },
+    {
+      "name": "Celebrity Voice Changer AI",
+      "description": "« 원하는 유명인의 목소리로 목소리를 바꾸거나 텍스트 음성 변환 기능을 사용하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/celebrity-voice-changer-ai.png",
+      "url": "https://www.aixploria.com/en/celebrity-voice-changer-ai/",
+      "type": "부분 무료",
+      "category": "#Amazing",
+      "upvotes": 4
+    },
+    {
+      "name": "CloneDub",
+      "description": "« 동일한 음성을 유지하면서 오디오를 어떤 언어로든 변환하세요. 차세대 음성복제 기술 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/clonedub.png",
+      "url": "https://www.aixploria.com/en/clonedub/",
+      "type": "무료",
+      "category": "#Amazing, #Audio Editing",
+      "upvotes": 10
+    },
+    {
+      "name": "Are You Smarter Than ChatGPT",
+      "description": "« ChatGPT에 대한 지식에 도전하는 재미있는 게임입니다. 자신을 테스트하고 누가 가장 똑똑한지 알아보세요! »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/are-you-smarter-than-chatgpt.png",
+      "url": "https://www.aixploria.com/en/are-you-smarter-than-chatgpt/",
+      "type": "무료",
+      "category": "#Amazing, #Games",
+      "upvotes": 7
+    },
+    {
+      "name": "AI Expression Editor",
+      "description": "« 사진의 얼굴 표정을 수정하는 AI 도구입니다. 눈썹, 눈, 입을 수정하여 인물 사진의 감정을 실시간으로 조정하여 완벽한 표정을 만들어 보세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-expression-editor.png",
+      "url": "https://www.aixploria.com/en/ai-expression-editor/",
+      "type": "무료",
+      "category": "#Amazing, #Image editing",
+      "upvotes": 41
+    },
+    {
+      "name": "SuperMeme",
+      "description": "« 아이디어를 쓰면 AI가 이를 밈으로 바꿔줍니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/supermeme.png",
+      "url": "https://www.aixploria.com/en/supermeme/",
+      "type": "무료",
+      "category": "#Amazing, #Social Networks",
+      "upvotes": 4
+    },
+    {
+      "name": "Voice AI",
+      "description": "« 스트리밍이나 게임을 위한 실시간 AI 음성 수정자. MineCraft, Discord, Zoom, WhatsApp 등과 호환됩니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/voice-ai.png",
+      "url": "https://www.aixploria.com/en/voice-ai/",
+      "type": "무료",
+      "category": "#Amazing, #Audio Editing",
+      "upvotes": 5
+    },
+    {
+      "name": "PS2 Filter",
+      "description": "« 단 한 번의 클릭으로 최신 유행의 PS2 필터를 사용하여 사진을 변형할 수 있습니다. 몇 초 만에 멋진 AI 사진을 만들고 최신 트렌드를 따라가세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ps2-filter.png",
+      "url": "https://www.aixploria.com/en/ps2-filter-ai/",
+      "type": "무료",
+      "category": "#Amazing, #Image editing",
+      "upvotes": 16
+    },
+    {
+      "name": "Art Remix by Google",
+      "description": "« AI로 이미지를 리믹스하여 이미지를 변형하세요. 프롬프트를 통해 원하는 변경 사항을 설명하고 마법이 일어나도록 하세요. 무한히 창조하라! »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/art-remix-by-google.png",
+      "url": "https://www.aixploria.com/en/art-remix-by-google-ai/",
+      "type": "무료",
+      "category": "#Amazing, #Image Generators",
+      "upvotes": 29
+    },
+    {
+      "name": "Truth or Dare AI",
+      "description": "« 진실 또는 도전 파티를 위한 매운 질문의 AI 생성기입니다. 질문을 맞춤화하고 친근함, 매력적 등 스타일을 선택할 수 있습니다. 게임은 온라인과 IOS에서 이용 가능합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/truth-or-dare-ai.png",
+      "url": "https://www.aixploria.com/en/truth-or-dare-ai-game/",
+      "type": "부분 무료",
+      "category": "#Amazing, #Games",
+      "upvotes": 29
+    },
+    {
+      "name": "Showrunner",
+      "description": "« AI를 사용하여 나만의 TV 프로그램을 만들어 보세요. 프롬프트로 원하는 에피소드를 설명하고 몇 분 만에 맞춤 프로그램을 시청하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/showrunner.png",
+      "url": "https://www.aixploria.com/en/showrunner-ai-tv-show/",
+      "type": "무료",
+      "category": "#Amazing, #Video Generators",
+      "upvotes": 21
+    },
+    {
+      "name": "Swapface",
+      "description": "« 실시간으로 현실적인 얼굴 교환을 수행하는 AI. 스트리밍, 화상 통화 등에 적합합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/swapface.png",
+      "url": "https://www.aixploria.com/en/swapface/",
+      "type": "무료",
+      "category": "#Amazing, #Face Swap & DeepFake",
+      "upvotes": 4
+    },
+    {
+      "name": "AI Meme by Rusher",
+      "description": "« 어떤 URL에서든 몇 초 만에 재미있는 밈을 만들어보세요. 이 서비스는 무료이며 다양한 언어로 제공됩니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-meme-by-rusher.png",
+      "url": "https://www.aixploria.com/en/ai-meme-by-rusher/",
+      "type": "무료",
+      "category": "#Amazing, #Image Generators",
+      "upvotes": 24
+    },
+    {
+      "name": "What Beats Rock",
+      "description": "« 가위바위보에서 영감을 받은 이 게임에서 AI와 대결해보세요. 상대방의 움직임을 예상하여 점수를 획득하세요. 간단한 규칙, 재미있는 게임플레이 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/what-beats-rock.png",
+      "url": "https://www.aixploria.com/en/what-beats-rock-ai-games/",
+      "type": "무료",
+      "category": "#Amazing, #Games",
+      "upvotes": 21
+    },
+    {
+      "name": "SketchPro AI",
+      "description": "« 이미지에서 스케치 및 모호한 설명까지 수신 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/sketchpro-ai.png",
+      "url": "https://www.aixploria.com/en/sketchpro-ai/",
+      "type": "무료",
+      "category": "#Amazing, #Art",
+      "upvotes": 8
+    },
+    {
+      "name": "This Model Does Not Exist",
+      "description": "« 매우 현실적인 인스타그램 모델 또는 인플루언서의 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/this-model-does-not-exist.png",
+      "url": "https://www.aixploria.com/en/this-model-does-not-exist/",
+      "type": "무료",
+      "category": "#Amazing, #This*DoesNotExist",
+      "upvotes": 3
+    },
+    {
+      "name": "Sora Videos",
+      "description": "« Sora AI에서 생성되고 매일 업데이트되는 100개 이상의 멋진 비디오 컬렉션입니다. 동영상 뒤의 메시지 목록도 살펴보세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/sora-videos.png",
+      "url": "https://www.aixploria.com/en/list-all-ai-videos-sora/",
+      "type": "무료",
+      "category": "#Amazing, #SuperTools",
+      "upvotes": 24
+    },
+    {
+      "name": "Yarn.co",
+      "description": "« 영화, TV 프로그램, 음악에서 컬트 대사를 찾아보세요. 방대한 데이터베이스 덕분에 인용문으로 검색하고 새로운 발췌문을 발견할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/yarn-co.png",
+      "url": "https://www.aixploria.com/en/yarn-co-ai-search-clips/",
+      "type": "무료",
+      "category": "#Amazing",
+      "upvotes": 28
+    },
+    {
+      "name": "Hello History",
+      "description": "« 인류 역사를 형성한 유명한 사람들과 대화하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/hello-history.png",
+      "url": "https://www.aixploria.com/en/hello-history/",
+      "type": "무료",
+      "category": "#Amazing",
+      "upvotes": 3
+    },
+    {
+      "name": "Dream Interpreter",
+      "description": "« 당신의 꿈을 해석하고 그 의미를 알려주는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/dream-interpreter.png",
+      "url": "https://www.aixploria.com/en/dream-interpreter/",
+      "type": "무료",
+      "category": "#Amazing, #Life Assistants",
+      "upvotes": 4
+    },
+    {
+      "name": "Caricaturer IO",
+      "description": "« 사진을 설득력 있는 캐리커처로 바꿔 보세요. 64가지 유형의 캐리커처를 사용할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/caricaturer-io.png",
+      "url": "https://www.aixploria.com/en/caricaturer-io/",
+      "type": "무료",
+      "category": "#Amazing, #Avatars",
+      "upvotes": 5
+    },
+    {
+      "name": "Texts from my ex",
+      "description": "« 전 애인과의 대화를 분석하고 이 (전) 관계에 대해 더 깊이 이해하세요. Imessage 및 WhatsApp과 호환 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/07/text-from-my-ex-ai-icon.webp",
+      "url": "https://www.aixploria.com/en/texts-from-my-ex/",
+      "type": "무료",
+      "category": "#Amazing, #Dating & Relationships",
+      "upvotes": 6
+    },
+    {
+      "name": "Voyager Minecraft AI",
+      "description": "« 비디오 게임 Minecraft의 전문 플레이어로 변신한 자율 에이전트. GPT-4 프로젝트 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/voyager-minecraft-ai.png",
+      "url": "https://www.aixploria.com/en/voyager-minecraft-ai/",
+      "type": "무료",
+      "category": "#Amazing, #Games",
+      "upvotes": 2
+    },
+    {
+      "name": "Food Mood by Google",
+      "description": "« AI의 도움으로 두 가지 요리를 혼합하여 독창적인 요리법을 만들어보세요. 다음 식사에 대한 영감을 얻으세요. 재미있고 창의적인 경험 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/food-mood-by-google.png",
+      "url": "https://www.aixploria.com/en/food-mood-by-google-ai/",
+      "type": "무료",
+      "category": "#Amazing, #Life Assistants",
+      "upvotes": 28
+    },
+    {
+      "name": "Riddle Me This",
+      "description": "« AI로 구동되는 재미있는 추측 게임입니다. 다양한 난이도로 인공 지능이 생성한 퍼즐을 풀어 논리와 창의력을 테스트하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/riddle-me-this.png",
+      "url": "https://www.aixploria.com/en/riddle-me-this/",
+      "type": "무료",
+      "category": "#Amazing, #Games",
+      "upvotes": 42
+    },
+    {
+      "name": "BlackInk",
+      "description": "« AI로 단 몇 초 만에 문신 만들기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/blackink.png",
+      "url": "https://www.aixploria.com/en/blackink/",
+      "type": "무료",
+      "category": "#Amazing, #Life Assistants",
+      "upvotes": 4
+    },
+    {
+      "name": "FacePoke",
+      "description": "« 사진 속 얼굴에 애니메이션을 적용하는 재미있는 AI 도구입니다. 단 몇 번의 클릭만으로 사실적인 얼굴 표정, 눈 깜박임, 입 움직임을 추가하여 인물 사진에 생기를 불어넣으세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/facepoke.png",
+      "url": "https://www.aixploria.com/en/facepoke/",
+      "type": "무료",
+      "category": "#Amazing, #Image editing",
+      "upvotes": 24
+    },
+    {
+      "name": "AI Sound Copilot",
+      "description": "« 비디오를 업로드하면 AI가 시퀀스에 완벽하게 적합한 음향 효과를 생성합니다. 로열티 프리 오디오 효과 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-sound-copilot.png",
+      "url": "https://www.aixploria.com/en/ai-sound-copilot/",
+      "type": "무료",
+      "category": "#Amazing, #Audio Editing",
+      "upvotes": 7
+    },
+    {
+      "name": "Morpheus-1 by Prophetic AI",
+      "description": "« 자각몽을 유도하고 안정화하도록 설계된 놀라운 AI ​​모델입니다. 꿈을 탐색하고 통제하는 데 이상적입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/morpheus-1-by-prophetic-ai.png",
+      "url": "https://www.aixploria.com/en/morpheus-1-by-prophetic-ai/",
+      "type": "무료",
+      "category": "#Amazing, #Future Tools",
+      "upvotes": 14
+    },
+    {
+      "name": "BrickCenter",
+      "description": "« 텍스트나 사진에서 맞춤형 레고 세트와 미니피규어를 생성하세요. 무료로 상상력을 발휘해보세요! »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/brickcenter.png",
+      "url": "https://www.aixploria.com/en/brickcenter-ai-lego-generator/",
+      "type": "무료",
+      "category": "#Amazing, #Games",
+      "upvotes": 21
+    },
+    {
+      "name": "JARS.ai",
+      "description": "« AI로 구동되는 대화형 쇼를 시청할 수 있는 스트리밍 플랫폼입니다. 질문하고, 투표하고, 토론에 참여하세요! »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/jars-ai.png",
+      "url": "https://www.aixploria.com/en/jars-ai-shows/",
+      "type": "무료",
+      "category": "#Amazing",
+      "upvotes": 19
+    },
+    {
+      "name": "IllusionDiffusion",
+      "description": "« Stable Diffusion과 QR Control Net을 동시에 사용하여 매혹적인 이미지를 만들어 환상주의 예술을 탐험해 보세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/illusiondiffusion.png",
+      "url": "https://www.aixploria.com/en/illusiondiffusion-ai/",
+      "type": "무료",
+      "category": "#Amazing, #Art",
+      "upvotes": 5
+    },
+    {
+      "name": "StupidGPT",
+      "description": "« 항상 채팅에 참여하고 있지만 말도 안되는 말을 많이 하는 AI. 유머러스한 프로젝트 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/stupidgpt.png",
+      "url": "https://www.aixploria.com/en/stupidgpt/",
+      "type": "무료",
+      "category": "#AI Chat & Assistant, #Amazing",
+      "upvotes": 7
+    },
+    {
+      "name": "Robot LOOI",
+      "description": "« 재미있는 데스크탑 로봇으로 스마트폰에 생기를 불어넣으세요. 내장된 AI로 상호 작용하고, 놀고, 촬영하고 특별한 순간을 포착하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/robot-looi.png",
+      "url": "https://www.aixploria.com/en/robot-looi-smartphone-ai/",
+      "type": "유료",
+      "category": "#Amazing, #Robots and Devices",
+      "upvotes": 21
+    },
+    {
+      "name": "Moemate",
+      "description": "« 이미지에서 캐릭터를 생성하고 매우 사실적인 방식으로 생생하게 구현하세요. 목소리와 성격을 선택하고 채팅하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/moemate.png",
+      "url": "https://www.aixploria.com/en/moemate-ai/",
+      "type": "무료",
+      "category": "#Amazing, #Avatars",
+      "upvotes": 11
+    },
+    {
+      "name": "JustLearn",
+      "description": "« 항상 당신과 채팅할 수 있는 AI 친구 만들기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/justlearn.png",
+      "url": "https://www.aixploria.com/en/justlearn/",
+      "type": "부분 무료",
+      "category": "#Amazing, #Life Assistants",
+      "upvotes": 2
+    },
+    {
+      "name": "JanitorAI",
+      "description": "« 유명인부터 만화 영웅까지 다양한 캐릭터와 채팅하세요. 자신만의 캐릭터를 만들 수도 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/janitorai.png",
+      "url": "https://www.aixploria.com/en/janitorai/",
+      "type": "무료",
+      "category": "#Amazing, #ChatBots",
+      "upvotes": 15
+    },
+    {
+      "name": "Chatmate AI",
+      "description": "« WhatsApp, 메신저 등 메시징 애플리케이션에서 매우 인간처럼 보이는 AI와 직접 채팅하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/chatmate-ai.png",
+      "url": "https://www.aixploria.com/en/chatmate-ai/",
+      "type": "유료",
+      "category": "#Amazing, #Games",
+      "upvotes": 2
+    },
+    {
+      "name": "Champ AI",
+      "description": "« 참조 비디오의 움직임을 모방하여 사진에 애니메이션을 적용하세요. 파라메트릭 3D 안내를 통해 일관되고 제어 가능한 시각적 렌더링 달성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/champ-ai/",
+      "type": "무료",
+      "category": "#Amazing, #Image editing",
+      "upvotes": 21
+    },
+    {
+      "name": "FineShare Online Voice Changer",
+      "description": "« 이 AI 도구를 사용하여 온라인에서 무료로 목소리를 바꾸세요. 몇 초 만에 유명인이나 가상의 인물을 흉내낼 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/fineshare-online-voice-changer.png",
+      "url": "https://www.aixploria.com/en/fineshare-online-voice-changer/",
+      "type": "무료",
+      "category": "#Amazing, #Audio Editing",
+      "upvotes": 5
+    },
+    {
+      "name": "Momento AI",
+      "description": "« 나만의 AI 복제본을 확보하고 팬에게 방해 없이 대화할 수 있는 기회를 제공하세요. 혁신적인 AI 기술의 이점 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/momento-ai/",
+      "type": "무료",
+      "category": "#Amazing, #ChatBots",
+      "upvotes": 4
+    },
+    {
+      "name": "Goody-2",
+      "description": "« 윤리와 보안을 최우선으로 생각하는 지능형 대화 도우미. 시장에서 가장 정중하고 안전한 챗봇으로 발표됨 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/goody-2.png",
+      "url": "https://www.aixploria.com/en/goody-2-ai-chatbot/",
+      "type": "무료",
+      "category": "#AI Chat & Assistant, #Amazing",
+      "upvotes": 8
+    },
+    {
+      "name": "Butterflies AI",
+      "description": "« AI 캐릭터와 상호 작용할 수 있는 독창적인 소셜 네트워크입니다. Instagram과 마찬가지로 아바타를 만들고, 콘텐츠를 게시하고, 채팅할 수 있지만 인공 지능을 사용합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/butterflies-ai.png",
+      "url": "https://www.aixploria.com/en/butterflies-ai-social-network/",
+      "type": "무료",
+      "category": "#Amazing, #Social Networks",
+      "upvotes": 19
+    },
+    {
+      "name": "Audio2Photoreal by Meta",
+      "description": "« 몸 전체를 통합하고 작가의 목소리에 따라 움직임이 자연스럽게 안내되는 사실적인 아바타 생성기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/audio2photoreal-by-meta.png",
+      "url": "https://www.aixploria.com/en/audio2photoreal-by-meta/",
+      "type": "무료",
+      "category": "#Amazing, #Avatars",
+      "upvotes": 5
+    },
+    {
+      "name": "WatchNow",
+      "description": "« 사용자의 선호도에 따라 영화 목록(예: Netflix)을 제안하는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/watchnow/",
+      "type": "무료",
+      "category": "#AI Useful, #Amazing",
+      "upvotes": 3
+    },
+    {
+      "name": "Deep Nostalgia",
+      "description": "« 오래된 사진에 애니메이션을 적용하여 생기를 불어넣으세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/deep-nostalgia.png",
+      "url": "https://www.aixploria.com/en/deep-nostalgia/",
+      "type": "부분 무료",
+      "category": "#Amazing",
+      "upvotes": 3
+    },
+    {
+      "name": "MemeCam AI",
+      "description": "« 선택한 사진으로 AI 자동 밈 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/memecam-ai.png",
+      "url": "https://www.aixploria.com/en/memecam-ai/",
+      "type": "무료",
+      "category": "#Amazing, #Image editing",
+      "upvotes": 3
+    },
+    {
+      "name": "Barbie Selfie Generator",
+      "description": "« 당신을 진짜 바비 인형으로 만들어주는 필터를 사용하여 사진을 쉽게 변형해 보세요. 피부가 좋아지고 더욱 아름다워집니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/barbie-selfie-generator.png",
+      "url": "https://www.aixploria.com/en/barbie-selfie-generator-ai/",
+      "type": "부분 무료",
+      "category": "#Amazing, #Fashion",
+      "upvotes": 10
+    },
+    {
+      "name": "AI Time Machine",
+      "description": "« 사진에서 이미지를 생성하여 시간을 건너보세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-time-machine.png",
+      "url": "https://www.aixploria.com/en/ai-time-machine/",
+      "type": "부분 무료",
+      "category": "#Amazing, #Avatars",
+      "upvotes": 3
+    },
+    {
+      "name": "Little Artist",
+      "description": "« 아이들의 낙서나 그림을 실제 예술 작품으로 바꿔보세요! 캔버스나 포스터에 인쇄할 수도 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/little-artist.png",
+      "url": "https://www.aixploria.com/en/little-artist-ai/",
+      "type": "무료",
+      "category": "#Amazing, #Art",
+      "upvotes": 4
+    },
+    {
+      "name": "GenType by Google",
+      "description": "« 누구나 무엇이든 나만의 알파벳을 만들 수 있는 AI 실험입니다. Google Imagen 2 제공 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/gentype-by-google.png",
+      "url": "https://www.aixploria.com/en/gentype-by-google/",
+      "type": "무료",
+      "category": "#Amazing, #Art",
+      "upvotes": 20
+    },
+    {
+      "name": "Extrapolate",
+      "description": "« 노년까지 얼굴의 진화를 시뮬레이션하는 AI. 당신은 늙으면 어떤 모습일까요? »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/extrapolate.png",
+      "url": "https://www.aixploria.com/en/extrapolate/",
+      "type": "무료",
+      "category": "#Amazing",
+      "upvotes": 2
+    },
+    {
+      "name": "Brickit App",
+      "description": "« 레고 블록을 스캔하고 만들 수 있는 전체 창작물 시리즈를 제안하는 AI 기반 모바일 애플리케이션 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/brickit-app.png",
+      "url": "https://www.aixploria.com/en/brickit-app-ai/",
+      "type": "무료",
+      "category": "#Amazing, #Life Assistants",
+      "upvotes": 14
+    },
+    {
+      "name": "Chatmosphere",
+      "description": "« 귀하의 설명에서 채팅방 생성. AI를 맞춤 설정하고 ChatRoom을 통해 AI와 채팅하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/chatmosphere.png",
+      "url": "https://www.aixploria.com/en/chatmosphere/",
+      "type": "무료",
+      "category": "#Amazing, #ChatBots",
+      "upvotes": 3
+    },
+    {
+      "name": "AI Emojis Generator",
+      "description": "« 프롬프트에서 나만의 맞춤형 이모티콘을 만드세요. 이모티콘이 어떻게 보이길 원하는지 설명하면 AI가 디자인해 드립니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-emojis-generator.png",
+      "url": "https://www.aixploria.com/en/ai-emojis-generator/",
+      "type": "무료",
+      "category": "#Amazing, #Image Generators",
+      "upvotes": 5
+    },
+    {
+      "name": "SendFame",
+      "description": "« SendFame 텍스트-비디오 기술을 사용하여 유명인으로부터 개인화된 비디오 메시지를 쉽게 만들 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/sendfame.png",
+      "url": "https://www.aixploria.com/en/sendfame/",
+      "type": "부분 무료",
+      "category": "#Amazing, #Text-to-video",
+      "upvotes": 8
+    },
+    {
+      "name": "Hairgen AI",
+      "description": "“머리가 빠졌나요? 이 AI는 모발 이식을 시뮬레이션합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/hairgen-ai.png",
+      "url": "https://www.aixploria.com/en/hairgen-ai/",
+      "type": "유료",
+      "category": "#Amazing",
+      "upvotes": 2
+    },
+    {
+      "name": "Jokelub",
+      "description": "« 메시지를 통해 귀하의 글을 농담으로 바꿔줍니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/jokelub.png",
+      "url": "https://www.aixploria.com/en/jokelub/",
+      "type": "무료",
+      "category": "#Amazing",
+      "upvotes": 3
+    },
+    {
+      "name": "Dumb Meme Generator",
+      "description": "« 밈의 이미지와 텍스트를 모두 생성하는 재미있는 밈 생성기입니다. 인터페이스는 사용하기 쉽고 프롬프트와 함께 작동합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/dumb-meme-generator-ai/",
+      "type": "무료",
+      "category": "#Amazing, #Image Generators",
+      "upvotes": 2
+    },
+    {
+      "name": "Scrabblecam",
+      "description": "« 스크래블 보드 사진을 보내면 AI가 게임에서 승리할 수 있는 최선의 동작을 제안합니다. 이 서비스는 다국어이며 API를 제공합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/scrabblecam.png",
+      "url": "https://www.aixploria.com/en/scrabblecam-ai/",
+      "type": "무료",
+      "category": "#Amazing, #Games",
+      "upvotes": 3
+    },
+    {
+      "name": "AskThee",
+      "description": "« 최고의 철학자, 과학자, 예술가를 모방하고 질문에 답하는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/askthee.png",
+      "url": "https://www.aixploria.com/en/askthee/",
+      "type": "무료",
+      "category": "#Amazing",
+      "upvotes": 3
+    },
+    {
+      "name": "CupidBot.ai",
+      "description": "« 당신을 데리러 당신의 노력 없이도 만남을 극대화할 수 있게 해주는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/cupidbot-ai.png",
+      "url": "https://www.aixploria.com/en/cupidbot-ai/",
+      "type": "무료",
+      "category": "#Amazing, #Dating & Relationships",
+      "upvotes": 10
+    },
+    {
+      "name": "zero1cine",
+      "description": "« AI로 제작된 최고의 영화 컬렉션을 나열하는 플랫폼을 탐색해 보세요. 최고의 AI 영화를 한 곳에서 찾아보세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/zero1cine.png",
+      "url": "https://www.aixploria.com/en/zero1cine-2/",
+      "type": "무료",
+      "category": "#Amazing",
+      "upvotes": 11
+    },
+    {
+      "name": "ChefGPT",
+      "description": "« 가지고 있는 재료를 주면 AI가 맛있는 레시피를 만들어줍니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/chefgpt.png",
+      "url": "https://www.aixploria.com/en/chefgpt/",
+      "type": "부분 무료",
+      "category": "#AI Useful, #Amazing",
+      "upvotes": 4
+    },
+    {
+      "name": "Say My Name!",
+      "description": "« 이름을 올바르게 발음하는 방법을 배우십시오. 이름을 검색하고 AI가 안내하는 발음을 들어보세요. 나만의 발음 시트를 만들고 무료로 공유하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/say-my-name-ai/",
+      "type": "무료",
+      "category": "#Amazing, #Assistive technology (AT)",
+      "upvotes": 15
+    },
+    {
+      "name": "HumanFest",
+      "description": "« AI 봇이나 인간과 무작위로 채팅하세요. 진짜 인간을 분별할 수 있나요? »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/humanfest.png",
+      "url": "https://www.aixploria.com/en/humanfest/",
+      "type": "무료",
+      "category": "#Amazing, #ChatBots",
+      "upvotes": 5
+    },
+    {
+      "name": "DreamFlare",
+      "description": "« 스토리 전개 방식을 결정할 수 있는 대화형 AI 생성 스토리와 영화를 찾아보세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/07/dreamflare-fav.png",
+      "url": "https://www.aixploria.com/en/dreamflare-ai-video-stories/",
+      "type": "부분 무료",
+      "category": "#Amazing, #Storytelling Generator",
+      "upvotes": 19
+    },
+    {
+      "name": "Nostalgia Photo",
+      "description": "« 인공 지능으로 사진 시계의 품질을 대폭 향상시킵니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/nostalgia-photo.png",
+      "url": "https://www.aixploria.com/en/nostalgia-photo/",
+      "type": "유료",
+      "category": "#Amazing, #Image editing",
+      "upvotes": 2
+    },
+    {
+      "name": "Coin Identifier Coin Snap",
+      "description": "« 모든 유형의 부품을 즉시 정확하게 식별하는 모바일 애플리케이션 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/coin-identifier-coin-snap.png",
+      "url": "https://www.aixploria.com/en/coin-identifier-coin-snap/",
+      "type": "부분 무료",
+      "category": "#Amazing, #Education / Studies",
+      "upvotes": 4
+    },
+    {
+      "name": "InfluencerFarm",
+      "description": "« 개인화된 AI 영향력자를 쉽게 만들고 소셜 네트워크에서 유명 인사에 접근할 수 있습니다. 이 인플루언서 생성기는 신뢰할 수 있는 사진을 생성합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/influencerfarm.png",
+      "url": "https://www.aixploria.com/en/influencerfarm-ai/",
+      "type": "유료",
+      "category": "#Amazing, #Social Networks",
+      "upvotes": 3
+    },
+    {
+      "name": "AI Yearbook Generator",
+      "description": "« 시대를 초월한 90년대 스타일로 인물 사진을 재미있게 만들어 보세요. 헤어스타일, 빈티지 의상 및 표정 추가 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-yearbook-generator.png",
+      "url": "https://www.aixploria.com/en/ai-yearbook-generator/",
+      "type": "부분 무료",
+      "category": "#Amazing, #Image editing",
+      "upvotes": 1
+    },
+    {
+      "name": "The GPT Who Lived",
+      "description": "« 해리포터와 대화하고 알고 싶었던 모든 답을 얻으세요(GPT) »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/the-gpt-who-lived.png",
+      "url": "https://www.aixploria.com/en/the-gpt-who-lived/",
+      "type": "무료",
+      "category": "#Amazing",
+      "upvotes": 2
+    },
+    {
+      "name": "Unreal Meal",
+      "description": "« 존재하지 않는 전 세계의 요리 및 레시피 사진 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/unreal-meal.png",
+      "url": "https://www.aixploria.com/en/unreal-meal/",
+      "type": "무료",
+      "category": "#Amazing, #Image Generators",
+      "upvotes": 2
+    },
+    {
+      "name": "ChatGPT UnWrapped 2023",
+      "description": "« ChatGPT와의 대화에 대한 연간 요약을 받아보세요. 이 도구는 OpenAI와 관련이 없습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/chatgpt-unwrapped-2023.png",
+      "url": "https://www.aixploria.com/en/chatgpt-unwrapped-2023/",
+      "type": "무료",
+      "category": "#Amazing",
+      "upvotes": 2
+    },
+    {
+      "name": "AI Apparel",
+      "description": "« AI의 도움으로 완전히 디자인된 독특한 티셔츠를 만들어보세요. 디자인 아이디어를 고품질 섬유 제품으로 전환하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-apparel.png",
+      "url": "https://www.aixploria.com/en/ai-apparel/",
+      "type": "유료",
+      "category": "#Amazing, #Fashion",
+      "upvotes": 4
+    },
+    {
+      "name": "AI is a Joke",
+      "description": "« AI에 테마를 지정하고 정말 재미있는 농담을 받을지 말지 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-is-a-joke.png",
+      "url": "https://www.aixploria.com/en/ai-is-a-joke/",
+      "type": "무료",
+      "category": "#Amazing",
+      "upvotes": 3
+    },
+    {
+      "name": "Atmo Global Forecast",
+      "description": "« 전문 날씨 AI의 도움으로 더욱 정확한 예측을 얻으세요. 비, 기온, 바람에 대한 예측 모델 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/atmo-global-forecast.png",
+      "url": "https://www.aixploria.com/en/atmo-global-forecast-ai/",
+      "type": "무료",
+      "category": "#Amazing, #Life Assistants",
+      "upvotes": 2
+    },
+    {
+      "name": "AIEpics",
+      "description": "« 다양한 스타일의 시적 텍스트를 생성할 수 있는 로열티 없는 시 생성기입니다. ChatGPT에서 실행됩니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/aiepics.png",
+      "url": "https://www.aixploria.com/en/aiepics/",
+      "type": "무료",
+      "category": "#Amazing, #Text Generators",
+      "upvotes": 3
+    },
+    {
+      "name": "Disney AI Poster",
+      "description": "« Disney Pixar 스타일로 애완동물을 만화 캐릭터로 변신시켜 보세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/disney-ai-poster.png",
+      "url": "https://www.aixploria.com/en/disney-ai-poster/",
+      "type": "유료",
+      "category": "#Amazing, #Avatars",
+      "upvotes": 3
+    },
+    {
+      "name": "AstroGPT",
+      "description": "« 당신의 사랑, 일 등에 대한 맞춤형 점성술 조언을 제공하는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/astrogpt/",
+      "type": "무료",
+      "category": "#Amazing, #Life Assistants",
+      "upvotes": 3
+    },
+    {
+      "name": "Human or Not?",
+      "description": "« 대화 상대가 인간인지 AI 봇인지 판단해야 하는 게임 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/human-or-not-.png",
+      "url": "https://www.aixploria.com/en/human-or-not/",
+      "type": "무료",
+      "category": "#Amazing, #Games",
+      "upvotes": 6
+    },
+    {
+      "name": "Roast My Desk",
+      "description": "« 데스크톱 사진을 업로드하고 그에 대한 유머러스한 리뷰를 받으세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/roast-my-desk.png",
+      "url": "https://www.aixploria.com/en/roast-my-desk/",
+      "type": "무료",
+      "category": "#Amazing",
+      "upvotes": 3
+    },
+    {
+      "name": "Character GPT",
+      "description": "« AI로 대화형 캐릭터를 생성한 후 다른 애플리케이션에 통합하기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/character-gpt.png",
+      "url": "https://www.aixploria.com/en/character-gpt/",
+      "type": "무료",
+      "category": "#Amazing, #Video Generators",
+      "upvotes": 3
+    },
+    {
+      "name": "GreenThumb",
+      "description": "« 녹색 지식과 정원 가꾸기 전문 지식을 갖춘 AI 비서. 정원에 있을 때 식재, 파종 등 조언을 얻으세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/greenthumb.png",
+      "url": "https://www.aixploria.com/en/greenthumb-ai/",
+      "type": "무료",
+      "category": "#Amazing, #Life Assistants",
+      "upvotes": 1
+    },
+    {
+      "name": "HairStyle AI",
+      "description": "« 사진 중 하나에서 다른 헤어스타일을 시도해 보세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/hairstyle-ai.png",
+      "url": "https://www.aixploria.com/en/hairstyle-ai/",
+      "type": "유료",
+      "category": "#Amazing, #Fashion",
+      "upvotes": 4
+    },
+    {
+      "name": "Text to Pokemon",
+      "description": "« 모든 텍스트에서 고유한 포켓몬을 생성하세요. 소셜 네트워크에서 사용자 정의 및 공유 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/text-to-pokemon.png",
+      "url": "https://www.aixploria.com/en/text-to-pokemon/",
+      "type": "무료",
+      "category": "#Amazing, #Image Generators",
+      "upvotes": 3
+    },
+    {
+      "name": "MyVocal AI",
+      "description": "« 목소리로 책을 읽을 수 있을 뿐만 아니라 노래도 할 수 있는 AI! MP3 형식으로 다운로드 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/myvocal-ai/",
+      "type": "부분 무료",
+      "category": "#Amazing, #Text To Speech",
+      "upvotes": 4
+    },
+    {
+      "name": "DebateAI",
+      "description": "« 쉽게 토론 기술을 강화하세요. 다양한 주제에 대해 AI를 통해 훈련하고 논증 능력을 향상하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/debateai.png",
+      "url": "https://www.aixploria.com/en/debateai/",
+      "type": "무료",
+      "category": "#Amazing, #Life Assistants",
+      "upvotes": 4
+    },
+    {
+      "name": "Angry Email Translator",
+      "description": "« 저속한 이메일을 정중하고 전문적인 메시지로 바꿔보세요. 고객과의 긍정적인 커뮤니케이션 촉진 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/angry-email-translator/",
+      "type": "무료",
+      "category": "#Amazing, #E-mail",
+      "upvotes": 2
+    },
+    {
+      "name": "Cool Gift Ideas",
+      "description": "« 당신에게 줄 완벽한 선물을 찾는 데 도움을 주는 AI. 맞춤화된 관련 제안 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/cool-gift-ideas.png",
+      "url": "https://www.aixploria.com/en/cool-gift-ideas/",
+      "type": "무료",
+      "category": "#Amazing, #Life Assistants",
+      "upvotes": 3
+    },
+    {
+      "name": "Ask-rbg",
+      "description": "« Ruth Bader Ginsburg 판사의 실험적인 가상 버전과 상호 작용하고 질문에 대한 답변을 얻으십시오. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ask-rbg.png",
+      "url": "https://www.aixploria.com/en/ask-rbg/",
+      "type": "무료",
+      "category": "#Amazing, #Legal Assistants",
+      "upvotes": 3
+    },
+    {
+      "name": "Punchlines.ai",
+      "description": "« 농담을 만드는 데 도움이 되는 AI 도구로, 코미디언과 일상 생활에 유머를 추가하려는 모든 사람에게 이상적입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/punchlines-ai.png",
+      "url": "https://www.aixploria.com/en/punchlines-ai/",
+      "type": "무료",
+      "category": "#Amazing",
+      "upvotes": 2
+    },
+    {
+      "name": "Call Annie",
+      "description": "« 학습, 문제 해결 등 생활에 도움을 줄 수 있는 AI와 화상 통화를 통해 채팅하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/call-annie.png",
+      "url": "https://www.aixploria.com/en/call-annie/",
+      "type": "부분 무료",
+      "category": "#Amazing, #Assistive technology (AT)",
+      "upvotes": 2
+    },
+    {
+      "name": "Lotus",
+      "description": "« 가상 치료사 역할을 하며 감정을 표현할 수 있는 안전한 공간을 제공하는 ChatBot »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/lotus.png",
+      "url": "https://www.aixploria.com/en/lotus/",
+      "type": "무료",
+      "category": "#Amazing, #Assistive technology (AT)",
+      "upvotes": 2
+    },
+    {
+      "name": "AI Meme",
+      "description": "« OpenAI의 AI를 사용하여 재미있는 밈을 빠르고 쉽게 생성하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-meme.png",
+      "url": "https://www.aixploria.com/en/ai-meme/",
+      "type": "무료",
+      "category": "#Amazing",
+      "upvotes": 3
+    },
+    {
+      "name": "Liarliar.ai",
+      "description": "« 얼굴의 미세한 움직임, 감정, 목소리 톤을 분석하여 사람의 거짓말을 탐지하려는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/liarliar-ai.png",
+      "url": "https://www.aixploria.com/en/liarliar-ai/",
+      "type": "부분 무료",
+      "category": "#Amazing",
+      "upvotes": 3
+    },
+    {
+      "name": "Magic Type AI",
+      "description": "« 시, 가사, 랩까지 작성하는 텍스트 생성기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/magic-type-ai.png",
+      "url": "https://www.aixploria.com/en/magic-type-ai/",
+      "type": "무료",
+      "category": "#Amazing, #Text Generators",
+      "upvotes": 1
+    },
+    {
+      "name": "AI Face Swap By Vidqu",
+      "description": "« 당신을 누구로든 바꿀 수 있는 고품질 AI Face Swap 생성기. 빠르고 쉬운 사용 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/02/vidqu-favicon.png",
+      "url": "https://www.aixploria.com/en/ai-face-swap-by-vidqu/",
+      "type": "무료",
+      "category": "#Amazing, #Face Swap & DeepFake",
+      "upvotes": 12
+    },
+    {
+      "name": "Vitalentim",
+      "description": "« AI와 활발한 커뮤니티를 기반으로 하는 창의적인 플랫폼입니다. 메시지와 이미지를 쉽게 공유하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/vitalentim.png",
+      "url": "https://www.aixploria.com/en/vitalentim/",
+      "type": "부분 무료",
+      "category": "#Amazing, #Prompts & Aids",
+      "upvotes": 2
+    },
+    {
+      "name": "GameFace.ai",
+      "description": "« 스포츠 동영상을 실시간으로 분석하는 AI. 모든 경기에 대한 빠른 결과와 맞춤 보고서 받기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/gameface-ai.png",
+      "url": "https://www.aixploria.com/en/gameface-ai/",
+      "type": "부분 무료",
+      "category": "#Amazing",
+      "upvotes": 2
+    },
+    {
+      "name": "Mimir",
+      "description": "« 아리스토텔레스, 소크라테스 등 역사적 인물과 대화하여 도움을 받으세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/mimir.png",
+      "url": "https://www.aixploria.com/en/mimir/",
+      "type": "무료",
+      "category": "#Amazing, #Life Assistants",
+      "upvotes": 1
+    },
+    {
+      "name": "JediGPT",
+      "description": "« 당신을 제다이 마스터로 만들고 특별한 경험을 제공하고자 하는 AI 챗봇 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/jedigpt.png",
+      "url": "https://www.aixploria.com/en/jedigpt/",
+      "type": "무료",
+      "category": "#Amazing",
+      "upvotes": 1
+    },
+    {
+      "name": "Orkoi",
+      "description": "« AI의 도움으로 여행과 여행에 대한 맞춤형 계획을 세우십시오. 액티비티, 레스토랑 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/orkoi.png",
+      "url": "https://www.aixploria.com/en/orkoi/",
+      "type": "무료",
+      "category": "#Amazing, #Life Assistants",
+      "upvotes": 7
+    },
+    {
+      "name": "AskNow",
+      "description": "« 지구상에 살았던 가장 유명한 사람들에게 질문하기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/asknow.png",
+      "url": "https://www.aixploria.com/en/asknow/",
+      "type": "무료",
+      "category": "#Amazing",
+      "upvotes": 2
+    },
+    {
+      "name": "AI Recipe Generator",
+      "description": "« 내가 가지고 있는 재료로 맞춤형 레시피를 생성하는 AI 요리사 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-recipe-generator.png",
+      "url": "https://www.aixploria.com/en/ai-recipe-generator/",
+      "type": "무료",
+      "category": "#Amazing, #Life Assistants",
+      "upvotes": 4
+    },
+    {
+      "name": "Konjer",
+      "description": "« 좋아하는 책과 상호작용하고 가상 또는 역사적 인물과 대화를 나누세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/konjer.png",
+      "url": "https://www.aixploria.com/en/konjer/",
+      "type": "무료",
+      "category": "#Amazing",
+      "upvotes": 1
+    },
+    {
+      "name": "Chai",
+      "description": "« 내가 만든 AI 캐릭터로 채팅을 디자인하는 모바일 애플리케이션 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/chai.png",
+      "url": "https://www.aixploria.com/en/chai/",
+      "type": "부분 무료",
+      "category": "#Amazing",
+      "upvotes": 2
+    },
+    {
+      "name": "Maskr AI",
+      "description": "« 얼굴 인식으로 사진에 유명인 추가하기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/maskr-ai.png",
+      "url": "https://www.aixploria.com/en/maskr-ai/",
+      "type": "유료",
+      "category": "#Amazing",
+      "upvotes": 2
+    },
+    {
+      "name": "StyleMyRide AI",
+      "description": "« AI를 사용하여 자동차에 새로운 모습을 더해보세요. 사진을 가져오고 다양한 튜닝 스타일 중에서 선택하기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/stylemyride-ai.png",
+      "url": "https://www.aixploria.com/en/stylemyride-ai/",
+      "type": "유료",
+      "category": "#Amazing",
+      "upvotes": 2
+    },
+    {
+      "name": "ToolBuilder AI",
+      "description": "« 주식 시장 분석, 영화 추천, 퀴즈 생성 등을 할 수 있는 다기능 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/toolbuilder-ai.png",
+      "url": "https://www.aixploria.com/en/toolbuilder-ai/",
+      "type": "유료",
+      "category": "#Amazing, #Life Assistants",
+      "upvotes": 2
+    },
+    {
+      "name": "AI Named My Pet",
+      "description": "« 동물의 성격과 특성에 맞게 조정된 AI 이름 생성기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/02/favicon-defa.png",
+      "url": "https://www.aixploria.com/en/ai-named-my-pet/",
+      "type": "무료",
+      "category": "#Amazing, #Life Assistants",
+      "upvotes": 3
+    }
+  ]
+}

@@ -1,0 +1,1922 @@
+{
+  "name": "Education / Studies",
+  "items": [
+    {
+      "name": "Perplexity AI",
+      "description": "« 복잡한 질문에 대한 정확한 답변을 제공하는 검색 엔진 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/perplexity-ai.png",
+      "url": "https://www.aixploria.com/en/perplexity-ai/",
+      "type": "무료",
+      "category": "#Education / Studies, #Research & Science",
+      "upvotes": 767
+    },
+    {
+      "name": "Globe Explorer AI",
+      "description": "« AI 모델을 사용하여 모든 주제를 시각적으로 분류하는 검색 엔진입니다. 이 접근 방식은 기존 검색 엔진에 탁월한 기능을 제공합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/globe-explorer-ai.png",
+      "url": "https://www.aixploria.com/en/globe-explorer-ai-search-engine/",
+      "type": "무료",
+      "category": "#Education / Studies, #Search engine",
+      "upvotes": 107
+    },
+    {
+      "name": "Poe",
+      "description": "« 귀하의 모든 질문에 답할 수 있는 Quora 기반 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/poe.png",
+      "url": "https://www.aixploria.com/en/poe/",
+      "type": "유료",
+      "category": "#AI Chat & Assistant, #Education / Studies",
+      "upvotes": 44
+    },
+    {
+      "name": "QuillBot",
+      "description": "« 텍스트를 빠르게 다시 작성하고 확인하고 개선할 수 있는 실용적인 도구입니다. 사용 가능한 옵션: 의역, 문법, 번역, 표절 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/quillbot.png",
+      "url": "https://www.aixploria.com/en/quillbot/",
+      "type": "무료",
+      "category": "#AIxploria Selection, #Education / Studies",
+      "upvotes": 202
+    },
+    {
+      "name": "ChatPDF",
+      "description": "« AI는 인간처럼 PDF 파일과 상호 작용합니다. 대용량 문서에서도 쉽게 정보 추출 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/chatpdf.png",
+      "url": "https://www.aixploria.com/en/chatpdf/",
+      "type": "부분 무료",
+      "category": "#AIxploria Selection, #Business",
+      "upvotes": 111
+    },
+    {
+      "name": "Notion AI",
+      "description": "« 창의력을 높이고, 더 빨리 쓰고, 더 효과적으로 정리하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/02/notion-ai-favicon.webp",
+      "url": "https://www.aixploria.com/en/notion-ai/",
+      "type": "부분 무료",
+      "category": "#AI Useful, #Education / Studies",
+      "upvotes": 230
+    },
+    {
+      "name": "FireFlies",
+      "description": "« 회의나 강의실 세션 중에 메모를 자동화하세요. 이 소프트웨어는 모든 것을 캡처하고 기록하여 귀중한 시간을 절약해 줍니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/fireflies.png",
+      "url": "https://www.aixploria.com/en/fireflies/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Productivity",
+      "upvotes": 74
+    },
+    {
+      "name": "Deepl",
+      "description": "« 필수적인 고품질 번역 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/deepl.png",
+      "url": "https://www.aixploria.com/en/deepl/",
+      "type": "무료",
+      "category": "#AI Useful, #Education / Studies",
+      "upvotes": 126
+    },
+    {
+      "name": "QuizLet",
+      "description": "« 교육용 게임, 플래시카드, 연습 퀴즈를 통해 더 쉽게 알아보세요. 브라우저와 모바일에서 사용 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/quizlet.png",
+      "url": "https://www.aixploria.com/en/quizlet-ai/",
+      "type": "무료",
+      "category": "#Education / Studies, #Memory",
+      "upvotes": 7
+    },
+    {
+      "name": "WolframAlpha",
+      "description": "« 이 놀라운 AI, 과학 전문가(매우 고급 수준)에게 원하는 것을 계산하거나 물어보세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/wolframalpha.png",
+      "url": "https://www.aixploria.com/en/wolframalpha/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Research & Science",
+      "upvotes": 76
+    },
+    {
+      "name": "Resoomer",
+      "description": "« 긴 텍스트라도 쉽게 요약하고 생산성을 높일 수 있습니다. PDF, DOCX 등과 같은 URL, 이미지 또는 문서에서도 작동합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/resoomer.png",
+      "url": "https://www.aixploria.com/en/resoomer/",
+      "type": "무료",
+      "category": "#Education / Studies, #Summarizer",
+      "upvotes": 12
+    },
+    {
+      "name": "Searcholic",
+      "description": "« AI 기반 검색 엔진에서 수백만 권의 전자책과 문서(학술 논문 포함) 검색 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/searcholic.png",
+      "url": "https://www.aixploria.com/en/searcholic/",
+      "type": "무료",
+      "category": "#Education / Studies, #Search engine",
+      "upvotes": 11
+    },
+    {
+      "name": "AskYourPDF",
+      "description": "« PDF 파일과 효율적으로 상호 작용하고 이해를 촉진하는 AI ChatBot »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/askyourpdf.png",
+      "url": "https://www.aixploria.com/en/ask-your-pdf/",
+      "type": "부분 무료",
+      "category": "#AIxploria Selection, #Business",
+      "upvotes": 74
+    },
+    {
+      "name": "ChatDOC",
+      "description": "« PDF 파일에서 정보를 추출하고 요약하는 ChatGPT 기반 AI 도우미 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/chatdoc.png",
+      "url": "https://www.aixploria.com/en/chatdoc/",
+      "type": "무료",
+      "category": "#Education / Studies, #Files & Spreadsheets",
+      "upvotes": 5
+    },
+    {
+      "name": "Gauth AI",
+      "description": "« 모든 과목의 숙제를 해결해주는 AI 도우미. 자세한 단계별 설명을 확인하고 다양한 지능형 도구에 액세스하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/gauth-ai.png",
+      "url": "https://www.aixploria.com/en/gauth-ai-school-assistant-homework/",
+      "type": "무료",
+      "category": "#Education / Studies",
+      "upvotes": 38
+    },
+    {
+      "name": "Consensus",
+      "description": "« AI 기반 검색 엔진을 통해 과학 연구에 대한 깊은 통찰력 얻기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/consensus.png",
+      "url": "https://www.aixploria.com/en/consensus/",
+      "type": "무료",
+      "category": "#Education / Studies, #Research & Science",
+      "upvotes": 70
+    },
+    {
+      "name": "Paraphrasing Tool",
+      "description": "« 이 AI 도우미는 통합 검색 및 의역 기능을 사용하여 텍스트를 만들고 번역합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/paraphrasing-tool.png",
+      "url": "https://www.aixploria.com/en/paraphrasing-tool/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Writing & Web SEO",
+      "upvotes": 7
+    },
+    {
+      "name": "Mathway",
+      "description": "« 이 AI에게 수학 질문이나 문제를 물어보고 즉시 결과를 얻으세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/mathway.png",
+      "url": "https://www.aixploria.com/en/mathway/",
+      "type": "부분 무료",
+      "category": "#Education / Studies",
+      "upvotes": 12
+    },
+    {
+      "name": "LanguageTool",
+      "description": "« 텍스트 개선을 위한 다국어 AI 글쓰기 도우미. 브라우저 및 데스크탑 애플리케이션 확장 프로그램을 사용하여 30개 이상의 언어로 문법, 철자 및 스타일을 교정합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/languagetool.png",
+      "url": "https://www.aixploria.com/en/languagetool/",
+      "type": "무료",
+      "category": "#Education / Studies, #Writing & Web SEO",
+      "upvotes": 57
+    },
+    {
+      "name": "Scite.ai",
+      "description": "« 과학 논문을 발견하고 평가하기 위한 AI 검색 플랫폼입니다. 12억 건의 인용 및 1억 8,700만 개의 기사 검색 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/scite-ai.png",
+      "url": "https://www.aixploria.com/en/scite-ai/",
+      "type": "유료",
+      "category": "#Education / Studies, #Research & Science",
+      "upvotes": 59
+    },
+    {
+      "name": "Owlift",
+      "description": "« 이 AI는 마치 5살짜리 아이처럼 모든 것을 설명해줍니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/owlift.png",
+      "url": "https://www.aixploria.com/en/eli5/",
+      "type": "부분 무료",
+      "category": "#AI Useful, #Education / Studies",
+      "upvotes": 62
+    },
+    {
+      "name": "Smodin",
+      "description": "« 학생들에게 이상적인 강력한 콘텐츠 작가 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/smodin.png",
+      "url": "https://www.aixploria.com/en/smodin/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Text Generators",
+      "upvotes": 8
+    },
+    {
+      "name": "Tutor AI",
+      "description": "« 학습용으로 설계되고 AI가 구동하는 플랫폼 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/tutor-ai.png",
+      "url": "https://www.aixploria.com/en/tutor-ai/",
+      "type": "부분 무료",
+      "category": "#Education / Studies",
+      "upvotes": 32
+    },
+    {
+      "name": "Semantic Scholar",
+      "description": "« 의미론적 AI 검색 엔진과 개발자를 위한 강력한 API를 통해 2억 2천만 권의 과학 출판물 탐색 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/semantic-scholar.png",
+      "url": "https://www.aixploria.com/en/semantic-scholar-ai-search-engine/",
+      "type": "무료",
+      "category": "#Developer Tools, #Education / Studies",
+      "upvotes": 60
+    },
+    {
+      "name": "Liner AI",
+      "description": "« ChatGPT가 제공하는 작업 공간을 위한 AI 부조종사. 연구 효율성을 향상시키기 위한 정보 및 참고 자료를 빠르게 찾으세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/liner-ai.png",
+      "url": "https://www.aixploria.com/en/liner-ai-search-assistant/",
+      "type": "무료",
+      "category": "#Education / Studies, #Research & Science",
+      "upvotes": 48
+    },
+    {
+      "name": "Otter AI",
+      "description": "« 구두 대화를 텍스트로 기록합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/otter-ai.png",
+      "url": "https://www.aixploria.com/en/otter-ai/",
+      "type": "무료",
+      "category": "#Business, #Education / Studies",
+      "upvotes": 90
+    },
+    {
+      "name": "Prezo AI",
+      "description": "« AI의 도움으로 전문적인 프레젠테이션 디자인: 자동화된 디자인, 전환, 이미지 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/prezo-ai.png",
+      "url": "https://www.aixploria.com/en/prezo-ai/",
+      "type": "부분 무료",
+      "category": "#Business, #Education / Studies",
+      "upvotes": 5
+    },
+    {
+      "name": "Kaggle",
+      "description": "« 인공지능에 초점을 맞춘 커뮤니티 플랫폼입니다. 이 사이트에서는 ML 학습 과정, 모델, 코드, 포럼 등을 제공합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/kaggle.png",
+      "url": "https://www.aixploria.com/en/kaggle-ai/",
+      "type": "무료",
+      "category": "#Data & Analytics, #Developer Tools",
+      "upvotes": 16
+    },
+    {
+      "name": "Quill",
+      "description": "« 읽기 및 쓰기 능력을 향상시키기 위한 무료 교육 플랫폼입니다. AI가 제공하는 맞춤형 피드백을 통해 학생들에게 대화형 문법, 이해력 및 작문 활동 제공 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/09/quill-ai-fav.png",
+      "url": "https://www.aixploria.com/en/quill-ai-education-reading-writing/",
+      "type": "무료",
+      "category": "#AIxploria Selection, #Education / Studies",
+      "upvotes": 39
+    },
+    {
+      "name": "Chegg",
+      "description": "« 학습에 도움이 되는 다양한 도구에 액세스하세요. AI를 사용하여 수업을 더 잘 이해하거나 숙제 문제를 해결하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/chegg.png",
+      "url": "https://www.aixploria.com/en/chegg-ai/",
+      "type": "부분 무료",
+      "category": "#Education / Studies",
+      "upvotes": 14
+    },
+    {
+      "name": "Humata AI",
+      "description": "« PDF 파일 전문 멀티태스킹 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/humata-ai.png",
+      "url": "https://www.aixploria.com/en/humata-ai/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Files & Spreadsheets",
+      "upvotes": 48
+    },
+    {
+      "name": "NotebookLM",
+      "description": "« 문서를 정리하고 분석하는 AI 연구 조수. 정보를 더 잘 이해하고 활용할 수 있도록 소스를 가져오고, 질문하고, 지능적인 요약을 얻으세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/notebooklm.png",
+      "url": "https://www.aixploria.com/en/notebooklm-ai-google/",
+      "type": "무료",
+      "category": "#Education / Studies, #Productivity",
+      "upvotes": 51
+    },
+    {
+      "name": "Duolingo",
+      "description": "« AI를 사용하여 즐기면서 언어를 배우세요. 가용성: 영어, 스페인어, 프랑스어, 중국어, 아랍어, 독일어, 이탈리아어, 포르투갈어, 일본어 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/duolingo.png",
+      "url": "https://www.aixploria.com/en/duolingo-ai/",
+      "type": "부분 무료",
+      "category": "#Education / Studies",
+      "upvotes": 24
+    },
+    {
+      "name": "Illuminate by Google",
+      "description": "« 콘텐츠를 AI 생성 오디오 토론으로 변환하는 실험적 도구입니다. 학술 기사를 듣기 쉬운 팟캐스트로 변환 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/03/google-color-icon-ai.webp",
+      "url": "https://www.aixploria.com/en/illuminate-by-google-ai/",
+      "type": "무료",
+      "category": "#AI Useful, #Education / Studies",
+      "upvotes": 32
+    },
+    {
+      "name": "Socratic by Google",
+      "description": "« 수학, 과학, 문학 등 학업에 도움이 되는 AI.. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/socratic-by-google.png",
+      "url": "https://www.aixploria.com/en/socratic-by-google/",
+      "type": "무료",
+      "category": "#Education / Studies, #Research & Science",
+      "upvotes": 11
+    },
+    {
+      "name": "Scholarcy",
+      "description": "« 매우 방대한 텍스트나 기사를 요약하고 원하는 데이터를 추출하는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/scholarcy.png",
+      "url": "https://www.aixploria.com/en/scholarcy/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Research & Science",
+      "upvotes": 16
+    },
+    {
+      "name": "MathGPTPro",
+      "description": "« AI의 도움으로 가장 발전된 수준에서도 수학적 문제와 계산을 해결하세요. 학생과 연구원에게 적합합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/mathgptpro.png",
+      "url": "https://www.aixploria.com/en/mathgptpro-ai/",
+      "type": "무료",
+      "category": "#Education / Studies",
+      "upvotes": 10
+    },
+    {
+      "name": "Tree of Knowledge AI",
+      "description": "« 대화형 AI 지식 트리의 형태로 인간 지식을 탐색하세요. 학문 간을 탐색하고 모든 연관성을 찾아보세요. 이 프로젝트는 무료이며 오픈 소스입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/tree-of-knowledge-ai/",
+      "type": "무료",
+      "category": "#Education / Studies, #Productivity",
+      "upvotes": 34
+    },
+    {
+      "name": "Grammarly",
+      "description": "« 독창적인 고품질 콘텐츠를 작성하세요. AI 기반 작문 도우미로부터 조언 받기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/grammarly.png",
+      "url": "https://www.aixploria.com/en/grammarly/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #SuperTools",
+      "upvotes": 101
+    },
+    {
+      "name": "Mindgrasp",
+      "description": "« PDF 문서, Zoom 회의, 팟캐스트, YouTube 등의 질문과 답변 디자인 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/mindgrasp.png",
+      "url": "https://www.aixploria.com/en/mindgrasp/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Files & Spreadsheets",
+      "upvotes": 6
+    },
+    {
+      "name": "LangoTalk",
+      "description": "« 영어, 프랑스어, 스페인어, 독일어, 네덜란드어, 이탈리아어를 6배 빠르게 배우세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/langotalk.png",
+      "url": "https://www.aixploria.com/en/langotalk/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Life Assistants",
+      "upvotes": 5
+    },
+    {
+      "name": "Find Your Next Book",
+      "description": "« 당신의 취향에 맞춰 다음 책을 찾아주는 가상 사서 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/find-your-next-book.png",
+      "url": "https://www.aixploria.com/en/find-your-next-book/",
+      "type": "무료",
+      "category": "#Education / Studies, #Life Assistants",
+      "upvotes": 3
+    },
+    {
+      "name": "OpenRead",
+      "description": "« 학술 문서나 과학 논문을 추출, 요약, 분석하는 AI 기반 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/openread.png",
+      "url": "https://www.aixploria.com/en/openread/",
+      "type": "무료",
+      "category": "#Education / Studies, #Research & Science",
+      "upvotes": 5
+    },
+    {
+      "name": "Rize IO",
+      "description": "« 시간과 집중력을 더 잘 관리할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/rize-io.png",
+      "url": "https://www.aixploria.com/en/rize-io/",
+      "type": "무료",
+      "category": "#Education / Studies, #Productivity",
+      "upvotes": 5
+    },
+    {
+      "name": "Gradescope",
+      "description": "« 수업 중이나 온라인에서 모든 시험, MCQ 및 시험을 효율적으로 관리하고 채점하세요. 다양한 학교 과목과 호환 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/gradescope.png",
+      "url": "https://www.aixploria.com/en/gradescope-ai/",
+      "type": "부분 무료",
+      "category": "#Education / Studies",
+      "upvotes": 16
+    },
+    {
+      "name": "Course Hero",
+      "description": "« AI 교사의 도움을 받아 강좌 문서와 단계별 설명에 액세스하세요. 귀하의 학업 성공에 도움이 되는 수백만 개의 교육 리소스를 온라인 학습 플랫폼에서 이용할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/course-hero.png",
+      "url": "https://www.aixploria.com/en/course-hero-ai-learning/",
+      "type": "부분 무료",
+      "category": "#Education / Studies",
+      "upvotes": 47
+    },
+    {
+      "name": "Education CoPilot",
+      "description": "« AI를 통해 완전 자동으로 강좌 생성 및 예약 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/education-copilot.png",
+      "url": "https://www.aixploria.com/en/education-copilot/",
+      "type": "부분 무료",
+      "category": "#Education / Studies",
+      "upvotes": 1
+    },
+    {
+      "name": "StudyFetch",
+      "description": "« 학습 성공에 도움이 되는 다양한 AI 도구: 자동화된 메모 작성, 플래시카드, 퀴즈, 가상 교사 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/studyfetch.png",
+      "url": "https://www.aixploria.com/en/studyfetch-ai/",
+      "type": "부분 무료",
+      "category": "#Education / Studies",
+      "upvotes": 13
+    },
+    {
+      "name": "Mindmap.ai",
+      "description": "« 아이디어를 설명하면 이 AI가 핵심 포인트가 포함된 시각적 지도를 생성합니다. 아이디어를 시각적으로 정리하고 계획을 개선하는 데 도움이 됩니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/mindmap-ai.png",
+      "url": "https://www.aixploria.com/en/mindmap-ai/",
+      "type": "무료",
+      "category": "#AI Useful, #Education / Studies",
+      "upvotes": 3
+    },
+    {
+      "name": "AI Career Coach",
+      "description": "« AI 덕분에 개인화된 경력 코칭의 혜택을 누리세요. 진로 탐색, 인터뷰 준비, 프로필(학생 또는 재교육)에 맞는 조언 받기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-career-coach.png",
+      "url": "https://www.aixploria.com/en/ai-career-coach/",
+      "type": "무료",
+      "category": "#Education / Studies, #Human Resources",
+      "upvotes": 25
+    },
+    {
+      "name": "Enterprise DNA",
+      "description": "« 맞춤형 교육 과정을 통해 데이터 및 AI 기술을 강화하세요. 도전에 나서고 전문가 커뮤니티와 교류하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/enterprise-dna.png",
+      "url": "https://www.aixploria.com/en/enterprise-dna-ai/",
+      "type": "부분 무료",
+      "category": "#Business, #Data & Analytics",
+      "upvotes": 68
+    },
+    {
+      "name": "Math99th",
+      "description": "« SAT 수학 시험 준비를 위한 대화형 AI 기반 학습 도구입니다. 귀하의 수준에 맞는 시스템의 혜택을 누리세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/math99th.png",
+      "url": "https://www.aixploria.com/en/math99th/",
+      "type": "무료",
+      "category": "#Education / Studies",
+      "upvotes": 39
+    },
+    {
+      "name": "Roshi AI",
+      "description": "« 기사나 YouTube 동영상에서 요약, 질문, 어휘 목록 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/roshi-ai.png",
+      "url": "https://www.aixploria.com/en/roshi-ai/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Summarizer",
+      "upvotes": 1
+    },
+    {
+      "name": "Morphic AI",
+      "description": "« 출처를 인용하면서 자세한 답변을 제공하는 오픈 소스 검색 엔진입니다. 사용하기 쉬운 인터페이스 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/morphic-ai.png",
+      "url": "https://www.aixploria.com/en/morphic-ai-search-engine/",
+      "type": "무료",
+      "category": "#Education / Studies, #Search engine",
+      "upvotes": 17
+    },
+    {
+      "name": "LearnLM by Google",
+      "description": "« Google이 교육계를 위해 만든 일련의 생성적 AI 모델입니다. 교육 경험을 촉진하고 개인화하는 데 이상적입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/learnlm-by-google.png",
+      "url": "https://www.aixploria.com/en/learnlm-google-ai-models/",
+      "type": "무료",
+      "category": "#Education / Studies, #Future Tools",
+      "upvotes": 29
+    },
+    {
+      "name": "MindSmith",
+      "description": "« 다양한 분야의 미니 코스를 구축하기 위한 직관적인 AI 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/mindsmith.png",
+      "url": "https://www.aixploria.com/en/mindsmith/",
+      "type": "부분 무료",
+      "category": "#Education / Studies",
+      "upvotes": 1
+    },
+    {
+      "name": "To Teach AI",
+      "description": "« 학생들을 위한 맞춤형 학습 경험 및 시스템 구축 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/to-teach-ai.png",
+      "url": "https://www.aixploria.com/en/to-teach-ai/",
+      "type": "유료",
+      "category": "#Education / Studies",
+      "upvotes": 1
+    },
+    {
+      "name": "Caktus",
+      "description": "« 학문적 질문을 작성하고, 코딩하고, 답변할 수 있는 학생들을 위해 고안된 어시스턴트 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/caktus.png",
+      "url": "https://www.aixploria.com/en/caktus/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Life Assistants",
+      "upvotes": 1
+    },
+    {
+      "name": "NoteGPT",
+      "description": "« 이 다기능 AI 도우미로 학습을 최적화하세요. YouTube 동영상, PDF, 기사를 요약하고, 마인드맵을 생성하고, 노트를 더욱 지능적으로 정리하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/notegpt.png",
+      "url": "https://www.aixploria.com/en/notegpt/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Extensions ChatGPT",
+      "upvotes": 31
+    },
+    {
+      "name": "Quick Draw by Google",
+      "description": "« 그리면 AI가 그것이 무엇인지 추측하려고 시도합니다. 더 많이 플레이할수록 새로운 개념을 더 많이 배울 수 있습니다. 머신러닝 작동 방식에 대한 재미있는 예 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/quick-draw-by-google.png",
+      "url": "https://www.aixploria.com/en/quick-draw-by-google/",
+      "type": "무료",
+      "category": "#Art, #Education / Studies",
+      "upvotes": 27
+    },
+    {
+      "name": "StudyGPT",
+      "description": "« 텍스트 요약, 문서 번역, 학술 연구, 디자인 퀴즈 등을 수행하는 데 도움이 되는 멀티태스킹 부조종사입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/studygpt.png",
+      "url": "https://www.aixploria.com/en/studygpt/",
+      "type": "무료",
+      "category": "#Education / Studies, #Extensions ChatGPT",
+      "upvotes": 11
+    },
+    {
+      "name": "Beyond 12",
+      "description": "« 학생들을 위해 특별히 고안된 AI 지원 프로그램입니다. 개인화된 코칭, 모바일 추적 앱 및 예측 분석을 활용하여 학업 성공 가능성을 높입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/beyond-12.png",
+      "url": "https://www.aixploria.com/en/beyond-12-coaching-students/",
+      "type": "무료",
+      "category": "#Education / Studies",
+      "upvotes": 28
+    },
+    {
+      "name": "Play by Hyperspace",
+      "description": "« AI의 도움으로 선택한 주제를 심층적으로 탐색하세요. 선호하는 AI 소스와 모델을 선택하여 개인화된 정보 네트워크 구축 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/play-by-hyperspace.png",
+      "url": "https://www.aixploria.com/en/play-by-hyperspace-ai-search/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Search engine",
+      "upvotes": 34
+    },
+    {
+      "name": "DGM AI",
+      "description": "« AI를 사용하여 전문적이고 자동화된 다이어그램을 생성하세요. UML, ERD, 순서도, UI 와이어프레임 등에 대해 사전 구축된 라이브러리 사용 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/dgm-ai.png",
+      "url": "https://www.aixploria.com/en/dgm-ai/",
+      "type": "무료",
+      "category": "#Education / Studies, #Productivity",
+      "upvotes": 8
+    },
+    {
+      "name": "Analogenie",
+      "description": "« AI를 사용하여 이해하기 쉬운 비유를 사용하여 복잡한 개념을 설명합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/analogenie.png",
+      "url": "https://www.aixploria.com/en/analogenie/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Writing & Web SEO",
+      "upvotes": 2
+    },
+    {
+      "name": "Quizgecko",
+      "description": "« 교사나 e-러닝에 적합한 퀴즈 생성 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/quizgecko.png",
+      "url": "https://www.aixploria.com/en/quizgecko/",
+      "type": "부분 무료",
+      "category": "#Education / Studies",
+      "upvotes": 1
+    },
+    {
+      "name": "Doctrina AI",
+      "description": "« 어린이와 학생을 위한 원격 학습 지원 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/doctrina-ai.png",
+      "url": "https://www.aixploria.com/en/doctrina-ai/",
+      "type": "무료",
+      "category": "#Education / Studies",
+      "upvotes": 1
+    },
+    {
+      "name": "AI Tutor Pro",
+      "description": "« 무료 개인 AI 비서를 통해 모든 주제에 대한 정보를 얻으세요. 이 도구는 다양한 언어로 작동하며 학습 수준을 선택할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-tutor-pro.png",
+      "url": "https://www.aixploria.com/en/ai-tutor-pro/",
+      "type": "무료",
+      "category": "#Education / Studies, #Life Assistants",
+      "upvotes": 22
+    },
+    {
+      "name": "Moonbeam",
+      "description": "« 장편 에세이 전문 자동 AI 작가 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/moonbeam.png",
+      "url": "https://www.aixploria.com/en/moonbeam/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Text Generators",
+      "upvotes": 2
+    },
+    {
+      "name": "Pages by Perplexity",
+      "description": "« 시각적으로 매력적이고 공유 가능한 콘텐츠로 실제 기사를 몇 분 만에 만들어보세요. 연구를 보다 효율적으로 정리하고 배포하는 데 이상적입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/pages-by-perplexity.png",
+      "url": "https://www.aixploria.com/en/pages-by-perplexity-ai/",
+      "type": "유료",
+      "category": "#Education / Studies, #Search engine",
+      "upvotes": 26
+    },
+    {
+      "name": "DiveDeck.ai",
+      "description": "« 모든 주제에 대해 구조화된 콘텐츠 페이지를 생성하기 위한 AI 도우미. 프롬프트를 통해 작동합니다. 학습이나 프리젠테이션에 적합 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/divedeck-ai.png",
+      "url": "https://www.aixploria.com/en/divedeck-ai/",
+      "type": "무료",
+      "category": "#Education / Studies, #Presentation",
+      "upvotes": 14
+    },
+    {
+      "name": "Brainly",
+      "description": "« 숙제에 대한 도움을 받고 AI로 맞춤 설명을 받으세요. 과제를 빠르게 스캔하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/brainly.png",
+      "url": "https://www.aixploria.com/en/brainly-ai/",
+      "type": "부분 무료",
+      "category": "#Education / Studies",
+      "upvotes": 3
+    },
+    {
+      "name": "Lablab.ai",
+      "description": "« 맞춤형 수업으로 인공지능 구축 및 관리 방법 알아보기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/lablab-ai.png",
+      "url": "https://www.aixploria.com/en/lablab-ai/",
+      "type": "무료",
+      "category": "#Education / Studies",
+      "upvotes": 1
+    },
+    {
+      "name": "Elicit",
+      "description": "« AI의 힘으로 검색을 분류, 요약, 분석 또는 자동화하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/elicit.png",
+      "url": "https://www.aixploria.com/en/elicit/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Research & Science",
+      "upvotes": 13
+    },
+    {
+      "name": "Llama Tutor",
+      "description": "« 귀하의 개인 IA 교사는 항상 도움을 드릴 준비가 되어 있습니다. 과목을 입력하고 레벨을 선택하면 즉시 자신의 능력에 맞는 강좌를 수강할 수 있습니다. Llama 3.1 모델 기반 오픈 소스 프로젝트 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/llama-tutor-ai-professor-education/",
+      "type": "무료",
+      "category": "#Education / Studies, #Github Projects",
+      "upvotes": 19
+    },
+    {
+      "name": "Glitter AI",
+      "description": "« 모든(복잡한) 프로세스도 이해하기 쉬운 단계별 가이드로 전환하세요. 음성만으로 서면 문서를 작성할 수도 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/glitter-ai.png",
+      "url": "https://www.aixploria.com/en/glitter-ai/",
+      "type": "무료",
+      "category": "#AI Useful, #Education / Studies",
+      "upvotes": 14
+    },
+    {
+      "name": "AI Dictionary by Sider",
+      "description": "« 빠르고 정확한 정의, 사용 예 및 100개 이상의 언어 번역을 제공하는 다국어 IA 사전 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-dictionary-by-sider.png",
+      "url": "https://www.aixploria.com/en/ai-dictionary-by-sider/",
+      "type": "무료",
+      "category": "#AI Useful, #Education / Studies",
+      "upvotes": 27
+    },
+    {
+      "name": "Mindmap Generator",
+      "description": "« 이 무료 AI 마인드 맵 생성기를 사용하여 아이디어를 쉽게 만들고 시각화하세요. 단 몇 번의 클릭만으로 생산성과 브레인스토밍 향상 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/mindmap-generator.png",
+      "url": "https://www.aixploria.com/en/mindmap-generator-ai-everlearns/",
+      "type": "무료",
+      "category": "#Education / Studies, #Productivity",
+      "upvotes": 17
+    },
+    {
+      "name": "LessonPlans AI",
+      "description": "« 고품질 AI를 통한 빠른 단계별 수업 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/lessonplans-ai.png",
+      "url": "https://www.aixploria.com/en/lessonplans-ai/",
+      "type": "부분 무료",
+      "category": "#Education / Studies",
+      "upvotes": 0
+    },
+    {
+      "name": "Talkpal AI",
+      "description": "« 선생님의 도움으로 쉽게 언어를 배우세요. GPT 기반 AI는 16개 언어로 제공됩니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/talkpal-ai.png",
+      "url": "https://www.aixploria.com/en/talkpal-ai/",
+      "type": "무료",
+      "category": "#Education / Studies, #Translation",
+      "upvotes": 3
+    },
+    {
+      "name": "Fobizz",
+      "description": "« 온라인 수업과 강좌를 자동으로 설계하려는 교사를 위한 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/fobizz.png",
+      "url": "https://www.aixploria.com/en/fobizz/",
+      "type": "부분 무료",
+      "category": "#Education / Studies",
+      "upvotes": 0
+    },
+    {
+      "name": "Fillout AI",
+      "description": "« AI를 사용하여 양식, 설문 조사 및 퀴즈를 쉽게 만들 수 있습니다. 템플릿과 Google 시트, Google 지도, 웹사이트 등과의 통합이 포함됩니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/fillout-ai.png",
+      "url": "https://www.aixploria.com/en/fillout-ai/",
+      "type": "무료",
+      "category": "#Education / Studies, #Files & Spreadsheets",
+      "upvotes": 8
+    },
+    {
+      "name": "Otio AI",
+      "description": "« 연구원이 학술 콘텐츠를 효율적으로 구성하고 요약하는 데 도움이 되는 AI 지원 연구 및 작성 플랫폼입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/otio-ai.png",
+      "url": "https://www.aixploria.com/en/otio-ai/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Research & Science",
+      "upvotes": 15
+    },
+    {
+      "name": "Elsa Speak",
+      "description": "« AI가 제공하는 개인 영어 ​​교사 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/elsa-speak.png",
+      "url": "https://www.aixploria.com/en/elsa-speak/",
+      "type": "유료",
+      "category": "#AI Useful, #ChatBots",
+      "upvotes": 7
+    },
+    {
+      "name": "DataCamp",
+      "description": "« 데이터 과학 및 AI 기술을 개발하기 위한 온라인 학습 포털입니다. R, Python 및 SQL에 대한 대화형 교육 과정을 수강하고 업계에서 인정받는 인증을 획득하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/datacamp.png",
+      "url": "https://www.aixploria.com/en/datacamp-ai-learn-data-science/",
+      "type": "부분 무료",
+      "category": "#Data & Analytics, #Education / Studies",
+      "upvotes": 32
+    },
+    {
+      "name": "Acely.ai",
+      "description": "« 수천 개의 연습 문제가 포함된 AI 도구로 SAT를 준비하세요. 점수 향상을 위한 맞춤 조언을 받아보세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/acely-ai.png",
+      "url": "https://www.aixploria.com/en/acely-ai-test-prep/",
+      "type": "Free-Trial",
+      "category": "#Education / Studies",
+      "upvotes": 33
+    },
+    {
+      "name": "Bookabout",
+      "description": "« 아이디어를 설명하거나 키워드로 책을 검색하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/bookabout.png",
+      "url": "https://www.aixploria.com/en/bookabout/",
+      "type": "무료",
+      "category": "#Education / Studies, #Search engine",
+      "upvotes": 1
+    },
+    {
+      "name": "Khanmigo",
+      "description": "« 수업 계획을 용이하게 하고 학교 학습을 지원하는 교사용 AI 도우미 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/khanmigo.png",
+      "url": "https://www.aixploria.com/en/khanmigo/",
+      "type": "무료",
+      "category": "#Education / Studies",
+      "upvotes": 0
+    },
+    {
+      "name": "Spellar AI",
+      "description": "« 말하거나 구두 프레젠테이션을 해야 할 때 도움을 주는 AI 도우미입니다. 개인화된 피드백과 맞춤형 교육 세션 제공 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/spellar-ai.png",
+      "url": "https://www.aixploria.com/en/spellar-ai/",
+      "type": "무료",
+      "category": "#Education / Studies, #Presentation",
+      "upvotes": 1
+    },
+    {
+      "name": "Heuristica",
+      "description": "« AI가 생성한 마인드 맵을 통해 모든 주제에 대한 개념을 시각적으로 탐색합니다. 더욱 효과적으로 검색하고 학습하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/heuristica.png",
+      "url": "https://www.aixploria.com/en/heuristica-ai/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Search engine",
+      "upvotes": 18
+    },
+    {
+      "name": "Saner.ai",
+      "description": "« 메모나 텍스트를 사용하여 손쉽게 새로운 아이디어를 포착하고 개발하세요. 이 AI 도우미로 시간을 절약하고 생산성을 높이세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/saner-ai.png",
+      "url": "https://www.aixploria.com/en/saner-ai/",
+      "type": "Free-Trial",
+      "category": "#Education / Studies, #Productivity",
+      "upvotes": 65
+    },
+    {
+      "name": "Mathly AI",
+      "description": "« 수학 문제를 풀면서도 쉽게 설명해주는 수학 도우미 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/mathly-ai.png",
+      "url": "https://www.aixploria.com/en/mathly-ai/",
+      "type": "무료",
+      "category": "#Education / Studies",
+      "upvotes": 2
+    },
+    {
+      "name": "Soofy",
+      "description": "« AI가 설계한 맞춤형 연습을 통해 선택한 언어로 실력을 향상하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/soofy.png",
+      "url": "https://www.aixploria.com/en/soofy/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Life Assistants",
+      "upvotes": 2
+    },
+    {
+      "name": "Memoru Flashcards",
+      "description": "« 모든 과목의 학습을 향상시키는 AI 지원 플래시카드 시스템. 개인화된 목표, 퀴즈 등을 제공합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/memoru-flashcards.png",
+      "url": "https://www.aixploria.com/en/memoru-flashcards-ai/",
+      "type": "무료",
+      "category": "#Education / Studies, #Memory",
+      "upvotes": 3
+    },
+    {
+      "name": "SchoolHack",
+      "description": "« 학생을 위한 다용도 모바일 앱: 작문 보조, 에세이, 요약, Q&A 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/schoolhack.png",
+      "url": "https://www.aixploria.com/en/schoolhack/",
+      "type": "무료",
+      "category": "#Education / Studies, #Summarizer",
+      "upvotes": 1
+    },
+    {
+      "name": "AI Homework",
+      "description": "« AI의 도움으로 숙제를 해보세요. 24시간 개인 교사와 즉각적인 답변과 설명을 얻을 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-homework.png",
+      "url": "https://www.aixploria.com/en/ai-homework-course-hero/",
+      "type": "Free-Trial",
+      "category": "#AI Useful, #Education / Studies",
+      "upvotes": 15
+    },
+    {
+      "name": "Brainy Docs",
+      "description": "« PDF를 매력적인 설명 동영상으로 변환하는 AI 도구입니다. 텍스트와 이미지를 사용자 정의, 다운로드 및 공유 가능한 비디오 프레젠테이션으로 변환 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/brainy-docs.png",
+      "url": "https://www.aixploria.com/en/brainy-docs-ai-pdf-video/",
+      "type": "Free-Trial",
+      "category": "#Education / Studies, #Files & Spreadsheets",
+      "upvotes": 16
+    },
+    {
+      "name": "NeuroSpell",
+      "description": "« 30개 이상의 언어로 사용 가능한 맞춤법 및 문법 검사기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/neurospell.png",
+      "url": "https://www.aixploria.com/en/neurospell/",
+      "type": "무료",
+      "category": "#Education / Studies, #Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "Thekeys",
+      "description": "« 당신의 생각을 구두로 표현할 수 없습니까? 이 도우미가 모든 것을 처리합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/thekeys.png",
+      "url": "https://www.aixploria.com/en/thekeys/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Life Assistants",
+      "upvotes": 1
+    },
+    {
+      "name": "Undermind AI",
+      "description": "« 상세한 과학 연구에 탁월한 AI 조수. 정확한 결과 및 심층적인 문헌 평가 얻기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/undermind-ai.png",
+      "url": "https://www.aixploria.com/en/undermind-ai/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Research & Science",
+      "upvotes": 7
+    },
+    {
+      "name": "Outline Ninja",
+      "description": "« 키워드를 전문적인 인포그래픽으로 바꿔주는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/outline-ninja.png",
+      "url": "https://www.aixploria.com/en/outline-ninja/",
+      "type": "유료",
+      "category": "#Education / Studies",
+      "upvotes": 0
+    },
+    {
+      "name": "ClassPoint AI",
+      "description": "« PowerPoint 슬라이드에서 대화형 질문을 생성하세요. 프레젠테이션을 더욱 흥미롭게 만들기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/classpoint-ai.png",
+      "url": "https://www.aixploria.com/en/classpoint-ai/",
+      "type": "무료",
+      "category": "#Education / Studies, #Presentation",
+      "upvotes": 3
+    },
+    {
+      "name": "Gatekeep",
+      "description": "« AI가 생성한 맞춤형 비디오로 더 빠르게 학습하세요. 과정을 재미있고 대화형으로 학습하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/gatekeep.png",
+      "url": "https://www.aixploria.com/en/gatekeep-ai/",
+      "type": "무료",
+      "category": "#Education / Studies",
+      "upvotes": 17
+    },
+    {
+      "name": "MagicSchool",
+      "description": "« AI를 통한 교육 전용 플랫폼입니다. 수업 계획을 작성하고, 평가를 생성하고, 학생에게 맞게 학습을 조정합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/magicschool.png",
+      "url": "https://www.aixploria.com/en/magicschool-ai-lessons/",
+      "type": "부분 무료",
+      "category": "#Education / Studies",
+      "upvotes": 20
+    },
+    {
+      "name": "Slay School",
+      "description": "« 수업 노트를 플래시카드나 퀴즈로 변환하여 효과적으로 공부할 수 있습니다. Anki 및 Quizlet으로 내보낼 수 있음 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/slay-school.png",
+      "url": "https://www.aixploria.com/en/slay-school-ai/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Memory",
+      "upvotes": 4
+    },
+    {
+      "name": "Revisely",
+      "description": "« 플래시카드, AI 퀴즈, 주제별 비디오 및 다양한 실용적인 도구를 사용하여 효과적으로 수정하세요. 학생, 교사 및 학습 전문가에게 이상적입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/revisely.png",
+      "url": "https://www.aixploria.com/en/revisely-ai-tools/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Memory",
+      "upvotes": 20
+    },
+    {
+      "name": "Corrector App",
+      "description": "« AI 기반 맞춤법 검사기로 텍스트를 빠르게 확인하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/corrector-app.png",
+      "url": "https://www.aixploria.com/en/corrector-app/",
+      "type": "무료",
+      "category": "#Education / Studies, #Writing & Web SEO",
+      "upvotes": 1
+    },
+    {
+      "name": "Recall AI",
+      "description": "« 기사, PDF, 팟캐스트, Wikipedia 등 모든 온라인 콘텐츠를 요약하고 저장합니다. 인공 지능이 자동으로 노트를 분류하고 연결하여 쉽게 검색할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/recall-ai.png",
+      "url": "https://www.aixploria.com/en/recall-ai/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Summarizer",
+      "upvotes": 16
+    },
+    {
+      "name": "Turnitin",
+      "description": "« 학생 과제물에서 보조 글쓰기를 감지하는 AI를 통해 학문적 무결성을 유지하세요. 대학, 고등학교 또는 연구를 위한 작업 흐름에 도구를 쉽게 통합할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/turnitin.png",
+      "url": "https://www.aixploria.com/en/turnitin-ai-detection/",
+      "type": "유료",
+      "category": "#AI detection, #Education / Studies",
+      "upvotes": 28
+    },
+    {
+      "name": "Quizard AI",
+      "description": "« 숙제에 대한 즉각적인 도움을 받으세요. 예: 수학 문제의 사진을 찍고 자세한 풀이를 받으세요. 모든 학년에 이상적 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/quizard-ai.png",
+      "url": "https://www.aixploria.com/en/quizard-ai/",
+      "type": "무료",
+      "category": "#Education / Studies",
+      "upvotes": 18
+    },
+    {
+      "name": "Proseable",
+      "description": "« 다중 언어 AI의 도움으로 새로운 언어를 배우세요. 영어, 이탈리아어, 프랑스어, 독일어, 스페인어로 제공되는 대화형 챗봇 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/proseable.png",
+      "url": "https://www.aixploria.com/en/proseable-ai/",
+      "type": "무료",
+      "category": "#Education / Studies",
+      "upvotes": 1
+    },
+    {
+      "name": "Textero AI",
+      "description": "« 학문적 수준의 글쓰기 조수. 학교 에세이 또는 기사 작성에 이상적입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/textero-ai.png",
+      "url": "https://www.aixploria.com/en/textero-ai/",
+      "type": "무료",
+      "category": "#Education / Studies, #Text Generators",
+      "upvotes": 1
+    },
+    {
+      "name": "Melon AI",
+      "description": "« 아이디어를 보다 효과적으로 정리하고 유지하는 데 도움이 되는 학습 시스템입니다. 개인 개발 촉진 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/melon-ai.png",
+      "url": "https://www.aixploria.com/en/melon-ai/",
+      "type": "무료",
+      "category": "#Education / Studies, #Life Assistants",
+      "upvotes": 3
+    },
+    {
+      "name": "OpenCV University AI",
+      "description": "« 인공 지능에 대한 100일 과정을 이수하는 데 도전해 보세요. 딥 러닝의 기본 사항을 알아보고 더 많은 기술적 과제를 해결해 보세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/opencv-university-ai.png",
+      "url": "https://www.aixploria.com/en/opencv-university-ai/",
+      "type": "유료",
+      "category": "#Education / Studies",
+      "upvotes": 1
+    },
+    {
+      "name": "Free Essay Generator",
+      "description": "« 빠르고 안정적인 학술 에세이를 작성하는 AI 작가. MLA/APA 인용이 포함됩니다. 사용하기 쉬움 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/free-essay-generator.png",
+      "url": "https://www.aixploria.com/en/free-essay-generator/",
+      "type": "무료",
+      "category": "#Education / Studies, #Text Generators",
+      "upvotes": 1
+    },
+    {
+      "name": "nanoGPT",
+      "description": "« 대화형 스프레드시트에서 GPT의 내부 작동 방식을 알아보세요. 아키텍처, 행렬 계산 및 데이터 흐름을 확인하세요. 재미있고 유익함 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/nanogpt.png",
+      "url": "https://www.aixploria.com/en/nanogpt-ai-spreadsheet-llms/",
+      "type": "무료",
+      "category": "#Education / Studies, #Github Projects",
+      "upvotes": 19
+    },
+    {
+      "name": "Detect GPT",
+      "description": "« 예를 들어 ChatGPT에서 AI에 의해 생성된 텍스트 감지기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/detect-gpt.png",
+      "url": "https://www.aixploria.com/en/detect-gpt/",
+      "type": "무료",
+      "category": "#AI detection, #Education / Studies",
+      "upvotes": 1
+    },
+    {
+      "name": "Lex AI",
+      "description": "« 글쓰기 능력을 향상시키는 강력한 AI 워드 프로세서. 모바일에서 작업할 수 있는 실시간 협업 기능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/lex-ai.png",
+      "url": "https://www.aixploria.com/en/lex-ai/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Text Generators",
+      "upvotes": 2
+    },
+    {
+      "name": "Yip",
+      "description": "« 콘텐츠에서 질문이나 퀴즈 만들기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/yip.png",
+      "url": "https://www.aixploria.com/en/yip/",
+      "type": "무료",
+      "category": "#Business, #Education / Studies",
+      "upvotes": 2
+    },
+    {
+      "name": "AI Math",
+      "description": "« AI로 수학 문제를 해결하기 위한 등록이 필요 없는 무료 사이트입니다. 수학을 더 잘 이해하는 데 도움이 되는 상세한 솔루션 제공 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-math.png",
+      "url": "https://www.aixploria.com/en/ai-math/",
+      "type": "무료",
+      "category": "#Education / Studies",
+      "upvotes": 15
+    },
+    {
+      "name": "LearnSmarter.ai",
+      "description": "« 학습 혁신을 목표로 하는 AI. 모든 책에 대한 질문에 즉시 답변할 수 있는 챗봇을 제공합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/learnsmarter-ai.png",
+      "url": "https://www.aixploria.com/en/learnsmarter-ai/",
+      "type": "무료",
+      "category": "#ChatBots, #Education / Studies",
+      "upvotes": 3
+    },
+    {
+      "name": "MyLens.AI",
+      "description": "« 모든 분야의 주요 이벤트 타임라인을 생성하는 AI로, 여러 테마를 하나의 통합된 스토리로 결합하는 데 이상적입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/mylens-ai.png",
+      "url": "https://www.aixploria.com/en/mylens-ai/",
+      "type": "무료",
+      "category": "#Education / Studies, #Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "Bytelearn",
+      "description": "« 진정한 수학 전문가가 되어 숙제를 도와주는 AI 선생님. 개인화되고 효과적인 학습 경험을 즐기세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/bytelearn.png",
+      "url": "https://www.aixploria.com/en/bytelearn-ai/",
+      "type": "무료",
+      "category": "#Education / Studies",
+      "upvotes": 13
+    },
+    {
+      "name": "Aithor",
+      "description": "« 에세이와 기사를 생성하는 다국어 AI 글쓰기 도우미. 학술적 글쓰기를 촉진하기 위한 검색 도구와 제안된 개요를 제공합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/aithor.png",
+      "url": "https://www.aixploria.com/en/aithor-ai-writing/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Text Generators",
+      "upvotes": 22
+    },
+    {
+      "name": "StudyCrumb",
+      "description": "« 이 전문적인 의역 도구를 사용하여 문장을 빠르고 쉽게 바꿔보세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/studycrumb.png",
+      "url": "https://www.aixploria.com/en/studycrumb/",
+      "type": "무료",
+      "category": "#Education / Studies, #Writing & Web SEO",
+      "upvotes": 1
+    },
+    {
+      "name": "Coin Identifier Coin Snap",
+      "description": "« 모든 유형의 부품을 즉시 정확하게 식별하는 모바일 애플리케이션 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/coin-identifier-coin-snap.png",
+      "url": "https://www.aixploria.com/en/coin-identifier-coin-snap/",
+      "type": "부분 무료",
+      "category": "#Amazing, #Education / Studies",
+      "upvotes": 4
+    },
+    {
+      "name": "Ello",
+      "description": "« 4~8세 어린이를 위한 AI 독서 동반자. 자녀가 읽는 소리를 듣고 맞춤 지원을 제공합니다. 각색된 도서와 동기 부여 보상 시스템 포함 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ello.png",
+      "url": "https://www.aixploria.com/en/ello-ai-read/",
+      "type": "Free-Trial",
+      "category": "#Education / Studies",
+      "upvotes": 30
+    },
+    {
+      "name": "Chathelp.ai",
+      "description": "« 귀하의 비즈니스, 업무 또는 학습의 효율성을 높이는 보조자입니다. 100개 이상의 도구 사용 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/chathelp-ai.png",
+      "url": "https://www.aixploria.com/en/chathelp-ai/",
+      "type": "유료",
+      "category": "#Business, #ChatBots",
+      "upvotes": 4
+    },
+    {
+      "name": "Reading Coach by Microsoft",
+      "description": "« 맞춤형 스토리로 유창한 읽기 능력을 자극하는 스마트하고 교육적인 도구입니다. 가정이나 학교에서 사용하기에 적합함 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/reading-coach-by-microsoft.png",
+      "url": "https://www.aixploria.com/en/reading-coach-by-microsoft-ai/",
+      "type": "무료",
+      "category": "#Education / Studies",
+      "upvotes": 2
+    },
+    {
+      "name": "Quriosity",
+      "description": "« 학습을 촉진하기 위해 맞춤형 코스를 생성하세요. 모든 과목, 언어 등에서 사용 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/quriosity.png",
+      "url": "https://www.aixploria.com/en/quriosity/",
+      "type": "무료",
+      "category": "#Education / Studies",
+      "upvotes": 0
+    },
+    {
+      "name": "BiRead",
+      "description": "« Google Chrome 확장 프로그램을 통해 AI가 포함된 모든 웹사이트를 읽고 번역하세요. 언어를 배우거나 외국 콘텐츠를 이해하는 데 유용한 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/biread.png",
+      "url": "https://www.aixploria.com/en/biread-ai-bilingual-translation/",
+      "type": "무료",
+      "category": "#Education / Studies, #Translation",
+      "upvotes": 19
+    },
+    {
+      "name": "iListen AI",
+      "description": "« AI를 사용하여 기사나 웹페이지를 팟캐스트로 전환하세요. 어디에서나 읽거나 들을 수 있는 맞춤형 요약을 받아보세요. Chrome 확장 프로그램 사용 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ilisten-ai.png",
+      "url": "https://www.aixploria.com/en/ilisten-ai-podcasts/",
+      "type": "Free-Trial",
+      "category": "#Education / Studies, #Summarizer",
+      "upvotes": 17
+    },
+    {
+      "name": "Upword",
+      "description": "« Chrome 확장 프로그램과 강력한 AI로 텍스트 요약 생성이 쉬워졌습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/upword.png",
+      "url": "https://www.aixploria.com/en/upword/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Productivity",
+      "upvotes": 2
+    },
+    {
+      "name": "GPTionary",
+      "description": "« 제한된 영어 실력을 가진 사람들이 무료로 실력을 향상할 수 있는 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/gptionary.png",
+      "url": "https://www.aixploria.com/en/gptionary/",
+      "type": "무료",
+      "category": "#Education / Studies",
+      "upvotes": 0
+    },
+    {
+      "name": "Oscar",
+      "description": "« AI로 맞춤형 동화를 생성하세요. 부모와 교사에게 이상적입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/oscar.png",
+      "url": "https://www.aixploria.com/en/oscar/",
+      "type": "유료",
+      "category": "#Education / Studies, #Storytelling Generator",
+      "upvotes": 1
+    },
+    {
+      "name": "Readbay.ai",
+      "description": "« 독서 세션을 최대한 활용할 수 있도록 도와주는 AI 코치. 휴대전화에서 제공되는 독서 달력과 맞춤 제안을 활용해 보세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/readbay-ai.png",
+      "url": "https://www.aixploria.com/en/readbay-ai/",
+      "type": "무료",
+      "category": "#Education / Studies, #Productivity",
+      "upvotes": 2
+    },
+    {
+      "name": "CodeKidz",
+      "description": "« 어린이들이 Python 언어를 보다 효과적으로 배울 수 있도록 도와주는 학습 동반자 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/codekidz.png",
+      "url": "https://www.aixploria.com/en/codekidz-ai/",
+      "type": "부분 무료",
+      "category": "#Education / Studies",
+      "upvotes": 3
+    },
+    {
+      "name": "YTClass",
+      "description": "« YouTube 동영상 강좌로 새로운 기술을 배워보세요. 실시간으로 대화할 수 있는 AI의 도움을 받습니다. 학생들에게 이상적입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/ytclass-ai/",
+      "type": "무료",
+      "category": "#Education / Studies",
+      "upvotes": 1
+    },
+    {
+      "name": "Photomath",
+      "description": "« 앱으로 수학 문제를 스캔하고 자세한 해결책을 얻으세요. 단계별 설명을 통해 자신의 속도에 맞춰 학습하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/photomath.png",
+      "url": "https://www.aixploria.com/en/photomath-ai/",
+      "type": "부분 무료",
+      "category": "#Education / Studies",
+      "upvotes": 19
+    },
+    {
+      "name": "CourseFactory AI",
+      "description": "« 교육 분야의 전문가 AI를 사용하여 온라인 강좌를 빠르게 제작하세요. 빠르고 효율적인 맞춤형 프로세스 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/coursefactory-ai.png",
+      "url": "https://www.aixploria.com/en/coursefactory-ai/",
+      "type": "부분 무료",
+      "category": "#Education / Studies",
+      "upvotes": 0
+    },
+    {
+      "name": "Thinkster Math",
+      "description": "« 세계 최초의 AI 기반 프로그램으로 자녀의 수학 학습 속도를 3배 더 빠르게 향상하세요. 교육용 게임 기능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/thinkster-math.png",
+      "url": "https://www.aixploria.com/en/thinkster-math-ai/",
+      "type": "Free-Trial",
+      "category": "#Education / Studies",
+      "upvotes": 11
+    },
+    {
+      "name": "Magicast.ai",
+      "description": "« 모든 주제를 팟캐스트 스타일의 오디오 경험으로 바꿔보세요. 교육 및 평생 학습에 적합합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/magicast-ai.png",
+      "url": "https://www.aixploria.com/en/magicast-ai/",
+      "type": "무료",
+      "category": "#Audio Editing, #Education / Studies",
+      "upvotes": 2
+    },
+    {
+      "name": "Better Synonyms AI",
+      "description": "« 1초 이내에 동의어를 찾을 수 있는 편리한 AI 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/better-synonyms-ai.png",
+      "url": "https://www.aixploria.com/en/better-synonyms-ai/",
+      "type": "무료",
+      "category": "#Education / Studies, #Writing & Web SEO",
+      "upvotes": 1
+    },
+    {
+      "name": "Fixkey AI",
+      "description": "« 글쓰기 속도에 맞춰 실시간으로 작동하는 AI 글쓰기 도우미. 수정이나 제안은 즉각적으로 이루어집니다. macOS에서 사용 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/fixkey-ai.png",
+      "url": "https://www.aixploria.com/en/fixkey-ai/",
+      "type": "Free-Trial",
+      "category": "#Education / Studies, #Writing & Web SEO",
+      "upvotes": 12
+    },
+    {
+      "name": "ExamCram",
+      "description": "« 텍스트, 책 등을 기반으로 시험을 시뮬레이션하려는 학생들을 위한 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/examcram.png",
+      "url": "https://www.aixploria.com/en/examcram/",
+      "type": "부분 무료",
+      "category": "#Education / Studies",
+      "upvotes": 0
+    },
+    {
+      "name": "Sizzle AI",
+      "description": "« 수학, 화학, 어휘, 언어 등 모든 종류의 문제를 해결할 수 있는 AI 기반 앱입니다. 사진을 사용하여 도움을 받을 수도 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/sizzle-ai.png",
+      "url": "https://www.aixploria.com/en/sizzle-ai/",
+      "type": "무료",
+      "category": "#Education / Studies",
+      "upvotes": 2
+    },
+    {
+      "name": "Metkagram",
+      "description": "« 주석이 달린 카드와 AI 생성 메모리를 사용하여 보다 효과적으로 언어를 배우세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/metkagram.png",
+      "url": "https://www.aixploria.com/en/metkagram/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Memory",
+      "upvotes": 2
+    },
+    {
+      "name": "Kaiden AI",
+      "description": "« 맞춤형 코스, 리소스 및 평가를 생성하기 위한 AI 도우미. 자신의 문서, 이미지, PowerPoint, CSV 등을 업로드하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/kaiden-ai.png",
+      "url": "https://www.aixploria.com/en/kaiden-ai-teaching-assistant/",
+      "type": "부분 무료",
+      "category": "#Education / Studies",
+      "upvotes": 15
+    },
+    {
+      "name": "Speak",
+      "description": "« 항상 도움을 줄 준비가 되어 있는 AI 교사와 함께 이중 언어를 구사할 수 있습니다. 말하기 연습, 즉각적인 피드백 받기, 자율적으로 진행하기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/speak.png",
+      "url": "https://www.aixploria.com/en/speak-ai/",
+      "type": "Free-Trial",
+      "category": "#Education / Studies",
+      "upvotes": 19
+    },
+    {
+      "name": "Vocalo",
+      "description": "« 완벽한 영어로 말하고 단어를 올바르게 발음하는 방법을 가르쳐줄 AI 교사와 대화하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/vocalo.png",
+      "url": "https://www.aixploria.com/en/vocalo/",
+      "type": "부분 무료",
+      "category": "#Education / Studies",
+      "upvotes": 14
+    },
+    {
+      "name": "Penseum",
+      "description": "« 학술 콘텐츠를 구조화하고 분석하는 이 AI 도구를 사용하여 학습을 향상시키세요. 실용적인 플래시카드와 맞춤형 질문 만들기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/penseum.png",
+      "url": "https://www.aixploria.com/en/penseum-ai/",
+      "type": "무료",
+      "category": "#Education / Studies, #Memory",
+      "upvotes": 2
+    },
+    {
+      "name": "100DaysOfAI Challenge",
+      "description": "« 도전해 보세요. 맞춤형 일일 수업을 통해 AI에 대한 모든 것을 알아보세요. 수업은 무료이며 30분을 넘지 않습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/100daysofai-challenge.png",
+      "url": "https://www.aixploria.com/en/100daysofai-challenge/",
+      "type": "무료",
+      "category": "#Education / Studies",
+      "upvotes": 1
+    },
+    {
+      "name": "Minerva",
+      "description": "« 연구원과 학생이 학술 수준의 정보를 빠르게 찾을 수 있도록 도와주는 검색 도우미 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/minerva.png",
+      "url": "https://www.aixploria.com/en/minerva/",
+      "type": "무료",
+      "category": "#Education / Studies, #Research & Science",
+      "upvotes": 0
+    },
+    {
+      "name": "Wisio",
+      "description": "« 여러 언어로 접근 가능한 과학 글쓰기를 위해 설계된 AI 플랫폼 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/wisio.png",
+      "url": "https://www.aixploria.com/en/wisio/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Research & Science",
+      "upvotes": 2
+    },
+    {
+      "name": "CodeSignal",
+      "description": "« CodeSignal로 기술 능력을 평가하고 개발하세요. AI 평가 및 학습 도구는 귀하 또는 귀하의 팀이 발전하는 데 도움이 됩니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/codesignal/",
+      "type": "유료",
+      "category": "#Education / Studies",
+      "upvotes": 14
+    },
+    {
+      "name": "EverLearns",
+      "description": "« 단 몇 분 만에 강좌를 자동으로 생성하는 AI 도구입니다. 교사, 콘텐츠 제작자, 부모 등에 적합합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/everlearns.png",
+      "url": "https://www.aixploria.com/en/everlearns-ai-course-generator/",
+      "type": "유료",
+      "category": "#Education / Studies",
+      "upvotes": 16
+    },
+    {
+      "name": "StudyX",
+      "description": "« 작문 도구, 질문 및 답변 등을 통해 맞춤형 지원을 제공하는 연구 전용 AI 플랫폼 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/studyx.png",
+      "url": "https://www.aixploria.com/en/studyx/",
+      "type": "유료",
+      "category": "#Education / Studies",
+      "upvotes": 3
+    },
+    {
+      "name": "Fluxy AI",
+      "description": "« 다양한 교육 관련 업무를 도와줄 수 있는 보조자입니다. 생산성과 학습 향상에 이상적입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/fluxy-ai/",
+      "type": "무료",
+      "category": "#Education / Studies",
+      "upvotes": 0
+    },
+    {
+      "name": "Kippy AI",
+      "description": "« 고성능 AI 모바일 애플리케이션으로 새로운 언어를 배우세요. 실제 대화를 통해 언어 능력 향상 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/kippy-ai.png",
+      "url": "https://www.aixploria.com/en/kippy-ai/",
+      "type": "부분 무료",
+      "category": "#Education / Studies",
+      "upvotes": 5
+    },
+    {
+      "name": "PrepAI",
+      "description": "« 모든 문서에서 설문지 및 기타 다양한 연습 만들기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/prepai.png",
+      "url": "https://www.aixploria.com/en/prepai/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Files & Spreadsheets",
+      "upvotes": 0
+    },
+    {
+      "name": "Ideamap AI",
+      "description": "« 브레인스토밍 세션에 활력을 불어넣는 AI로 아이디어를 정리하세요. 실시간 공동작업 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ideamap-ai.png",
+      "url": "https://www.aixploria.com/en/ideamap-ai/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Productivity",
+      "upvotes": 3
+    },
+    {
+      "name": "EduWriter",
+      "description": "« AI 전문가와 함께 다양한 학술 논문이나 학교 에세이를 작성해 보세요. 표절 탐지와 같은 다양한 도구 기능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/eduwriter.png",
+      "url": "https://www.aixploria.com/en/eduwriter-ai/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Text Generators",
+      "upvotes": 0
+    },
+    {
+      "name": "AssignmentGPT AI",
+      "description": "« 강력한 AI 학술 수준 글쓰기 보조 기능을 갖춘 인체공학적 플랫폼입니다. 과제, 블로그 또는 전문 콘텐츠 작성에 이상적입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/assignmentgpt-ai.png",
+      "url": "https://www.aixploria.com/en/assignmentgpt-ai/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Text Generators",
+      "upvotes": 1
+    },
+    {
+      "name": "Cordial",
+      "description": "« 텍스트를 수정하고 철자 오류를 강조하는 AI(프랑스어에만 해당) »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/cordial.png",
+      "url": "https://www.aixploria.com/en/cordial/",
+      "type": "무료",
+      "category": "#Education / Studies, #Writing & Web SEO",
+      "upvotes": 1
+    },
+    {
+      "name": "MyMemo",
+      "description": "« 중요한 정보의 기억력을 향상시키는 AI 도구입니다. 직관적인 인터페이스 덕분에 버튼 클릭만으로 지식을 중앙 집중화하고 액세스할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/mymemo.png",
+      "url": "https://www.aixploria.com/en/mymemo-ai/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Memory",
+      "upvotes": 10
+    },
+    {
+      "name": "Teach Anything",
+      "description": "« 선택한 주제에 대해 빠른 질문과 답변 수업을 진행하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/teach-anything.png",
+      "url": "https://www.aixploria.com/en/teach-anything/",
+      "type": "무료",
+      "category": "#Education / Studies",
+      "upvotes": 0
+    },
+    {
+      "name": "Scribens",
+      "description": "« 텍스트의 실수를 확인하는 맞춤법 검사기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/scribens.png",
+      "url": "https://www.aixploria.com/en/scribens/",
+      "type": "무료",
+      "category": "#Education / Studies, #Writing & Web SEO",
+      "upvotes": 3
+    },
+    {
+      "name": "MyLessonPal",
+      "description": "« 교사가 다양한 학교 수준에 적합한 코스를 만들 수 있는 도구입니다. 과목, 유형 및 학습 수준 선택 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/mylessonpal.png",
+      "url": "https://www.aixploria.com/en/mylessonpal/",
+      "type": "무료",
+      "category": "#Education / Studies",
+      "upvotes": 0
+    },
+    {
+      "name": "PopAI",
+      "description": "« 문서 분석 및 토론, 이미지 생성, 코드 작성 등을 수행할 수 있는 포괄적인 작업 공간입니다. 200개 이상의 언어로 이용 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/popai.png",
+      "url": "https://www.aixploria.com/en/popai-workspace/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Productivity",
+      "upvotes": 15
+    },
+    {
+      "name": "CourseAI",
+      "description": "« 온라인 강좌 생성 및 판매를 단순화하는 플랫폼입니다. 과목을 선택하면 AI가 온라인 강좌나 학습 프로그램을 생성합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/courseai.png",
+      "url": "https://www.aixploria.com/en/courseai/",
+      "type": "부분 무료",
+      "category": "#Education / Studies",
+      "upvotes": 2
+    },
+    {
+      "name": "MathHandwriting",
+      "description": "« 손으로 쓴 방정식을 LaTeX 형식으로 쉽게 변환하세요. 이 AI 도구는 수학 방정식의 디지털화를 단순화합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/mathhandwriting-ai/",
+      "type": "부분 무료",
+      "category": "#Education / Studies",
+      "upvotes": 10
+    },
+    {
+      "name": "Codeamigo",
+      "description": "« 짧은 강좌와 수업을 통해 빠르고 효율적으로 코딩하는 법 배우기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/codeamigo.png",
+      "url": "https://www.aixploria.com/en/codeamigo/",
+      "type": "무료",
+      "category": "#Education / Studies",
+      "upvotes": 0
+    },
+    {
+      "name": "Owwlish",
+      "description": "« 사이트에 직접 통합된 온라인 강좌를 생성하여 지식으로 쉽게 수익을 창출하세요. Wix, Webflow, Shopify 등과 호환 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/owwlish.png",
+      "url": "https://www.aixploria.com/en/owwlish-ai/",
+      "type": "유료",
+      "category": "#Education / Studies",
+      "upvotes": 12
+    },
+    {
+      "name": "MyEssayWriterAI",
+      "description": "« 전문가 글쓰기 AI의 도움을 받아 에세이, 논문 또는 기사를 작성하세요. 학생들에게 이상적입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/myessaywriterai.png",
+      "url": "https://www.aixploria.com/en/myessaywriterai/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Text Generators",
+      "upvotes": 1
+    },
+    {
+      "name": "Jungle",
+      "description": "« 암기에 도움이 되는 작은 메모리 카드를 만드는 Chrome 확장 프로그램(질문/답변) »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/jungle.png",
+      "url": "https://www.aixploria.com/en/wisdolia/",
+      "type": "무료",
+      "category": "#Education / Studies, #Memory",
+      "upvotes": 3
+    },
+    {
+      "name": "Gliglish",
+      "description": "« 당신을 가르치고 매우 빠르게 발전할 수 있도록 도와줄 AI 언어 교사. 12개 언어로 사용 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/gliglish.png",
+      "url": "https://www.aixploria.com/en/gliglish/",
+      "type": "부분 무료",
+      "category": "#Education / Studies",
+      "upvotes": 2
+    },
+    {
+      "name": "Luminaries",
+      "description": "« 디지털 코치가 웰니스부터 금융까지 삶의 다양한 영역을 안내해 드립니다. 새로운 기술을 쉽게 배우세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/luminaries.png",
+      "url": "https://www.aixploria.com/en/luminaries/",
+      "type": "무료",
+      "category": "#Education / Studies, #Life Assistants",
+      "upvotes": 0
+    },
+    {
+      "name": "AcademicGPT",
+      "description": "« 학술 작문을 단순화하는 AI 도구 세트입니다. 텍스트를 업로드하고 자동 작문 지원 혜택을 누리세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/academicgpt.png",
+      "url": "https://www.aixploria.com/en/academicgpt/",
+      "type": "무료",
+      "category": "#Education / Studies",
+      "upvotes": 1
+    },
+    {
+      "name": "LearningStudioAI",
+      "description": "« 온라인 코스 생성을 단순화하고 교육 경험을 향상시키는 AI 도구입니다. 기존 시스템과의 손쉬운 통합 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/learningstudioai.png",
+      "url": "https://www.aixploria.com/en/learningstudioai/",
+      "type": "유료",
+      "category": "#Education / Studies",
+      "upvotes": 0
+    },
+    {
+      "name": "WisdomPlan",
+      "description": "« 맞춤형 AI 도구로 학습을 최적화하세요. 맞춤형 계획, 진행 상황 추적 및 활발한 학습 커뮤니티의 혜택을 누리세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/wisdomplan.png",
+      "url": "https://www.aixploria.com/en/wisdomplan-ai-learning/",
+      "type": "Free-Trial",
+      "category": "#Education / Studies",
+      "upvotes": 13
+    },
+    {
+      "name": "Coursebox",
+      "description": "« 한 시간 안에 온라인 강좌를 개설하세요(LLM 제공). 퀴즈, 비디오 등 매력적인 교육 콘텐츠 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/coursebox.png",
+      "url": "https://www.aixploria.com/en/coursebox/",
+      "type": "부분 무료",
+      "category": "#Education / Studies",
+      "upvotes": 0
+    },
+    {
+      "name": "VidToQuiz",
+      "description": "« 비디오와 텍스트를 대화형 퀴즈로 변환할 수 있는 AI 도구입니다. 교육이나 비즈니스에 적합 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/vidtoquiz.png",
+      "url": "https://www.aixploria.com/en/vidtoquiz-ai/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Transcriber",
+      "upvotes": 2
+    },
+    {
+      "name": "ChatIQ.ai",
+      "description": "« AI 교육을 위해 PDF 파일, 텍스트 또는 웹사이트를 사용하여 ChatBot을 만듭니다. 학생이나 회사에 적합 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/chatiq-ai.png",
+      "url": "https://www.aixploria.com/en/chatiq-ai/",
+      "type": "부분 무료",
+      "category": "#Business, #ChatBots",
+      "upvotes": 2
+    },
+    {
+      "name": "Essay Builder AI",
+      "description": "« 학생들의 학술 작문 및 연습을 돕기 위해 특별히 설계된 텍스트 생성기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/essay-builder-ai.png",
+      "url": "https://www.aixploria.com/en/essay-builder-ai/",
+      "type": "무료",
+      "category": "#Education / Studies, #Text Generators",
+      "upvotes": 1
+    },
+    {
+      "name": "Tandem GPT",
+      "description": "« 현실적이고 매력적인 대화를 통해 다양한 언어를 배울 수 있는 AI 파트너(챗봇) »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/tandem-gpt.png",
+      "url": "https://www.aixploria.com/en/tandem-gpt/",
+      "type": "무료",
+      "category": "#Education / Studies",
+      "upvotes": 0
+    },
+    {
+      "name": "Rewriter AI",
+      "description": "« AI로 글쓰기 시간 단축: 다른 표현, 다른 표현, 문법 및 텍스트 요약 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/02/favicon-defa.png",
+      "url": "https://www.aixploria.com/en/rewriter-ai/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Summarizer",
+      "upvotes": 0
+    },
+    {
+      "name": "BooksAI",
+      "description": "« Vision AI 및 GPT-4를 사용하여 책 사진에서 쉽게 책 요약 만들기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/booksai.png",
+      "url": "https://www.aixploria.com/en/booksai/",
+      "type": "무료",
+      "category": "#Education / Studies, #Summarizer",
+      "upvotes": 1
+    },
+    {
+      "name": "Geleza",
+      "description": "« 학생들이 시험을 공부하고 준비할 수 있도록 설계된 AI 지원 학습 플랫폼 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/geleza.png",
+      "url": "https://www.aixploria.com/en/geleza/",
+      "type": "부분 무료",
+      "category": "#Education / Studies",
+      "upvotes": 0
+    },
+    {
+      "name": "Article Summarizer",
+      "description": "« 매우 긴 기사도 자동으로 요약하는 도구입니다. Medium, TechCrunch 등과 호환 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/article-summarizer.png",
+      "url": "https://www.aixploria.com/en/article-summarizer/",
+      "type": "무료",
+      "category": "#Education / Studies, #Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "PerfectEssayWriter AI",
+      "description": "« 다중 도구 AI 플랫폼을 사용하여 학술 수준의 에세이를 몇 초 만에 작성하세요. 창의력을 자극하고 글쓰기 스타일을 완성하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/perfectessaywriter-ai.png",
+      "url": "https://www.aixploria.com/en/perfectessaywriter-ai/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Text Generators",
+      "upvotes": 0
+    },
+    {
+      "name": "Reinforz",
+      "description": "« 학업 작업을 자동화하는 AI 기반 학습 플랫폼입니다. 퀴즈를 만들고 관리하여 학습 결과를 향상하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/reinforz.png",
+      "url": "https://www.aixploria.com/en/reinforz/",
+      "type": "부분 무료",
+      "category": "#Education / Studies",
+      "upvotes": 0
+    },
+    {
+      "name": "Hemingway App",
+      "description": "« 원본 텍스트 작성을 도와주는 AI. 또한 철자와 문법도 확인합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/hemingway-app.png",
+      "url": "https://www.aixploria.com/en/hemingway-app/",
+      "type": "무료",
+      "category": "#Education / Studies, #Writing & Web SEO",
+      "upvotes": 0
+    },
+    {
+      "name": "Shiken",
+      "description": "« 대화형으로 AI를 사용하는 올인원 학교 학습 애플리케이션: 실시간 퀴즈, 수업, 플래시 카드, 메모 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/shiken.png",
+      "url": "https://www.aixploria.com/en/shiken/",
+      "type": "부분 무료",
+      "category": "#Education / Studies",
+      "upvotes": 0
+    },
+    {
+      "name": "Paperclips",
+      "description": "« PDF 파일에서 플래시카드를 생성합니다. 학생들의 학습 및 시험 준비를 촉진합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/paperclips.png",
+      "url": "https://www.aixploria.com/en/paperclips/",
+      "type": "유료",
+      "category": "#Education / Studies, #Memory",
+      "upvotes": 1
+    },
+    {
+      "name": "TalkToBooks",
+      "description": "« 귀하의 질문에 답변하기 위해 Google 도서 데이터베이스를 검색하는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/talktobooks/",
+      "type": "무료",
+      "category": "#Education / Studies",
+      "upvotes": 0
+    },
+    {
+      "name": "Quizbot.ai",
+      "description": "« 퀴즈나 테스트용 질문을 빠르게 생성할 수 있는 스마트하고 간단한 생성기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/quizbot-ai.png",
+      "url": "https://www.aixploria.com/en/quizbot-ai/",
+      "type": "부분 무료",
+      "category": "#Education / Studies",
+      "upvotes": 1
+    },
+    {
+      "name": "PolySpeak",
+      "description": "« IOS용 무료 언어 학습 애플리케이션입니다. 스페인어, 프랑스어, 독일어, 중국어, 영어로 제공됩니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/polyspeak.png",
+      "url": "https://www.aixploria.com/en/polyspeak/",
+      "type": "무료",
+      "category": "#Education / Studies",
+      "upvotes": 0
+    },
+    {
+      "name": "WordfixerBot",
+      "description": "« 의역, 문법 검사, 텍스트 요약 등을 위한 AI 작성 도우미 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/wordfixerbot.png",
+      "url": "https://www.aixploria.com/en/wordfixerbot/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Summarizer",
+      "upvotes": 0
+    },
+    {
+      "name": "Legends AI",
+      "description": "« 맞춤형 프로그램을 통해 아이들의 자신감을 키워주는 훈련 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/legends-ai.png",
+      "url": "https://www.aixploria.com/en/legends-ai/",
+      "type": "무료",
+      "category": "#Education / Studies",
+      "upvotes": 1
+    },
+    {
+      "name": "Feyn",
+      "description": "« 다양한 작업을 도와주는 지능형 개인 비서. 관련 정보를 쉽게 찾을 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/feyn.png",
+      "url": "https://www.aixploria.com/en/feyn/",
+      "type": "무료",
+      "category": "#Education / Studies",
+      "upvotes": 0
+    },
+    {
+      "name": "AICheatCheck",
+      "description": "« 교사가 콘텐츠가 AI에 의해 작성되었는지 감지할 수 있도록 지원 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/aicheatcheck.png",
+      "url": "https://www.aixploria.com/en/aicheatcheck/",
+      "type": "무료",
+      "category": "#AI detection, #Education / Studies",
+      "upvotes": 2
+    },
+    {
+      "name": "Nolej",
+      "description": "« YouTube 동영상, 웹사이트, 문서 등에서 학습 형식 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/nolej.png",
+      "url": "https://www.aixploria.com/en/nolej/",
+      "type": "부분 무료",
+      "category": "#Education / Studies",
+      "upvotes": 0
+    },
+    {
+      "name": "Heuristica",
+      "description": "« 독창적인 AI 기반 시스템을 통해 다양한 주제에 대한 지식 확장 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/heuristica.png",
+      "url": "https://www.aixploria.com/en/heuristica/",
+      "type": "무료",
+      "category": "#Education / Studies",
+      "upvotes": 0
+    },
+    {
+      "name": "Parabrain",
+      "description": "« 메모나 기사를 해당 분야의 전문가 AI로 바꿔보세요. 학습 및 협업 촉진 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/parabrain.png",
+      "url": "https://www.aixploria.com/en/parabrain/",
+      "type": "무료",
+      "category": "#Education / Studies",
+      "upvotes": 0
+    },
+    {
+      "name": "DoubtClear AI",
+      "description": "« 다양한 주제에 대한 학문적 의문에 대한 즉각적인 해결책을 제공하는 혁신적인 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/doubtclear-ai/",
+      "type": "무료",
+      "category": "#Education / Studies",
+      "upvotes": 0
+    },
+    {
+      "name": "LearnLingo",
+      "description": "« AI 선생님과의 맞춤형 대화를 통해 언어 능력 향상 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/learnlingo.png",
+      "url": "https://www.aixploria.com/en/learnlingo/",
+      "type": "무료",
+      "category": "#Education / Studies",
+      "upvotes": 0
+    },
+    {
+      "name": "Monic AI",
+      "description": "« 메모를 모든 언어의 모의 문제 및 시험으로 전환하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/monic-ai.png",
+      "url": "https://www.aixploria.com/en/monic-ai/",
+      "type": "유료",
+      "category": "#Education / Studies, #Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "FrenchLab IO",
+      "description": "« 인스턴트 메시징으로 프랑스어를 직접 배울 수 있는 AI ChatBot »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/frenchlab-io.png",
+      "url": "https://www.aixploria.com/en/frenchlab-io/",
+      "type": "유료",
+      "category": "#ChatBots, #Education / Studies",
+      "upvotes": 2
+    },
+    {
+      "name": "Textbuddy",
+      "description": "« 텍스트를 분석하여 글쓰기를 개선하고 단순화하는 지능형 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/textbuddy.png",
+      "url": "https://www.aixploria.com/en/textbuddy/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Writing & Web SEO",
+      "upvotes": 1
+    },
+    {
+      "name": "Promptstacks",
+      "description": "« ChatGPT와 같은 모델에 대한 사전 검증된 프롬프트. 프롬프트를 최적화하기 위한 지원 및 커뮤니티 포함 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/promptstacks.png",
+      "url": "https://www.aixploria.com/en/promptstacks/",
+      "type": "무료",
+      "category": "#Education / Studies, #Prompts & Aids",
+      "upvotes": 0
+    },
+    {
+      "name": "Adaptiv Academy",
+      "description": "« 귀하의 질문에 답변하고 귀하의 관심사에 따라 직업 선택을 추천하는 AI 비서 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/02/favicon-defa.png",
+      "url": "https://www.aixploria.com/en/adaptiv-academy/",
+      "type": "무료",
+      "category": "#Education / Studies, #Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "Khan Academy",
+      "description": "« 대화형 경험과 실시간 피드백을 통해 학생과 교사에게 지원을 제공하는 AI 가이드 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/khan-academy.png",
+      "url": "https://www.aixploria.com/en/khan-academy/",
+      "type": "유료",
+      "category": "#Education / Studies",
+      "upvotes": 1
+    },
+    {
+      "name": "to teach",
+      "description": "« 교사를 위한 맞춤형 학습 자료를 제공하는 지능형 어시스턴트 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/to-teach.png",
+      "url": "https://www.aixploria.com/en/to-teach/",
+      "type": "부분 무료",
+      "category": "#Education / Studies",
+      "upvotes": 1
+    }
+  ]
+}

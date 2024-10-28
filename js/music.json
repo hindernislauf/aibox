@@ -1,0 +1,788 @@
+{
+  "name": "Music",
+  "items": [
+    {
+      "name": "Suno AI V3",
+      "description": "« 가사가 있는 음악을 제작할 수 있는 음악 생성기. 이 AI는 노래 가사를 쓰고 부를 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/suno-ai-v3.png",
+      "url": "https://www.aixploria.com/en/chirp-suno-ai/",
+      "type": "부분 무료",
+      "category": "#Music, #SuperTools",
+      "upvotes": 91
+    },
+    {
+      "name": "Udio",
+      "description": "« 완전하고 초현실적인 노래를 작곡할 수 있는 AI 기반 음악 생성기. 매우 인상적인 목소리 생성 가능성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/udio.png",
+      "url": "https://www.aixploria.com/en/udio-ai-music-generator/",
+      "type": "부분 무료",
+      "category": "#Music, #SuperTools",
+      "upvotes": 47
+    },
+    {
+      "name": "Mubert AI",
+      "description": "« 텍스트 프롬프트에서 작동하는 AI 지원 음악 생성. 멜로디는 만들기 쉽고 로열티가 없습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/mubert-ai.png",
+      "url": "https://www.aixploria.com/en/mubert-ai/",
+      "type": "부분 무료",
+      "category": "#Music",
+      "upvotes": 48
+    },
+    {
+      "name": "AIVA",
+      "description": "« 인상적인 멜로디를 생성하는 사용하기 쉬운 AI 음악 생성기. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/01/aiva.jpg",
+      "url": "https://www.aixploria.com/en/aiva/",
+      "type": "무료",
+      "category": "#Music, #SuperTools",
+      "upvotes": 32
+    },
+    {
+      "name": "Riffusion",
+      "description": "« 텍스트 프롬프트를 통한 품질과 독창적인 음악 제작. 랩, 록, 클래식 등 다양한 스타일로 제공됩니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/riffusion.png",
+      "url": "https://www.aixploria.com/en/riffusion/",
+      "type": "무료",
+      "category": "#Music",
+      "upvotes": 26
+    },
+    {
+      "name": "Beatoven",
+      "description": "« 다양한 스타일, 장르, 악기 및 템포 중에서 선택하여 노래를 만들 수 있는 로열티 없는 음악 생성기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/beatoven.png",
+      "url": "https://www.aixploria.com/en/beatoven/",
+      "type": "무료",
+      "category": "#Music",
+      "upvotes": 18
+    },
+    {
+      "name": "Covers AI",
+      "description": "« 음성 샘플이나 노래에서 Cover IS 자동 생성. .mp3 형식으로 다운로드 가능한 음악 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/covers-ai.png",
+      "url": "https://www.aixploria.com/en/covers-ai/",
+      "type": "부분 무료",
+      "category": "#Audio Editing, #Music",
+      "upvotes": 18
+    },
+    {
+      "name": "Jammable",
+      "description": "« 원하는 노래의 음성을 쉽게 교체하고 첫 번째 AI 커버를 만드세요. 자신의 목소리를 추가하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/03/logo.webp",
+      "url": "https://www.aixploria.com/en/jammable-ai-voicify/",
+      "type": "유료",
+      "category": "#Audio Editing, #Music",
+      "upvotes": 26
+    },
+    {
+      "name": "Vocal Remover",
+      "description": "« 모든 종류의 노래에서 음성과 음악을 빠르게 분리할 수 있는 AI 비서 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/vocal-remover.png",
+      "url": "https://www.aixploria.com/en/vocalremover/",
+      "type": "무료",
+      "category": "#Audio Editing, #Music",
+      "upvotes": 23
+    },
+    {
+      "name": "Voicemy.ai",
+      "description": "« 수백 명의 국제 스타 목소리를 제공하는 사이트 덕분에 AI 커버를 만들 수 있습니다. 음성을 복제할 수도 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/voicemy-ai.png",
+      "url": "https://www.aixploria.com/en/voicemy-ai/",
+      "type": "부분 무료",
+      "category": "#Audio Editing, #Music",
+      "upvotes": 14
+    },
+    {
+      "name": "Similar Songs Finder",
+      "description": "« 즐겨찾는 노래와 유사한 노래의 재생목록을 쉽게 찾고 생성하세요. 새로운 곡을 빠르게 발견하는 데 이상적입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/similar-songs-finder.png",
+      "url": "https://www.aixploria.com/en/similar-songs-finder-ai/",
+      "type": "무료",
+      "category": "#AI Useful, #Music",
+      "upvotes": 26
+    },
+    {
+      "name": "Songtell",
+      "description": "« 다양한 장르의 50,000개 이상의 음악과 노래 레퍼토리 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/songtell.png",
+      "url": "https://www.aixploria.com/en/songtell/",
+      "type": "무료",
+      "category": "#Music, #Search engine",
+      "upvotes": 7
+    },
+    {
+      "name": "DistroKid",
+      "description": "« 자동 작사, 앨범 커버 생성기(DistroPic) 등 AI 기능을 제공하는 음악 유통업체 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/distrokid.png",
+      "url": "https://www.aixploria.com/en/distrokid-ai/",
+      "type": "유료",
+      "category": "#AI Useful, #AIxploria Selection",
+      "upvotes": 34
+    },
+    {
+      "name": "Synthesizer V",
+      "description": "« AI를 사용하여 사실적인 목소리를 만들어내는 혁신적인 음악 제작 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/synthesizer-v.png",
+      "url": "https://www.aixploria.com/en/synthesizer-v/",
+      "type": "부분 무료",
+      "category": "#Art, #Music",
+      "upvotes": 17
+    },
+    {
+      "name": "LALAL.AI",
+      "description": "« 이 AI 도구는 모든 노래의 보컬 트랙과 악기 트랙을 정확하게 분리합니다. 보컬, 드럼, 베이스 등을 빠르게 분리합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/lalal-ai.png",
+      "url": "https://www.aixploria.com/en/lalal-ai/",
+      "type": "부분 무료",
+      "category": "#Music",
+      "upvotes": 38
+    },
+    {
+      "name": "Stable Audio 2",
+      "description": "« 텍스트를 노래로 변환하는 음악 생성기(다양한 음악 장르 사용 가능). Stability AI가 만든 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/stable-audio-2.png",
+      "url": "https://www.aixploria.com/en/stable-audio-2-ai/",
+      "type": "무료",
+      "category": "#Music",
+      "upvotes": 23
+    },
+    {
+      "name": "FineShare Singify",
+      "description": "« 무료 온라인 도구를 사용하여 쉽게 커버곡(AI 커버)을 만들 수 있습니다. 사이트에서는 수십 개의 음성 모델을 사용할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/fineshare-singify.png",
+      "url": "https://www.aixploria.com/en/fineshare-singify/",
+      "type": "무료",
+      "category": "#Audio Editing, #Music",
+      "upvotes": 12
+    },
+    {
+      "name": "Boomy",
+      "description": "« 당신의 지시에 따라 음악을 만드는 AI. 인체공학적 인터페이스의 이점을 활용하고 더 빠르게 음악을 생성하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/boomy.png",
+      "url": "https://www.aixploria.com/en/boomy/",
+      "type": "무료",
+      "category": "#Music",
+      "upvotes": 7
+    },
+    {
+      "name": "ElevenLabs Music",
+      "description": "« 간단한 텍스트 설명으로 편집 없이 완전한 노래를 생성하세요. 단 몇 초 만에 고품질 음악을 감상하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/05/elevenlabs-fav.png",
+      "url": "https://www.aixploria.com/en/elevenlabs-music/",
+      "type": "무료",
+      "category": "#Future Tools, #Music",
+      "upvotes": 36
+    },
+    {
+      "name": "OpenMusic",
+      "description": "« 텍스트 설명(프롬프트)에서 멜로디를 생성하기 위한 무료 AI 도구입니다. 음악적 지식이 없더라도 아이디어를 독창적인 작곡으로 바꿔 보세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/openmusic.png",
+      "url": "https://www.aixploria.com/en/openmusic-free/",
+      "type": "무료",
+      "category": "#Music",
+      "upvotes": 29
+    },
+    {
+      "name": "Harmonai",
+      "description": "« 무한한 음악을 만들어내는 오픈소스 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/harmonai.png",
+      "url": "https://www.aixploria.com/en/harmonai/",
+      "type": "무료",
+      "category": "#Music",
+      "upvotes": 0
+    },
+    {
+      "name": "Rave DJ",
+      "description": "« 노래를 믹싱하고 즉시 전문 DJ가 되어보세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/rave-dj.png",
+      "url": "https://www.aixploria.com/en/rave-dj/",
+      "type": "무료",
+      "category": "#Music",
+      "upvotes": 5
+    },
+    {
+      "name": "Musicfy",
+      "description": "« 리듬감이 있는 AI로 좋아하는 노래의 커버를 발견하고 만들어 보세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/musicfy.png",
+      "url": "https://www.aixploria.com/en/musicfy/",
+      "type": "부분 무료",
+      "category": "#Music",
+      "upvotes": 2
+    },
+    {
+      "name": "Soundful",
+      "description": "« \"사용료 없는\" 음악을 만들 수 있는 음악 생성기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/soundful.png",
+      "url": "https://www.aixploria.com/en/soundful/",
+      "type": "무료",
+      "category": "#Music",
+      "upvotes": 2
+    },
+    {
+      "name": "Replay.io",
+      "description": "« AI를 사용하여 좋아하는 노래를 쉽게 리믹스할 수 있는 Windows 애플리케이션입니다. 이 도구는 RVC를 사용한 음성 복제 및 형태소 분석 기능도 제공합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/replay-io/",
+      "type": "무료",
+      "category": "#Music, #Voice Cloning",
+      "upvotes": 7
+    },
+    {
+      "name": "Cassette AI",
+      "description": "« 고품질 비트 및 리듬 자동 생성(전자 음악에 이상적) »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/cassette-ai.png",
+      "url": "https://www.aixploria.com/en/cassette-ai/",
+      "type": "부분 무료",
+      "category": "#Music",
+      "upvotes": 0
+    },
+    {
+      "name": "Audioshake",
+      "description": "« 자신만의 Stems를 구입하여 전문가 수준의 리믹싱, 샘플링 등을 수행해 보세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/audioshake.png",
+      "url": "https://www.aixploria.com/en/audioshake/",
+      "type": "부분 무료",
+      "category": "#Music",
+      "upvotes": 0
+    },
+    {
+      "name": "Sonauto AI",
+      "description": "« 이 음악 생성기 + AI 음성으로 무료로 음악을 만들어보세요. 기분에 맞는 오리지널 곡을 받아보세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/sonauto-ai.png",
+      "url": "https://www.aixploria.com/en/sonauto-ai/",
+      "type": "무료",
+      "category": "#Music, #SuperTools",
+      "upvotes": 22
+    },
+    {
+      "name": "Ecrett Music",
+      "description": "« 모든 종류의 노래를 매우 빠르게 만들 수 있는 음악 생성기입니다. 명확하고 간단하며 정확한 인터페이스의 이점 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ecrett-music.png",
+      "url": "https://www.aixploria.com/en/ecrett-music/",
+      "type": "부분 무료",
+      "category": "#Music",
+      "upvotes": 1
+    },
+    {
+      "name": "SplashMusic",
+      "description": "« 모두에게 열려있는 무료 음악 창작자 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/splashmusic.png",
+      "url": "https://www.aixploria.com/en/splashmusic/",
+      "type": "무료",
+      "category": "#Music",
+      "upvotes": 2
+    },
+    {
+      "name": "Quasi",
+      "description": "« 텍스트, 음악 및 기타 다양한 예술 창작물의 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/quasi.png",
+      "url": "https://www.aixploria.com/en/quasi/",
+      "type": "부분 무료",
+      "category": "#Art, #Music",
+      "upvotes": 4
+    },
+    {
+      "name": "Soundraw",
+      "description": "« 노래 스타일(분위기)을 선택하면 이 AI 음악 생성기가 100% 새로운 사운드를 만들어 드립니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/soundraw.png",
+      "url": "https://www.aixploria.com/en/soundraw/",
+      "type": "무료",
+      "category": "#Music",
+      "upvotes": 1
+    },
+    {
+      "name": "Getsound",
+      "description": "« 날씨 조건에 따라 변하는 음악과 나만의 풍경 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/getsound.png",
+      "url": "https://www.aixploria.com/en/getsound/",
+      "type": "부분 무료",
+      "category": "#Music",
+      "upvotes": 1
+    },
+    {
+      "name": "Soundverse AI",
+      "description": "« Soundverse는 텍스트나 음성으로 음악을 만들 수 있는 AI 음악 도우미입니다. Siri 또는 Alexa라고 생각하세요. 하지만 음악 제작에는 적합합니다! »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/08/soundverse-ai-fav.png",
+      "url": "https://www.aixploria.com/en/soundverse-ai-music/",
+      "type": "부분 무료",
+      "category": "#Music",
+      "upvotes": 31
+    },
+    {
+      "name": "Sonify",
+      "description": "« AI와 데이터를 활용한 음악 및 오디오 제품 디자인 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/sonify.png",
+      "url": "https://www.aixploria.com/en/sonify/",
+      "type": "부분 무료",
+      "category": "#Music",
+      "upvotes": 1
+    },
+    {
+      "name": "Endel",
+      "description": "« 집중, 휴식, 수면에 도움이 되는 맞춤형 음악 만들기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/endel.png",
+      "url": "https://www.aixploria.com/en/endel/",
+      "type": "부분 무료",
+      "category": "#Assistive technology (AT), #Life Assistants",
+      "upvotes": 2
+    },
+    {
+      "name": "Vocalist.ai",
+      "description": "« 한 번의 클릭으로 당신의 목소리를 전문 가수의 목소리로 바꿔보세요. 스튜디오 품질의 로열티 프리 보컬 얻기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/vocalist-ai.png",
+      "url": "https://www.aixploria.com/en/vocalist-ai-voice/",
+      "type": "무료",
+      "category": "#Audio Editing, #Music",
+      "upvotes": 23
+    },
+    {
+      "name": "TuneBlades",
+      "description": "« 멜로디를 유지하면서 원하는 길이로 음악을 변환, 편집 및 리믹스하세요. wav, mp3 및 m4a 형식 지원 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/tuneblades.png",
+      "url": "https://www.aixploria.com/en/tuneblades/",
+      "type": "부분 무료",
+      "category": "#Music",
+      "upvotes": 0
+    },
+    {
+      "name": "Morpho by Neutone",
+      "description": "« Neutone의 새로운 Morpho 모델을 사용하여 실시간으로 모든 사운드를 변환하세요. AI가 오디오를 캡처하고 새로운 톤이나 스타일을 적용합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/morpho-by-neutone.png",
+      "url": "https://www.aixploria.com/en/morpho-by-neutone-ai/",
+      "type": "무료",
+      "category": "#Audio Editing, #Music",
+      "upvotes": 24
+    },
+    {
+      "name": "Exportify",
+      "description": "« Spotify 재생 목록을 CSV 형식으로 내보내는 스마트 도구입니다. 소중한 음악 선택을 그대로 유지하면서 좋아하는 재생 목록을 쉽게 저장하고 관리할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/exportify.png",
+      "url": "https://www.aixploria.com/en/exportify-ai-playlist/",
+      "type": "무료",
+      "category": "#AI Useful, #Music",
+      "upvotes": 26
+    },
+    {
+      "name": "Drum Machine",
+      "description": "« 드럼을 만들 수 있는 가능성을 제공하는 사이트 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/drum-machine.png",
+      "url": "https://www.aixploria.com/en/drum-machine/",
+      "type": "무료",
+      "category": "#Music",
+      "upvotes": 1
+    },
+    {
+      "name": "AI Jukebox",
+      "description": "« 텍스트 지침을 통해 AI 음악을 무료로 쉽게 생성할 수 있습니다. 노래의 길이, 스타일 또는 전반적인 분위기를 선택하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-jukebox.png",
+      "url": "https://www.aixploria.com/en/ai-jukebox/",
+      "type": "무료",
+      "category": "#Music",
+      "upvotes": 14
+    },
+    {
+      "name": "Stable Audio Open",
+      "description": "« 프롬프트에서 최대 47초 길이의 오디오 샘플과 사운드 효과를 생성합니다. 이것은 Stability.ai의 유명한 오디오 모델의 오픈 소스 버전입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/stable-audio-open.png",
+      "url": "https://www.aixploria.com/en/stable-audio-open-by-stability-ai/",
+      "type": "무료",
+      "category": "#Music",
+      "upvotes": 22
+    },
+    {
+      "name": "Hydra AI by Rightsify",
+      "description": "« 이 강력한 음악 생성기를 사용하여 즉시 독특하고 로열티 없는 음악을 만들어 보세요. 요청 시 API를 사용할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/hydra-ai-by-rightsify.png",
+      "url": "https://www.aixploria.com/en/hydra-ai-by-rightsify/",
+      "type": "Free-Trial",
+      "category": "#Music",
+      "upvotes": 13
+    },
+    {
+      "name": "MusicFX by Google",
+      "description": "« 프롬프트와 지침을 사용하여 쉽게 음악을 만들 수 있습니다. 초보자도 접근할 수 있는 인체공학적 인터페이스 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/musicfx-by-google.png",
+      "url": "https://www.aixploria.com/en/musicfx-by-google/",
+      "type": "무료",
+      "category": "#Music",
+      "upvotes": 3
+    },
+    {
+      "name": "Landr",
+      "description": "« 손쉽게 음악을 만들고 공유하고 향상시키세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/landr.png",
+      "url": "https://www.aixploria.com/en/landr/",
+      "type": "유료",
+      "category": "#Music",
+      "upvotes": 1
+    },
+    {
+      "name": "AI Hits",
+      "description": "« AI가 만든 최고의 노래 순위. SoundCloud를 통해 사이트의 음악을 직접 듣거나 다운로드할 수 있는 가능성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-hits.png",
+      "url": "https://www.aixploria.com/en/ai-hits/",
+      "type": "무료",
+      "category": "#Music, #Search engine",
+      "upvotes": 3
+    },
+    {
+      "name": "MusicGen",
+      "description": "« 다양한 음악 장르의 멜로디를 생성할 수 있는 Meta 회사에서 만든 AI 음악 생성기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/musicgen.png",
+      "url": "https://www.aixploria.com/en/musicgen/",
+      "type": "무료",
+      "category": "#Github Projects, #Music",
+      "upvotes": 1
+    },
+    {
+      "name": "Pop2Piano",
+      "description": "« 모든 음악에서 영감을 받아 피아노 커버 만들기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/pop2piano/",
+      "type": "무료",
+      "category": "#Github Projects, #Music",
+      "upvotes": 0
+    },
+    {
+      "name": "OpenVINO by Audacity",
+      "description": "« Audacity용 AI 플러그인을 사용하여 팟캐스트를 편집하고 음악을 만들어 보세요. 노이즈 제거, 텍스트 변환, 트랙 생성 및 분리 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/openvino-by-audacity.png",
+      "url": "https://www.aixploria.com/en/openvino-by-audacity/",
+      "type": "무료",
+      "category": "#Audio Editing, #Music",
+      "upvotes": 18
+    },
+    {
+      "name": "Soundry AI",
+      "description": "« AI 기반 사운드 생성기로 독특한 샘플을 만들어보세요. 귀하의 음악 스타일에 맞게 무한한 변형을 얻으세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/soundry-ai/",
+      "type": "무료",
+      "category": "#Music",
+      "upvotes": 18
+    },
+    {
+      "name": "Emergent Drums",
+      "description": "« 음악 디자인을 위한 샘플, 드럼과 같은 다양한 사운드 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/emergent-drums.png",
+      "url": "https://www.aixploria.com/en/emergent-drums/",
+      "type": "유료",
+      "category": "#Music",
+      "upvotes": 0
+    },
+    {
+      "name": "Moises.ai",
+      "description": "« AI를 사용하여 노래에서 보컬이나 악기 부분을 제거할 수 있는 애플리케이션입니다. 음악의 피치, 속도 등을 변경할 수도 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/moises-ai.png",
+      "url": "https://www.aixploria.com/en/moises-ai/",
+      "type": "무료",
+      "category": "#Audio Editing, #Music",
+      "upvotes": 4
+    },
+    {
+      "name": "MixAudio by Neutune",
+      "description": "« 멀티모달 AI로 배경 음악을 만들고 맞춤화하세요. 로열티 없는 트랙을 빠르게 생성하려는 경우에 적합합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/mixaudio-by-neutune.png",
+      "url": "https://www.aixploria.com/en/mixaudio-by-neutune-ai-music/",
+      "type": "Free-Trial",
+      "category": "#Music",
+      "upvotes": 24
+    },
+    {
+      "name": "AudioSparx by Stability.ai",
+      "description": "« Stability.ai가 만든 강력하고 새로운 오픈 소스 텍스트 음악 AI 모델입니다. 최대 95초 동안 CD 품질의 음악을 생성할 수 있는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/audiosparx-by-stability-ai.png",
+      "url": "https://www.aixploria.com/en/audiosparx-by-stability-ai/",
+      "type": "무료",
+      "category": "#Github Projects, #LLM models",
+      "upvotes": 5
+    },
+    {
+      "name": "Melodisco",
+      "description": "« AI가 생성한 최고의 멜로디를 탐색하거나 사이트에서 제공되는 음악 생성기를 사용하여 자신만의 노래를 만들어 보세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/melodisco.png",
+      "url": "https://www.aixploria.com/en/melodisco-ai-music/",
+      "type": "무료",
+      "category": "#Music",
+      "upvotes": 19
+    },
+    {
+      "name": "Copyright Check AI",
+      "description": "« 저작권 침해 소송으로부터 소셜 네트워크를 보호하세요. AI가 귀하의 게시물을 스캔하고, 불법적으로 사용된 음악을 식별하고, 프로세스를 안내합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/copyright-check-ai.png",
+      "url": "https://www.aixploria.com/en/copyright-check-ai/",
+      "type": "무료",
+      "category": "#AI detection, #Music",
+      "upvotes": 15
+    },
+    {
+      "name": "SongR",
+      "description": "« 몇 초 안에 독특한 노래와 음악을 생성하세요. 음악적 지식이 필요하지 않습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/songr.png",
+      "url": "https://www.aixploria.com/en/songr/",
+      "type": "무료",
+      "category": "#Music",
+      "upvotes": 1
+    },
+    {
+      "name": "Waveformer",
+      "description": "« MusicGen 및 Replicate 덕분에 텍스트 프롬프트에서 작동하는 음악 생성기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/waveformer.png",
+      "url": "https://www.aixploria.com/en/waveformer/",
+      "type": "무료",
+      "category": "#Music",
+      "upvotes": 2
+    },
+    {
+      "name": "A.V. Mapping",
+      "description": "« 이미지, 비디오 또는 텍스트를 AI에 제출하면 프로젝트에 맞는 맞춤형 음악을 얻을 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/a-v--mapping.png",
+      "url": "https://www.aixploria.com/en/a-v-mapping/",
+      "type": "부분 무료",
+      "category": "#Music",
+      "upvotes": 1
+    },
+    {
+      "name": "Piano Genie",
+      "description": "« 키보드를 실제 지능형 피아노로 바꿔보세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/piano-genie.png",
+      "url": "https://www.aixploria.com/en/piano-genie/",
+      "type": "무료",
+      "category": "#Music",
+      "upvotes": 1
+    },
+    {
+      "name": "AI Playlists by Spotify",
+      "description": "« Spotify는 AI 재생 목록을 베타 버전으로 출시합니다. 창의적인 아이디어로 나만의 재생목록을 만들어 보세요. 장르, 분위기, 아티스트 및 수십 년 간의 결합 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-playlists-by-spotify.png",
+      "url": "https://www.aixploria.com/en/ai-playlists-by-spotify/",
+      "type": "유료",
+      "category": "#Music",
+      "upvotes": 28
+    },
+    {
+      "name": "Musico",
+      "description": "« 로열티 없는 독창적인 음악을 만드는 AI 기반 소프트웨어 검색 엔진입니다. 이 AI 음악 생성기는 사용자의 지시를 따릅니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/musico.png",
+      "url": "https://www.aixploria.com/en/musico/",
+      "type": "무료",
+      "category": "#Music",
+      "upvotes": 1
+    },
+    {
+      "name": "Wordband",
+      "description": "« 사용하기 쉬운 음악 생성기. 무료로 액세스할 수 있는 10,000개 이상의 노래를 통해 음성을 믹싱, 리믹스 및 수정할 수도 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/wordband.png",
+      "url": "https://www.aixploria.com/en/wordband-ai/",
+      "type": "무료",
+      "category": "#Music",
+      "upvotes": 1
+    },
+    {
+      "name": "Songburst",
+      "description": "« 사용하기 매우 쉽게 설계된 음악 생성기. 노래를 생성하고 Spotify 및 Apple Music으로 내보내기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/songburst.png",
+      "url": "https://www.aixploria.com/en/songburst-ai/",
+      "type": "부분 무료",
+      "category": "#Music",
+      "upvotes": 0
+    },
+    {
+      "name": "TuneFlow",
+      "description": "« AI를 사용하여 음악 만들기를 시작하세요. 가사와 멜로디를 생성하세요. 음악과 음성도 분리하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/tuneflow.png",
+      "url": "https://www.aixploria.com/en/tuneflow/",
+      "type": "무료",
+      "category": "#Music",
+      "upvotes": 1
+    },
+    {
+      "name": "StockmusicGPT",
+      "description": "« 개인화된 음악을 만들기 위한 AI 도구입니다. 로열티 프리 음악, 무제한 다운로드, 영구 저장 공간을 즐기세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/stockmusicgpt.png",
+      "url": "https://www.aixploria.com/en/stockmusicgpt-ai/",
+      "type": "유료",
+      "category": "#Music",
+      "upvotes": 3
+    },
+    {
+      "name": "MusicStar.AI",
+      "description": "« 가사, 보컬 녹음, 믹싱, 앨범 커버 등이 포함된 전문가 수준의 음악 트랙을 생성하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/musicstar-ai.png",
+      "url": "https://www.aixploria.com/en/musicstar-ai/",
+      "type": "유료",
+      "category": "#Music",
+      "upvotes": 1
+    },
+    {
+      "name": "Splash Pro",
+      "description": "« AI 기반 음악 생성기를 사용하여 테마, 스타일 또는 분위기에 따라 음악을 만들어 보세요. 심층적인 음악적 지식이 필요하지 않습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/splash-pro.png",
+      "url": "https://www.aixploria.com/en/splash-pro/",
+      "type": "부분 무료",
+      "category": "#Art, #Music",
+      "upvotes": 2
+    },
+    {
+      "name": "Natural Language Playlist",
+      "description": "« 이 AI에 원하는 종류의 음악을 제공하면 맞춤 재생목록이 만들어집니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/natural-language-playlist/",
+      "type": "무료",
+      "category": "#Music",
+      "upvotes": 0
+    },
+    {
+      "name": "Daft Art",
+      "description": "« AI 표지 생성기로 쉽게 앨범 표지 만들기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/daft-art.png",
+      "url": "https://www.aixploria.com/en/daft-art/",
+      "type": "유료",
+      "category": "#Art, #Music",
+      "upvotes": 3
+    },
+    {
+      "name": "Kits AI",
+      "description": "« AI 보컬 모델의 생성, 훈련 및 공유. 음악 프로젝트에 추가할 수 있는 다양한 음성 및 도구 목록에 액세스하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/kits-ai.png",
+      "url": "https://www.aixploria.com/en/kits-ai/",
+      "type": "부분 무료",
+      "category": "#Music",
+      "upvotes": 1
+    },
+    {
+      "name": "Drumloop AI",
+      "description": "« 신경 오디오 합성 기반 AI 기술을 이용한 드럼 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/drumloop-ai.png",
+      "url": "https://www.aixploria.com/en/drumloop-ai/",
+      "type": "무료",
+      "category": "#Music",
+      "upvotes": 0
+    },
+    {
+      "name": "TwoShot",
+      "description": "« 200,000개 이상의 샘플이 포함된 AI 라이브러리를 사용하여 음악 샘플을 쉽게 만들 수 있습니다. 그런 다음 합법적으로 음악 제작물에 통합하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/twoshot.png",
+      "url": "https://www.aixploria.com/en/twoshot-ai/",
+      "type": "부분 무료",
+      "category": "#Music",
+      "upvotes": 16
+    },
+    {
+      "name": "Jamahook",
+      "description": "« 작곡을 평가하고 노래에 통합할 추가 샘플을 제안하는 AI 음악 도우미입니다. 완전한 사운드 라이브러리를 최대한 활용하고 창작물을 향상시키세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/jamahook.png",
+      "url": "https://www.aixploria.com/en/jamahook-ai-music/",
+      "type": "Free-Trial",
+      "category": "#Music",
+      "upvotes": 15
+    },
+    {
+      "name": "Tracksy",
+      "description": "« 독특하고 로열티 없는 음악을 쉽게 만들 수 있는 AI 기반 시스템입니다. 이 사이트는 다양한 스타일과 장르를 제공합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/tracksy.png",
+      "url": "https://www.aixploria.com/en/tracksy/",
+      "type": "무료",
+      "category": "#Music",
+      "upvotes": 1
+    },
+    {
+      "name": "Loudly",
+      "description": "« AI로 자동으로 음악을 생성합니다. 대규모 음악 라이브러리도 확인하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/loudly.png",
+      "url": "https://www.aixploria.com/en/loudly/",
+      "type": "부분 무료",
+      "category": "#Music",
+      "upvotes": 2
+    },
+    {
+      "name": "Samplette",
+      "description": "« 특정 BPM 또는 음악 스타일을 필터링하고 찾습니다. AI가 YouTube에서 직접 음악을 검색합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/samplette.png",
+      "url": "https://www.aixploria.com/en/samplette/",
+      "type": "무료",
+      "category": "#Music",
+      "upvotes": 1
+    },
+    {
+      "name": "Magenta Studio",
+      "description": "« AI를 사용하여 Ableton Live용 음악을 생성하는 음악 플러그인 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/magenta-studio.png",
+      "url": "https://www.aixploria.com/en/magenta-studio/",
+      "type": "무료",
+      "category": "#Music",
+      "upvotes": 2
+    },
+    {
+      "name": "WhatTheBeat",
+      "description": "« 좋아하는 곡을 분석하고 해석하는 AI로 좋아하는 곡의 의미를 찾아보세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/whatthebeat.png",
+      "url": "https://www.aixploria.com/en/whatthebeat/",
+      "type": "무료",
+      "category": "#Music",
+      "upvotes": 1
+    },
+    {
+      "name": "Open Voice OS",
+      "description": "« 오디오 프로젝트 또는 음악을 위한 맞춤형 음성 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/open-voice-os.png",
+      "url": "https://www.aixploria.com/en/open-voice-os/",
+      "type": "무료",
+      "category": "#Music",
+      "upvotes": 1
+    },
+    {
+      "name": "Artistator",
+      "description": "« 좋아하는 음악 장르를 기반으로 고유한 아티스트 이름을 생성하는 AI 도우미입니다. 무대 이름을 쉽게 찾으세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/artistator.png",
+      "url": "https://www.aixploria.com/en/artistator/",
+      "type": "무료",
+      "category": "#Life Assistants, #Music",
+      "upvotes": 1
+    },
+    {
+      "name": "Brain FM",
+      "description": "« 작업하는 동안 집중할 수 있도록 돕기 위해 만들어진 음악 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/brain-fm/",
+      "type": "부분 무료",
+      "category": "#Music",
+      "upvotes": 0
+    },
+    {
+      "name": "Maroofy",
+      "description": "« 귀하가 제출한 것과 유사한 노래나 음악을 검색하는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/maroofy.png",
+      "url": "https://www.aixploria.com/en/maroofy/",
+      "type": "무료",
+      "category": "#Music, #Search engine",
+      "upvotes": 1
+    },
+    {
+      "name": "Musiclips",
+      "description": "« 새로운 음악 제안을 발견하고 선호도에 따라 개인화 된 재생 목록을 만드십시오. AI는 Spotify에 연결될 수 있습니다 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/musiclips.png",
+      "url": "https://www.aixploria.com/en/musiclips/",
+      "type": "부분 무료",
+      "category": "#Music",
+      "upvotes": 0
+    },
+    {
+      "name": "Muzaic Studio",
+      "description": "« AI를 사용하여 비디오에 대한 맞춤형 사운드트랙을 쉽게 구성할 수 있습니다. Android 및 IOS에서 사용 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/muzaic-studio.png",
+      "url": "https://www.aixploria.com/en/muzaic-studio/",
+      "type": "부분 무료",
+      "category": "#Music",
+      "upvotes": 2
+    },
+    {
+      "name": "Chat Jams",
+      "description": "« 재미있고 대화형 채팅 인터페이스를 통해 AI가 맞춤형 Spotify 재생 목록 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/chat-jams.png",
+      "url": "https://www.aixploria.com/en/chat-jams/",
+      "type": "무료",
+      "category": "#Music",
+      "upvotes": 0
+    }
+  ]
+}

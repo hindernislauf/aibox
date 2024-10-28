@@ -22,5 +22,5 @@ yarn-error.log*
 *.swp
 *.swo
 
-# JSON files
-*.json
+
+

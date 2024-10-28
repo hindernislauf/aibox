@@ -1,0 +1,572 @@
+{
+  "name": "Text To Speech",
+  "items": [
+    {
+      "name": "ElevenLabs",
+      "description": "« 자연스러운 목소리로 텍스트를 읽고 심지어 자신의 목소리도 복제할 수 있는 AI 기반 음성 리더기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/elevenlabs.png",
+      "url": "https://www.aixploria.com/en/eleven-labs/",
+      "type": "부분 무료",
+      "category": "#AIxploria Selection, #Text To Speech",
+      "upvotes": 381
+    },
+    {
+      "name": "Murf.AI",
+      "description": "« 텍스트 음성 변환, 번역, 음성 복제, 전사 등 AI를 사용한 다양한 음성 제작 도구를 제공하는 사이트 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/02/murf-ai-favicon.webp",
+      "url": "https://www.aixploria.com/en/murf-ai/",
+      "type": "Free-Trial",
+      "category": "#AIxploria Selection, #Text To Speech",
+      "upvotes": 90
+    },
+    {
+      "name": "FreeTTS",
+      "description": "« 최고의 텍스트 음성 변환 변환기 중 하나입니다. 간단한 인터페이스가 특징이며 35개 언어로 작동합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/freetts.png",
+      "url": "https://www.aixploria.com/en/freetts/",
+      "type": "무료",
+      "category": "#Text To Speech",
+      "upvotes": 62
+    },
+    {
+      "name": "Play HT",
+      "description": "« 당신이 주거나 쓰는 거의 모든 것을 읽을 수 있는 음성 생성기. 자신의 목소리로 텍스트를 읽을 수도 있습니다(음성 복제 도구) »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/play-ht.png",
+      "url": "https://www.aixploria.com/en/play-ht/",
+      "type": "부분 무료",
+      "category": "#Text To Speech, #Voice Cloning",
+      "upvotes": 71
+    },
+    {
+      "name": "Audiobox by Meta",
+      "description": "« 오디오 편집을 위한 지능형 도구 상자: 음성 복제, 오디오 생성, 채우기 및 음향 효과, 마법의 오디오 편집기 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/12/meta-icon-ai.webp",
+      "url": "https://www.aixploria.com/en/audiobox-by-meta-ai/",
+      "type": "무료",
+      "category": "#Audio Editing, #Text To Speech",
+      "upvotes": 13
+    },
+    {
+      "name": "Uberduck",
+      "description": "« 텍스트를 쓰고 별이 읽게 하세요. 자신의 목소리를 복제할 가능성. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/uberduck.png",
+      "url": "https://www.aixploria.com/en/uberduck/",
+      "type": "무료",
+      "category": "#Text To Speech, #Voice Cloning",
+      "upvotes": 52
+    },
+    {
+      "name": "Descript",
+      "description": "« 비디오와 팟캐스트를 쉽게 편집할 수 있는 강력한 AI 도구입니다. 쓰기, 녹음, 복사, 편집 및 공유를 모두 한 곳에서 수행할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/descript.png",
+      "url": "https://www.aixploria.com/en/descript/",
+      "type": "부분 무료",
+      "category": "#Text To Speech, #Transcriber",
+      "upvotes": 41
+    },
+    {
+      "name": "Free Text To Speech Online",
+      "description": "« 무료로 텍스트를 자연스러운 사람의 목소리로 변환하세요. 129개 언어로 제공되는 음성 리더기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/free-text-to-speech-online.png",
+      "url": "https://www.aixploria.com/en/free-text-to-speech-online/",
+      "type": "무료",
+      "category": "#Text To Speech",
+      "upvotes": 35
+    },
+    {
+      "name": "NaturalReaders",
+      "description": "« 매우 듣기 좋은 음성을 제공하는 텍스트 음성 변환 사이트 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/naturalreaders.png",
+      "url": "https://www.aixploria.com/en/naturalreaders/",
+      "type": "부분 무료",
+      "category": "#SuperTools, #Text To Speech",
+      "upvotes": 64
+    },
+    {
+      "name": "OpenVoice AI",
+      "description": "« 신속하게 음성을 복제하고 텍스트 음성 변환 콘텐츠를 생성하세요. 감정, 악센트, 리듬, 일시정지 및 현실적인 억양 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/openvoice-ai.png",
+      "url": "https://www.aixploria.com/en/openvoice-ai/",
+      "type": "무료",
+      "category": "#Text To Speech, #Voice Cloning",
+      "upvotes": 18
+    },
+    {
+      "name": "FineVoice Speech to Text",
+      "description": "« 이 AI 도구를 사용하여 오디오 파일을 40개 이상의 언어로 된 텍스트로 쉽게 변환하세요. TEXT, JSON, VTT 및 SRT 파일과 호환 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/finevoice-speech-to-text.png",
+      "url": "https://www.aixploria.com/en/finevoice-speech-to-text-ai/",
+      "type": "부분 무료",
+      "category": "#Text To Speech, #Transcriber",
+      "upvotes": 79
+    },
+    {
+      "name": "Speechki",
+      "description": "« 제출한 모든 텍스트를 읽을 수 있는 ChatGPT-4에서 사용할 수 있는 무료 플러그인 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/speechki.png",
+      "url": "https://www.aixploria.com/en/speechki/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Text To Speech",
+      "upvotes": 40
+    },
+    {
+      "name": "VoiceOverMaker",
+      "description": "« 텍스트를 AI가 말하는 단어로 변환 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/voiceovermaker.png",
+      "url": "https://www.aixploria.com/en/voiceovermaker/",
+      "type": "부분 무료",
+      "category": "#Text To Speech",
+      "upvotes": 43
+    },
+    {
+      "name": "Illuminate by Google",
+      "description": "« 콘텐츠를 AI 생성 오디오 토론으로 변환하는 실험적 도구입니다. 학술 기사를 듣기 쉬운 팟캐스트로 변환 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/03/google-color-icon-ai.webp",
+      "url": "https://www.aixploria.com/en/illuminate-by-google-ai/",
+      "type": "무료",
+      "category": "#AI Useful, #Education / Studies",
+      "upvotes": 32
+    },
+    {
+      "name": "Suno AI Bark",
+      "description": "« 현실적이고 자연스러운 음성을 쉽게 생성할 수 있는 무료 오픈 소스 텍스트 음성 변환 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/suno-ai-bark.png",
+      "url": "https://www.aixploria.com/en/suno-ai-bark/",
+      "type": "무료",
+      "category": "#Github Projects, #Text To Speech",
+      "upvotes": 14
+    },
+    {
+      "name": "TTS Reader",
+      "description": "« 전체 웹페이지를 읽거나 Chrome 확장 프로그램으로 설치할 수도 있는 진정한 무료 온라인 텍스트 리더 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/tts-reader.png",
+      "url": "https://www.aixploria.com/en/tts-reader/",
+      "type": "무료",
+      "category": "#Assistive technology (AT), #Text To Speech",
+      "upvotes": 34
+    },
+    {
+      "name": "Wondercraft AI",
+      "description": "« AI를 통해 아이디어에 생기를 불어넣으세요. 고품질 AI 음성으로 팟캐스트, 오디오북, 광고를 만들어 보세요. 콘텐츠를 번역하고 국제적으로 공유하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/wondercraft-ai.png",
+      "url": "https://www.aixploria.com/en/wondercraft-ai-podcast-audiobook/",
+      "type": "Free-Trial",
+      "category": "#Business, #Text To Speech",
+      "upvotes": 37
+    },
+    {
+      "name": "TTSMaker",
+      "description": "« 무료 무제한 AI 텍스트 음성 변환 도구. 30개 언어로 200개 이상의 음성 사용 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ttsmaker.png",
+      "url": "https://www.aixploria.com/en/ttsmaker/",
+      "type": "무료",
+      "category": "#Text To Speech",
+      "upvotes": 47
+    },
+    {
+      "name": "VoiceMaker",
+      "description": "« 텍스트를 인간적이고 자연스러운 음성으로 변환합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/voicemaker.png",
+      "url": "https://www.aixploria.com/en/voicemaker/",
+      "type": "무료",
+      "category": "#Text To Speech",
+      "upvotes": 24
+    },
+    {
+      "name": "Speechify",
+      "description": "« 국제 스타의 목소리로 글을 쓰고 읽어 보세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/speechify.png",
+      "url": "https://www.aixploria.com/en/speechify/",
+      "type": "부분 무료",
+      "category": "#Text To Speech",
+      "upvotes": 6
+    },
+    {
+      "name": "Resemble",
+      "description": "« 당신의 목소리를 복제하고 텍스트를 읽어서 재현할 수 있는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/resemble.png",
+      "url": "https://www.aixploria.com/en/resemble/",
+      "type": "무료",
+      "category": "#Text To Speech, #Voice Cloning",
+      "upvotes": 28
+    },
+    {
+      "name": "SoundHound AI",
+      "description": "« 귀하의 브랜드를 위한 고품질의 개인화된 음성 경험을 만드십시오. 이미 다양한 업계에서 승인된 솔루션을 사용하여 AI 음성을 빠르게 통합합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/soundhound-ai.png",
+      "url": "https://www.aixploria.com/en/soundhound-ai-voice/",
+      "type": "유료",
+      "category": "#Business, #Text To Speech",
+      "upvotes": 32
+    },
+    {
+      "name": "ElevenLabs Reader",
+      "description": "« 기사, PDF 및 ePub을 고품질 오디오 파일로 변환하는 AI 텍스트 리더입니다. 다양한 음성 중에서 선택하고 어디에 있든 콘텐츠를 감상하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/elevenlabs-reader.png",
+      "url": "https://www.aixploria.com/en/elevenlabs-reader-ai/",
+      "type": "Free-Trial",
+      "category": "#Assistive technology (AT), #Text To Speech",
+      "upvotes": 36
+    },
+    {
+      "name": "PDF2Audio",
+      "description": "« PDF 문서를 오디오 파일로 빠르게 변환하세요. 책, 기사, 보고서를 음성 오디오로 쉽게 변환할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/pdf2audio.png",
+      "url": "https://www.aixploria.com/en/pdf2audio-ai-convert/",
+      "type": "무료",
+      "category": "#AI Useful, #Text To Speech",
+      "upvotes": 27
+    },
+    {
+      "name": "Parler-TTS",
+      "description": "« 6억 개의 매개변수가 있는 모델을 사용하여 텍스트에서 자연스러운 음성을 생성하는 오픈 소스 AI 도구입니다. 나만의 목소리 만들기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/parler-tts.png",
+      "url": "https://www.aixploria.com/en/parler-tts-open-source/",
+      "type": "무료",
+      "category": "#Github Projects, #Text To Speech",
+      "upvotes": 23
+    },
+    {
+      "name": "Listnr",
+      "description": "« 700개 이상의 음성과 90개 이상의 언어를 지원하는 음성 생성기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/listnr.png",
+      "url": "https://www.aixploria.com/en/listnr/",
+      "type": "유료",
+      "category": "#Text To Speech",
+      "upvotes": 6
+    },
+    {
+      "name": "F5-TTS",
+      "description": "« 고품질 텍스트 음성 변환을 위한 오픈 소스 프로젝트입니다. 빠른 고성능 음성 생성기를 살펴보세요. 매우 정밀하게 음성을 복제할 가능성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/f5-tts.png",
+      "url": "https://www.aixploria.com/en/f5-tts/",
+      "type": "무료",
+      "category": "#Developer Tools, #Github Projects",
+      "upvotes": 37
+    },
+    {
+      "name": "MARS5 by Camb.ai",
+      "description": "« 140개 이상의 언어로 실감나는 음성을 재현할 수 있는 TTS 모델입니다. 단 2~3초의 참조 오디오로 비디오의 자연스러운 렌더링을 즐겨보세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/mars5-by-camb-ai.png",
+      "url": "https://www.aixploria.com/en/mars5-by-camb-ai/",
+      "type": "무료",
+      "category": "#LLM models, #Text To Speech",
+      "upvotes": 22
+    },
+    {
+      "name": "Ad Auris",
+      "description": "« 좋아하는 기사로 재생목록을 만들고 Apple Podcasts, Google Podcasts 또는 Spotify에서 듣기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ad-auris.png",
+      "url": "https://www.aixploria.com/en/ad-auris/",
+      "type": "부분 무료",
+      "category": "#Text To Speech",
+      "upvotes": 2
+    },
+    {
+      "name": "Audio Native ElevenLabs",
+      "description": "« 이 텍스트 음성 변환 도구를 사용하여 기사를 몰입형 오디오 경험으로 바꿔보세요. 사용자 정의 가능한 플레이어를 사이트에 쉽게 통합하기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/audio-native-elevenlabs.png",
+      "url": "https://www.aixploria.com/en/audio-native-elevenlabs/",
+      "type": "무료",
+      "category": "#Text To Speech",
+      "upvotes": 24
+    },
+    {
+      "name": "Symbl AI",
+      "description": "« 실시간으로 음성을 텍스트로 변환하는 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/symbl-ai.png",
+      "url": "https://www.aixploria.com/en/symbl-ai/",
+      "type": "무료",
+      "category": "#Text To Speech",
+      "upvotes": 3
+    },
+    {
+      "name": "Wellsaidlabs",
+      "description": "« 실시간으로 텍스트를 음성으로 변환 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/wellsaidlabs.png",
+      "url": "https://www.aixploria.com/en/wellsaidlabs/",
+      "type": "부분 무료",
+      "category": "#Text To Speech",
+      "upvotes": 3
+    },
+    {
+      "name": "Chatter by Hume AI",
+      "description": "« AI가 제공하는 몰입감 있고 매혹적인 팟캐스트 경험에 빠져보세요. 감성음성기술 전문기업 흄AI에서 개발한 제품 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/chatter-by-hume-ai.png",
+      "url": "https://www.aixploria.com/en/chatter-by-hume-ai/",
+      "type": "무료",
+      "category": "#Text To Speech",
+      "upvotes": 21
+    },
+    {
+      "name": "SpeakPerfect",
+      "description": "« 음성을 향상시키는 고품질 오디오 생성 도우미. 마이크나 녹음을 통해 작동합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/speakperfect.png",
+      "url": "https://www.aixploria.com/en/speakperfect/",
+      "type": "무료",
+      "category": "#Audio Editing, #Text To Speech",
+      "upvotes": 5
+    },
+    {
+      "name": "IMS Toucan",
+      "description": "« 7,000개 이상의 언어에 대한 무료 오픈 소스 텍스트 음성 변환. PyTorch 모듈을 사용하여 자신만의 모델을 훈련할 수도 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ims-toucan.png",
+      "url": "https://www.aixploria.com/en/ims-toucan-tts-ai/",
+      "type": "무료",
+      "category": "#Developer Tools, #Github Projects",
+      "upvotes": 21
+    },
+    {
+      "name": "Fish Audio",
+      "description": "« 고급 AI 텍스트 음성 변환 플랫폼. 강력한 API 덕분에 사실적인 음성을 생성하고 사용자 정의하며 프로젝트에 쉽게 통합할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/fish-audio.png",
+      "url": "https://www.aixploria.com/en/fish-audio-api-tts/",
+      "type": "부분 무료",
+      "category": "#Developer Tools, #Text To Speech",
+      "upvotes": 21
+    },
+    {
+      "name": "Respeecher AI",
+      "description": "« 더빙, 광고, e-러닝 등을 위한 자연스러운 목소리를 생성하는 AI 도구를 사용하여 목소리를 다른 목소리로 변환하세요. 할리우드 수준의 AI 음성을 갖춘 마켓플레이스도 제공됩니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/respeecher-ai.png",
+      "url": "https://www.aixploria.com/en/respeecher-ai-voice/",
+      "type": "Free-Trial",
+      "category": "#Text To Speech, #Voice Cloning",
+      "upvotes": 27
+    },
+    {
+      "name": "Apple Books",
+      "description": "« 매우 기분 좋은 목소리로 Apple 책을 읽어주는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/apple-books.png",
+      "url": "https://www.aixploria.com/en/apple-books/",
+      "type": "유료",
+      "category": "#Text To Speech",
+      "upvotes": 5
+    },
+    {
+      "name": "Coqui",
+      "description": "« 텍스트를 쉽게 읽어주는 클래식 음성 리더기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/coqui.png",
+      "url": "https://www.aixploria.com/en/coqui/",
+      "type": "무료",
+      "category": "#Github Projects, #Text To Speech",
+      "upvotes": 2
+    },
+    {
+      "name": "Google Cloud Speech to Text",
+      "description": "« 고급 AI 모델을 사용하여 음성을 텍스트(125개 이상의 언어)로 변환합니다. 프로젝트에 쉽게 통합할 수 있는 API의 이점 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/google-cloud-speech-to-text.png",
+      "url": "https://www.aixploria.com/en/google-cloud-speech-to-text/",
+      "type": "유료",
+      "category": "#Developer Tools, #Text To Speech",
+      "upvotes": 4
+    },
+    {
+      "name": "Neets AI",
+      "description": "« 자연스러운 감정과 톤(TTS)으로 고품질 합성 음성을 생성합니다. 음성 복제 도구의 이점도 누리세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/neets-ai.png",
+      "url": "https://www.aixploria.com/en/neets-ai/",
+      "type": "부분 무료",
+      "category": "#Text To Speech, #Voice Cloning",
+      "upvotes": 2
+    },
+    {
+      "name": "Narakeet",
+      "description": "« PowerPoint, 음성 해설 등을 만드는 강력한 텍스트 음성 변환 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/narakeet.png",
+      "url": "https://www.aixploria.com/en/narakeet/",
+      "type": "유료",
+      "category": "#Presentation, #Text To Speech",
+      "upvotes": 4
+    },
+    {
+      "name": "Speechmatics Flow",
+      "description": "« 강력한 API를 사용하여 자연스러운 음성 상호 작용을 제품에 통합하세요. 다양한 사운드 환경에 적응할 수 있는 실시간 다국어 음성 인식의 이점을 누리세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/speechmatics-flow.png",
+      "url": "https://www.aixploria.com/en/speechmatics-flow-ai/",
+      "type": "부분 무료",
+      "category": "#Developer Tools, #Text To Speech",
+      "upvotes": 21
+    },
+    {
+      "name": "Voicebooking",
+      "description": "« 미세 조정을 위한 음성 생성기 및 다국어 음성 플레이어: 보다 자연스럽고 인간적인 음성 얻기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/voicebooking.png",
+      "url": "https://www.aixploria.com/en/voicebooking/",
+      "type": "무료",
+      "category": "#Text To Speech",
+      "upvotes": 2
+    },
+    {
+      "name": "AI Chat SoundHound",
+      "description": "« 자동차 분야에 최적화된 일상적인 사용을 위한 AI 음성 도우미입니다. 날씨, 일정, 인근 레스토랑 등 다양한 질문에 답할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-chat-soundhound.png",
+      "url": "https://www.aixploria.com/en/ai-chat-voice-soundhound/",
+      "type": "부분 무료",
+      "category": "#Life Assistants, #Text To Speech",
+      "upvotes": 23
+    },
+    {
+      "name": "Big Speak AI",
+      "description": "« 귀하의 텍스트가 무료로 음성이 됩니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/big-speak-ai.png",
+      "url": "https://www.aixploria.com/en/big-speak-ai/",
+      "type": "무료",
+      "category": "#Text To Speech",
+      "upvotes": 3
+    },
+    {
+      "name": "Lovo.ai",
+      "description": "« 100개 언어로 500개 이상의 음성을 제공하는 AI 플랫폼으로 사실적인 음성을 생성하세요. 마케팅 및 교육에 적합 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/lovo-ai.png",
+      "url": "https://www.aixploria.com/en/lovo-ai/",
+      "type": "부분 무료",
+      "category": "#Text To Speech",
+      "upvotes": 2
+    },
+    {
+      "name": "Gotalk.ai",
+      "description": "« 스튜디오 품질의 음성을 생성하는 고성능 텍스트 음성 변환. 자신의 목소리를 복제할 수 있는 옵션과 함께 50개 이상의 언어로 제공됩니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/gotalk-ai.png",
+      "url": "https://www.aixploria.com/en/gotalk-ai/",
+      "type": "유료",
+      "category": "#Text To Speech, #Voice Cloning",
+      "upvotes": 4
+    },
+    {
+      "name": "Deepgram",
+      "description": "« AI 생성 음성을 애플리케이션에 통합: 사용하기 쉬운 API를 통해 빠르고 정확하며 확장 가능한 텍스트 변환 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/deepgram.png",
+      "url": "https://www.aixploria.com/en/deepgram-ai/",
+      "type": "Free-Trial",
+      "category": "#Developer Tools, #Text To Speech",
+      "upvotes": 13
+    },
+    {
+      "name": "Article.Audio",
+      "description": "« 모든 기사를 오디오로 변환(음성 재생 포함) »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/article-audio/",
+      "type": "부분 무료",
+      "category": "#Assistive technology (AT), #Text To Speech",
+      "upvotes": 0
+    },
+    {
+      "name": "MyVocal AI",
+      "description": "« 목소리로 책을 읽을 수 있을 뿐만 아니라 노래도 할 수 있는 AI! MP3 형식으로 다운로드 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/myvocal-ai/",
+      "type": "부분 무료",
+      "category": "#Amazing, #Text To Speech",
+      "upvotes": 4
+    },
+    {
+      "name": "ReplicaStudios",
+      "description": "« 영화, 게임 또는 메타버스에서 AI를 사용하여 자연스러운 목소리 만들기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/replicastudios.png",
+      "url": "https://www.aixploria.com/en/replicastudios/",
+      "type": "부분 무료",
+      "category": "#Text To Speech",
+      "upvotes": 0
+    },
+    {
+      "name": "Character Lingo AI",
+      "description": "« 당신의 글을 당신이 좋아하는 영화나 책 속 캐릭터의 스타일로 바꿔줄 수 있는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/character-lingo-ai.png",
+      "url": "https://www.aixploria.com/en/character-lingo-ai/",
+      "type": "무료",
+      "category": "#Text To Speech",
+      "upvotes": 2
+    },
+    {
+      "name": "SRead",
+      "description": "« 웹서핑을 하면서 기사나 텍스트를 읽어주는 어시스턴트. Chrome 확장 프로그램을 통해 AI와 채팅할 수도 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/sread.png",
+      "url": "https://www.aixploria.com/en/sread-ai/",
+      "type": "부분 무료",
+      "category": "#Extensions ChatGPT, #Text To Speech",
+      "upvotes": 0
+    },
+    {
+      "name": "Peech AI",
+      "description": "« 50개 이상의 언어로 모든 텍스트를 사실적인 오디오로 변환하는 AI 도구입니다. 문서를 변환하거나 온라인 기사를 듣는 데 탁월합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/peech-ai.png",
+      "url": "https://www.aixploria.com/en/peech-ai-tts/",
+      "type": "부분 무료",
+      "category": "#Text To Speech",
+      "upvotes": 1
+    },
+    {
+      "name": "SpeechGen",
+      "description": "« 텍스트를 매우 인간적인 목소리로 변환하는 강력한 음성 리더입니다. 270개 언어로 이용 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/speechgen.png",
+      "url": "https://www.aixploria.com/en/speechgen/",
+      "type": "부분 무료",
+      "category": "#Text To Speech",
+      "upvotes": 4
+    },
+    {
+      "name": "Leelo AI",
+      "description": "« 풍부하고 자연스러우며 깊은 목소리로 텍스트를 음성(텍스트 음성 변환)으로 변환하는 AI 기반 서비스 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/leelo-ai.png",
+      "url": "https://www.aixploria.com/en/leelo-ai/",
+      "type": "부분 무료",
+      "category": "#Text To Speech",
+      "upvotes": 1
+    },
+    {
+      "name": "Blubli AI",
+      "description": "« 대화 상대와 직접 대화하는 ChatBot 만들기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/blubli-ai.png",
+      "url": "https://www.aixploria.com/en/blubli-ai/",
+      "type": "유료",
+      "category": "#ChatBots, #Text To Speech",
+      "upvotes": 3
+    },
+    {
+      "name": "Speechelo",
+      "description": "« AI 기반 소프트웨어는 모든 텍스트를 실제 사람의 목소리로 변환합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/speechelo.png",
+      "url": "https://www.aixploria.com/en/speechelo/",
+      "type": "유료",
+      "category": "#Text To Speech",
+      "upvotes": 3
+    },
+    {
+      "name": "Audie AI",
+      "description": "« 귀하의 책을 24시간 이내에 고품질 오디오북으로 자동 변환하는 혁신적인 플랫폼 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/audie-ai.png",
+      "url": "https://www.aixploria.com/en/audie-ai/",
+      "type": "부분 무료",
+      "category": "#Text To Speech",
+      "upvotes": 2
+    },
+    {
+      "name": "AudioBot",
+      "description": "« 500개 이상의 자연스러운 음성을 갖춘 텍스트-오디오 변환기. 26개 언어로 제공되며 MP3로 다운로드 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/audiobot.png",
+      "url": "https://www.aixploria.com/en/audiobot/",
+      "type": "유료",
+      "category": "#Text To Speech",
+      "upvotes": 1
+    },
+    {
+      "name": "Verbatik",
+      "description": "« Verbatik은 텍스트를 음성으로 변환하는 텍스트 음성 변환 AI입니다(142개 언어, 600개 이상의 음성 포함) »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/verbatik.png",
+      "url": "https://www.aixploria.com/en/verbatik/",
+      "type": "유료",
+      "category": "#Text To Speech",
+      "upvotes": 1
+    },
+    {
+      "name": "Narration Box",
+      "description": "« 음성 해설, 내레이션, 팟캐스트 등을 생성하세요. 700명 이상의 AI 내레이터 중에서 선택할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/narration-box.png",
+      "url": "https://www.aixploria.com/en/narration-box/",
+      "type": "부분 무료",
+      "category": "#Text To Speech",
+      "upvotes": 0
+    }
+  ]
+}

@@ -1,0 +1,1220 @@
+{
+  "name": "Video Generators",
+  "items": [
+    {
+      "name": "Gen-3 by Runway",
+      "description": "« Runway의 Gen-3 Alpha는 AI 기반 비디오 생성의 경계를 넓힙니다. 자연어 지침을 사용하여 길고 일관된 비디오 만들기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/06/runway-fav-1-1.png",
+      "url": "https://www.aixploria.com/en/gen-3-by-runway-ai-video/",
+      "type": "Free-Trial",
+      "category": "#Text-to-video, #Video Generators",
+      "upvotes": 55
+    },
+    {
+      "name": "HeyGen AI",
+      "description": "« 초현실적인 AI 아바타를 만들고 텍스트로 말하게 하세요. 비디오 번역을 수행하고 자동으로 음성을 복제할 수도 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/07/heygen-V2.png",
+      "url": "https://www.aixploria.com/en/heygen-ai/",
+      "type": "부분 무료",
+      "category": "#AIxploria Selection, #Avatars",
+      "upvotes": 430
+    },
+    {
+      "name": "Sora by OpenAI",
+      "description": "« 간단한 텍스트 프롬프트에서 자세한 장면, 복잡한 카메라 움직임, 표현력이 풍부한 캐릭터 등 60초 비디오를 생성할 수 있는 OpenAI로 만든 모델 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/sora-by-openai.png",
+      "url": "https://www.aixploria.com/en/sora-by-openai-ai-video-generator/",
+      "type": "무료",
+      "category": "#Future Tools, #SuperTools",
+      "upvotes": 182
+    },
+    {
+      "name": "Luma Dream Machine",
+      "description": "« 텍스트나 이미지로 사실적인 5s 비디오를 만듭니다. 부드러운 움직임, 정확한 물리학 및 놀라운 영화 카메라 작업! »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/luma-dream-machine.png",
+      "url": "https://www.aixploria.com/en/dream-machine-luma-ai-video/",
+      "type": "무료",
+      "category": "#SuperTools, #Text-to-video",
+      "upvotes": 75
+    },
+    {
+      "name": "Kling 1.5",
+      "description": "« 고화질 비디오 생성기를 사용하여 텍스트에서 2분짜리 HD 비디오를 생성하세요: 사실적인 움직임, 자연스러운 렌더링, 넘치는 상상력. 소라의 라이벌? »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/kling-1-5.png",
+      "url": "https://www.aixploria.com/en/kling-by-kwai-ai-video/",
+      "type": "무료",
+      "category": "#SuperTools, #Text-to-video",
+      "upvotes": 27
+    },
+    {
+      "name": "InVideo",
+      "description": "« 비디오 편집 및 생성을 더 쉽게 만들기 위해 설계된 플랫폼입니다. AI 부조종사의 도움으로 창의력을 발휘해보세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/01/invideo-fav-3.webp",
+      "url": "https://www.aixploria.com/en/invideo/",
+      "type": "부분 무료",
+      "category": "#SuperTools, #Video Edition",
+      "upvotes": 82
+    },
+    {
+      "name": "Pika 1.5",
+      "description": "« 간단한 텍스트 설명을 통해 환상적인 비디오를 제작할 수 있는 비디오 생성기입니다. 놀라운 클립 생성, 놀라운 특수 효과 추가, 영화 같은 카메라 움직임 생성 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/pika-1-5.png",
+      "url": "https://www.aixploria.com/en/pika-labs/",
+      "type": "부분 무료",
+      "category": "#Text-to-video, #Video Generators",
+      "upvotes": 114
+    },
+    {
+      "name": "Viggle 2.0",
+      "description": "« AI JST-1을 사용하여 이미지와 텍스트에서 애니메이션 비디오를 생성합니다. 매우 빠르게 캐릭터에 애니메이션을 적용합니다(춤, 싸움 등). »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/viggle-2-0.png",
+      "url": "https://www.aixploria.com/en/viggle-2-0-ai/",
+      "type": "무료",
+      "category": "#SuperTools, #Video Generators",
+      "upvotes": 46
+    },
+    {
+      "name": "Stable Video Diffusion",
+      "description": "« Stable Video Diffusion은 이미지를 참조로 사용하여 작동하는 새로운 비디오 생성기입니다(곧 텍스트-비디오). Stability.ai에 의해 생성됨 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/stable-video-diffusion.png",
+      "url": "https://www.aixploria.com/en/stable-video-diffusion/",
+      "type": "무료",
+      "category": "#Text-to-video, #Video Generators",
+      "upvotes": 18
+    },
+    {
+      "name": "LTX Studio",
+      "description": "« 사용자의 지시를 정확하게 따르는 AI 생성기로 멋진 스토리텔링 비디오를 만드세요. 프롬프트를 통해 작동 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ltx-studio.png",
+      "url": "https://www.aixploria.com/en/ltx-studio-ai-video-generator/",
+      "type": "무료",
+      "category": "#Storytelling Generator, #Video Generators",
+      "upvotes": 67
+    },
+    {
+      "name": "AI MiniMax",
+      "description": "« Alibaba 및 Tencent와 같은 거대 기술 기업이 지원하는 AI 비디오 생성기. 프롬프트에 따라 완전히 작동하며 결과는 최고 품질입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-minimax.png",
+      "url": "https://www.aixploria.com/en/minimax-ai-text-to-video/",
+      "type": "무료",
+      "category": "#Text-to-video, #Video Generators",
+      "upvotes": 44
+    },
+    {
+      "name": "Genmo AI",
+      "description": "« 텍스트에서 이미지를 생성하고 이를 비디오로 변환합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/genmo-ai.png",
+      "url": "https://www.aixploria.com/en/genmo-ai/",
+      "type": "무료",
+      "category": "#Text-to-video, #Video Generators",
+      "upvotes": 58
+    },
+    {
+      "name": "Emu Video by Meta",
+      "description": "« 새로운 팩토링 기술을 사용하여 사실적인 AI 비디오를 제작하는 텍스트-비디오 생성기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/emu-video-by-meta.png",
+      "url": "https://www.aixploria.com/en/emu-video-by-meta/",
+      "type": "무료",
+      "category": "#Future Tools, #Text-to-video",
+      "upvotes": 13
+    },
+    {
+      "name": "Emote Portrait Alive (EMO)",
+      "description": "« 이 AI에 캐릭터 이미지를 제공하면 캐릭터가 말하거나 노래하는 비디오가 생성됩니다(아직 개발 중). »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/emote-portrait-alive-emo-ai/",
+      "type": "무료",
+      "category": "#Audio Editing, #Future Tools",
+      "upvotes": 119
+    },
+    {
+      "name": "Synthesia 2.0",
+      "description": "« 실제 사람처럼 표현력이 풍부한 비디오 아바타를 만드세요. 전문가 수준의 결과를 빠르게 얻으세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/synthesia-2-0.png",
+      "url": "https://www.aixploria.com/en/synthesia-io/",
+      "type": "유료",
+      "category": "#AIxploria Selection, #Marketing",
+      "upvotes": 92
+    },
+    {
+      "name": "Fliki AI",
+      "description": "« AI로 비디오 제작 방식을 가속화하세요. 프롬프트에서 자막 다듬기, 편집, 추가 또는 비디오 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/fliki-ai.png",
+      "url": "https://www.aixploria.com/en/fliki-ai/",
+      "type": "부분 무료",
+      "category": "#AIxploria Selection, #Video Edition",
+      "upvotes": 73
+    },
+    {
+      "name": "Meta Movie Gen",
+      "description": "« 고품질 사운드 비디오 생성을 위한 강력한 모델입니다. 쉽게 텍스트에서 비디오 생성, 기존 비디오 편집, 맞춤형 비디오 생성 및 오디오 효과 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/meta-movie-gen.png",
+      "url": "https://www.aixploria.com/en/meta-movie-gen-ai-video/",
+      "type": "무료",
+      "category": "#Future Tools, #Text-to-video",
+      "upvotes": 63
+    },
+    {
+      "name": "Adobe Firefly Video",
+      "description": "« 비디오 제작 및 편집을 위한 AI 모델. Premiere Pro의 간단한 텍스트 설명에서 시퀀스 생성, 클립 확장 및 시각 효과 추가 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/08/adobe-podcast.png",
+      "url": "https://www.aixploria.com/en/adobe-firefly-video-by-adobe-ai-model/",
+      "type": "무료",
+      "category": "#Future Tools, #Video Generators",
+      "upvotes": 55
+    },
+    {
+      "name": "PixVerse",
+      "description": "« 텍스트를 정말 놀라운 비디오로 바꿔주는 유망한 AI입니다. 베타 단계 동안 무료 사용 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/pixverse.png",
+      "url": "https://www.aixploria.com/en/pixverse-ai/",
+      "type": "무료",
+      "category": "#Text-to-video, #Video Generators",
+      "upvotes": 26
+    },
+    {
+      "name": "Expressive Photo Avatar",
+      "description": "« 사실적인 움직임으로 이미지에 애니메이션을 적용하는 AI를 사용하여 표현력이 풍부한 사진 아바타를 만드세요. 더욱 놀라운 결과를 얻으려면 음성이나 음악을 추가하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/07/heygen-V2.png",
+      "url": "https://www.aixploria.com/en/expressive-photo-avatar-heygen-ai/",
+      "type": "무료",
+      "category": "#Avatars, #Video Generators",
+      "upvotes": 40
+    },
+    {
+      "name": "Faceless.video",
+      "description": "« TikTok 계정의 주제를 입력하면 AI가 관련 비디오를 생성합니다. 그러면 매주 자동으로 귀하의 계정에 게시됩니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/12/faceless-video-ai.webp",
+      "url": "https://www.aixploria.com/en/faceless-video/",
+      "type": "유료",
+      "category": "#Social Networks, #Video Generators",
+      "upvotes": 64
+    },
+    {
+      "name": "Kaiber AI",
+      "description": "« AI의 상상력으로 사진을 놀라운 동영상으로 바꿔보세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/kaiber-ai.png",
+      "url": "https://www.aixploria.com/en/kaiber-ai/",
+      "type": "부분 무료",
+      "category": "#SuperTools, #Video Generators",
+      "upvotes": 79
+    },
+    {
+      "name": "Pictory AI",
+      "description": "« 편집 기술이 없더라도 자동으로 비디오를 생성합니다. 다양한 AI 도구를 사용하여 비디오 편집 및 향상 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/pictory-ai.png",
+      "url": "https://www.aixploria.com/en/pictory-ai/",
+      "type": "Free-Trial",
+      "category": "#Video Edition, #Video Generators",
+      "upvotes": 42
+    },
+    {
+      "name": "Animated Drawings",
+      "description": "« 그림에 생명을 불어넣고 매우 놀라운 방식으로 애니메이션을 적용할 수 있는 오픈 소스 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/animated-drawings.png",
+      "url": "https://www.aixploria.com/en/animated-drawings/",
+      "type": "무료",
+      "category": "#Amazing, #Image Generators",
+      "upvotes": 40
+    },
+    {
+      "name": "Veo by Google",
+      "description": "« 간단한 프롬프트로 약 1분 분량의 고해상도(1080p) 비디오 클립을 생성할 수 있는 AI 비디오 생성기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/veo-by-google.png",
+      "url": "https://www.aixploria.com/en/veo-by-google/",
+      "type": "무료",
+      "category": "#Video Generators",
+      "upvotes": 32
+    },
+    {
+      "name": "Hedra AI",
+      "description": "« AI 플랫폼을 통해 표현력이 뛰어나고 제어 가능한 인간 캐릭터로 비디오를 생성하세요. 스토리텔링 가능성 + 무제한 비디오 길이! »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/hedra-ai.png",
+      "url": "https://www.aixploria.com/en/hedra-ai-video/",
+      "type": "무료",
+      "category": "#SuperTools, #Video Generators",
+      "upvotes": 31
+    },
+    {
+      "name": "VLOGGER by Google",
+      "description": "« VLOGGER는 음성으로 제어할 수 있는 간단한 사진으로 사실적인 비디오 아바타를 만들 수 있는 Google AI 프로젝트입니다! »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/03/google-color-icon-ai.webp",
+      "url": "https://www.aixploria.com/en/vlogger-by-google-ai/",
+      "type": "무료",
+      "category": "#Avatars, #Future Tools",
+      "upvotes": 20
+    },
+    {
+      "name": "Hotshot",
+      "description": "« 짧고 유동적이며 사실적인 애니메이션을 만들기 위한 비디오 생성기입니다. 이 모델은 사실적인 얼굴, 생활 장면, 특수 효과(VFX) 등을 생성할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/hotshot.png",
+      "url": "https://www.aixploria.com/en/hotshot-text-to-video-ai/",
+      "type": "무료",
+      "category": "#Text-to-video, #Video Generators",
+      "upvotes": 13
+    },
+    {
+      "name": "Morph Studio",
+      "description": "« 아이디어를 글로 설명하면 AI가 곧 동영상을 생성합니다. Discord 플랫폼에서 베타 버전으로 실행 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/morph-studio.png",
+      "url": "https://www.aixploria.com/en/morph-studio-ai/",
+      "type": "무료",
+      "category": "#Text-to-video, #Video Generators",
+      "upvotes": 13
+    },
+    {
+      "name": "Studio D-ID",
+      "description": "« 이미지, 텍스트 또는 사운드로 전문 비디오를 만듭니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/studio-d-id.png",
+      "url": "https://www.aixploria.com/en/d-id-studio/",
+      "type": "Free-Trial",
+      "category": "#SuperTools, #Video Generators",
+      "upvotes": 254
+    },
+    {
+      "name": "CogVideoX-2B",
+      "description": "« 텍스트에서 HD 비디오를 생성합니다. 원하는 동작을 설명하면 AI가 약 6초 분량의 동영상을 생성합니다. 100% 오픈 소스 모델인 CogVideo 기반 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/cogvideox-2b.png",
+      "url": "https://www.aixploria.com/en/cogvideox-2b-ai-video/",
+      "type": "무료",
+      "category": "#Video Generators",
+      "upvotes": 26
+    },
+    {
+      "name": "Jimeng AI by ByteDance",
+      "description": "« ByteDance(TikTok)에서 개발한 AI를 사용하여 텍스트로 고품질 비디오를 만듭니다. 중국, App Store 및 Google Play에서만 이용 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/jimeng-ai-by-bytedance.png",
+      "url": "https://www.aixploria.com/en/jimeng-ai-video-bytedance-tiktok/",
+      "type": "무료",
+      "category": "#Text-to-video, #Video Generators",
+      "upvotes": 29
+    },
+    {
+      "name": "Vadoo AI",
+      "description": "« 매력적이고 전문적인 품질의 얼굴 없는 비디오를 만들 수 있는 AI 비디오 생성기입니다. 텍스트 프롬프트를 보기 좋은 짧은 형식의 비디오로 변환 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/vadoo-ai.png",
+      "url": "https://www.aixploria.com/en/vadoo-ai-video-generator/",
+      "type": "부분 무료",
+      "category": "#Video Generators",
+      "upvotes": 36
+    },
+    {
+      "name": "Lumiere AI by Google",
+      "description": "« 생성적 채우기 기술을 사용하여 AI 동영상을 생성하고 쉽게 편집하기 위해 Google에서 만든 프로젝트 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/lumiere-ai-by-google.png",
+      "url": "https://www.aixploria.com/en/lumiere-ai-by-google/",
+      "type": "무료",
+      "category": "#Future Tools, #Video Edition",
+      "upvotes": 14
+    },
+    {
+      "name": "Vidnoz",
+      "description": "« AI를 사용하여 사진에서 사실적인 말하는 아바타를 만드세요. 비즈니스, 교육 및 고객 지원에 적합 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/vidnoz.png",
+      "url": "https://www.aixploria.com/en/vidnoz/",
+      "type": "부분 무료",
+      "category": "#AIxploria Selection, #Avatars",
+      "upvotes": 44
+    },
+    {
+      "name": "HubSpot Clip Creator",
+      "description": "« 콘텐츠에서 클립을 생성하는 AI로 전문적인 마케팅 비디오를 만드세요. 결과는 맞춤화 가능하며 TikTok, Reels Instagram 또는 YouTube Shorts와 같은 소셜 네트워크에 이상적입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/04/HubSpot-fav.png",
+      "url": "https://www.aixploria.com/en/hubspot-clip-creator-ai-video/",
+      "type": "무료",
+      "category": "#Social Networks, #Video Generators",
+      "upvotes": 37
+    },
+    {
+      "name": "Waymark",
+      "description": "« 전자상거래와 비즈니스를 위해 설계된 비디오 생성기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/waymark.png",
+      "url": "https://www.aixploria.com/en/waymark/",
+      "type": "유료",
+      "category": "#E-commerce, #Video Generators",
+      "upvotes": 10
+    },
+    {
+      "name": "Steve AI",
+      "description": "« 모든 소셜 네트워크를 위한 비디오 제작 및 타겟 광고 디자인 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/steve-ai.png",
+      "url": "https://www.aixploria.com/en/steve-ai/",
+      "type": "부분 무료",
+      "category": "#Social Networks, #Text-to-video",
+      "upvotes": 22
+    },
+    {
+      "name": "Ebsynth",
+      "description": "« 스타일별로 영상을 제작할 수 있는 무료 프로그램 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ebsynth.png",
+      "url": "https://www.aixploria.com/en/ebsynth/",
+      "type": "무료",
+      "category": "#Art, #Video Generators",
+      "upvotes": 8
+    },
+    {
+      "name": "ArtFlow AI",
+      "description": "« 애니메이션 아바타, 비디오 또는 이미지 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/artflow-ai.png",
+      "url": "https://www.aixploria.com/en/artflow-ai/",
+      "type": "무료",
+      "category": "#Art, #Video Generators",
+      "upvotes": 8
+    },
+    {
+      "name": "W.A.L.T",
+      "description": "« 보다 현실적이고 유연한 움직임을 생성하는 고해상도 텍스트-비디오 AI. 스탠포드 대학 연구진이 설계한 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/walt-ai-video-generator/",
+      "type": "무료",
+      "category": "#Future Tools, #Text-to-video",
+      "upvotes": 6
+    },
+    {
+      "name": "Videotok",
+      "description": "« 눈 깜짝할 사이에 TikTok 및 Instagram용 바이럴 동영상을 만들어 보세요. AI는 스크립트, 음성, 이미지 및 효과를 생성합니다. 시간을 절약하세요! »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/videotok.png",
+      "url": "https://www.aixploria.com/en/videotok-ai/",
+      "type": "유료",
+      "category": "#Video Generators",
+      "upvotes": 21
+    },
+    {
+      "name": "Haiper AI",
+      "description": "« 현재 무료로 제공되는 강력한 IA 비디오 생성기입니다. 프롬프트나 간단한 이미지로 비디오를 만들 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/haiper-ai.png",
+      "url": "https://www.aixploria.com/en/haiper-ai/",
+      "type": "무료",
+      "category": "#Text-to-video, #Video Generators",
+      "upvotes": 29
+    },
+    {
+      "name": "Vatic AI",
+      "description": "« 간단한 프롬프트를 통해 AI로 놀라운 비디오 생성(텍스트-비디오) »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/vatic-ai.png",
+      "url": "https://www.aixploria.com/en/vatic-ai/",
+      "type": "부분 무료",
+      "category": "#Text-to-video, #Video Generators",
+      "upvotes": 6
+    },
+    {
+      "name": "HeyGen Interactive Avatar",
+      "description": "« 초현실적이고 표현력이 풍부한 AI 아바타와 실시간으로 채팅하세요. 나만의 아바타를 쉽게 만들고 고품질의 3분짜리 동영상을 생성하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/07/heygen-V2.png",
+      "url": "https://www.aixploria.com/en/heygen-interactive-avatar-ai/",
+      "type": "무료",
+      "category": "#Avatars, #Video Generators",
+      "upvotes": 36
+    },
+    {
+      "name": "Escape AI",
+      "description": "« SF, 공포, 판타지, 코미디 등 오리지널 AI 영화와 단편을 갖춘 새로운 신미래 영화 플랫폼 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/escape-ai.png",
+      "url": "https://www.aixploria.com/en/escape-ai-cinema-film/",
+      "type": "무료",
+      "category": "#Amazing, #Video Generators",
+      "upvotes": 26
+    },
+    {
+      "name": "QuickMagic",
+      "description": "« 2D 인간의 움직임을 사실적인 3D 애니메이션으로 효율적으로 변환합니다. 이 AI 도구는 비디오의 관절을 분석하여 정확하고 유연한 모션 모델을 만듭니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/quickmagic.png",
+      "url": "https://www.aixploria.com/en/quickmagic-ai-motion-video/",
+      "type": "부분 무료",
+      "category": "#Video Generators",
+      "upvotes": 41
+    },
+    {
+      "name": "Flow Studio",
+      "description": "« 비디오 및 애니메이션 제작에 특화된 스토리 생성 AI입니다. 시나리오를 설명하면 AI가 비디오를 만듭니다. 수천 개의 템플릿 중에서 선택하기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/flow-studio.png",
+      "url": "https://www.aixploria.com/en/flow-studio-ai-video-anime/",
+      "type": "무료",
+      "category": "#Video Generators",
+      "upvotes": 20
+    },
+    {
+      "name": "FILM",
+      "description": "« 사진 중 하나에서 모션 동영상(프레임별)을 생성하고 애니메이션으로 변환 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/film.png",
+      "url": "https://www.aixploria.com/en/film/",
+      "type": "무료",
+      "category": "#Video Generators",
+      "upvotes": 2
+    },
+    {
+      "name": "StoryDiffusion",
+      "description": "« 자동 주의 메커니즘 덕분에 긴 시퀀스에 걸쳐 일관된 이미지와 비디오를 생성하는 AI 도구입니다. 성격과 줄거리의 일관성을 유지하면서 매력적인 스토리 만들기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/storydiffusion-ai-local/",
+      "type": "무료",
+      "category": "#Github Projects, #Image Generators",
+      "upvotes": 26
+    },
+    {
+      "name": "Chromox",
+      "description": "« (프롬프트를 통해) 텍스트를 사용하여 믿을 수 없을 만큼 사실적인 고품질 비디오를 생성할 수 있게 하여 비디오 제작을 단순화하는 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/chromox.png",
+      "url": "https://www.aixploria.com/en/chromox-ai/",
+      "type": "무료",
+      "category": "#Text-to-video, #Video Generators",
+      "upvotes": 27
+    },
+    {
+      "name": "MagicVideo-V2",
+      "description": "« 프롬프트를 사용하여 사실적인 비디오 클립을 만드는 비디오 생성기. 이 프로젝트는 ByteDance에서 개발했습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/magicvideo-v2-by-bytedance/",
+      "type": "무료",
+      "category": "#Future Tools, #Text-to-video",
+      "upvotes": 4
+    },
+    {
+      "name": "LivePortrait AI",
+      "description": "« 단일 이미지로 인물 사진에 애니메이션을 적용하세요. 이 AI를 사용하면 정확한 설정과 다양한 스타일을 통해 사실적인 결과를 빠르게 얻을 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/liveportrait-ai/",
+      "type": "무료",
+      "category": "#Github Projects, #Video Generators",
+      "upvotes": 25
+    },
+    {
+      "name": "Aug X Labs",
+      "description": "« 이 AI 도구를 사용하여 매력적인 비디오를 빠르게 제작하세요. 2번의 클릭으로 녹음 파일 가져오기(베타) »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/aug-x-labs.png",
+      "url": "https://www.aixploria.com/en/aug-x-labs/",
+      "type": "유료",
+      "category": "#Text-to-video, #Video Generators",
+      "upvotes": 29
+    },
+    {
+      "name": "URL to UGC by HeyGen",
+      "description": "« 초현실적인 UGC 스타일 비디오 아바타를 만드세요. URL에서 작동합니다. 소셜 네트워크(Tiktok, Reels 또는 Youtube Shorts)에 적합합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/07/heygen-V2.png",
+      "url": "https://www.aixploria.com/en/url-to-ugc-by-heygen-ai-video/",
+      "type": "부분 무료",
+      "category": "#Social Networks, #Video Generators",
+      "upvotes": 29
+    },
+    {
+      "name": "VideoPoet by Google",
+      "description": "« 간단한 텍스트에서 비디오를 생성하도록 특별히 훈련된 언어 모델(LLM) »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/videopoet-by-google.png",
+      "url": "https://www.aixploria.com/en/videopoet-by-google/",
+      "type": "무료",
+      "category": "#Future Tools, #Text-to-video",
+      "upvotes": 9
+    },
+    {
+      "name": "Showrunner",
+      "description": "« AI를 사용하여 나만의 TV 프로그램을 만들어 보세요. 프롬프트로 원하는 에피소드를 설명하고 몇 분 만에 맞춤 프로그램을 시청하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/showrunner.png",
+      "url": "https://www.aixploria.com/en/showrunner-ai-tv-show/",
+      "type": "무료",
+      "category": "#Amazing, #Video Generators",
+      "upvotes": 21
+    },
+    {
+      "name": "AnimateDiff",
+      "description": "« 정적 이미지나 텍스트를 애니메이션 비디오로 변환하는 AI 텍스트-비디오 도구입니다. 애니메이션 클립(SD)을 빠르게 만드는 데 적합합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/animatediff.png",
+      "url": "https://www.aixploria.com/en/animatediff-ai/",
+      "type": "무료",
+      "category": "#Text-to-video, #Video Generators",
+      "upvotes": 27
+    },
+    {
+      "name": "Adobe Character Animator",
+      "description": "« Adobe의 실시간 애니메이션 소프트웨어. 웹캠과 마이크를 사용하여 캐릭터에 생기를 불어넣으세요. 자동 입술 동기화와 얼굴 및 신체 추적의 이점 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/09/character-animator-64.png",
+      "url": "https://www.aixploria.com/en/adobe-character-animator-ai/",
+      "type": "Free-Trial",
+      "category": "#Video Edition, #Video Generators",
+      "upvotes": 45
+    },
+    {
+      "name": "Augie",
+      "description": "« 이 지능형 보조원을 사용하여 전문적인 기술 없이도 효과적인 마케팅 비디오를 만드세요. 스크립트 생성, 스타일 선택 및 광범위한 미디어 라이브러리 액세스 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/augie.png",
+      "url": "https://www.aixploria.com/en/augie-ai-video-marketing/",
+      "type": "부분 무료",
+      "category": "#Marketing, #Video Generators",
+      "upvotes": 21
+    },
+    {
+      "name": "Wonder Dynamics",
+      "description": "« 쉬운 스토리텔링을 위한 비디오 제작 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/wonder-dynamics/",
+      "type": "유료",
+      "category": "#Video Generators",
+      "upvotes": 5
+    },
+    {
+      "name": "Lumen5",
+      "description": "« 드래그 앤 드롭 인터페이스에서 AI를 사용하여 비디오 제작 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/lumen5.png",
+      "url": "https://www.aixploria.com/en/lumen5/",
+      "type": "부분 무료",
+      "category": "#Video Generators",
+      "upvotes": 6
+    },
+    {
+      "name": "Text-to-Video by HubSpot",
+      "description": "« AI를 사용하여 텍스트를 고품질 비디오로 변환하세요. 간단하게 프로젝트를 설명하고 프레젠테이션 비디오를 받아 다운로드할 준비를 하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/04/HubSpot-fav.png",
+      "url": "https://www.aixploria.com/en/text-to-video-by-hubspot-ai/",
+      "type": "유료",
+      "category": "#Text-to-video, #Video Generators",
+      "upvotes": 19
+    },
+    {
+      "name": "Zeroscope AI",
+      "description": "« 작고 사실적인 비디오를 제작할 수 있는 고품질 텍스트-비디오 생성기입니다. 무료이며 혁신적인 오픈 소스 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/zeroscope-ai.png",
+      "url": "https://www.aixploria.com/en/zeroscope-ai/",
+      "type": "무료",
+      "category": "#Text-to-video, #Video Generators",
+      "upvotes": 6
+    },
+    {
+      "name": "Decoherence",
+      "description": "« 음악과 완벽하게 조화를 이루는 비디오와 애니메이션 클립을 만드세요. 프롬프트로도 작동합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/decoherence.png",
+      "url": "https://www.aixploria.com/en/decoherence/",
+      "type": "Free-Trial",
+      "category": "#Text-to-video, #Video Generators",
+      "upvotes": 19
+    },
+    {
+      "name": "Deforum Stable Diffusion",
+      "description": "« SD에 있는 하나 이상의 이미지에서 놀라운 애니메이션 비디오 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/deforum-stable-diffusion.png",
+      "url": "https://www.aixploria.com/en/deforum-stable-diffusion/",
+      "type": "무료",
+      "category": "#Art, #Github Projects",
+      "upvotes": 9
+    },
+    {
+      "name": "Kreado AI",
+      "description": "« 가상 아바타 비디오 생성기: 사실적이며 140개 이상의 언어로 작동합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/kreado-ai.png",
+      "url": "https://www.aixploria.com/en/kreado-ai/",
+      "type": "부분 무료",
+      "category": "#Video Generators",
+      "upvotes": 9
+    },
+    {
+      "name": "Xpression Camera",
+      "description": "« 사진을 실시간으로 다른 사람의 얼굴로 바꿔주는 애플리케이션(Twitch, Zoom YouTube) »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/xpression-camera.png",
+      "url": "https://www.aixploria.com/en/xpression-camera/",
+      "type": "부분 무료",
+      "category": "#Video Generators",
+      "upvotes": 5
+    },
+    {
+      "name": "Storyteller by Augie",
+      "description": "« 아이디어를 애니메이션 비디오나 개인화된 스토리텔링으로 바꿔보세요. 어린이 이야기, 교육 콘텐츠 또는 교육용 비디오 제작에 적합합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/storyteller-by-augie.png",
+      "url": "https://www.aixploria.com/en/storyteller-by-augie-ai/",
+      "type": "무료",
+      "category": "#Storytelling Generator, #Video Generators",
+      "upvotes": 10
+    },
+    {
+      "name": "UniAnimate",
+      "description": "« 단일 참조 이미지에서 길고 일관된 비디오를 생성합니다. 인간과 함께 영상을 애니메이션화하기 위한 통합 확산 모델입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/unianimate-ai-video/",
+      "type": "무료",
+      "category": "#LLM models, #Video Generators",
+      "upvotes": 30
+    },
+    {
+      "name": "MimicMotion",
+      "description": "« 움직임을 재현하여 매우 사실적인 비디오를 만들기 위한 오픈 소스 도구입니다. 세부 사항을 유지하면서 긴 비디오를 제작할 가능성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/mimicmotion.png",
+      "url": "https://www.aixploria.com/en/mimicmotion-ai/",
+      "type": "무료",
+      "category": "#Video Generators",
+      "upvotes": 20
+    },
+    {
+      "name": "Noisee AI",
+      "description": "« 이 AI 음악 클립 생성기를 사용하여 음악을 고품질 비디오로 바꿔보세요. Suno AI 및 Udio와 호환됩니다. Discord 플랫폼을 통해 작동합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/noisee-ai.png",
+      "url": "https://www.aixploria.com/en/noisee-ai-music-video-clip-generator/",
+      "type": "무료",
+      "category": "#Video Generators",
+      "upvotes": 27
+    },
+    {
+      "name": "Google Vids",
+      "description": "« 자동으로 프로 비디오를 제작하는 AI 애플리케이션입니다. 브라우저에서 비디오 클립을 작성, 제작 및 편집하세요. Gemini와 함께 곧 출시 예정 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/google-vids.png",
+      "url": "https://www.aixploria.com/en/google-vids-workspace-ai/",
+      "type": "무료",
+      "category": "#Future Tools, #Video Generators",
+      "upvotes": 29
+    },
+    {
+      "name": "Movio",
+      "description": "« 사실적인 인간 아바타로 비디오 만들기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/movio.png",
+      "url": "https://www.aixploria.com/en/movio/",
+      "type": "부분 무료",
+      "category": "#Video Generators",
+      "upvotes": 0
+    },
+    {
+      "name": "Gen-2 by Runway",
+      "description": "« 텍스트(프롬프트), 이미지, 동영상을 영상으로 제작할 수 있는 차세대 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/01/runway-fav.webp",
+      "url": "https://www.aixploria.com/en/gen-2-by-runway/",
+      "type": "Free-Trial",
+      "category": "#Text-to-video, #Video Generators",
+      "upvotes": 30
+    },
+    {
+      "name": "Boximator by ByteDance",
+      "description": "« 정밀한 모션 제어를 위한 인상적인 AI 비디오 생성기. 비디오의 모션 제어에 이상적 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/boximator-bytedance-ai-video/",
+      "type": "무료",
+      "category": "#Future Tools, #SuperTools",
+      "upvotes": 18
+    },
+    {
+      "name": "Creatus AI",
+      "description": "« 소셜 네트워크에 광고를 만들기 위한 텍스트-비디오 생성기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/creatus-ai.png",
+      "url": "https://www.aixploria.com/en/creatus-ai/",
+      "type": "무료",
+      "category": "#Marketing, #Social Networks",
+      "upvotes": 3
+    },
+    {
+      "name": "HourOne AI",
+      "description": "« 가상 애니메이터를 사용하여 텍스트를 비디오로 자동 변환합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/hourone-ai.png",
+      "url": "https://www.aixploria.com/en/hourone-ai/",
+      "type": "무료",
+      "category": "#Video Generators",
+      "upvotes": 0
+    },
+    {
+      "name": "Pyramid Flow",
+      "description": "« 이 자동 회귀 모델을 사용하여 텍스트나 이미지로 고품질 비디오를 만들고 해상도와 지속 시간 측면에서 인상적인 결과를 얻으세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/10/pyramidal-flow-favicon.webp",
+      "url": "https://www.aixploria.com/en/pyramid-flow-ai-video/",
+      "type": "무료",
+      "category": "#Text-to-video, #Video Generators",
+      "upvotes": 28
+    },
+    {
+      "name": "Dough",
+      "description": "« 정확한 정확도로 멋진 AI 애니메이션을 만드세요. 이미지나 비디오를 사용하여 프레임별로 움직임을 안내하세요. 무료 오픈 소스 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/dough.png",
+      "url": "https://www.aixploria.com/en/dough-ai-images-animation/",
+      "type": "무료",
+      "category": "#Art, #Github Projects",
+      "upvotes": 18
+    },
+    {
+      "name": "Higgsfield",
+      "description": "« 고성능 모델을 사용하여 소셜 네트워크에서 비디오 제작의 민주화를 목표로 하는 AI 플랫폼입니다. 현실적인 캐릭터와 움직임 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/higgsfield.png",
+      "url": "https://www.aixploria.com/en/higgsfield/",
+      "type": "무료",
+      "category": "#Social Networks, #Video Generators",
+      "upvotes": 20
+    },
+    {
+      "name": "Astria",
+      "description": "« 이 고품질 영화 제작 도구를 사용하여 독특한 비디오를 제작하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/astria.png",
+      "url": "https://www.aixploria.com/en/astria/",
+      "type": "유료",
+      "category": "#Art, #Video Generators",
+      "upvotes": 3
+    },
+    {
+      "name": "Vidu by ShengShu",
+      "description": "« 간단한 설명만으로 고품질 비디오를 제작할 수 있는 야심찬 비디오 생성기입니다. 개발 중인 중국 프로젝트 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/vidu-by-shengshu.png",
+      "url": "https://www.aixploria.com/en/vidu-by-shengshu-ai/",
+      "type": "무료",
+      "category": "#Future Tools, #Video Generators",
+      "upvotes": 14
+    },
+    {
+      "name": "SpiritMe",
+      "description": "« 표현력이 풍부한 디지털 아바타로 개인화된 비디오를 만드세요. 텍스트를 추가하고 아바타를 선택한 후 내보냅니다. iPhone에서도 사용 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/spiritme.png",
+      "url": "https://www.aixploria.com/en/spiritme/",
+      "type": "부분 무료",
+      "category": "#Avatars, #Video Generators",
+      "upvotes": 18
+    },
+    {
+      "name": "Phenaki",
+      "description": "« 텍스트 설명(프롬프트)으로 작동하는 새로운 AI 기반 비디오 생성기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/phenaki/",
+      "type": "무료",
+      "category": "#Text-to-video, #Video Generators",
+      "upvotes": 2
+    },
+    {
+      "name": "Pyramid Flow",
+      "description": "« 이 자동 회귀 모델을 사용하여 텍스트나 이미지로 고품질 비디오를 만들고 해상도와 지속 시간 측면에서 인상적인 결과를 얻으세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/10/pyramidal-flow-favicon.webp",
+      "url": "https://www.aixploria.com/en/pyramid-flow-ai-video/",
+      "type": "무료",
+      "category": "#Text-to-video, #Video Generators",
+      "upvotes": 28
+    },
+    {
+      "name": "Apob AI",
+      "description": "« AI를 사용하여 한 번의 클릭으로 디지털 클론을 만드세요. 사진을 업로드하고 개인화된 이미지와 비디오를 통해 디지털 인물을 생생하게 표현해 보세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/apob-ai.png",
+      "url": "https://www.aixploria.com/en/apob-ai/",
+      "type": "부분 무료",
+      "category": "#Avatars, #Image Generators",
+      "upvotes": 20
+    },
+    {
+      "name": "NullFace AI",
+      "description": "« 얼굴을 보여주지 않고도 소셜 네트워크에서 빠르게 바이럴 비디오 클립을 만들 수 있는 비디오 생성기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/nullface-ai.png",
+      "url": "https://www.aixploria.com/en/nullface-ai/",
+      "type": "유료",
+      "category": "#Video Generators",
+      "upvotes": 12
+    },
+    {
+      "name": "Colossyan",
+      "description": "« 5분 안에 가상 배우와 함께 아바타 동영상을 제작합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/colossyan.png",
+      "url": "https://www.aixploria.com/en/colossyan/",
+      "type": "유료",
+      "category": "#Video Generators",
+      "upvotes": 4
+    },
+    {
+      "name": "Teach-O-Matic",
+      "description": "« 재미있는 비디오 제작을 위한 오픈 소스 AI 전문가의 도움으로 쉽게 비디오 튜토리얼 만들기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/teach-o-matic/",
+      "type": "무료",
+      "category": "#Video Generators",
+      "upvotes": 0
+    },
+    {
+      "name": "Rizzle",
+      "description": "« AI를 사용하여 비디오 및 팟캐스트를 위한 전문적인 티저, 클립 및 썸네일을 만드세요. 프리미엄 미디어, 지도, 인포그래픽이 포함되어 있습니다. 문자에서도! »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/rizzle.png",
+      "url": "https://www.aixploria.com/en/rizzle/",
+      "type": "부분 무료",
+      "category": "#Text-to-video, #Video Generators",
+      "upvotes": 7
+    },
+    {
+      "name": "Arcads",
+      "description": "« AI 액터를 사용하여 광고 캠페인을 위한 수백 개의 고품질 UGC 비디오를 빠르게 제작하세요. 프롬프트를 통해 작동 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/arcads.png",
+      "url": "https://www.aixploria.com/en/arcads-ai-video-ugc/",
+      "type": "Free-Trial",
+      "category": "#Video Generators",
+      "upvotes": 34
+    },
+    {
+      "name": "Brainy Docs",
+      "description": "« PDF를 매력적인 설명 동영상으로 변환하는 AI 도구입니다. 텍스트와 이미지를 사용자 정의, 다운로드 및 공유 가능한 비디오 프레젠테이션으로 변환 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/brainy-docs.png",
+      "url": "https://www.aixploria.com/en/brainy-docs-ai-pdf-video/",
+      "type": "Free-Trial",
+      "category": "#Education / Studies, #Files & Spreadsheets",
+      "upvotes": 16
+    },
+    {
+      "name": "Stable WarpFusion",
+      "description": "« 복잡하고 사실적인 영상을 만들기 위한 AI 기반 비디오 생성기입니다. 마스크된 알파 확산 사용 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/stable-warpfusion.png",
+      "url": "https://www.aixploria.com/en/stable-warpfusion/",
+      "type": "유료",
+      "category": "#Video Generators",
+      "upvotes": 0
+    },
+    {
+      "name": "SendFame",
+      "description": "« SendFame 텍스트-비디오 기술을 사용하여 유명인으로부터 개인화된 비디오 메시지를 쉽게 만들 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/sendfame.png",
+      "url": "https://www.aixploria.com/en/sendfame/",
+      "type": "부분 무료",
+      "category": "#Amazing, #Text-to-video",
+      "upvotes": 8
+    },
+    {
+      "name": "WowTo",
+      "description": "« 단 몇 분만에 노하우 동영상을 빠르게 제작하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/wowto.png",
+      "url": "https://www.aixploria.com/en/wowto/",
+      "type": "부분 무료",
+      "category": "#Video Generators",
+      "upvotes": 1
+    },
+    {
+      "name": "Wondershare Virbo",
+      "description": "« 120개 이상의 언어로 사실적인 아바타와 자연스러운 음성으로 매력적인 비디오를 쉽게 생성할 수 있습니다. 마케팅 및 교육에 적합 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/wondershare-virbo.png",
+      "url": "https://www.aixploria.com/en/wondershare-virbo-ai/",
+      "type": "유료",
+      "category": "#Video Generators",
+      "upvotes": 6
+    },
+    {
+      "name": "Digen AI",
+      "description": "« 다양한 언어로 작동하는 인상적인 비디오 아바타 생성기. 초대를 통해서만 이용 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/digen-ai.png",
+      "url": "https://www.aixploria.com/en/digen-ai-avatar-video/",
+      "type": "Free-Trial",
+      "category": "#Avatars, #Video Generators",
+      "upvotes": 21
+    },
+    {
+      "name": "Magic Hour",
+      "description": "« AI 영상 전용 가상 스튜디오입니다. 프롬프트에서 인상적인 비디오를 생성하거나 자신만의 비디오를 변환하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/magic-hour.png",
+      "url": "https://www.aixploria.com/en/magic-hour/",
+      "type": "부분 무료",
+      "category": "#Video Edition, #Video Generators",
+      "upvotes": 2
+    },
+    {
+      "name": "Elai IO",
+      "description": "« 간단한 텍스트 설명(프롬프트)을 작성하고 AI가 생성한 영상을 받아보세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/elai-io.png",
+      "url": "https://www.aixploria.com/en/elai-io/",
+      "type": "부분 무료",
+      "category": "#Text-to-video, #Video Generators",
+      "upvotes": 0
+    },
+    {
+      "name": "Cuebric",
+      "description": "« 사진처럼 사실적인 가상 환경을 빠르고 직관적으로 생성하세요. 이 AI는 언리얼 엔진에서 이미지를 자동으로 생성, 분할, 통합할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/cuebric.png",
+      "url": "https://www.aixploria.com/en/cuebric-ai-images/",
+      "type": "Free-Trial",
+      "category": "#Image Generators, #Video Generators",
+      "upvotes": 18
+    },
+    {
+      "name": "Plazmapunk",
+      "description": "« 음악을 사랑하는 강력한 AI를 사용하여 독창적이고 관련성이 높은 뮤직 비디오 만들기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/plazmapunk.png",
+      "url": "https://www.aixploria.com/en/plazmapunk/",
+      "type": "무료",
+      "category": "#Video Generators",
+      "upvotes": 1
+    },
+    {
+      "name": "Topview.ai",
+      "description": "« 소셜 네트워크용 바이럴 비디오를 쉽게 만들 수 있습니다. 아이디어를 설명하고 AI가 나머지 작업을 수행하도록 하세요. Reels, TikTok, YouTube 및 Shorts와 호환 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/topview-ai.png",
+      "url": "https://www.aixploria.com/en/topview-ai/",
+      "type": "Free-Trial",
+      "category": "#Social Networks, #Video Generators",
+      "upvotes": 12
+    },
+    {
+      "name": "Lalamu Studio",
+      "description": "« 실시간 미리보기를 통해 빠르고 쉽게 립싱크 동영상 만들기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/lalamu-studio.png",
+      "url": "https://www.aixploria.com/en/lalamu-studio/",
+      "type": "부분 무료",
+      "category": "#Video Generators",
+      "upvotes": 1
+    },
+    {
+      "name": "Omniverse Audio2Face",
+      "description": "« 신경망을 사용하여 음성 해설과 동기화된 3D 애니메이션을 만듭니다. 블렌더/언리얼 엔진과 호환 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/omniverse-audio2face.png",
+      "url": "https://www.aixploria.com/en/omniverse-audio2face/",
+      "type": "무료",
+      "category": "#Video Generators",
+      "upvotes": 0
+    },
+    {
+      "name": "Deforum Studio",
+      "description": "« 이미지를 짧은 애니메이션 비디오 시퀀스로 쉽게 변환할 수 있습니다. 고품질의 시각적 콘텐츠를 제작하려는 아티스트와 디자이너에게 이상적입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/deforum-studio.png",
+      "url": "https://www.aixploria.com/en/deforum-studio-ai/",
+      "type": "유료",
+      "category": "#Image editing, #Text-to-video",
+      "upvotes": 12
+    },
+    {
+      "name": "Typpo App",
+      "description": "« 단 몇 번의 클릭만으로 매력적인 비디오를 쉽게 만들 수 있습니다. IOS에서 사용 가능한 모바일 애플리케이션 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/typpo-app.png",
+      "url": "https://www.aixploria.com/en/typpo-app/",
+      "type": "무료",
+      "category": "#Video Generators",
+      "upvotes": 2
+    },
+    {
+      "name": "Moonvalley AI",
+      "description": "« 이 베타 AI 모델을 사용하여 텍스트를 영화 같은 애니메이션 비디오로 바꿔보세요. 웹사이트에는 공동 갤러리도 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/moonvalley-ai.png",
+      "url": "https://www.aixploria.com/en/moonvalley-ai/",
+      "type": "무료",
+      "category": "#Text-to-video, #Video Generators",
+      "upvotes": 26
+    },
+    {
+      "name": "VideoGen",
+      "description": "« AI를 사용하여 고품질 비디오를 빠르게 생성하는 자동화된 비디오 제작 플랫폼입니다. 빠르고 쉬운 사용 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/videogen.png",
+      "url": "https://www.aixploria.com/en/videogen/",
+      "type": "부분 무료",
+      "category": "#Video Generators",
+      "upvotes": 0
+    },
+    {
+      "name": "AI Avatars by Vidyard",
+      "description": "« 대규모로 개인화된 판매 동영상을 제작하세요. 이 도구는 현실적인 AI 아바타 형태로 귀하의 복제본을 생성하고 비디오 메시지를 생성합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-avatars-by-vidyard.png",
+      "url": "https://www.aixploria.com/en/ai-avatars-by-vidyard/",
+      "type": "Free-Trial",
+      "category": "#Avatars, #Business",
+      "upvotes": 17
+    },
+    {
+      "name": "Fliz AI",
+      "description": "« URL을 매력적인 비디오로 자동 변환하는 AI. 전자 상거래 사이트, 부동산 및 블로거에게 적합합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/fliz-ai.png",
+      "url": "https://www.aixploria.com/en/fliz-ai/",
+      "type": "부분 무료",
+      "category": "#Video Generators",
+      "upvotes": 2
+    },
+    {
+      "name": "Opus",
+      "description": "« 텍스트로 아이디어를 설명하면 이 AI가 이를 영화나 비디오 게임으로 바꿔줍니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/opus.png",
+      "url": "https://www.aixploria.com/en/opus/",
+      "type": "유료",
+      "category": "#Text-to-video, #Video Generators",
+      "upvotes": 2
+    },
+    {
+      "name": "Typeframes",
+      "description": "« 귀하의 제품에 대한 음악 동기화를 통해 매력적인 비디오를 자동으로 생성합니다. 직관적인 인터페이스와 쉽게 편집 가능한 결과 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/typeframes.png",
+      "url": "https://www.aixploria.com/en/typeframes-ai/",
+      "type": "유료",
+      "category": "#Video Generators",
+      "upvotes": 3
+    },
+    {
+      "name": "Artificial Studio AI",
+      "description": "« 이미지, 음악 또는 비디오 생성 및 편집을 지원하는 다양한 도구 모음 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/artificial-studio-ai.png",
+      "url": "https://www.aixploria.com/en/artificial-studio-ai/",
+      "type": "무료",
+      "category": "#Image Generators, #Video Generators",
+      "upvotes": 3
+    },
+    {
+      "name": "Character GPT",
+      "description": "« AI로 대화형 캐릭터를 생성한 후 다른 애플리케이션에 통합하기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/character-gpt.png",
+      "url": "https://www.aixploria.com/en/character-gpt/",
+      "type": "무료",
+      "category": "#Amazing, #Video Generators",
+      "upvotes": 3
+    },
+    {
+      "name": "Lychee AI",
+      "description": "« 팟캐스트를 YouTube Short, TikTok 또는 Reels와 같은 플랫폼을 위한 짧은 동영상으로 전환하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/lychee-ai.png",
+      "url": "https://www.aixploria.com/en/lychee-ai/",
+      "type": "부분 무료",
+      "category": "#Social Networks, #Video Generators",
+      "upvotes": 1
+    },
+    {
+      "name": "Doly by AniML",
+      "description": "« iPhone으로 제품의 고품질 3D 비디오를 제작하세요. 다양한 각도에서 캡처하여 소셜 네트워크나 광고로 내보내기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/doly-by-animl.png",
+      "url": "https://www.aixploria.com/en/doly-by-animl-ai/",
+      "type": "부분 무료",
+      "category": "#E-commerce, #Video Generators",
+      "upvotes": 16
+    },
+    {
+      "name": "Vidds AI",
+      "description": "« 키워드나 텍스트로 비디오를 빠르게 생성하세요. 전환, 오디오 등도 추가하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/vidds-ai.png",
+      "url": "https://www.aixploria.com/en/vidds-ai/",
+      "type": "유료",
+      "category": "#Video Generators",
+      "upvotes": 0
+    },
+    {
+      "name": "Guidde",
+      "description": "« 비디오를 통한 문서 작성을 전문으로 하는 기업을 위한 생성적 AI 플랫폼입니다. Google Chrome 확장 프로그램 사용 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/guidde.png",
+      "url": "https://www.aixploria.com/en/guidde-ai/",
+      "type": "부분 무료",
+      "category": "#Business, #Video Generators",
+      "upvotes": 2
+    },
+    {
+      "name": "Flickify",
+      "description": "« 텍스트, 웹 페이지 및 기사를 전문적인 비디오로 변환하세요. 고객 참여 개선에 이상적 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/flickify.png",
+      "url": "https://www.aixploria.com/en/flickify/",
+      "type": "부분 무료",
+      "category": "#Video Generators",
+      "upvotes": 0
+    },
+    {
+      "name": "Yepic Studio",
+      "description": "« 텍스트를 전문적인 비디오(아바타 포함)로 변환하세요. 450개 이상의 음성, 65개 언어, 110개 방언을 지원합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/yepic-studio.png",
+      "url": "https://www.aixploria.com/en/yepic-studio/",
+      "type": "유료",
+      "category": "#Video Generators",
+      "upvotes": 0
+    },
+    {
+      "name": "Oxolo",
+      "description": "« 귀하의 전자상거래 사이트에서 판매하는 제품의 URL을 통해 광고 동영상 제작 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/oxolo.png",
+      "url": "https://www.aixploria.com/en/oxolo/",
+      "type": "부분 무료",
+      "category": "#E-commerce, #Marketing",
+      "upvotes": 0
+    },
+    {
+      "name": "Versy AI",
+      "description": "« 텍스트로부터 개인화된 가상 경험을 생성하는 생성 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/versy-ai.png",
+      "url": "https://www.aixploria.com/en/versy-ai/",
+      "type": "유료",
+      "category": "#Text-to-video, #Video Generators",
+      "upvotes": 1
+    },
+    {
+      "name": "Vidon AI",
+      "description": "« 블로그, 웹사이트 또는 스크립트에서 매력적인 비디오를 쉽게 생성하기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/vidon-ai.png",
+      "url": "https://www.aixploria.com/en/vidon-ai/",
+      "type": "유료",
+      "category": "#Marketing, #Video Generators",
+      "upvotes": 0
+    },
+    {
+      "name": "DeepBrain AI",
+      "description": "« 텍스트에서 인간형 아바타로 AI 비디오를 만듭니다. 다양한 3D 모델 사용 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/deepbrain-ai.png",
+      "url": "https://www.aixploria.com/en/deepbrain-ai/",
+      "type": "유료",
+      "category": "#Video Generators",
+      "upvotes": 0
+    },
+    {
+      "name": "Flawless AI",
+      "description": "« 헐리우드 영화에 걸맞는 영화 수준의 비디오 디자인 및 편집 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/flawless-ai.png",
+      "url": "https://www.aixploria.com/en/flawless-ai/",
+      "type": "유료",
+      "category": "#Video Edition, #Video Generators",
+      "upvotes": 1
+    },
+    {
+      "name": "WOXO",
+      "description": "« 간단한 설명을 사용하여 AI로 매력적인 비디오를 만드세요. 영상과 음악도 추가하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/woxo.png",
+      "url": "https://www.aixploria.com/en/woxo/",
+      "type": "유료",
+      "category": "#Video Generators",
+      "upvotes": 0
+    },
+    {
+      "name": "Tweet to Video",
+      "description": "« 트윗을 동영상으로 변환하여 TikTok, YouTube Short, Instagram Reel 및 기타 플랫폼에서 공유하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/tweet-to-video.png",
+      "url": "https://www.aixploria.com/en/tweet-to-video/",
+      "type": "부분 무료",
+      "category": "#Social Networks, #Video Generators",
+      "upvotes": 2
+    },
+    {
+      "name": "Dumme",
+      "description": "« 긴 콘텐츠(TikTok, YouTube Shorts 등)에서 AI로 짧은 동영상 만들기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/dumme.png",
+      "url": "https://www.aixploria.com/en/dumme/",
+      "type": "유료",
+      "category": "#Video Generators",
+      "upvotes": 0
+    },
+    {
+      "name": "Bannerbear",
+      "description": "« 이미지, 비디오, PDF 등을 생성하기 위한 마케팅 자동화 도구, API 및 통합 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/bannerbear.png",
+      "url": "https://www.aixploria.com/en/bannerbear/",
+      "type": "유료",
+      "category": "#Automation, #E-commerce",
+      "upvotes": 1
+    },
+    {
+      "name": "Visla",
+      "description": "« 원하는 비디오 종류를 설명하면 AI가 청중을 위한 비디오를 생성합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/visla.png",
+      "url": "https://www.aixploria.com/en/visla/",
+      "type": "부분 무료",
+      "category": "#Video Generators",
+      "upvotes": 0
+    },
+    {
+      "name": "Rotor Videos",
+      "description": "« 음악가를 위한 AI 비디오 크리에이터. 클립, 효과 및 스타일을 포함한 빠르고 숙련된 제작 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/rotor-videos.png",
+      "url": "https://www.aixploria.com/en/rotor-videos/",
+      "type": "유료",
+      "category": "#Video Generators",
+      "upvotes": 0
+    },
+    {
+      "name": "Quinvio AI",
+      "description": "« AI 어시스턴트의 도움으로 빠르고 쉽게 동영상 제작 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/quinvio-ai.png",
+      "url": "https://www.aixploria.com/en/quinvio-ai/",
+      "type": "부분 무료",
+      "category": "#Video Generators",
+      "upvotes": 0
+    },
+    {
+      "name": "Reachout AI",
+      "description": "« 콘텐츠를 개인화하고 응답률을 높이며 매출을 보다 효과적으로 관리할 수 있는 AI 비디오 플랫폼 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/reachout-ai.png",
+      "url": "https://www.aixploria.com/en/reachout-ai/",
+      "type": "유료",
+      "category": "#Video Generators",
+      "upvotes": 0
+    },
+    {
+      "name": "AI Studios",
+      "description": "« 텍스트를 읽고 사실적으로 보이는 아바타(동영상) 제작 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-studios.png",
+      "url": "https://www.aixploria.com/en/ai-studios/",
+      "type": "유료",
+      "category": "#Video Generators",
+      "upvotes": 0
+    }
+  ]
+}

@@ -1,0 +1,572 @@
+{
+  "name": "Prompts & Aids",
+  "items": [
+    {
+      "name": "Lexica.art",
+      "description": "« Stable Diffusion에서 고품질 이미지를 생성하기 위한 엄청나게 많은 프롬프트 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/lexica-art.png",
+      "url": "https://www.aixploria.com/en/lexica/",
+      "type": "무료",
+      "category": "#Art, #Image Generators",
+      "upvotes": 120
+    },
+    {
+      "name": "Openart",
+      "description": "« Stable Diffusion, DALL-E 2 또는 Midjourney에 대한 1,500만 개 이상의 프롬프트 검색 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/openart.png",
+      "url": "https://www.aixploria.com/en/openart/",
+      "type": "무료",
+      "category": "#Art, #Prompts & Aids",
+      "upvotes": 9
+    },
+    {
+      "name": "Ordinary People Prompts",
+      "description": "« ChatGPT에서 생성된 가장 아름답고 관련성이 높은 프롬프트에서 영감을 얻으세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ordinary-people-prompts.png",
+      "url": "https://www.aixploria.com/en/ordinary-people-prompts/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Prompts & Aids",
+      "upvotes": 2
+    },
+    {
+      "name": "MidJourney Prompt Helper",
+      "description": "« Midjourney에서 복잡한 메시지와 전문적인 이미지를 만드는 데 없어서는 안 될 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/midjourney-prompt-helper.png",
+      "url": "https://www.aixploria.com/en/midjourney-prompt-helper/",
+      "type": "무료",
+      "category": "#Prompts & Aids",
+      "upvotes": 2
+    },
+    {
+      "name": "Public Prompts",
+      "description": "« 좋아하는 이미지 생성기에 대한 무료 및 오픈 소스 프롬프트의 거대한 컬렉션 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/public-prompts.png",
+      "url": "https://www.aixploria.com/en/public-prompts/",
+      "type": "무료",
+      "category": "#Prompts & Aids",
+      "upvotes": 1
+    },
+    {
+      "name": "PromptBase",
+      "description": "« Midjourney, DALL-E, GPT-3 또는 Stable Diffusion에 대한 최고의 프롬프트를 제공하는 마켓플레이스 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/promptbase.png",
+      "url": "https://www.aixploria.com/en/promptbase/",
+      "type": "부분 무료",
+      "category": "#Prompts & Aids",
+      "upvotes": 2
+    },
+    {
+      "name": "Prompthero",
+      "description": "« 인기 있고 매력적인 프롬프트의 예를 찾아보세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/prompthero.png",
+      "url": "https://www.aixploria.com/en/prompthero/",
+      "type": "무료",
+      "category": "#Prompts & Aids",
+      "upvotes": 1
+    },
+    {
+      "name": "Decktopus",
+      "description": "« 텍스트 프롬프트에서 PowerPoint 호환 프리젠테이션 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/decktopus.png",
+      "url": "https://www.aixploria.com/en/decktopus/",
+      "type": "무료",
+      "category": "#Presentation, #Prompts & Aids",
+      "upvotes": 3
+    },
+    {
+      "name": "PromptDrive.ai",
+      "description": "« ChatGPT 또는 Midjourney와 같은 AI를 사용하여 생산성을 구성, 공유 및 향상시키는 올인원 프롬프트 관리 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/promptdrive-ai.png",
+      "url": "https://www.aixploria.com/en/promptdrive-ai/",
+      "type": "무료",
+      "category": "#Productivity, #Prompts & Aids",
+      "upvotes": 2
+    },
+    {
+      "name": "PrompBase",
+      "description": "« 사용자 정의 가능한 프롬프트 형태의 Midjourney 보조자 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/prompbase/",
+      "type": "무료",
+      "category": "#Prompts & Aids",
+      "upvotes": 1
+    },
+    {
+      "name": "ECommerce Prompt Generator",
+      "description": "« 전자상거래 사이트 및 마케팅을 위한 고급 설정이 포함된 ChatGPT 프롬프트 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ecommerce-prompt-generator.png",
+      "url": "https://www.aixploria.com/en/ecommerce-prompt-generator/",
+      "type": "무료",
+      "category": "#E-commerce, #Extensions ChatGPT",
+      "upvotes": 4
+    },
+    {
+      "name": "Dallelist",
+      "description": "« DALL-E 2 이미지 생성기에 대한 최적화된 프롬프트 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/dallelist.png",
+      "url": "https://www.aixploria.com/en/dallelist/",
+      "type": "무료",
+      "category": "#Prompts & Aids",
+      "upvotes": 0
+    },
+    {
+      "name": "Aigur.dev",
+      "description": "« 당신의 목소리로 이미지를 생성하거나 이미지에서 영감을 받은 시적 텍스트를 생성하는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/02/favicon-defa.png",
+      "url": "https://www.aixploria.com/en/aigur-dev/",
+      "type": "무료",
+      "category": "#Art, #Prompts & Aids",
+      "upvotes": 1
+    },
+    {
+      "name": "Steamship",
+      "description": "« API를 사용하여 신속하게 프롬프트 구축 및 배포 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/steamship.png",
+      "url": "https://www.aixploria.com/en/steamship/",
+      "type": "부분 무료",
+      "category": "#Prompts & Aids",
+      "upvotes": 0
+    },
+    {
+      "name": "Pheeds Prompt Silo",
+      "description": "« ChatGPT 및 이미지 생성기를 위한 프롬프트 생성기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/pheeds-prompt-silo.png",
+      "url": "https://www.aixploria.com/en/pheeds-prompt-silo/",
+      "type": "무료",
+      "category": "#Prompts & Aids",
+      "upvotes": 0
+    },
+    {
+      "name": "Promptist",
+      "description": "« Stable Diffusion 모델 및 버전에 따라 프롬프트를 자동으로 조정합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/promptist.png",
+      "url": "https://www.aixploria.com/en/promptist/",
+      "type": "무료",
+      "category": "#Prompts & Aids",
+      "upvotes": 0
+    },
+    {
+      "name": "Promptly",
+      "description": "« 프롬프트 측면에서 ChatGPT 또는 Jasper와 같은 AI의 성능을 10배 향상시키는 확장 프로그램 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/promptly.png",
+      "url": "https://www.aixploria.com/en/promptly/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Prompts & Aids",
+      "upvotes": 0
+    },
+    {
+      "name": "PromptBox",
+      "description": "« 더 이상 메시지를 잃지 마세요! 프롬프트를 쉽게 저장, 구성 및 편집할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/promptbox.png",
+      "url": "https://www.aixploria.com/en/promptbox/",
+      "type": "부분 무료",
+      "category": "#Prompts & Aids",
+      "upvotes": 0
+    },
+    {
+      "name": "Prompt Vibes",
+      "description": "« 학습, 유머, 생산성, 글쓰기, 마케팅, 게임 등 다양한 ChatGPT 프롬프트 모음 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/prompt-vibes.png",
+      "url": "https://www.aixploria.com/en/prompt-vibes/",
+      "type": "무료",
+      "category": "#Prompts & Aids",
+      "upvotes": 1
+    },
+    {
+      "name": "AIPRM ChatGPT",
+      "description": "« 최고의 프롬프트 템플릿을 추가하여 ChatGPT에서 창을 사용자 정의하세요. 카테고리별로 정렬 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/aiprm-chatgpt.png",
+      "url": "https://www.aixploria.com/en/aiprm-chatgpt/",
+      "type": "부분 무료",
+      "category": "#Extensions ChatGPT, #Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "Clio",
+      "description": "« 키워드나 추천을 통해 실시간으로 도움을 주는 프롬프트 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/clio/",
+      "type": "무료",
+      "category": "#Prompts & Aids",
+      "upvotes": 0
+    },
+    {
+      "name": "MidJourney Styles & Keywords",
+      "description": "« 스타일, 키워드, 해상도 비교, 이미지 무게 등을 포함하는 Midjourney에 대한 프롬프트 생성기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/midjourney-styles---038--keywords.png",
+      "url": "https://www.aixploria.com/en/midjourney-styles-keywords/",
+      "type": "무료",
+      "category": "#Github Projects, #Prompts & Aids",
+      "upvotes": 0
+    },
+    {
+      "name": "Eye for AI",
+      "description": "« 나중에 쉽게 재사용할 수 있도록 프롬프트를 저장하세요. 속도와 생산성 향상 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/eye-for-ai/",
+      "type": "부분 무료",
+      "category": "#Prompts & Aids",
+      "upvotes": 0
+    },
+    {
+      "name": "Prompt Data Base SD",
+      "description": "« Stable Diffusion 커뮤니티에서 이미 생성된 많은 프롬프트에서 영감을 얻으세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/prompt-data-base-sd.png",
+      "url": "https://www.aixploria.com/en/prompt-data-base-sd/",
+      "type": "무료",
+      "category": "#Prompts & Aids",
+      "upvotes": 0
+    },
+    {
+      "name": "Prompt Optimizer",
+      "description": "« LLM(언어 모델)을 통해 프롬프트를 더욱 효과적으로 만들기 위해 프롬프트를 최적화하는 도구입니다. 간단하게 목표를 설명하고 명확하고 구조화된 프롬프트를 받으세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/prompt-optimizer.png",
+      "url": "https://www.aixploria.com/en/prompt-optimizer-hamming-ai/",
+      "type": "무료",
+      "category": "#Prompts & Aids",
+      "upvotes": 19
+    },
+    {
+      "name": "Promptheus",
+      "description": "« 음성을 사용하여 ChatGPT와 대화하는 Chrome 확장 프로그램입니다. 빠르고 유연한 대화 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/promptheus.png",
+      "url": "https://www.aixploria.com/en/promptheus/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "Img2prompt",
+      "description": "« 이미지를 업로드하고 이 결과를 얻는 데 사용할 텍스트 프롬프트를 받으세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/img2prompt.png",
+      "url": "https://www.aixploria.com/en/img2prompt/",
+      "type": "부분 무료",
+      "category": "#Prompts & Aids",
+      "upvotes": 1
+    },
+    {
+      "name": "PromptExtend",
+      "description": "« 기본 프롬프트를 통해 사이트를 개선하고 더욱 복잡하게 만드는 사이트 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/promptextend/",
+      "type": "무료",
+      "category": "#Prompts & Aids",
+      "upvotes": 0
+    },
+    {
+      "name": "InlineGPT",
+      "description": "« 모든 애플리케이션과 통합되는 유용한 AI 도우미입니다. 텍스트를 선택하거나 간단한 키보드 단축키를 사용하여 즉시 콘텐츠 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/inlinegpt.png",
+      "url": "https://www.aixploria.com/en/inlinegpt-ai-prompt/",
+      "type": "무료",
+      "category": "#Prompts & Aids",
+      "upvotes": 17
+    },
+    {
+      "name": "Anime Prompt Generator",
+      "description": "« 애니메이션 프롬프트와 비주얼을 생성하기 위한 창의적인 아이디어를 얻으세요. 예술가와 애니메이션 팬에게 이상적입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/anime-prompt-generator/",
+      "type": "무료",
+      "category": "#Prompts & Aids",
+      "upvotes": 0
+    },
+    {
+      "name": "Sticker Prompt Generator",
+      "description": "« 스티커 제작을 위한 아이디어와 프롬프트 생성기입니다. 그런 다음 MidJourney에 복사합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/sticker-prompt-generator/",
+      "type": "무료",
+      "category": "#Art, #Prompts & Aids",
+      "upvotes": 2
+    },
+    {
+      "name": "Prompt Mixer",
+      "description": "« 영업 지원, 마케팅, 비즈니스, 법률 등 모든 종류의 프롬프트에 대한 팀 개발에 최적화된 협업 플랫폼 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/prompt-mixer.png",
+      "url": "https://www.aixploria.com/en/prompt-mixer-ai/",
+      "type": "무료",
+      "category": "#Prompts & Aids",
+      "upvotes": 14
+    },
+    {
+      "name": "There’s a Prompt for that",
+      "description": "« ChatGPT, Midjourney 등 가장 인기 있는 AI에서 작동하는 프롬프트 생성기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/theres-a-prompt-for-that/",
+      "type": "무료",
+      "category": "#Prompts & Aids",
+      "upvotes": 0
+    },
+    {
+      "name": "SrefHunter",
+      "description": "« 여러 웹사이트에서 Midjourney용 Sref 코드의 최신 트렌드를 제공하는 플랫폼 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/srefhunter.png",
+      "url": "https://www.aixploria.com/en/srefhunter-ai-sref-code/",
+      "type": "무료",
+      "category": "#Prompts & Aids",
+      "upvotes": 14
+    },
+    {
+      "name": "ChatGPT Prompt Plus",
+      "description": "« ChatGPT와의 상호작용을 최적화하는 데 도움이 되는 다양한 템플릿과 프롬프트 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/chatgpt-prompt-plus/",
+      "type": "무료",
+      "category": "#Prompts & Aids",
+      "upvotes": 0
+    },
+    {
+      "name": "Unify",
+      "description": "« 통합 API를 통해 다중 언어 모델(LLM)에 대한 액세스를 제공하는 플랫폼입니다. 품질, 속도 및 비용을 기준으로 최고의 LLM으로 프롬프트를 라우팅하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/unify.png",
+      "url": "https://www.aixploria.com/en/unify-ai/",
+      "type": "Free-Trial",
+      "category": "#Developer Tools, #Prompts & Aids",
+      "upvotes": 13
+    },
+    {
+      "name": "PromptDen",
+      "description": "« 현재 최고의 프롬프트를 찾고자 하는 프롬프트 엔지니어를 위한 커뮤니티 플랫폼 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/promptden/",
+      "type": "무료",
+      "category": "#Prompts & Aids",
+      "upvotes": 0
+    },
+    {
+      "name": "PromptFolder",
+      "description": "« 강력한 관리자를 통해 ChatGPT에서 메시지를 관리하고 강화하세요. 혁신적인 프롬프트 생성, 저장 및 검색 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/promptfolder.png",
+      "url": "https://www.aixploria.com/en/promptfolder/",
+      "type": "무료",
+      "category": "#Prompts & Aids",
+      "upvotes": 0
+    },
+    {
+      "name": "Freeflo",
+      "description": "« Midjourney 플랫폼을 위해 특별히 설계된 품질 프롬프트를 검색하세요. 대규모 커뮤니티 데이터베이스에 대한 액세스 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/freeflo.png",
+      "url": "https://www.aixploria.com/en/freeflo/",
+      "type": "무료",
+      "category": "#Prompts & Aids",
+      "upvotes": 0
+    },
+    {
+      "name": "Drawing Prompt",
+      "description": "« 세 가지 기본 기능을 갖춘 프롬프트 생성기: 아이디어 개발, 무작위 프롬프트 시스템 및 이미지 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/drawing-prompt.png",
+      "url": "https://www.aixploria.com/en/drawing-prompt-ai/",
+      "type": "무료",
+      "category": "#Prompts & Aids",
+      "upvotes": 2
+    },
+    {
+      "name": "Just Prompts",
+      "description": "« ChatGPT 대화에 도움이 되도록 OpenAI API에 연결된 사용자 정의 가능한 프롬프트 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/just-prompts.png",
+      "url": "https://www.aixploria.com/en/just-prompts/",
+      "type": "무료",
+      "category": "#Prompts & Aids",
+      "upvotes": 0
+    },
+    {
+      "name": "Promptitude",
+      "description": "« GPT를 애플리케이션에 쉽게 통합하고 간단한 API로 프롬프트를 관리하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/promptitude.png",
+      "url": "https://www.aixploria.com/en/promptitude/",
+      "type": "유료",
+      "category": "#Extensions ChatGPT, #Prompts & Aids",
+      "upvotes": 0
+    },
+    {
+      "name": "AI Templates",
+      "description": "« 비즈니스 마케팅 부문에서 최고의 메시지를 즉시 받아보세요. SEO에도 좋습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-templates.png",
+      "url": "https://www.aixploria.com/en/ai-templates/",
+      "type": "무료",
+      "category": "#Business, #Prompts & Aids",
+      "upvotes": 0
+    },
+    {
+      "name": "ChatGPT Prompt Generator",
+      "description": "« 역할, 작업, 형식이라는 세 가지 기준에 따라 작동하는 사용하기 쉬운 프롬프트 생성기입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/chatgpt-prompt-generator/",
+      "type": "무료",
+      "category": "#Prompts & Aids",
+      "upvotes": 0
+    },
+    {
+      "name": "MaskmyPrompt",
+      "description": "« ChatGPT를 사용할 때 프롬프트를 숨기고 익명화하세요. 보안과 개인정보 보호를 손쉽게 강화하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/maskmyprompt.png",
+      "url": "https://www.aixploria.com/en/maskmyprompt/",
+      "type": "무료",
+      "category": "#Prompts & Aids",
+      "upvotes": 0
+    },
+    {
+      "name": "imAIgic",
+      "description": "« AI 생성 이미지 및 관련 프롬프트의 무료 데이터베이스입니다. 1000개 이상의 품질 프롬프트 사용 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/imaigic.png",
+      "url": "https://www.aixploria.com/en/imaigic/",
+      "type": "무료",
+      "category": "#Prompts & Aids",
+      "upvotes": 0
+    },
+    {
+      "name": "FlowGPT",
+      "description": "« ChatGPT를 사용할 때 가장 유용한 프롬프트를 발견하고 공유하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/flowgpt.png",
+      "url": "https://www.aixploria.com/en/flowgpt/",
+      "type": "무료",
+      "category": "#Prompts & Aids",
+      "upvotes": 52
+    },
+    {
+      "name": "Prompt Journey AI",
+      "description": "« ChatGPT를 통해 수백 개의 매우 효과적인 프롬프트에 액세스하고 생산성을 높이세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/prompt-journey-ai.png",
+      "url": "https://www.aixploria.com/en/prompt-journey-ai/",
+      "type": "무료",
+      "category": "#Prompts & Aids",
+      "upvotes": 0
+    },
+    {
+      "name": "Vitalentim",
+      "description": "« AI와 활발한 커뮤니티를 기반으로 하는 창의적인 플랫폼입니다. 메시지와 이미지를 쉽게 공유하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/vitalentim.png",
+      "url": "https://www.aixploria.com/en/vitalentim/",
+      "type": "부분 무료",
+      "category": "#Amazing, #Prompts & Aids",
+      "upvotes": 2
+    },
+    {
+      "name": "WNR.AI",
+      "description": "« GPT-4 슈퍼 프롬프트를 생성하고 공유하기 위한 커뮤니티 플랫폼입니다. 사용하기 쉽고 인체공학적인 인터페이스 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/wnr-ai.png",
+      "url": "https://www.aixploria.com/en/wnr-ai/",
+      "type": "무료",
+      "category": "#Prompts & Aids",
+      "upvotes": 0
+    },
+    {
+      "name": "GPT Prompt Engineer",
+      "description": "« AI와 함께 프롬프트를 사용할 때 파일링, 구성, 테스트 및 생산성 향상을 위한 실용적인 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/gpt-prompt-engineer.png",
+      "url": "https://www.aixploria.com/en/gpt-prompt-engineer/",
+      "type": "무료",
+      "category": "#Github Projects, #Prompts & Aids",
+      "upvotes": 0
+    },
+    {
+      "name": "Promptmakr",
+      "description": "« 엔지니어가 자신의 창작물을 향상시킬 수 있는 프롬프트 빌더입니다. 프롬프트를 보고 커뮤니티 구성원과 공유하는 기능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/promptmakr.png",
+      "url": "https://www.aixploria.com/en/promptmakr/",
+      "type": "무료",
+      "category": "#Prompts & Aids",
+      "upvotes": 0
+    },
+    {
+      "name": "IMI Prompt",
+      "description": "« Midjourney AI를 위한 프롬프트 빌더. 사용하기 쉽고 다양한 옵션이 있음 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/imi-prompt.png",
+      "url": "https://www.aixploria.com/en/imi-prompt/",
+      "type": "무료",
+      "category": "#Prompts & Aids",
+      "upvotes": 0
+    },
+    {
+      "name": "Prompt Hunt",
+      "description": "« 쉽고 직관적인 프롬프트를 사용하여 아름다운 이미지 만들기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/prompt-hunt.png",
+      "url": "https://www.aixploria.com/en/prompt-hunt/",
+      "type": "부분 무료",
+      "category": "#Prompts & Aids",
+      "upvotes": 0
+    },
+    {
+      "name": "Knit",
+      "description": "« 팀 구성원과 연결하여 프롬프트를 한 번에 생성, 저장, 편집 또는 실행하세요. 협업 촉진 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/knit.png",
+      "url": "https://www.aixploria.com/en/knit/",
+      "type": "무료",
+      "category": "#Prompts & Aids",
+      "upvotes": 0
+    },
+    {
+      "name": "Snack Prompt",
+      "description": "« 최고의 성과를 내는 메시지를 공유하는 커뮤니티입니다. 카테고리, 인기도, 투표순으로 순위 지정 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/snack-prompt.png",
+      "url": "https://www.aixploria.com/en/snack-prompt/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Prompts & Aids",
+      "upvotes": 1
+    },
+    {
+      "name": "GitFluence",
+      "description": "« AI를 사용하여 올바른 Git 명령을 빠르게 찾는 데 도움이 됩니다. 설명을 입력하고 제안 받기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/gitfluence.png",
+      "url": "https://www.aixploria.com/en/gitfluence/",
+      "type": "무료",
+      "category": "#Assistant Code, #Prompts & Aids",
+      "upvotes": 2
+    },
+    {
+      "name": "Prompt Studio",
+      "description": "« AI를 사용하면 효과적인 프롬프트를 쉽게 만들 수 있습니다. 필터를 사용하여 메시지를 전문적으로 구체화하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/prompt-studio.png",
+      "url": "https://www.aixploria.com/en/prompt-studio/",
+      "type": "부분 무료",
+      "category": "#Prompts & Aids",
+      "upvotes": 0
+    },
+    {
+      "name": "GPT Cheat Sheet",
+      "description": "« 다양한 고품질 ChatGPT 프롬프트, 무료 소프트웨어 및 최적화 팁 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/gpt-cheat-sheet.png",
+      "url": "https://www.aixploria.com/en/gpt-cheat-sheet/",
+      "type": "무료",
+      "category": "#Files & Spreadsheets, #Prompts & Aids",
+      "upvotes": 0
+    },
+    {
+      "name": "promptoMANIA",
+      "description": "« 고품질 이미지를 생성하기 위한 매우 정확하고 사용하기 쉬운 프롬프트 빌더 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/promptomania.png",
+      "url": "https://www.aixploria.com/en/promptomania/",
+      "type": "무료",
+      "category": "#Prompts & Aids",
+      "upvotes": 0
+    },
+    {
+      "name": "Promptstacks",
+      "description": "« ChatGPT와 같은 모델에 대한 사전 검증된 프롬프트. 프롬프트를 최적화하기 위한 지원 및 커뮤니티 포함 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/promptstacks.png",
+      "url": "https://www.aixploria.com/en/promptstacks/",
+      "type": "무료",
+      "category": "#Education / Studies, #Prompts & Aids",
+      "upvotes": 0
+    },
+    {
+      "name": "Prompt-Journey",
+      "description": "« 사용자 친화적이고 사용하기 쉬운 인터페이스를 통해 영향력 있는 프롬프트 생성을 촉진합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/prompt-journey/",
+      "type": "무료",
+      "category": "#Prompts & Aids",
+      "upvotes": 0
+    },
+    {
+      "name": "MJSplitter",
+      "description": "« Midjourney의 그리드 이미지를 개별 이미지로 분리하세요. 그런 다음 다운로드할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/mjsplitter.png",
+      "url": "https://www.aixploria.com/en/mjsplitter/",
+      "type": "무료",
+      "category": "#Prompts & Aids",
+      "upvotes": 0
+    }
+  ]
+}

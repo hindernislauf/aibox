@@ -1,0 +1,806 @@
+{
+  "name": "E-commerce",
+  "items": [
+    {
+      "name": "Adcreative AI",
+      "description": "« 브랜드, 로고, 색상 및 형식에 맞게 조정되는 AI를 사용하여 전문가 수준의 광고를 쉽게 디자인하세요. 소셜 네트워크 마케팅 및 기업에 권장됩니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/adcreative-ai.png",
+      "url": "https://www.aixploria.com/en/adcreative-ai/",
+      "type": "Free-Trial",
+      "category": "#AIxploria Selection, #Business",
+      "upvotes": 410
+    },
+    {
+      "name": "Magic by Shopify",
+      "description": "« 전자상거래를 위한 최고의 AI 도우미. 생산성과 판매 증대를 위해 맞춤형 답변, 제품 설명 등을 생성하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/05/shopify-fav.webp",
+      "url": "https://www.aixploria.com/en/magic-by-shopify-ai/",
+      "type": "Free-Trial",
+      "category": "#Business, #E-commerce",
+      "upvotes": 47
+    },
+    {
+      "name": "Echowin AI",
+      "description": "« 이 올인원 플랫폼을 사용하면 고객의 또 다른 전화를 놓치지 마세요. AI가 통화에 응답하고, 기록하고, 분석하여 고객 서비스를 최적화합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/echowin-ai.png",
+      "url": "https://www.aixploria.com/en/echowin-ai-beta/",
+      "type": "부분 무료",
+      "category": "#Business, #ChatBots",
+      "upvotes": 121
+    },
+    {
+      "name": "Benchmark Email",
+      "description": "« 전문적이고 매력적인 이메일 만들기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/benchmark-email.png",
+      "url": "https://www.aixploria.com/en/benchmark-email/",
+      "type": "무료",
+      "category": "#Business, #E-commerce",
+      "upvotes": 19
+    },
+    {
+      "name": "Repurpose IO",
+      "description": "« 소셜 네트워크에서 마케팅 및 게시를 단순화하는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/01/repurpose-io-ai-icon.webp",
+      "url": "https://www.aixploria.com/en/repurpose-io/",
+      "type": "Free-Trial",
+      "category": "#Business, #E-commerce",
+      "upvotes": 47
+    },
+    {
+      "name": "GlamAR",
+      "description": "« 증강 현실 가상 피팅으로 매출을 늘리세요. 메이크업, 안경, 주얼리... 고객이 실시간으로 제품을 볼 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/04/favicon-glamar.png",
+      "url": "https://www.aixploria.com/en/glamar-ai/",
+      "type": "Free-Trial",
+      "category": "#E-commerce, #Fashion",
+      "upvotes": 39
+    },
+    {
+      "name": "Free AI Chatbot Builder",
+      "description": "« HubSpot의 AI 챗봇을 사용하여 고객의 질문에 연중무휴 24시간 자동으로 답변하세요. IT 지식이 필요하지 않고 매우 쉽게 챗봇을 만들고 사용자 정의할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/04/HubSpot-fav.png",
+      "url": "https://www.aixploria.com/en/free-ai-chatbot-builder-by-hubspot/",
+      "type": "무료",
+      "category": "#ChatBots, #Customer Support",
+      "upvotes": 47
+    },
+    {
+      "name": "Waymark",
+      "description": "« 전자상거래와 비즈니스를 위해 설계된 비디오 생성기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/waymark.png",
+      "url": "https://www.aixploria.com/en/waymark/",
+      "type": "유료",
+      "category": "#E-commerce, #Video Generators",
+      "upvotes": 10
+    },
+    {
+      "name": "Namelix",
+      "description": "« 귀하의 비즈니스, 브랜드 또는 회사의 이름을 찾는 데 도움을 드립니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/namelix.png",
+      "url": "https://www.aixploria.com/en/namelix/",
+      "type": "무료",
+      "category": "#Business, #E-commerce",
+      "upvotes": 8
+    },
+    {
+      "name": "Outfit Anyone",
+      "description": "« AI를 사용하여 다양한 유형의 의류를 즉시 테스트합니다. 전자상거래 제품 검색을 위한 이상적인 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/outfit-anyone.png",
+      "url": "https://www.aixploria.com/en/outfit-anyone-ai/",
+      "type": "무료",
+      "category": "#E-commerce, #Fashion",
+      "upvotes": 8
+    },
+    {
+      "name": "Lalaland AI",
+      "description": "« 전자상거래 제품을 선보일 마네킹과 모델 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/lalaland-ai.png",
+      "url": "https://www.aixploria.com/en/lalaland-ai/",
+      "type": "유료",
+      "category": "#Business, #E-commerce",
+      "upvotes": 5
+    },
+    {
+      "name": "Booth AI",
+      "description": "« AI 모델이 입는 옷을 입거나 제품을 선보이세요. 고품질 사진 이미지 제작 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/booth-ai.png",
+      "url": "https://www.aixploria.com/en/booth-ai/",
+      "type": "부분 무료",
+      "category": "#E-commerce, #Image Generators",
+      "upvotes": 56
+    },
+    {
+      "name": "ECommerce Prompt Generator",
+      "description": "« 전자상거래 사이트 및 마케팅을 위한 고급 설정이 포함된 ChatGPT 프롬프트 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ecommerce-prompt-generator.png",
+      "url": "https://www.aixploria.com/en/ecommerce-prompt-generator/",
+      "type": "무료",
+      "category": "#E-commerce, #Extensions ChatGPT",
+      "upvotes": 4
+    },
+    {
+      "name": "Salesforce Einstein",
+      "description": "« Salesforce 플랫폼에 내장된 AI 도구 모음입니다. 자동으로 생성된 예측 및 콘텐츠를 통해 영업, 고객 서비스 및 마케팅 최적화 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/salesforce-einstein.png",
+      "url": "https://www.aixploria.com/en/salesforce-einstein-ai/",
+      "type": "Free-Trial",
+      "category": "#Automation, #Business",
+      "upvotes": 31
+    },
+    {
+      "name": "Kolors Virtual",
+      "description": "« 이 특이한 AI를 사용하여 자신의 사진에 가상으로 옷을 입어보세요. 올바른 선택을 하는 데 도움이 되도록 다양한 의상과 스타일을 빠르게 시각화합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/kolors-virtual.png",
+      "url": "https://www.aixploria.com/en/kolors-virtual-ai/",
+      "type": "무료",
+      "category": "#E-commerce, #Fashion",
+      "upvotes": 20
+    },
+    {
+      "name": "Naker",
+      "description": "« 3D로 시각화 가능한 제품 디자인 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/naker.png",
+      "url": "https://www.aixploria.com/en/naker/",
+      "type": "부분 무료",
+      "category": "#Business, #E-commerce",
+      "upvotes": 4
+    },
+    {
+      "name": "Zendesk AI",
+      "description": "« 귀하의 비즈니스를 철저히 파악하는 AI ChatBot의 지원을 받아 고객에게 고객 서비스를 제공하십시오. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/06/zendesk-fav-ai.png",
+      "url": "https://www.aixploria.com/en/zendesk-ai/",
+      "type": "부분 무료",
+      "category": "#Business, #Customer Support",
+      "upvotes": 2
+    },
+    {
+      "name": "SmartScout",
+      "description": "« AI와 데이터로 Amazon SEO 개선하기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/smartscout.png",
+      "url": "https://www.aixploria.com/en/smartscout/",
+      "type": "무료",
+      "category": "#Business, #E-commerce",
+      "upvotes": 3
+    },
+    {
+      "name": "Chatbot AI",
+      "description": "« 고객 서비스를 제공하는 보조자(챗봇) »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/chatbot-ai.png",
+      "url": "https://www.aixploria.com/en/chatbot-ai/",
+      "type": "유료",
+      "category": "#Business, #ChatBots",
+      "upvotes": 9
+    },
+    {
+      "name": "Amelia by Amazon",
+      "description": "« Amazon 판매자를 위한 맞춤형 AI 도우미. 전자상거래 플랫폼에서 비즈니스를 최적화하기 위한 즉각적인 답변, 성과 분석 및 권장 사항을 얻으세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/amelia-by-amazon.png",
+      "url": "https://www.aixploria.com/en/amelia-by-amazon-ai/",
+      "type": "무료",
+      "category": "#Business, #E-commerce",
+      "upvotes": 35
+    },
+    {
+      "name": "Markopolo",
+      "description": "« Instagram, Google, TikTok, YouTube, LinkedIn 또는 Facebook과 같은 소셜 네트워크에서 잃어버린 청중 복구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/markopolo.png",
+      "url": "https://www.aixploria.com/en/markopolo/",
+      "type": "부분 무료",
+      "category": "#E-commerce, #Social Networks",
+      "upvotes": 1
+    },
+    {
+      "name": "Hero AI",
+      "description": "« AI로 품목을 스캔하여 가격과 정확한 품목 참조를 즉시 얻으십시오. 스마트폰과 태블릿에서 작동 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/hero-ai.png",
+      "url": "https://www.aixploria.com/en/hero-ai/",
+      "type": "무료",
+      "category": "#E-commerce, #Future Tools",
+      "upvotes": 5
+    },
+    {
+      "name": "OpenWidget",
+      "description": "« 방문자를 만족스러운 고객으로 만드는 다양한 AI 도구: 문의 양식, 제품 카드, 지능형 FAQ, 위젯, 플러그인 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/openwidget.png",
+      "url": "https://www.aixploria.com/en/openwidget-ai/",
+      "type": "무료",
+      "category": "#E-commerce",
+      "upvotes": 11
+    },
+    {
+      "name": "Tidio",
+      "description": "« AI 챗봇과 라이브 채팅 시스템을 결합한 동적 고객 서비스 도구입니다. 고객 참여 개선에 이상적 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/tidio.png",
+      "url": "https://www.aixploria.com/en/tidio-ai/",
+      "type": "부분 무료",
+      "category": "#Customer Support, #E-commerce",
+      "upvotes": 4
+    },
+    {
+      "name": "OutplayHQ",
+      "description": "« 더 많은 매출을 올리고 방문자를 단골 고객으로 전환하는 데 도움이 되는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/outplayhq.png",
+      "url": "https://www.aixploria.com/en/outplayhq/",
+      "type": "무료",
+      "category": "#Business, #E-commerce",
+      "upvotes": 4
+    },
+    {
+      "name": "AI Ad by ADSBY",
+      "description": "« AI로 관련 광고 캠페인을 만드세요. Google, LinkedIn, Instagram, Facebook 및 X(Twitter)에서 작동합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-ad-by-adsby.png",
+      "url": "https://www.aixploria.com/en/ai-ad-text-generator/",
+      "type": "무료",
+      "category": "#Business, #E-commerce",
+      "upvotes": 3
+    },
+    {
+      "name": "Contlo.ai",
+      "description": "« 소셜 네트워크에서의 마케팅 활동에 도움을 주는 어시스턴트 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/contlo-ai.png",
+      "url": "https://www.aixploria.com/en/contlo-ai/",
+      "type": "부분 무료",
+      "category": "#Business, #E-commerce",
+      "upvotes": 4
+    },
+    {
+      "name": "IngestAI",
+      "description": "« WhatsApp, Telegram, Discord 또는 Slack에 통합할 수 있는 상용 챗봇 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ingestai.png",
+      "url": "https://www.aixploria.com/en/ingestai/",
+      "type": "무료",
+      "category": "#ChatBots, #E-commerce",
+      "upvotes": 2
+    },
+    {
+      "name": "Trove AI",
+      "description": "« 청중이 상호 작용할 수 있는 지능적인 대화형 설문조사를 만드세요. 참여 지표 측정에 적합 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/trove-ai.png",
+      "url": "https://www.aixploria.com/en/trove-ai/",
+      "type": "부분 무료",
+      "category": "#Business, #E-commerce",
+      "upvotes": 6
+    },
+    {
+      "name": "WriteText.ai",
+      "description": "« WooCommerce를 위해 특별히 개발된 글쓰기 도우미입니다. 제품 설명과 SEO 콘텐츠를 매우 빠르게 생성할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/writetext-ai.png",
+      "url": "https://www.aixploria.com/en/writetext-ai/",
+      "type": "부분 무료",
+      "category": "#E-commerce, #Writing & Web SEO",
+      "upvotes": 8
+    },
+    {
+      "name": "Naratix",
+      "description": "« 여러 언어로 제품 설명 작성을 자동화하고 SEO에 최적화하세요. 귀하의 브랜드와 고객에 맞는 맞춤형 콘텐츠 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/naratix.png",
+      "url": "https://www.aixploria.com/en/naratix-ai-e-commerce/",
+      "type": "Free-Trial",
+      "category": "#E-commerce",
+      "upvotes": 22
+    },
+    {
+      "name": "Coachvox AI",
+      "description": "« 자신만의 AI 클론을 만들어 상호 작용하고 리드 생성을 돕습니다. 방문자를 잠재 고객으로 전환하는 데 이상적입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/coachvox-ai.png",
+      "url": "https://www.aixploria.com/en/coachvox-ai/",
+      "type": "유료",
+      "category": "#Business, #E-commerce",
+      "upvotes": 5
+    },
+    {
+      "name": "AI Assist by Tawk",
+      "description": "« 자주 묻는 질문에 대한 답변을 자동화하고 상담원을 지원하여 효율성을 높여 고객 서비스를 개선합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-assist-by-tawk.png",
+      "url": "https://www.aixploria.com/en/ai-assist-by-tawk/",
+      "type": "부분 무료",
+      "category": "#ChatBots, #Customer Support",
+      "upvotes": 24
+    },
+    {
+      "name": "Wear-Any-Way",
+      "description": "« 새로운 맞춤형 가상 피팅 도구를 만나보세요. 의류 스타일의 정밀한 처리가 쉬워졌습니다(프로젝트 진행 중) »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/wear-any-way.png",
+      "url": "https://www.aixploria.com/en/wear-any-way-ai/",
+      "type": "무료",
+      "category": "#E-commerce, #Future Tools",
+      "upvotes": 14
+    },
+    {
+      "name": "Penny AI",
+      "description": "« 온라인 절약을 위한 AI 쇼핑 도우미. 이 Chrome 확장 프로그램을 사용하여 쉽게 가격을 비교하고 장단점을 분석하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/penny-ai.png",
+      "url": "https://www.aixploria.com/en/penny-ai/",
+      "type": "무료",
+      "category": "#E-commerce, #Life Assistants",
+      "upvotes": 2
+    },
+    {
+      "name": "CallFluent AI",
+      "description": "« 자연스럽게 소통하고 이의를 처리하며 연중무휴로 운영되는 AI 음성 에이전트로 인바운드 및 아웃바운드 통화를 자동화합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/callfluent-ai.png",
+      "url": "https://www.aixploria.com/en/callfluent-ai/",
+      "type": "유료",
+      "category": "#Business, #E-commerce",
+      "upvotes": 27
+    },
+    {
+      "name": "Pixels AI",
+      "description": "« 추세를 감지하고 수익을 늘리세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/pixels-ai.png",
+      "url": "https://www.aixploria.com/en/pixel-ai/",
+      "type": "부분 무료",
+      "category": "#Business, #E-commerce",
+      "upvotes": 7
+    },
+    {
+      "name": "Bland.ai",
+      "description": "« 사람의 목소리를 사용하여 하루에 수백만 건의 전화를 걸 수 있는 AI 지원 전화 에이전트를 배포합니다. 고객 지원, 판매 등에 이상적입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/bland-ai.png",
+      "url": "https://www.aixploria.com/en/bland-ai/",
+      "type": "부분 무료",
+      "category": "#Business, #Customer Support",
+      "upvotes": 4
+    },
+    {
+      "name": "Jector.ai",
+      "description": "« Jector를 사용하여 제품 사진을 위한 멋진 배경을 만드세요. 텍스트 지침을 사용하여 시각적 요소를 쉽게 향상하고 수정합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/jector-ai.png",
+      "url": "https://www.aixploria.com/en/jector-ai/",
+      "type": "부분 무료",
+      "category": "#E-commerce, #Image editing",
+      "upvotes": 14
+    },
+    {
+      "name": "CopyMonkey",
+      "description": "« Amazon 웹사이트에 대한 목록 생성 및 최적화 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/copymonkey.png",
+      "url": "https://www.aixploria.com/en/copymonkey/",
+      "type": "부분 무료",
+      "category": "#Business, #E-commerce",
+      "upvotes": 2
+    },
+    {
+      "name": "Kartiv",
+      "description": "« 프롬프트를 통해 멋진 비주얼을 만들어내는 AI 기반 디자인 어시스턴트. 마케팅 및 전자상거래에 적합합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/kartiv.png",
+      "url": "https://www.aixploria.com/en/kartiv/",
+      "type": "무료",
+      "category": "#E-commerce, #Image Generators",
+      "upvotes": 1
+    },
+    {
+      "name": "AI Backdrop",
+      "description": "« 이 마케팅 지향 배경 생성기로 설득력 있고 사실적인 배경 만들기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-backdrop.png",
+      "url": "https://www.aixploria.com/en/ai-backdrop/",
+      "type": "무료",
+      "category": "#E-commerce, #Websites & Design",
+      "upvotes": 0
+    },
+    {
+      "name": "Syncly",
+      "description": "« 모든 고객 피드백을 중앙 집중화하고 분석합니다. AI는 부정적인 신호를 감지하고 조치의 우선순위를 정합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/syncly.png",
+      "url": "https://www.aixploria.com/en/syncly-ai/",
+      "type": "Free-Trial",
+      "category": "#Automation, #Customer Support",
+      "upvotes": 15
+    },
+    {
+      "name": "VmakeAI",
+      "description": "« 사진을 쉽게 편집하고 제품 이미지를 맞춤 설정하세요. 옷을 입을 수 있는 현실적인 인간 모델도 생성하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/vmakeai.png",
+      "url": "https://www.aixploria.com/en/vmakeai/",
+      "type": "부분 무료",
+      "category": "#E-commerce, #Fashion",
+      "upvotes": 0
+    },
+    {
+      "name": "AI Shopify Product Reviews",
+      "description": "« Shopify 스토어에서 고객 리뷰를 최대한 활용하세요. AI가 자동으로 요청하고, 표시하고, 상호 작용합니다. ReviewXpo로 신뢰도 높이기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-shopify-product-reviews.png",
+      "url": "https://www.aixploria.com/en/shopify-product-reviews-by-reviewxpo/",
+      "type": "부분 무료",
+      "category": "#E-commerce",
+      "upvotes": 0
+    },
+    {
+      "name": "Doly by AniML",
+      "description": "« iPhone으로 제품의 고품질 3D 비디오를 제작하세요. 다양한 각도에서 캡처하여 소셜 네트워크나 광고로 내보내기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/doly-by-animl.png",
+      "url": "https://www.aixploria.com/en/doly-by-animl-ai/",
+      "type": "부분 무료",
+      "category": "#E-commerce, #Video Generators",
+      "upvotes": 16
+    },
+    {
+      "name": "VanceAI Background Generator",
+      "description": "« 동일한 유형의 다른 제품보다 더 정확하게 이미지에서 배경을 제거합니다. 한 번에 여러 이미지를 사용자 정의하고 처리합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/vanceai-background-generator.png",
+      "url": "https://www.aixploria.com/en/vanceai-background-generator/",
+      "type": "부분 무료",
+      "category": "#E-commerce, #Image editing",
+      "upvotes": 3
+    },
+    {
+      "name": "Feedbuck AI",
+      "description": "« 귀하의 웹사이트 URL을 입력하고 귀하의 비즈니스에 맞는 사용자 피드백 위젯을 받으세요. MVP를 검증하고 제품 시장에 적합한 제품을 빠르게 찾으세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/feedbuck-ai.png",
+      "url": "https://www.aixploria.com/en/feedbuck-ai/",
+      "type": "유료",
+      "category": "#E-commerce, #Websites & Design",
+      "upvotes": 14
+    },
+    {
+      "name": "OnModel.ai",
+      "description": "« AI 생성 모델로 Shopify 판매를 늘리세요. 모델의 배경과 인종 변경 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/onmodel-ai.png",
+      "url": "https://www.aixploria.com/en/onmodel-ai/",
+      "type": "부분 무료",
+      "category": "#E-commerce",
+      "upvotes": 0
+    },
+    {
+      "name": "Twig",
+      "description": "« 고객이 기술 문서나 복잡한 문서에서 정확하고 관련성 높은 답변을 빠르게 찾을 수 있도록 돕는 AI 도우미 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/twig.png",
+      "url": "https://www.aixploria.com/en/twig/",
+      "type": "무료",
+      "category": "#ChatBots, #Customer Support",
+      "upvotes": 0
+    },
+    {
+      "name": "ChatMaxima",
+      "description": "« 복잡한 코드 없이 대화형 챗봇을 제공하는 마케팅 플랫폼입니다. 다양한 미디어를 통해 고객 만족도 향상 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/chatmaxima.png",
+      "url": "https://www.aixploria.com/en/chatmaxima-ai/",
+      "type": "부분 무료",
+      "category": "#ChatBots, #E-commerce",
+      "upvotes": 1
+    },
+    {
+      "name": "iMean Shopping",
+      "description": "« 쇼핑 세션 동안 당신을 돕는 AI 부조종사. 최고의 프로모션을 검색하고, 가격을 비교하고, 데이터를 추출하는 등의 작업을 수행합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/imean-shopping.png",
+      "url": "https://www.aixploria.com/en/imean-shopping-ai/",
+      "type": "무료",
+      "category": "#E-commerce, #Life Assistants",
+      "upvotes": 0
+    },
+    {
+      "name": "Zyng",
+      "description": "« 귀하의 제품에 대한 매력적인 홍보 또는 광고 이미지를 순식간에 생성하십시오. 전자상거래 사이트에 적합 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/zyng.png",
+      "url": "https://www.aixploria.com/en/zyng/",
+      "type": "무료",
+      "category": "#E-commerce",
+      "upvotes": 1
+    },
+    {
+      "name": "AI Assist by Dopt",
+      "description": "« 즉각적이고 관련성이 높으며 지속적으로 업데이트되는 AI 지원을 통해 방문자를 돕고 지원하십시오. 내장형 ChatBot으로 사용 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-assist-by-dopt.png",
+      "url": "https://www.aixploria.com/en/ai-assist-by-dopt/",
+      "type": "부분 무료",
+      "category": "#ChatBots, #E-commerce",
+      "upvotes": 11
+    },
+    {
+      "name": "Abyssale",
+      "description": "« 자동 모드의 시각적 마케팅 콘텐츠 제작 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/abyssale.png",
+      "url": "https://www.aixploria.com/en/abyssale/",
+      "type": "유료",
+      "category": "#Business, #E-commerce",
+      "upvotes": 2
+    },
+    {
+      "name": "Oxolo",
+      "description": "« 귀하의 전자상거래 사이트에서 판매하는 제품의 URL을 통해 광고 동영상 제작 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/oxolo.png",
+      "url": "https://www.aixploria.com/en/oxolo/",
+      "type": "부분 무료",
+      "category": "#E-commerce, #Marketing",
+      "upvotes": 0
+    },
+    {
+      "name": "Heylibby.ai",
+      "description": "« 널리 사용되는 CRM 플랫폼과 원활하게 통합되는 AI 도구를 사용하여 리드 생성 및 예약 자동화 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/heylibby-ai/",
+      "type": "무료",
+      "category": "#E-commerce, #Marketing",
+      "upvotes": 0
+    },
+    {
+      "name": "Gista",
+      "description": "« 웹사이트 방문자를 잠재 고객으로 전환하는 데 도움이 되는 AI 도우미입니다. 전자상거래 사이트에 권장됨 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/gista.png",
+      "url": "https://www.aixploria.com/en/gista/",
+      "type": "부분 무료",
+      "category": "#ChatBots, #E-commerce",
+      "upvotes": 2
+    },
+    {
+      "name": "ioni",
+      "description": "« 고객에게 서비스를 제공하기 위해 ChatGPT-4로 구동되는 챗봇. 모든 종류의 질문에 신속하게 답변할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ioni.png",
+      "url": "https://www.aixploria.com/en/ioni-ai/",
+      "type": "유료",
+      "category": "#ChatBots, #E-commerce",
+      "upvotes": 0
+    },
+    {
+      "name": "Chatbros.ai",
+      "description": "« 고객에게 전문적으로 응답하고 안내할 수 있는 AI 챗봇입니다. 전환율을 높이는 데 이상적입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/chatbros-ai.png",
+      "url": "https://www.aixploria.com/en/chatbros-ai/",
+      "type": "유료",
+      "category": "#ChatBots, #E-commerce",
+      "upvotes": 2
+    },
+    {
+      "name": "FrequentlyAskedAI",
+      "description": "« 지능형 FAQ를 신속하게 생성하여 모든 고객 질문에 대한 즉각적인 답변 제공 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/frequentlyaskedai.png",
+      "url": "https://www.aixploria.com/en/frequentlyaskedai/",
+      "type": "유료",
+      "category": "#Customer Support, #E-commerce",
+      "upvotes": 1
+    },
+    {
+      "name": "Hypotenuse ai",
+      "description": "« 소셜 네트워크 또는 브랜드 제품에 대한 콘텐츠 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/hypotenuse-ai.png",
+      "url": "https://www.aixploria.com/en/hypotenuse-ai/",
+      "type": "부분 무료",
+      "category": "#Business, #E-commerce",
+      "upvotes": 1
+    },
+    {
+      "name": "Manifest AI",
+      "description": "« GPT-3.5를 기반으로 하고 Shopify(전자상거래)와 호환되는 쇼핑 도우미입니다. 귀하의 고객은 맞춤형 제품 추천을 받습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/manifest-ai.png",
+      "url": "https://www.aixploria.com/en/manifest-ai/",
+      "type": "유료",
+      "category": "#Business, #E-commerce",
+      "upvotes": 1
+    },
+    {
+      "name": "ProductBot (Claros)",
+      "description": "« 상품 구매 전 도움을 주는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/productbot--claros-.png",
+      "url": "https://www.aixploria.com/en/productbot/",
+      "type": "무료",
+      "category": "#E-commerce, #Life Assistants",
+      "upvotes": 4
+    },
+    {
+      "name": "Gizzmo AI",
+      "description": "« Amazon 제휴 기사 생성을 단순화하는 WordPress 플러그인입니다. 단 몇 번의 클릭만으로 최적화된 콘텐츠 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/gizzmo-ai.png",
+      "url": "https://www.aixploria.com/en/gizzmo-ai/",
+      "type": "유료",
+      "category": "#E-commerce, #Websites & Design",
+      "upvotes": 0
+    },
+    {
+      "name": "Userdesk",
+      "description": "« 데이터로 훈련된 코드 없는 AI 챗봇을 빠르게 생성하세요. 고객 지원 개선 및 생산성 향상 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/userdesk.png",
+      "url": "https://www.aixploria.com/en/userdesk/",
+      "type": "부분 무료",
+      "category": "#ChatBots, #Customer Support",
+      "upvotes": 1
+    },
+    {
+      "name": "Plumy",
+      "description": "« SEO를 최적화하고 매출 증대를 시도하는 Shopify 전자상거래용 AI 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/plumy.png",
+      "url": "https://www.aixploria.com/en/plumy/",
+      "type": "부분 무료",
+      "category": "#E-commerce",
+      "upvotes": 0
+    },
+    {
+      "name": "Octocom",
+      "description": "« 전자상거래에서 지능형 챗봇을 사용하여 매출을 늘리고 고객 경험을 개선하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/octocom.png",
+      "url": "https://www.aixploria.com/en/octocom/",
+      "type": "유료",
+      "category": "#ChatBots, #Customer Support",
+      "upvotes": 0
+    },
+    {
+      "name": "ChatWizard",
+      "description": "« 고객과 상호작용하기 위해 훈련하고 사용자 정의할 수 있는 AI ChatBot »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/chatwizard.png",
+      "url": "https://www.aixploria.com/en/chatwizard/",
+      "type": "무료",
+      "category": "#ChatBots, #Customer Support",
+      "upvotes": 0
+    },
+    {
+      "name": "Zeg AI",
+      "description": "« 귀하의 상용 제품을 위한 전문적인 품질의 비디오 또는 사진(3D)을 손쉽게 얻으세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/zeg-ai.png",
+      "url": "https://www.aixploria.com/en/zeg-ai/",
+      "type": "부분 무료",
+      "category": "#E-commerce, #Marketing",
+      "upvotes": 1
+    },
+    {
+      "name": "MarketingBlocks AI",
+      "description": "« 랜딩 페이지, 동영상, 광고, 텍스트 등을 만들 수 있는 올인원 마케팅 AI 도우미 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/marketingblocks-ai.png",
+      "url": "https://www.aixploria.com/en/marketingblocks-ai/",
+      "type": "부분 무료",
+      "category": "#Business, #E-commerce",
+      "upvotes": 1
+    },
+    {
+      "name": "Breeze AI",
+      "description": "« 전자상거래 사이트나 마케팅 캠페인을 위한 제품 사진을 손쉽게 편집하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/breeze-ai.png",
+      "url": "https://www.aixploria.com/en/breeze-ai/",
+      "type": "부분 무료",
+      "category": "#E-commerce, #Image editing",
+      "upvotes": 0
+    },
+    {
+      "name": "Lumiere 3D",
+      "description": "« 매장이나 전자상거래 사이트에 제품을 소개하기 위한 3D 비디오 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/lumiere-3d.png",
+      "url": "https://www.aixploria.com/en/lumiere-3d/",
+      "type": "유료",
+      "category": "#E-commerce, #Marketing",
+      "upvotes": 0
+    },
+    {
+      "name": "Moda AI",
+      "description": "« 전자상거래를 위한 올인원 마케팅 플랫폼입니다. 옴니채널 마케팅 전략을 통해 판매 최적화 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/moda-ai.png",
+      "url": "https://www.aixploria.com/en/moda-ai/",
+      "type": "유료",
+      "category": "#E-commerce, #Marketing",
+      "upvotes": 0
+    },
+    {
+      "name": "Digital First AI",
+      "description": "« 마케팅 계획 수립을 단순화하고 광고 캠페인을 최적화하는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/digital-first-ai.png",
+      "url": "https://www.aixploria.com/en/digital-first-ai/",
+      "type": "유료",
+      "category": "#Business, #E-commerce",
+      "upvotes": 1
+    },
+    {
+      "name": "DoMyShoot",
+      "description": "« 전자상거래 사이트를 위한 제품 사진 촬영의 간편하고 전문적인 구현 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/domyshoot.png",
+      "url": "https://www.aixploria.com/en/domyshoot/",
+      "type": "부분 무료",
+      "category": "#E-commerce, #Websites & Design",
+      "upvotes": 1
+    },
+    {
+      "name": "Reetail AI",
+      "description": "« 코딩이나 지식 없이도 1분 안에 전자상거래 사이트 만들기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/reetail-ai.png",
+      "url": "https://www.aixploria.com/en/reetail-ai/",
+      "type": "부분 무료",
+      "category": "#E-commerce, #No Code/Low Code",
+      "upvotes": 0
+    },
+    {
+      "name": "Bannerbear",
+      "description": "« 이미지, 비디오, PDF 등을 생성하기 위한 마케팅 자동화 도구, API 및 통합 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/bannerbear.png",
+      "url": "https://www.aixploria.com/en/bannerbear/",
+      "type": "유료",
+      "category": "#Automation, #E-commerce",
+      "upvotes": 1
+    },
+    {
+      "name": "Maverick AI",
+      "description": "« 각 고객을 위해 자동으로 개인화된 비디오를 제작합니다(고객의 이름이 발음됨) »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/maverick-ai.png",
+      "url": "https://www.aixploria.com/en/maverick-ai/",
+      "type": "무료",
+      "category": "#Business, #E-commerce",
+      "upvotes": 1
+    },
+    {
+      "name": "Blend AI Studio",
+      "description": "« Shopify 제품을 위한 전문가 수준의 사진을 디자인하세요. 전환율을 최대 60%까지 높이세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/blend-ai-studio.png",
+      "url": "https://www.aixploria.com/en/blend-ai-studio/",
+      "type": "유료",
+      "category": "#Business, #E-commerce",
+      "upvotes": 1
+    },
+    {
+      "name": "Adcrafter AI",
+      "description": "« Google Ads 캠페인을 자동화하고 고성능 광고 만들기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/adcrafter-ai.png",
+      "url": "https://www.aixploria.com/en/adcrafter-ai/",
+      "type": "부분 무료",
+      "category": "#E-commerce, #Marketing",
+      "upvotes": 1
+    },
+    {
+      "name": "AI Product Photos",
+      "description": "« 전자상거래 제품에 대한 사진을 편집하고 생성하세요. Shopify에서 매출을 빠르게 향상시키세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-product-photos.png",
+      "url": "https://www.aixploria.com/en/ai-product-photos/",
+      "type": "유료",
+      "category": "#E-commerce, #Image editing",
+      "upvotes": 0
+    },
+    {
+      "name": "Chatfuel AI",
+      "description": "« 고객을 위한 크로스 플랫폼 AI ChatBot을 쉽게 만들 수 있습니다. 참여 및 전환율 증가 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/chatfuel-ai.png",
+      "url": "https://www.aixploria.com/en/chatfuel-ai/",
+      "type": "유료",
+      "category": "#Business, #ChatBots",
+      "upvotes": 1
+    },
+    {
+      "name": "Evolup",
+      "description": "« 마케팅, SEO 등의 AI 전문가와 함께 Amazon에서 맞춤형 제휴 스토어를 만드세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/evolup.png",
+      "url": "https://www.aixploria.com/en/evolup/",
+      "type": "부분 무료",
+      "category": "#E-commerce, #Marketing",
+      "upvotes": 0
+    },
+    {
+      "name": "Octane AI",
+      "description": "« AI 상호작용을 통해 고객에게 질문하고 매출을 늘리세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/octane-ai.png",
+      "url": "https://www.aixploria.com/en/octane-ai/",
+      "type": "부분 무료",
+      "category": "#E-commerce, #Sales & Conversion",
+      "upvotes": 0
+    },
+    {
+      "name": "SolidGrids",
+      "description": "« 전자상거래 사이트를 위한 전문적인 이미지 자동 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/solidgrids.png",
+      "url": "https://www.aixploria.com/en/solidgrids/",
+      "type": "부분 무료",
+      "category": "#E-commerce",
+      "upvotes": 0
+    },
+    {
+      "name": "Sellesta",
+      "description": "« Amazon 스토어의 제품 목록에 대한 자동 분석 및 최적화 받기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/sellesta.png",
+      "url": "https://www.aixploria.com/en/sellesta/",
+      "type": "부분 무료",
+      "category": "#E-commerce",
+      "upvotes": 0
+    },
+    {
+      "name": "Aidaptive",
+      "description": "« 전환율과 판매율을 자동으로 예측하고 개선합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/aidaptive.png",
+      "url": "https://www.aixploria.com/en/aidaptive/",
+      "type": "부분 무료",
+      "category": "#E-commerce, #Sales & Conversion",
+      "upvotes": 0
+    },
+    {
+      "name": "Lebesgue",
+      "description": "« 시장을 분석하고 온라인 비즈니스를 위한 고품질 마케팅 최적화를 수행할 수 있는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/lebesgue.png",
+      "url": "https://www.aixploria.com/en/lebesgue/",
+      "type": "부분 무료",
+      "category": "#E-commerce, #Marketing",
+      "upvotes": 0
+    }
+  ]
+}
