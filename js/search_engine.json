@@ -1,0 +1,536 @@
+{
+  "name": "Search engine",
+  "items": [
+    {
+      "name": "Perplexity AI",
+      "description": "« 복잡한 질문에 대한 정확한 답변을 제공하는 검색 엔진 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/perplexity-ai.png",
+      "url": "https://www.aixploria.com/en/perplexity-ai/",
+      "type": "무료",
+      "category": "#Education / Studies, #Research & Science",
+      "upvotes": 767
+    },
+    {
+      "name": "Globe Explorer AI",
+      "description": "« AI 모델을 사용하여 모든 주제를 시각적으로 분류하는 검색 엔진입니다. 이 접근 방식은 기존 검색 엔진에 탁월한 기능을 제공합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/globe-explorer-ai.png",
+      "url": "https://www.aixploria.com/en/globe-explorer-ai-search-engine/",
+      "type": "무료",
+      "category": "#Education / Studies, #Search engine",
+      "upvotes": 107
+    },
+    {
+      "name": "Bagoodex",
+      "description": "« 매우 정확하고 신뢰할 수 있는 결과를 실시간으로 제공하는 강력한 AI 검색 엔진입니다. 이 도구는 무료이며 다국어로 제공되며 개인정보를 보호합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/bagoodex.png",
+      "url": "https://www.aixploria.com/en/bagoodex-ai-search-engine/",
+      "type": "무료",
+      "category": "#Search engine",
+      "upvotes": 49
+    },
+    {
+      "name": "Microsoft Bing",
+      "description": "« 새로운 AI 기반 Bing 검색 엔진. 궁금한 점을 인공지능에게 직접 물어보고, 더욱 정확한 답변을 받아보세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/microsoft-bing.png",
+      "url": "https://www.aixploria.com/en/microsoft-bing/",
+      "type": "무료",
+      "category": "#Search engine",
+      "upvotes": 430
+    },
+    {
+      "name": "You.com",
+      "description": "« 챗봇 형태의 새로운 AI 검색 엔진. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/you-com.png",
+      "url": "https://www.aixploria.com/en/you-com/",
+      "type": "무료",
+      "category": "#Search engine",
+      "upvotes": 34
+    },
+    {
+      "name": "GPTGO",
+      "description": "« Google과 ChatGPT를 사용하여 가장 관련성이 높고 정확한 답변을 제공하는 고성능 검색 엔진 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/gptgo.png",
+      "url": "https://www.aixploria.com/en/gptgo/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Search engine",
+      "upvotes": 47
+    },
+    {
+      "name": "Phind",
+      "description": "« 연구 및 코딩 전문 AI 비서. 기술적인 질문에 대한 자세한 답변과 작업 코드 얻기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/phind.png",
+      "url": "https://www.aixploria.com/en/phind/",
+      "type": "무료",
+      "category": "#Developer Tools, #Search engine",
+      "upvotes": 45
+    },
+    {
+      "name": "Searcholic",
+      "description": "« AI 기반 검색 엔진에서 수백만 권의 전자책과 문서(학술 논문 포함) 검색 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/searcholic.png",
+      "url": "https://www.aixploria.com/en/searcholic/",
+      "type": "무료",
+      "category": "#Education / Studies, #Search engine",
+      "upvotes": 11
+    },
+    {
+      "name": "Arc Search",
+      "description": "« AI를 핵심으로 하는 빠르고 현대적인 모바일 브라우저. 고급 개인화 옵션 및 개인정보 보호 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/arc-search.png",
+      "url": "https://www.aixploria.com/en/arc-search-ai/",
+      "type": "무료",
+      "category": "#Search engine",
+      "upvotes": 27
+    },
+    {
+      "name": "Songtell",
+      "description": "« 다양한 장르의 50,000개 이상의 음악과 노래 레퍼토리 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/songtell.png",
+      "url": "https://www.aixploria.com/en/songtell/",
+      "type": "무료",
+      "category": "#Music, #Search engine",
+      "upvotes": 7
+    },
+    {
+      "name": "Scite.ai",
+      "description": "« 과학 논문을 발견하고 평가하기 위한 AI 검색 플랫폼입니다. 12억 건의 인용 및 1억 8,700만 개의 기사 검색 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/scite-ai.png",
+      "url": "https://www.aixploria.com/en/scite-ai/",
+      "type": "유료",
+      "category": "#Education / Studies, #Research & Science",
+      "upvotes": 59
+    },
+    {
+      "name": "Komo Search",
+      "description": "« 커뮤니티 주제를 기반으로 보다 정확한 조사를 가능하게 하는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/komo-search.png",
+      "url": "https://www.aixploria.com/en/komo-search/",
+      "type": "무료",
+      "category": "#Search engine",
+      "upvotes": 26
+    },
+    {
+      "name": "Liner AI",
+      "description": "« ChatGPT가 제공하는 작업 공간을 위한 AI 부조종사. 연구 효율성을 향상시키기 위한 정보 및 참고 자료를 빠르게 찾으세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/liner-ai.png",
+      "url": "https://www.aixploria.com/en/liner-ai-search-assistant/",
+      "type": "무료",
+      "category": "#Education / Studies, #Research & Science",
+      "upvotes": 48
+    },
+    {
+      "name": "Semantic Scholar",
+      "description": "« 의미론적 AI 검색 엔진과 개발자를 위한 강력한 API를 통해 2억 2천만 권의 과학 출판물 탐색 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/semantic-scholar.png",
+      "url": "https://www.aixploria.com/en/semantic-scholar-ai-search-engine/",
+      "type": "무료",
+      "category": "#Developer Tools, #Education / Studies",
+      "upvotes": 60
+    },
+    {
+      "name": "SearchGPT",
+      "description": "« OpenAI가 설계한 새로운 검색 시스템 덕분에 명확한 소스로부터 빠르고 정확한 답변을 얻을 수 있습니다. 프로토타입은 현재 테스트 중이며 곧 ChatGPT에 통합될 예정입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/searchgpt.png",
+      "url": "https://www.aixploria.com/en/searchgpt-openai/",
+      "type": "무료",
+      "category": "#Future Tools, #Search engine",
+      "upvotes": 44
+    },
+    {
+      "name": "Ask an AI",
+      "description": "« 이 검색 엔진에 질문을 하면 AI가 답을 찾아줄 것입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ask-an-ai.png",
+      "url": "https://www.aixploria.com/en/ask-an-ai/",
+      "type": "무료",
+      "category": "#Search engine",
+      "upvotes": 13
+    },
+    {
+      "name": "Everypixel",
+      "description": "« 무료 이미지를 찾기 위해 50개 이상의 웹사이트로 이동하는 검색 엔진 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/everypixel.png",
+      "url": "https://www.aixploria.com/en/everypixel/",
+      "type": "무료",
+      "category": "#Search engine",
+      "upvotes": 5
+    },
+    {
+      "name": "Lummi AI",
+      "description": "« 인공 지능이 생성한 수천 개의 이미지를 포함하는 검색 엔진입니다. Figma와의 통합 가능성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/lummi-ai.png",
+      "url": "https://www.aixploria.com/en/lummi-ai/",
+      "type": "무료",
+      "category": "#Art, #Search engine",
+      "upvotes": 9
+    },
+    {
+      "name": "Alfred",
+      "description": "« IOS 사용자를 위한 ChatGPT 도우미와 결합된 검색 엔진 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/alfred.png",
+      "url": "https://www.aixploria.com/en/alfred/",
+      "type": "부분 무료",
+      "category": "#Productivity, #Search engine",
+      "upvotes": 6
+    },
+    {
+      "name": "Opera One Browser",
+      "description": "« 활성화 가능한 AI 모듈이 포함된 웹 브라우저. 역동적이고 반응성이 뛰어난 탐색 환경 제공 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/opera-one-browser.png",
+      "url": "https://www.aixploria.com/en/opera-one-browser/",
+      "type": "무료",
+      "category": "#Developer Tools, #Search engine",
+      "upvotes": 8
+    },
+    {
+      "name": "ChatGPT For Search Engines",
+      "description": "« 즐겨찾는 검색 엔진과 ChatGPT의 원클릭 통합 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/chatgpt-for-search-engines/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Productivity",
+      "upvotes": 8
+    },
+    {
+      "name": "Imaiger",
+      "description": "« 다양한 AI가 생성한 수백만 개의 이미지 검색 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/imaiger.png",
+      "url": "https://www.aixploria.com/en/imaiger/",
+      "type": "무료",
+      "category": "#Search engine",
+      "upvotes": 9
+    },
+    {
+      "name": "Have I Been Encoded",
+      "description": "« AI 알고리즘이 당신에 대해 무엇을 알고 있는지, 그리고 그들이 말하는 내용을 알아보세요... »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/have-i-been-encoded.png",
+      "url": "https://www.aixploria.com/en/have-i-been-encoded/",
+      "type": "무료",
+      "category": "#AI detection, #Search engine",
+      "upvotes": 15
+    },
+    {
+      "name": "Brave Leo AI",
+      "description": "« 웹 페이지를 요약하고 콘텐츠를 생성하며 질문에 답변할 수 있는 브라우저에 통합된 AI 도우미입니다. 모두 비공개로 안전하게 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/brave-leo-ai.png",
+      "url": "https://www.aixploria.com/en/brave-leo-ai/",
+      "type": "무료",
+      "category": "#AI Chat & Assistant, #Search engine",
+      "upvotes": 28
+    },
+    {
+      "name": "Algolia",
+      "description": "« 귀하의 비즈니스와 상업 프로젝트를 개선하기 위해 표적 조사를 수행하십시오. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/algolia.png",
+      "url": "https://www.aixploria.com/en/algolia/",
+      "type": "부분 무료",
+      "category": "#Search engine",
+      "upvotes": 10
+    },
+    {
+      "name": "Jeeves.Ai",
+      "description": "« 검색 엔진처럼 작동하고 모든 종류의 콘텐츠를 만들 수 있는 AI 플랫폼입니다. 모바일 호환 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/jeeves-ai.png",
+      "url": "https://www.aixploria.com/en/jeeves-ai/",
+      "type": "무료",
+      "category": "#AI Chat & Assistant, #Search engine",
+      "upvotes": 4
+    },
+    {
+      "name": "Morphic AI",
+      "description": "« 출처를 인용하면서 자세한 답변을 제공하는 오픈 소스 검색 엔진입니다. 사용하기 쉬운 인터페이스 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/morphic-ai.png",
+      "url": "https://www.aixploria.com/en/morphic-ai-search-engine/",
+      "type": "무료",
+      "category": "#Education / Studies, #Search engine",
+      "upvotes": 17
+    },
+    {
+      "name": "Play by Hyperspace",
+      "description": "« AI의 도움으로 선택한 주제를 심층적으로 탐색하세요. 선호하는 AI 소스와 모델을 선택하여 개인화된 정보 네트워크 구축 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/play-by-hyperspace.png",
+      "url": "https://www.aixploria.com/en/play-by-hyperspace-ai-search/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Search engine",
+      "upvotes": 34
+    },
+    {
+      "name": "Pages by Perplexity",
+      "description": "« 시각적으로 매력적이고 공유 가능한 콘텐츠로 실제 기사를 몇 분 만에 만들어보세요. 연구를 보다 효율적으로 정리하고 배포하는 데 이상적입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/pages-by-perplexity.png",
+      "url": "https://www.aixploria.com/en/pages-by-perplexity-ai/",
+      "type": "유료",
+      "category": "#Education / Studies, #Search engine",
+      "upvotes": 26
+    },
+    {
+      "name": "DorkGPT",
+      "description": "« Google 검색 엔진에 제출할 매우 정확한 쿼리(Dorks)를 AI로 생성합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/dorkgpt.png",
+      "url": "https://www.aixploria.com/en/dorkgpt/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Search engine",
+      "upvotes": 1
+    },
+    {
+      "name": "CrowdView",
+      "description": "« Reddit과 같은 커뮤니티 포럼에서 정보를 찾는 검색 엔진 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/crowdview.png",
+      "url": "https://www.aixploria.com/en/crowdview/",
+      "type": "무료",
+      "category": "#Search engine",
+      "upvotes": 3
+    },
+    {
+      "name": "Maester App",
+      "description": "« GPT-3으로 훈련된 모델 기반 검색 엔진. 대학생이나 회사에 적합합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/maester-app.png",
+      "url": "https://www.aixploria.com/en/maester-app/",
+      "type": "무료",
+      "category": "#Productivity, #Search engine",
+      "upvotes": 4
+    },
+    {
+      "name": "Genspark",
+      "description": "« AI 에이전트를 사용하여 개인화된 Sparkpage를 생성하는 검색 도구입니다. 이는 신뢰할 수 있고 편견 없는 정보를 제공합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/genspark.png",
+      "url": "https://www.aixploria.com/en/genspark-ai-search-engine/",
+      "type": "무료",
+      "category": "#Search engine",
+      "upvotes": 27
+    },
+    {
+      "name": "OSS Insight",
+      "description": "« 전 세계적으로 이용 가능한 수십억 개의 데이터 탐색 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/oss-insight.png",
+      "url": "https://www.aixploria.com/en/oss-insight/",
+      "type": "무료",
+      "category": "#Data & Analytics, #Search engine",
+      "upvotes": 0
+    },
+    {
+      "name": "TinEye",
+      "description": "« 이미지 인식(역방향) 전문 검색 엔진입니다. 애플리케이션: 콘텐츠 조정, 사기 탐지, 온라인 이미지 추적 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/tineye.png",
+      "url": "https://www.aixploria.com/en/tineye-ai/",
+      "type": "무료",
+      "category": "#AI detection, #Search engine",
+      "upvotes": 19
+    },
+    {
+      "name": "Bookabout",
+      "description": "« 아이디어를 설명하거나 키워드로 책을 검색하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/bookabout.png",
+      "url": "https://www.aixploria.com/en/bookabout/",
+      "type": "무료",
+      "category": "#Education / Studies, #Search engine",
+      "upvotes": 1
+    },
+    {
+      "name": "AI Hits",
+      "description": "« AI가 만든 최고의 노래 순위. SoundCloud를 통해 사이트의 음악을 직접 듣거나 다운로드할 수 있는 가능성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-hits.png",
+      "url": "https://www.aixploria.com/en/ai-hits/",
+      "type": "무료",
+      "category": "#Music, #Search engine",
+      "upvotes": 3
+    },
+    {
+      "name": "Heuristica",
+      "description": "« AI가 생성한 마인드 맵을 통해 모든 주제에 대한 개념을 시각적으로 탐색합니다. 더욱 효과적으로 검색하고 학습하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/heuristica.png",
+      "url": "https://www.aixploria.com/en/heuristica-ai/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Search engine",
+      "upvotes": 18
+    },
+    {
+      "name": "Yelp AI assistant",
+      "description": "« 대화형 AI 도우미 덕분에 서비스 제공업체 검색을 최적화하는 AI 도구입니다. 비즈니스 관리도 향상됩니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/yelp-ai-assistant.png",
+      "url": "https://www.aixploria.com/en/yelp-ai-assistant/",
+      "type": "부분 무료",
+      "category": "#AI Chat & Assistant, #Search engine",
+      "upvotes": 19
+    },
+    {
+      "name": "Aria by Opera",
+      "description": "« 모바일과 PC에서 사용할 수 있는 Opera의 무료 AI 도우미인 Aria와 채팅하세요. 즉각적인 답변과 최신 정보를 얻고 쉽게 콘텐츠를 생성할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/aria-by-opera.png",
+      "url": "https://www.aixploria.com/en/aria-by-opera-ai/",
+      "type": "무료",
+      "category": "#Search engine",
+      "upvotes": 22
+    },
+    {
+      "name": "GooGPT",
+      "description": "« ChatGPT를 Google 검색 엔진과 직접 연결하여 이 AI의 기능을 10배 확장(GptGo) »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/googpt.png",
+      "url": "https://www.aixploria.com/en/googpt/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "Lexii.ai",
+      "description": "« 출처를 인용하면서 질문에 답변하는 GPT-3의 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/lexii-ai.png",
+      "url": "https://www.aixploria.com/en/lexii-ai/",
+      "type": "무료",
+      "category": "#Search engine",
+      "upvotes": 0
+    },
+    {
+      "name": "Kailua Labs",
+      "description": "« 애플리케이션(API)에 다중 모드 검색 엔진 통합 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/kailua-labs.png",
+      "url": "https://www.aixploria.com/en/kailua-labs/",
+      "type": "부분 무료",
+      "category": "#Search engine",
+      "upvotes": 1
+    },
+    {
+      "name": "Yoursearch.ai",
+      "description": "« 관련성이 높고 개인화된 결과를 제공하는 AI 기반 검색 엔진입니다. 광고 없는 다국어 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/yoursearch-ai.png",
+      "url": "https://www.aixploria.com/en/yoursearch-ai/",
+      "type": "무료",
+      "category": "#Search engine",
+      "upvotes": 1
+    },
+    {
+      "name": "Mindfulq",
+      "description": "« 통합 챗봇을 갖춘 AI 강화 검색 엔진. 결과를 효율적으로 재구성하고 관련 답변을 대상으로 하며 소스를 제공합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/mindfulq-ai/",
+      "type": "무료",
+      "category": "#Productivity, #Search engine",
+      "upvotes": 0
+    },
+    {
+      "name": "Vespa",
+      "description": "« 대규모로 데이터를 분석하도록 설계된 AI 기반 검색 엔진 및 벡터 데이터베이스입니다. 무료로 다운로드하거나 클라우드를 통해 사용 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/vespa.png",
+      "url": "https://www.aixploria.com/en/vespa/",
+      "type": "무료",
+      "category": "#Data & Analytics, #Developer Tools",
+      "upvotes": 2
+    },
+    {
+      "name": "Nuclia",
+      "description": "« 내부 및 외부 데이터를 색인화하는 AI 엔진. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/nuclia.png",
+      "url": "https://www.aixploria.com/en/nuclia/",
+      "type": "부분 무료",
+      "category": "#Data & Analytics, #Developer Tools",
+      "upvotes": 0
+    },
+    {
+      "name": "GigaBrain",
+      "description": "« 수십억 개의 댓글을 탐색하여 관련 답변(예: Reddit에서)을 찾으세요. 효율적인 리뷰 검색 엔진 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/gigabrain.png",
+      "url": "https://www.aixploria.com/en/gigabrain/",
+      "type": "무료",
+      "category": "#Search engine",
+      "upvotes": 0
+    },
+    {
+      "name": "GoSearch AI",
+      "description": "« AI 기반 다중 모드 검색 엔진으로 회사의 지식 관리를 개선하세요. 애플리케이션을 빠르게 탐색하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/gosearch-ai.png",
+      "url": "https://www.aixploria.com/en/gosearch-ai/",
+      "type": "유료",
+      "category": "#Search engine",
+      "upvotes": 1
+    },
+    {
+      "name": "Explore AI",
+      "description": "« 관련 YouTube 동영상을 찾는 차세대 의미 검색 엔진 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/explore-ai.png",
+      "url": "https://www.aixploria.com/en/explore-ai/",
+      "type": "무료",
+      "category": "#Search engine",
+      "upvotes": 0
+    },
+    {
+      "name": "FastGPT",
+      "description": "« 다양한 주제에 대한 요약을 빠르게 제공하거나 검색 엔진 역할을 할 수 있는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/fastgpt/",
+      "type": "무료",
+      "category": "#Search engine",
+      "upvotes": 0
+    },
+    {
+      "name": "Ayraa",
+      "description": "« 귀하의 전문적인 활동을 즉시 포착하고 정리하는 검색 엔진입니다. Slack, Gmail, Quora, Google Docs, Notion 등과 호환 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ayraa.png",
+      "url": "https://www.aixploria.com/en/ayraa-ai/",
+      "type": "부분 무료",
+      "category": "#Productivity, #Search engine",
+      "upvotes": 1
+    },
+    {
+      "name": "Looria",
+      "description": "« 이 쇼핑 도우미는 구매를 완료하기 전에 모든 사항(가격, 매장, 리뷰 등)을 확인합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/looria.png",
+      "url": "https://www.aixploria.com/en/looria/",
+      "type": "무료",
+      "category": "#Search engine",
+      "upvotes": 0
+    },
+    {
+      "name": "Refsee",
+      "description": "« AI 기반 검색 엔진으로 전문 비디오, 광고, 영화 및 모션 그래픽을 검색하세요. 감독, 사진작가 등을 위한 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/refsee.png",
+      "url": "https://www.aixploria.com/en/refsee/",
+      "type": "유료",
+      "category": "#Search engine",
+      "upvotes": 0
+    },
+    {
+      "name": "BraveGPT",
+      "description": "« Brave 브라우저에 직접 ChatGPT를 추가하고 더 관련성 높은 검색을 받으세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/bravegpt.png",
+      "url": "https://www.aixploria.com/en/bravegpt/",
+      "type": "무료",
+      "category": "#Github Projects, #Search engine",
+      "upvotes": 3
+    },
+    {
+      "name": "ChatGPT For Search Engine",
+      "description": "« ChatGPT 확장 프로그램을 Google, DuckDuckGo 또는 Bing의 검색 결과에 통합하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/chatgpt-for-search-engine.png",
+      "url": "https://www.aixploria.com/en/chatgpt-chrome-extension/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Search engine",
+      "upvotes": 0
+    },
+    {
+      "name": "iAsk.AI",
+      "description": "« ChatBot(질문/답변) 또는 키워드 쿼리로 작동하는 검색 엔진 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/iask-ai.png",
+      "url": "https://www.aixploria.com/en/iask-ai/",
+      "type": "무료",
+      "category": "#Search engine",
+      "upvotes": 0
+    },
+    {
+      "name": "Maroofy",
+      "description": "« 귀하가 제출한 것과 유사한 노래나 음악을 검색하는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/maroofy.png",
+      "url": "https://www.aixploria.com/en/maroofy/",
+      "type": "무료",
+      "category": "#Music, #Search engine",
+      "upvotes": 1
+    },
+    {
+      "name": "Nyx",
+      "description": "« AI가 생성한 무료 동물, 물체 또는 풍경 이미지의 거대한 갤러리 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/nyx.png",
+      "url": "https://www.aixploria.com/en/nyx/",
+      "type": "무료",
+      "category": "#Search engine",
+      "upvotes": 0
+    }
+  ]
+}

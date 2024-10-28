@@ -1,0 +1,977 @@
+{
+  "name": "Video Edition",
+  "items": [
+    {
+      "name": "HeyGen AI",
+      "description": "« 초현실적인 AI 아바타를 만들고 텍스트로 말하게 하세요. 비디오 번역을 수행하고 자동으로 음성을 복제할 수도 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/07/heygen-V2.png",
+      "url": "https://www.aixploria.com/en/heygen-ai/",
+      "type": "부분 무료",
+      "category": "#AIxploria Selection, #Avatars",
+      "upvotes": 430
+    },
+    {
+      "name": "Adobe Premiere Pro",
+      "description": "« 강력한 AI 기능을 갖춘 전문 비디오 편집 소프트웨어: AI 비디오 생성, 스마트 전환, 음성 향상, 자동 자막, 측색 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/08/adobe-premiere-pro-icon-ai.png",
+      "url": "https://www.aixploria.com/en/adobe-premiere-pro-ai/",
+      "type": "Free-Trial",
+      "category": "#Video Edition",
+      "upvotes": 212
+    },
+    {
+      "name": "Runway ML",
+      "description": "« 다양한 AI 도구를 사용하여 정말 놀라운 비디오를 편집하고 생성하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/01/runway-fav.webp",
+      "url": "https://www.aixploria.com/en/runwayml/",
+      "type": "Free-Trial",
+      "category": "#SuperTools, #Video Edition",
+      "upvotes": 129
+    },
+    {
+      "name": "FaceFusion",
+      "description": "« DeepFake 비디오를 생성하고 영화 영웅, 가수 등 좋아하는 사람의 역할을 수행해 보세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/facefusion.png",
+      "url": "https://www.aixploria.com/en/facefusion-ai/",
+      "type": "무료",
+      "category": "#Face Swap & DeepFake, #Github Projects",
+      "upvotes": 139
+    },
+    {
+      "name": "InVideo",
+      "description": "« 비디오 편집 및 생성을 더 쉽게 만들기 위해 설계된 플랫폼입니다. AI 부조종사의 도움으로 창의력을 발휘해보세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/01/invideo-fav-3.webp",
+      "url": "https://www.aixploria.com/en/invideo/",
+      "type": "부분 무료",
+      "category": "#SuperTools, #Video Edition",
+      "upvotes": 82
+    },
+    {
+      "name": "AI Video Cut",
+      "description": "« 긴 비디오를 YouTube, TikTok 또는 광고용 바이럴 콘텐츠로 변환하세요. AI는 맞춤형 예고편, 클립, 광고를 만듭니다. 9:16, 4:3 또는 원본 크기로 내보내기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-video-cut.png",
+      "url": "https://www.aixploria.com/en/ai-video-cut/",
+      "type": "무료",
+      "category": "#AIxploria Selection, #Social Networks",
+      "upvotes": 43
+    },
+    {
+      "name": "Fliki AI",
+      "description": "« AI로 비디오 제작 방식을 가속화하세요. 프롬프트에서 자막 다듬기, 편집, 추가 또는 비디오 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/fliki-ai.png",
+      "url": "https://www.aixploria.com/en/fliki-ai/",
+      "type": "부분 무료",
+      "category": "#AIxploria Selection, #Video Edition",
+      "upvotes": 73
+    },
+    {
+      "name": "Descript",
+      "description": "« 비디오와 팟캐스트를 쉽게 편집할 수 있는 강력한 AI 도구입니다. 쓰기, 녹음, 복사, 편집 및 공유를 모두 한 곳에서 수행할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/descript.png",
+      "url": "https://www.aixploria.com/en/descript/",
+      "type": "부분 무료",
+      "category": "#Text To Speech, #Transcriber",
+      "upvotes": 41
+    },
+    {
+      "name": "Pictory AI",
+      "description": "« 편집 기술이 없더라도 자동으로 비디오를 생성합니다. 다양한 AI 도구를 사용하여 비디오 편집 및 향상 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/pictory-ai.png",
+      "url": "https://www.aixploria.com/en/pictory-ai/",
+      "type": "Free-Trial",
+      "category": "#Video Edition, #Video Generators",
+      "upvotes": 42
+    },
+    {
+      "name": "VEED",
+      "description": "« 자막 생성, 전사, 번역, 사실적인 아바타 등 수많은 인공 지능 도구의 도움으로 전문 비디오를 쉽게 편집할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/veed.png",
+      "url": "https://www.aixploria.com/en/veed/",
+      "type": "부분 무료",
+      "category": "#Video Edition",
+      "upvotes": 52
+    },
+    {
+      "name": "Unscreen",
+      "description": "« 아무런 노력 없이 무료로 동영상 배경 제거하기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/unscreen.png",
+      "url": "https://www.aixploria.com/en/unscreen/",
+      "type": "무료",
+      "category": "#SuperTools, #Video Edition",
+      "upvotes": 16
+    },
+    {
+      "name": "AI Video Translator",
+      "description": "« AI를 사용하여 비디오를 140개 이상의 언어로 자동 번역합니다. 자막 활성화가 가능하며 MP4, M4V, MOV, WEBM 등의 형식을 지원합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-video-translator.png",
+      "url": "https://www.aixploria.com/en/ai-video-translator-vidnoz/",
+      "type": "무료",
+      "category": "#Translation, #Video Edition",
+      "upvotes": 57
+    },
+    {
+      "name": "Deepfakes.lol",
+      "description": "« 강력하고 사실적인 립싱크를 사용하여 DeepFake 비디오를 만드세요. 전용 Discord 서버에서 창작물을 공유하고 토론하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/deepfakes-lol.png",
+      "url": "https://www.aixploria.com/en/deepfakes-lol/",
+      "type": "부분 무료",
+      "category": "#Face Swap & DeepFake, #Video Edition",
+      "upvotes": 8
+    },
+    {
+      "name": "Opus Clip",
+      "description": "« 긴 비디오를 TikTok, Shorts 등 소셜 네트워크용 짧은 클립으로 변환하는 데 도움이 됩니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/opus-clip.png",
+      "url": "https://www.aixploria.com/en/opus-clip/",
+      "type": "무료",
+      "category": "#Social Networks, #Video Edition",
+      "upvotes": 34
+    },
+    {
+      "name": "Translate.Video",
+      "description": "« 자막, 더빙, 전사가 포함된 동영상을 번역할 수 있는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/translate-video.png",
+      "url": "https://www.aixploria.com/en/translate-video/",
+      "type": "부분 무료",
+      "category": "#Transcriber, #Translation",
+      "upvotes": 33
+    },
+    {
+      "name": "AI Video Upscale by Capcut",
+      "description": "« AI를 통해 무료로 동영상의 해상도를 높이세요. Ultra HD(4K)로 동영상 품질 향상 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-video-upscale-by-capcut.png",
+      "url": "https://www.aixploria.com/en/ai-video-upscale-by-capcut/",
+      "type": "무료",
+      "category": "#Video Edition",
+      "upvotes": 18
+    },
+    {
+      "name": "Lumiere AI by Google",
+      "description": "« 생성적 채우기 기술을 사용하여 AI 동영상을 생성하고 쉽게 편집하기 위해 Google에서 만든 프로젝트 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/lumiere-ai-by-google.png",
+      "url": "https://www.aixploria.com/en/lumiere-ai-by-google/",
+      "type": "무료",
+      "category": "#Future Tools, #Video Edition",
+      "upvotes": 14
+    },
+    {
+      "name": "MagicAnimate",
+      "description": "« 간단한 이미지로 사람이나 가상의 인물에 애니메이션을 적용하세요. 이 비디오 프로젝트는 GitHub에서 사용할 수 있으며 이미 작동 중입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/magicanimate-ai/",
+      "type": "무료",
+      "category": "#Github Projects, #Image editing",
+      "upvotes": 11
+    },
+    {
+      "name": "sync.labs",
+      "description": "« 강력한 API를 통해 입술을 모든 비디오에 동기화하세요. AI는 오디오와 완벽하게 일치하도록 얼굴에 애니메이션을 적용합니다. 영화, 팟캐스트, 게임, 애니메이션에 적합합니다. wav2lip 창립자들의 글 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/08/sync-labs-ai-api.png",
+      "url": "https://www.aixploria.com/en/sync-labs-ai-video-api/",
+      "type": "부분 무료",
+      "category": "#Developer Tools, #Video Edition",
+      "upvotes": 46
+    },
+    {
+      "name": "Move AI",
+      "description": "« 모션 캡처 및 3D 비디오 애니메이션에 대한 전문 지식을 갖춘 AI 플랫폼입니다. 실시간으로 반응하는 3D 캐릭터 만들기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/move-ai.png",
+      "url": "https://www.aixploria.com/en/move-ai/",
+      "type": "Free-Trial",
+      "category": "#3D model, #Video Edition",
+      "upvotes": 15
+    },
+    {
+      "name": "Edimakor",
+      "description": "« 초보자와 전문가 모두의 요구를 충족하도록 설계된 포괄적인 비디오 편집 소프트웨어입니다. 비디오 편집을 간단하고 효율적이며 즐겁게 만들어주는 다양한 AI 기능을 제공합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/edimakor.png",
+      "url": "https://www.aixploria.com/en/edimakor-hitpaw-ai-video/",
+      "type": "Free-Trial",
+      "category": "#Video Edition",
+      "upvotes": 45
+    },
+    {
+      "name": "Munch",
+      "description": "« 긴 동영상을 짧고 매력적인 형식으로 변환하기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/munch.png",
+      "url": "https://www.aixploria.com/en/munch/",
+      "type": "부분 무료",
+      "category": "#Video Edition",
+      "upvotes": 15
+    },
+    {
+      "name": "Video to Sounds Effects",
+      "description": "« 음성 효과, 분위기, 소음 효과, 음악 등 프롬프트를 통해 비디오에 대한 맞춤형 음향 효과를 생성하는 AI로 창작물에 생기를 불어넣으세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/05/elevenlabs-fav.png",
+      "url": "https://www.aixploria.com/en/video-to-sounds-effects-elevenlabs-ai/",
+      "type": "무료",
+      "category": "#Audio Editing, #Video Edition",
+      "upvotes": 26
+    },
+    {
+      "name": "Wisecut",
+      "description": "« 지식 없이도 자동으로 동영상 편집 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/wisecut.png",
+      "url": "https://www.aixploria.com/en/wisecut/",
+      "type": "무료",
+      "category": "#Video Edition",
+      "upvotes": 1
+    },
+    {
+      "name": "Video AI by Topaz Labs",
+      "description": "« 고성능 AI 소프트웨어로 비디오의 해상도를 높이세요. Windows 및 macOS와 호환 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/video-ai-by-topaz-labs.png",
+      "url": "https://www.aixploria.com/en/video-ai-by-topaz-labs/",
+      "type": "유료",
+      "category": "#Video Edition",
+      "upvotes": 18
+    },
+    {
+      "name": "TikTok Watermark Remover",
+      "description": "« 무료 온라인 도구를 사용하여 TikTok 비디오에서 워터마크를 쉽게 제거하세요. 품질 저하 없이 좋아하는 콘텐츠를 다른 플랫폼에 업로드, 편집 및 공유하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/tiktok-watermark-remover.png",
+      "url": "https://www.aixploria.com/en/tiktok-watermark-remover-ai-media/",
+      "type": "부분 무료",
+      "category": "#Social Networks, #Video Edition",
+      "upvotes": 40
+    },
+    {
+      "name": "DeepFaceLab",
+      "description": "« 관련 Deepfake 생성. 사실적인 고품질 비디오를 유지하면서 얼굴을 바꾸세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/deepfacelab.png",
+      "url": "https://www.aixploria.com/en/deepfacelab/",
+      "type": "무료",
+      "category": "#Face Swap & DeepFake, #Github Projects",
+      "upvotes": 2
+    },
+    {
+      "name": "Captions",
+      "description": "« 쉽고 빠르게 비디오를 제작, 캡션 및 사용자 정의할 수 있는 AI 스튜디오 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/captions.png",
+      "url": "https://www.aixploria.com/en/captions/",
+      "type": "무료",
+      "category": "#Social Networks, #Video Edition",
+      "upvotes": 27
+    },
+    {
+      "name": "BlipCut AI Video Translator",
+      "description": "« 음성 복제, AI 음성 해설 및 고품질 자막 번역을 갖춘 스마트 비디오 번역기입니다. 동영상을 95개 언어로 자동 번역할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/blipcut-ai-video-translator.png",
+      "url": "https://www.aixploria.com/en/blipcut-ai-video-translator/",
+      "type": "부분 무료",
+      "category": "#Translation, #Video Edition",
+      "upvotes": 32
+    },
+    {
+      "name": "Magic Studio Canva",
+      "description": "« 프롬프트에서 이미지, 비디오, 프레젠테이션 또는 디자인을 생성하기 위한 AI 도구 모음입니다. 이 보조자는 전문적인 결과를 보장하기 위한 모든 단계를 안내합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/magic-studio-canva.png",
+      "url": "https://www.aixploria.com/en/magic-studio-canva-ai/",
+      "type": "부분 무료",
+      "category": "#Image editing, #Marketing",
+      "upvotes": 28
+    },
+    {
+      "name": "Media IO",
+      "description": "« 쉽고 빠르며 창의적인 비디오 및 이미지 편집기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/media-io.png",
+      "url": "https://www.aixploria.com/en/media-io/",
+      "type": "무료",
+      "category": "#Video Edition",
+      "upvotes": 1
+    },
+    {
+      "name": "Swapface",
+      "description": "« 실시간으로 현실적인 얼굴 교환을 수행하는 AI. 스트리밍, 화상 통화 등에 적합합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/swapface.png",
+      "url": "https://www.aixploria.com/en/swapface/",
+      "type": "무료",
+      "category": "#Amazing, #Face Swap & DeepFake",
+      "upvotes": 4
+    },
+    {
+      "name": "Adobe Character Animator",
+      "description": "« Adobe의 실시간 애니메이션 소프트웨어. 웹캠과 마이크를 사용하여 캐릭터에 생기를 불어넣으세요. 자동 입술 동기화와 얼굴 및 신체 추적의 이점 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/09/character-animator-64.png",
+      "url": "https://www.aixploria.com/en/adobe-character-animator-ai/",
+      "type": "Free-Trial",
+      "category": "#Video Edition, #Video Generators",
+      "upvotes": 45
+    },
+    {
+      "name": "Dubverse.ai",
+      "description": "« AI 덕분에 사실적인 음성으로 동영상을 빠르게 더빙(및 번역)할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/dubverse-ai.png",
+      "url": "https://www.aixploria.com/en/dubverse-ai/",
+      "type": "부분 무료",
+      "category": "#Video Edition",
+      "upvotes": 0
+    },
+    {
+      "name": "Peech",
+      "description": "« 비디오 콘텐츠를 대량으로 제작합니다. 한 곳에서 프로젝트 편집 및 기록 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/peech.png",
+      "url": "https://www.aixploria.com/en/peech/",
+      "type": "무료",
+      "category": "#Transcriber, #Video Edition",
+      "upvotes": 14
+    },
+    {
+      "name": "DeepSwap",
+      "description": "« 사진, GIF 또는 비디오에서 AI가 생성한 얼굴 교환. 어떤 얼굴이든 쉽게 교체할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/deepswap.png",
+      "url": "https://www.aixploria.com/en/deepswap/",
+      "type": "부분 무료",
+      "category": "#Face Swap & DeepFake, #Image editing",
+      "upvotes": 1
+    },
+    {
+      "name": "Remini",
+      "description": "« AI 기반 사진 및 비디오 향상 도구. 낮은 품질의 영상을 멋진 HD 이미지로 변환하고, 오래된 사진을 복원하고, 콘텐츠를 향상하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/remini.png",
+      "url": "https://www.aixploria.com/en/remini-ai-image-video-editing/",
+      "type": "부분 무료",
+      "category": "#Image editing, #Video Edition",
+      "upvotes": 32
+    },
+    {
+      "name": "QuickVid.Ai",
+      "description": "« YouTube Shorts와 같은 짧은 동영상 자동 생성 실험 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/quickvid-ai.png",
+      "url": "https://www.aixploria.com/en/quickvid-ai/",
+      "type": "부분 무료",
+      "category": "#Social Networks, #Video Edition",
+      "upvotes": 3
+    },
+    {
+      "name": "Papercut",
+      "description": "« AI를 사용하여 모든 언어로 비디오를 번역하고 재생합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/papercut.png",
+      "url": "https://www.aixploria.com/en/papercut/",
+      "type": "부분 무료",
+      "category": "#Translation, #Video Edition",
+      "upvotes": 11
+    },
+    {
+      "name": "Movavi",
+      "description": "« 강력한 AI 기능을 갖춘 사용하기 쉬운 비디오 편집 소프트웨어. 모션 추적, 배경 억제 및 다양한 효과를 사용하여 전문적인 비디오 제작 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/movavi.png",
+      "url": "https://www.aixploria.com/en/movavi-ai-video-editor/",
+      "type": "Free-Trial",
+      "category": "#AIxploria Selection, #Video Edition",
+      "upvotes": 24
+    },
+    {
+      "name": "UniFab",
+      "description": "« AI로 비디오 품질을 향상시키세요. 4K로 업스케일하고, HDR로 변환하고, 오래된 영화를 복원하세요. 이미지 보간, 노이즈 감소, 디인터레이스 등도 즐겨 보세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/unifab.png",
+      "url": "https://www.aixploria.com/en/unifab-ai-video-enhancer/",
+      "type": "Free-Trial",
+      "category": "#AIxploria Selection, #Video Edition",
+      "upvotes": 36
+    },
+    {
+      "name": "Free Subtitles AI",
+      "description": "« 모든 유형의 미디어에서 작동하는 무료 자막 생성기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/free-subtitles-ai.png",
+      "url": "https://www.aixploria.com/en/free-subtitles-ai/",
+      "type": "무료",
+      "category": "#Transcriber, #Video Edition",
+      "upvotes": 0
+    },
+    {
+      "name": "Unboring AI",
+      "description": "« AI를 사용하여 사진이나 비디오를 편집, 수정 및 애니메이션화하세요. 얼굴을 바꾸고 재미있는 동영상 만들기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/unboring-ai.png",
+      "url": "https://www.aixploria.com/en/unboring-ai/",
+      "type": "부분 무료",
+      "category": "#Face Swap & DeepFake, #Image editing",
+      "upvotes": 2
+    },
+    {
+      "name": "ToonCrafter",
+      "description": "« 비디오에서 훈련된 AI를 사용하여 두 개의 애니메이션 또는 만화 같은 이미지 사이의 부드러운 전환을 쉽게 생성(이미지-비디오) »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/tooncrafter.png",
+      "url": "https://www.aixploria.com/en/tooncrafter-ai-anime-cartoon/",
+      "type": "무료",
+      "category": "#Art, #Video Edition",
+      "upvotes": 28
+    },
+    {
+      "name": "AI Sound Copilot",
+      "description": "« 비디오를 업로드하면 AI가 시퀀스에 완벽하게 적합한 음향 효과를 생성합니다. 로열티 프리 오디오 효과 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-sound-copilot.png",
+      "url": "https://www.aixploria.com/en/ai-sound-copilot/",
+      "type": "무료",
+      "category": "#Amazing, #Audio Editing",
+      "upvotes": 7
+    },
+    {
+      "name": "DreaMoving",
+      "description": "« DreaMoving을 사용하면 고해상도에서도 사진에 애니메이션을 적용하여 사진을 한 단계 더 발전시킬 수 있습니다. 확산 모델 기술 사용 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/dreamoving-ai/",
+      "type": "무료",
+      "category": "#Future Tools, #Image editing",
+      "upvotes": 6
+    },
+    {
+      "name": "CapCut Online Creative Suite",
+      "description": "« 자막, 특수 효과, 배경 제거 등 동영상을 쉽게 편집할 수 있는 방대한 AI 도구 컬렉션 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/capcut-online-creative-suite.png",
+      "url": "https://www.aixploria.com/en/capcut-online-creative-suite/",
+      "type": "무료",
+      "category": "#Video Edition",
+      "upvotes": 5
+    },
+    {
+      "name": "Follow-Your-Click",
+      "description": "« 버튼 클릭만으로 이미지를 애니메이션 비디오로 변환할 수 있습니다. 원하는 움직임을 지정하고 AI가 비디오 클립을 생성하도록 하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/follow-your-click-ai/",
+      "type": "무료",
+      "category": "#Github Projects, #Image editing",
+      "upvotes": 11
+    },
+    {
+      "name": "CoTracker3",
+      "description": "« 비디오의 지점을 추적하기 위한 고급 알고리즘. 단순화된 아키텍처와 실제 비디오에 대한 반지도 교육 덕분에 폐색이 발생하는 경우에도 정확한 추적의 이점을 누릴 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/12/meta-icon-ai.webp",
+      "url": "https://www.aixploria.com/en/cotracker3-by-meta-ai/",
+      "type": "무료",
+      "category": "#Video Edition",
+      "upvotes": 31
+    },
+    {
+      "name": "V2A by Google DeepMind",
+      "description": "« 비디오용 오디오를 쉽게 생성할 수 있는 AI 기술입니다. V2A는 프롬프트를 통해 픽셀과 명령으로 매우 사실적인 사운드트랙을 생성할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/v2a-by-google-deepmind.png",
+      "url": "https://www.aixploria.com/en/v2a-by-google-deepmind-ai/",
+      "type": "무료",
+      "category": "#Audio Editing, #Video Edition",
+      "upvotes": 26
+    },
+    {
+      "name": "Image Animator (PIA)",
+      "description": "« AI 생성 이미지로 사실적인 애니메이션을 만듭니다. 이 도구는 프롬프트의 스타일, 세부정보 및 지침을 충실하게 유지합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/personalized-image-animator-pia/",
+      "type": "무료",
+      "category": "#Image editing, #Video Edition",
+      "upvotes": 1
+    },
+    {
+      "name": "Roop AI",
+      "description": "« DeepFake 생성은 사용하기 쉽고 누구나 접근할 수 있습니다. 단 한 번의 클릭만으로 놀라운 얼굴 교환을 만들 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/roop-ai.png",
+      "url": "https://www.aixploria.com/en/roop-ai/",
+      "type": "무료",
+      "category": "#Face Swap & DeepFake, #Github Projects",
+      "upvotes": 0
+    },
+    {
+      "name": "Champ AI",
+      "description": "« 참조 비디오의 움직임을 모방하여 사진에 애니메이션을 적용하세요. 파라메트릭 3D 안내를 통해 일관되고 제어 가능한 시각적 렌더링 달성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/champ-ai/",
+      "type": "무료",
+      "category": "#Amazing, #Image editing",
+      "upvotes": 21
+    },
+    {
+      "name": "Underlord by Descript",
+      "description": "« 손쉬운 비디오 제작 및 편집을 위한 AI 도우미. 텍스트를 편집하여 텍스트를 복사하고, 번역하고, 묵음을 제거하고 오디오를 수정할 수도 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/underlord-by-descript.png",
+      "url": "https://www.aixploria.com/en/underlord-by-descript-ai-video/",
+      "type": "부분 무료",
+      "category": "#Video Edition",
+      "upvotes": 24
+    },
+    {
+      "name": "D-ID Video Translate",
+      "description": "« AI를 사용하여 비디오를 다양한 언어로 번역하고 더빙하세요. 초자연적인 시청 경험을 위해 입술을 동기화하고 얼굴 표정을 보존하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/d-id-video-translate.png",
+      "url": "https://www.aixploria.com/en/d-id-video-translate-ai/",
+      "type": "Free-Trial",
+      "category": "#Translation, #Video Edition",
+      "upvotes": 27
+    },
+    {
+      "name": "LensGo",
+      "description": "« 이미지나 비디오를 쉽게 만들고 애니메이션을 적용할 수 있습니다. 이 사이트에서는 개인 사진으로 모델을 훈련할 수도 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/lensgo.png",
+      "url": "https://www.aixploria.com/en/lensgo/",
+      "type": "무료",
+      "category": "#Art, #Video Edition",
+      "upvotes": 3
+    },
+    {
+      "name": "Upscale-A-Video",
+      "description": "« 프롬프트를 통해 비디오의 품질과 해상도를 높이는 프로젝트입니다. 사용된 기법: 시간적 일관성 확산 모델 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/upscale-a-video.png",
+      "url": "https://www.aixploria.com/en/upscale-a-video-ai/",
+      "type": "무료",
+      "category": "#Future Tools, #Github Projects",
+      "upvotes": 2
+    },
+    {
+      "name": "Morphic",
+      "description": "« 비디오 및 대화형 경험 제작에 전념하는 지능형 스튜디오입니다. 게임 및 영화 제작에 권장됨 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/morphic.png",
+      "url": "https://www.aixploria.com/en/morphic-ai-storytelling-video/",
+      "type": "무료",
+      "category": "#Storytelling Generator, #Video Edition",
+      "upvotes": 20
+    },
+    {
+      "name": "Depthify.ai",
+      "description": "« 이미지와 비디오를 3D 형식으로 쉽게 변환할 수 있습니다. Apple Vision Pro 및 Meta Quest VR 헤드셋과 호환되는 3D 모델 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/depthify-ai.png",
+      "url": "https://www.aixploria.com/en/depthify-ai/",
+      "type": "무료",
+      "category": "#3D model, #Image editing",
+      "upvotes": 18
+    },
+    {
+      "name": "MagicPublish AI",
+      "description": "« YouTube 동영상에 최적화된 제목, 태그 및 설명을 자동으로 생성합니다. AI가 귀하의 스타일에 맞춰 맞춤화된 결과를 제공합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/magicpublish-ai.png",
+      "url": "https://www.aixploria.com/en/magicpublish-ai-youtube-video/",
+      "type": "무료",
+      "category": "#Video Edition",
+      "upvotes": 17
+    },
+    {
+      "name": "Clips AI",
+      "description": "« 긴 동영상을 소셜 네트워크(예: TikTok 또는 Shorts)에 이상적인 짧은 동영상으로 변환하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/clips-ai.png",
+      "url": "https://www.aixploria.com/en/clips-ai/",
+      "type": "부분 무료",
+      "category": "#Social Networks, #Video Edition",
+      "upvotes": 2
+    },
+    {
+      "name": "Flexclip",
+      "description": "« AI 지원 비디오 제작 및 편집을 위한 고급 플랫폼입니다. 빠르고 쉬운 사용 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/flexclip.png",
+      "url": "https://www.aixploria.com/en/flexclip/",
+      "type": "부분 무료",
+      "category": "#Video Edition",
+      "upvotes": 8
+    },
+    {
+      "name": "Shuffle",
+      "description": "« AI로 쉽고 빠르게 비디오 작품 편집 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/shuffle.png",
+      "url": "https://www.aixploria.com/en/shuffle/",
+      "type": "유료",
+      "category": "#Video Edition",
+      "upvotes": 0
+    },
+    {
+      "name": "VideoDubber",
+      "description": "« 30개 이상의 언어로 번역, 더빙 및 텍스트 음성 변환을 제공하는 지능형 비디오 번역기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/videodubber.png",
+      "url": "https://www.aixploria.com/en/videodubber/",
+      "type": "무료",
+      "category": "#Transcriber, #Translation",
+      "upvotes": 5
+    },
+    {
+      "name": "Vizard",
+      "description": "« 2번의 클릭으로 마케팅 비디오 편집 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/vizard.png",
+      "url": "https://www.aixploria.com/en/vizard/",
+      "type": "무료",
+      "category": "#Marketing, #Video Edition",
+      "upvotes": 0
+    },
+    {
+      "name": "Filmora AI",
+      "description": "« 프롬프트를 통한 비디오 편집, 음악 생성, 썸네일, 스크립트, AI 부조종사 등 AI 도구 모음을 사용하여 비디오를 쉽게 편집합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/filmora-ai.png",
+      "url": "https://www.aixploria.com/en/filmora-ai/",
+      "type": "Free-Trial",
+      "category": "#Video Edition",
+      "upvotes": 27
+    },
+    {
+      "name": "Framedrop",
+      "description": "« 게임 세션 중 최고의 순간을 선택하여 클립으로 변환하는 AI. 스트림의 URL을 입력하면 AI가 작업을 수행합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/framedrop.png",
+      "url": "https://www.aixploria.com/en/framedrop-gg/",
+      "type": "부분 무료",
+      "category": "#Games, #Video Edition",
+      "upvotes": 1
+    },
+    {
+      "name": "DreamTalk",
+      "description": "« AI가 사실적인 표정을 유지하면서 얼굴이 말하도록 하는 것을 목표로 하는 혁신적인 프로젝트 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/dreamtalk/",
+      "type": "무료",
+      "category": "#Github Projects, #Video Edition",
+      "upvotes": 0
+    },
+    {
+      "name": "Vidiofy",
+      "description": "« 귀하의 기사를 릴과 같은 모바일 형식의 매력적인 비디오로 변환하십시오. 소셜 네트워크에 이상적인 AI 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/vidiofy.png",
+      "url": "https://www.aixploria.com/en/vidiofy-ai/",
+      "type": "부분 무료",
+      "category": "#Social Networks, #Video Edition",
+      "upvotes": 3
+    },
+    {
+      "name": "MotionGPT",
+      "description": "« 프롬프트로 원하는 움직임(모션)을 정의하기만 하면 AI가 즉시 이를 재현할 수 있습니다. 최초의 텍스트-모션 AI입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/motiongpt.png",
+      "url": "https://www.aixploria.com/en/motiongpt-ai/",
+      "type": "무료",
+      "category": "#3D model, #Video Edition",
+      "upvotes": 1
+    },
+    {
+      "name": "Magic Hour",
+      "description": "« AI 영상 전용 가상 스튜디오입니다. 프롬프트에서 인상적인 비디오를 생성하거나 자신만의 비디오를 변환하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/magic-hour.png",
+      "url": "https://www.aixploria.com/en/magic-hour/",
+      "type": "부분 무료",
+      "category": "#Video Edition, #Video Generators",
+      "upvotes": 2
+    },
+    {
+      "name": "FilmmakerPRO",
+      "description": "« 영화 제작자가 구상부터 완성까지 도움을 주는 GPT 기반의 무료 애플리케이션입니다. 창의력을 자극하고 시간을 절약합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/filmmakerpro.png",
+      "url": "https://www.aixploria.com/en/filmmakerpro-ai-zero1cine/",
+      "type": "무료",
+      "category": "#Video Edition",
+      "upvotes": 3
+    },
+    {
+      "name": "2short AI",
+      "description": "« AI를 사용하여 긴 비디오를 짧은 비디오로 바꾸세요. 잠재고객을 빠르게 확대하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/2short-ai.png",
+      "url": "https://www.aixploria.com/en/2short-ai/",
+      "type": "유료",
+      "category": "#Video Edition",
+      "upvotes": 21
+    },
+    {
+      "name": "Klap",
+      "description": "« YouTube 동영상을 TikTok, Shorts, Reels 등에 게시할 수 있는 짧은 동영상으로 단축하는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/klap.png",
+      "url": "https://www.aixploria.com/en/klap/",
+      "type": "무료",
+      "category": "#Video Edition",
+      "upvotes": 1
+    },
+    {
+      "name": "Vmake Video Enhencer",
+      "description": "« AI 지원으로 비디오 품질을 향상시키세요. 흐릿하거나 오래되었거나 품질이 낮은 비디오를 쉽게 복원 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/vmake-video-enhencer.png",
+      "url": "https://www.aixploria.com/en/vmake-video-enhencer/",
+      "type": "무료",
+      "category": "#Video Edition",
+      "upvotes": 0
+    },
+    {
+      "name": "EvTexture",
+      "description": "« 이벤트를 사용하여 텍스처를 향상시켜 비디오 해상도를 대폭 향상시키는 흥미로운 프로젝트입니다. 매우 최적화된 이미지 품질 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/evtexture-ai-video/",
+      "type": "무료",
+      "category": "#Github Projects, #Video Edition",
+      "upvotes": 15
+    },
+    {
+      "name": "Vidby",
+      "description": "« 빠르고 정확한 번역 및 비디오 더빙을 위한 AI 기반 도구입니다. 75개 이상의 언어로 사용 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/vidby.png",
+      "url": "https://www.aixploria.com/en/vidby/",
+      "type": "유료",
+      "category": "#Translation, #Video Edition",
+      "upvotes": 4
+    },
+    {
+      "name": "Twip AI",
+      "description": "« YouTube를 위한 완벽한 창작 도구: 맞춤형 AI 스크립트, 사실적인 음성 해설, SEO 최적화, 아이디어 생성기 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/twip-ai.png",
+      "url": "https://www.aixploria.com/en/twip-ai/",
+      "type": "유료",
+      "category": "#Social Networks, #Video Edition",
+      "upvotes": 6
+    },
+    {
+      "name": "Voxqube",
+      "description": "« 전문가 수준의 비디오를 위한 빠른 고성능 더빙 서비스입니다. 125개 이상의 언어로 이용 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/voxqube.png",
+      "url": "https://www.aixploria.com/en/voxqube/",
+      "type": "무료",
+      "category": "#Video Edition",
+      "upvotes": 1
+    },
+    {
+      "name": "GoEnhance AI",
+      "description": "« 비디오를 만화, 만화, 픽셀 아트 또는 애니메이션 스타일 애니메이션으로 변환하세요. 동영상의 해상도를 쉽게 높일 수도 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/goenhance-ai.png",
+      "url": "https://www.aixploria.com/en/goenhance-ai/",
+      "type": "Free-Trial",
+      "category": "#Video Edition",
+      "upvotes": 15
+    },
+    {
+      "name": "RecCloud",
+      "description": "« 비디오 제작 및 편집을 위한 AI 도구의 올인원 플랫폼: 자동 자막, 텍스트 음성 변환, 번역, 편집 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/06/RecCloud-ai.webp",
+      "url": "https://www.aixploria.com/en/reccloud-ai-video-tools/",
+      "type": "유료",
+      "category": "#Video Edition",
+      "upvotes": 17
+    },
+    {
+      "name": "MakeShorts AI",
+      "description": "« 비디오를 단축하고 AI 캡션 및 자막이 포함된 바이럴 클립으로 바꾸는 도구입니다. TikTok, YouTube Shorts, Reels 등과 호환 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/makeshorts-ai.png",
+      "url": "https://www.aixploria.com/en/makeshorts-ai/",
+      "type": "유료",
+      "category": "#Social Networks, #Video Edition",
+      "upvotes": 0
+    },
+    {
+      "name": "Windsor",
+      "description": "« 더 많은 청중에게 다가가기 위해 AI 개인화 비디오를 만드십시오. 특히 이메일 및 SMS 마케팅 캠페인의 경우 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/windsor.png",
+      "url": "https://www.aixploria.com/en/windsor/",
+      "type": "무료",
+      "category": "#Marketing, #Video Edition",
+      "upvotes": 2
+    },
+    {
+      "name": "Tavus",
+      "description": "« AI를 사용하여 동영상을 개인화하고 청중의 관심을 높이세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/tavus.png",
+      "url": "https://www.aixploria.com/en/tavus/",
+      "type": "부분 무료",
+      "category": "#Marketing, #Video Edition",
+      "upvotes": 0
+    },
+    {
+      "name": "Clipfly",
+      "description": "« 비디오 제작을 단순화하는 포괄적이고 지능적인 비디오 편집기. 전문적인 비디오 콘텐츠를 쉽게 제작할 수 있는 실용적인 솔루션 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/clipfly.png",
+      "url": "https://www.aixploria.com/en/clipfly-ai/",
+      "type": "부분 무료",
+      "category": "#Video Edition",
+      "upvotes": 2
+    },
+    {
+      "name": "WrpUp",
+      "description": "« AI를 통해 긴 비디오를 짧은 요약으로 바꿔보세요. 많은 시간 절약 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/wrpup.png",
+      "url": "https://www.aixploria.com/en/wrpup/",
+      "type": "무료",
+      "category": "#Video Edition",
+      "upvotes": 1
+    },
+    {
+      "name": "AutoPod",
+      "description": "« 팟캐스트 및 비디오 콘텐츠의 자동 편집을 가능하게 하는 Adobe Premiere Pro용 AI 플러그인 패키지 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/autopod.png",
+      "url": "https://www.aixploria.com/en/autopod/",
+      "type": "부분 무료",
+      "category": "#Video Edition",
+      "upvotes": 1
+    },
+    {
+      "name": "Colourlab",
+      "description": "« 측색을 개선하는 AI로 비디오에 활력을 불어넣으세요. 최종 결과는 전문가 수준(할리우드)입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/colourlab.png",
+      "url": "https://www.aixploria.com/en/colourlab/",
+      "type": "부분 무료",
+      "category": "#Video Edition",
+      "upvotes": 0
+    },
+    {
+      "name": "Anytalk.ai",
+      "description": "« 지연을 최소화하면서 대화와 화상 회의를 실시간으로 다양한 언어로 번역하세요. 대화 상대의 원래 목소리는 보존됩니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/anytalk-ai.png",
+      "url": "https://www.aixploria.com/en/anytalk-ai/",
+      "type": "부분 무료",
+      "category": "#Translation, #Video Edition",
+      "upvotes": 12
+    },
+    {
+      "name": "Gling AI",
+      "description": "« 전문 비디오 편집 AI를 사용하여 자동으로 침묵과 나쁜 장면 제거 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/gling-ai.png",
+      "url": "https://www.aixploria.com/en/gling-ai/",
+      "type": "무료",
+      "category": "#Video Edition",
+      "upvotes": 0
+    },
+    {
+      "name": "FastCut",
+      "description": "« 짧은 비디오에 대한 매력적인 자막을 자동으로 생성합니다. AI는 또한 이모티콘을 추가하고 가장 인기 있는 제작자의 스타일에서 영감을 얻습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/fastcut-ai/",
+      "type": "유료",
+      "category": "#Video Edition",
+      "upvotes": 0
+    },
+    {
+      "name": "SwitchLight Studio",
+      "description": "« AI를 사용하여 후반 작업에서 비디오의 조명을 변경하세요. 녹색 배경을 배경으로 촬영한 후 조명을 수정하여 전문적인 결과를 얻으세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/switchlight-studio.png",
+      "url": "https://www.aixploria.com/en/switchlight-studio-beeble-ai/",
+      "type": "부분 무료",
+      "category": "#Video Edition",
+      "upvotes": 13
+    },
+    {
+      "name": "GhostCut",
+      "description": "« 번역, 자막 제거, 더빙을 용이하게 하는 AI 기반 비디오 편집 소프트웨어 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ghostcut.png",
+      "url": "https://www.aixploria.com/en/ghostcut/",
+      "type": "부분 무료",
+      "category": "#Video Edition",
+      "upvotes": 1
+    },
+    {
+      "name": "Scribewave AI",
+      "description": "« 이 AI는 90개 이상의 언어로 오디오 및 비디오 파일에 대한 자막을 자동으로 기록하고, 캡션을 작성하고, 생성합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/scribewave-ai.png",
+      "url": "https://www.aixploria.com/en/scribewave-ai/",
+      "type": "부분 무료",
+      "category": "#Transcriber, #Video Edition",
+      "upvotes": 1
+    },
+    {
+      "name": "Boolv",
+      "description": "« Boolv로 브랜드를 강화하세요. 빠르게 비디오를 제작하고 비용을 절감하며 고객에게 더욱 효과적으로 다가가세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/boolv.png",
+      "url": "https://www.aixploria.com/en/boolv/",
+      "type": "무료",
+      "category": "#Marketing, #Video Edition",
+      "upvotes": 0
+    },
+    {
+      "name": "Everypixel Workroom",
+      "description": "« 비디오를 빠르고 쉽게 제작, 편집 및 번역할 수 있는 완전한 AI 도구 모음 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/everypixel-workroom.png",
+      "url": "https://www.aixploria.com/en/everypixel-workroom/",
+      "type": "부분 무료",
+      "category": "#Video Edition",
+      "upvotes": 0
+    },
+    {
+      "name": "FineShare FineCam",
+      "description": "« 배경, 밝기, 필터, 워터마크 등 화상 회의를 실시간으로 편집하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/fineshare-finecam.png",
+      "url": "https://www.aixploria.com/en/fineshare/",
+      "type": "부분 무료",
+      "category": "#Video Edition",
+      "upvotes": 2
+    },
+    {
+      "name": "BHuman",
+      "description": "« 시청자의 관심을 높이기 위한 동영상 제작 및 맞춤화 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/bhuman.png",
+      "url": "https://www.aixploria.com/en/bhuman/",
+      "type": "부분 무료",
+      "category": "#Video Edition",
+      "upvotes": 0
+    },
+    {
+      "name": "HitPaw",
+      "description": "« 영상, 이미지 등의 생성, 편집 등 다양한 AI 도구를 모아 놓은 사이트 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/hitpaw.png",
+      "url": "https://www.aixploria.com/en/hitpaw/",
+      "type": "유료",
+      "category": "#Audio Editing, #Image editing",
+      "upvotes": 4
+    },
+    {
+      "name": "Video Summarization",
+      "description": "« 긴 비디오를 짧은 클립으로 변환하여 매력적인 비디오 요약을 만드세요. 모든 유형의 주제에 적용 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/video-summarization.png",
+      "url": "https://www.aixploria.com/en/video-summarization/",
+      "type": "무료",
+      "category": "#Summarizer, #Video Edition",
+      "upvotes": 0
+    },
+    {
+      "name": "keyframes.studio",
+      "description": "« 소셜 네트워크용 비디오를 만들고 편집합니다. 포괄적인 비디오 편집 소프트웨어의 이점 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/keyframes-studio.png",
+      "url": "https://www.aixploria.com/en/keyframes-studio/",
+      "type": "부분 무료",
+      "category": "#Video Edition",
+      "upvotes": 0
+    },
+    {
+      "name": "Picsart",
+      "description": "« 예술적 창작을 위한 AI 도구. 사진과 비디오 편집, 그리기 및 공유 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/picsart.png",
+      "url": "https://www.aixploria.com/en/picsart/",
+      "type": "유료",
+      "category": "#Art, #Image editing",
+      "upvotes": 2
+    },
+    {
+      "name": "Flawless AI",
+      "description": "« 헐리우드 영화에 걸맞는 영화 수준의 비디오 디자인 및 편집 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/flawless-ai.png",
+      "url": "https://www.aixploria.com/en/flawless-ai/",
+      "type": "유료",
+      "category": "#Video Edition, #Video Generators",
+      "upvotes": 1
+    },
+    {
+      "name": "Videoleap",
+      "description": "« 올인원 AI 지원 비디오 편집 플랫폼. 쉽게 편집, 생성 및 공유 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/videoleap.png",
+      "url": "https://www.aixploria.com/en/videoleap/",
+      "type": "유료",
+      "category": "#Video Edition",
+      "upvotes": 2
+    },
+    {
+      "name": "Pix2Pix Video",
+      "description": "« 텍스트 메시지나 짧은 비디오 클립으로 비디오를 쉽게 편집할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/pix2pix-video.png",
+      "url": "https://www.aixploria.com/en/pix2pix-video/",
+      "type": "무료",
+      "category": "#Video Edition",
+      "upvotes": 0
+    },
+    {
+      "name": "Krock IO",
+      "description": "« 애니메이션이나 비디오 프로젝트에서 실시간으로 팀 단위로 협업하세요. 팀편집, 영상편집 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/krock-io.png",
+      "url": "https://www.aixploria.com/en/krock-io/",
+      "type": "유료",
+      "category": "#Human Resources, #Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "Supercreator AI",
+      "description": "« AI를 사용하여 TikTok, Reels, Shorts 등의 짧은 동영상을 빠르게 제작하는 모바일 앱 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/supercreator-ai.png",
+      "url": "https://www.aixploria.com/en/supercreator-ai/",
+      "type": "부분 무료",
+      "category": "#Social Networks, #Video Edition",
+      "upvotes": 1
+    },
+    {
+      "name": "Vidyo AI",
+      "description": "« AI로 짧은 동영상을 빠르게 만들고 소셜 네트워크에서 가시성을 높이세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/vidyo-ai.png",
+      "url": "https://www.aixploria.com/en/vidyo-ai/",
+      "type": "유료",
+      "category": "#Social Networks, #Video Edition",
+      "upvotes": 1
+    }
+  ]
+}

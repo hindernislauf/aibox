@@ -5,6 +5,10 @@ import ServiceCard from '../components/ServiceCard';
 import styles from '../styles/Result.module.css';
 
 export default function SearchResults() {
+  if (typeof window === 'undefined') {
+    return null; // 서버 사이드 렌더링 시 초기 반환
+  }
+  
   const router = useRouter();
   const { q } = router.query;
   const [searchResults, setSearchResults] = useState([]);
@@ -48,7 +52,7 @@ export default function SearchResults() {
     <>
       <Head>
         <title>검색 결과: {q} - AI 서비스 대시보드</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
       </Head>
       <div className={styles.container}>
         <h1 className={styles.title}>'{q}' 검색 결과</h1>

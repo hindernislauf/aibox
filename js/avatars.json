@@ -1,0 +1,500 @@
+{
+  "name": "Avatars",
+  "items": [
+    {
+      "name": "HeyGen AI",
+      "description": "« 초현실적인 AI 아바타를 만들고 텍스트로 말하게 하세요. 비디오 번역을 수행하고 자동으로 음성을 복제할 수도 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/07/heygen-V2.png",
+      "url": "https://www.aixploria.com/en/heygen-ai/",
+      "type": "부분 무료",
+      "category": "#AIxploria Selection, #Avatars",
+      "upvotes": 430
+    },
+    {
+      "name": "Expressive Photo Avatar",
+      "description": "« 사실적인 움직임으로 이미지에 애니메이션을 적용하는 AI를 사용하여 표현력이 풍부한 사진 아바타를 만드세요. 더욱 놀라운 결과를 얻으려면 음성이나 음악을 추가하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/07/heygen-V2.png",
+      "url": "https://www.aixploria.com/en/expressive-photo-avatar-heygen-ai/",
+      "type": "무료",
+      "category": "#Avatars, #Video Generators",
+      "upvotes": 41
+    },
+    {
+      "name": "VLOGGER by Google",
+      "description": "« VLOGGER는 음성으로 제어할 수 있는 간단한 사진으로 사실적인 비디오 아바타를 만들 수 있는 Google AI 프로젝트입니다! »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/03/google-color-icon-ai.webp",
+      "url": "https://www.aixploria.com/en/vlogger-by-google-ai/",
+      "type": "무료",
+      "category": "#Avatars, #Future Tools",
+      "upvotes": 20
+    },
+    {
+      "name": "Krikey AI",
+      "description": "« 3D 아바타 자동 생성 및 공개 갤러리 액세스 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/krikey-ai.png",
+      "url": "https://www.aixploria.com/en/krikey-ai/",
+      "type": "부분 무료",
+      "category": "#3D model, #Avatars",
+      "upvotes": 8
+    },
+    {
+      "name": "Vidnoz",
+      "description": "« AI를 사용하여 사진에서 사실적인 말하는 아바타를 만드세요. 비즈니스, 교육 및 고객 지원에 적합 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/vidnoz.png",
+      "url": "https://www.aixploria.com/en/vidnoz/",
+      "type": "부분 무료",
+      "category": "#AIxploria Selection, #Avatars",
+      "upvotes": 44
+    },
+    {
+      "name": "Ready Player Me",
+      "description": "« 메타버스 및 게임 플랫폼을 위한 아바타 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ready-player-me.png",
+      "url": "https://www.aixploria.com/en/ready-player-me/",
+      "type": "부분 무료",
+      "category": "#Avatars, #Games",
+      "upvotes": 3
+    },
+    {
+      "name": "Delphi AI",
+      "description": "« PDF, 비디오, 팟캐스트 등을 사용하여 자신의 디지털 복제본을 생성하기 위한 플랫폼입니다. 제작자와 영향력 있는 사람에게 적합합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/delphi-ai.png",
+      "url": "https://www.aixploria.com/en/delphi-ai-clone/",
+      "type": "부분 무료",
+      "category": "#Amazing, #Avatars",
+      "upvotes": 27
+    },
+    {
+      "name": "HeyGen Interactive Avatar",
+      "description": "« 초현실적이고 표현력이 풍부한 AI 아바타와 실시간으로 채팅하세요. 나만의 아바타를 쉽게 만들고 고품질의 3분짜리 동영상을 생성하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/07/heygen-V2.png",
+      "url": "https://www.aixploria.com/en/heygen-interactive-avatar-ai/",
+      "type": "무료",
+      "category": "#Avatars, #Video Generators",
+      "upvotes": 36
+    },
+    {
+      "name": "Profil Picture AI",
+      "description": "« 소셜 네트워크를 위한 완벽한 프로필 사진 만들기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/profil-picture-ai.png",
+      "url": "https://www.aixploria.com/en/profil-picture-ai/",
+      "type": "유료",
+      "category": "#Avatars, #Social Networks",
+      "upvotes": 6
+    },
+    {
+      "name": "AI Studio by Meta",
+      "description": "« 관심 분야에 따라 AI 캐릭터나 자신의 복제품을 만드세요. 그러면 청중은 Instagram, Messenger 또는 WhatsApp의 챗봇을 통해 이 페르소나와 채팅할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-studio-by-meta.png",
+      "url": "https://www.aixploria.com/en/ai-studio-by-meta/",
+      "type": "무료",
+      "category": "#Avatars, #Social Networks",
+      "upvotes": 27
+    },
+    {
+      "name": "Face Swap by Akool",
+      "description": "« 프리미엄 플랫폼의 도움으로 전문가처럼 얼굴을 바꿔보세요. 영화 캐릭터로 변신하거나 나만의 아바타를 만들어 보세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/face-swap-by-akool.png",
+      "url": "https://www.aixploria.com/en/face-swap-by-akool/",
+      "type": "부분 무료",
+      "category": "#Avatars, #Face Swap & DeepFake",
+      "upvotes": 14
+    },
+    {
+      "name": "Avaturn",
+      "description": "« 개발자가 메타버스, 게임 등에 대한 사용자 정의 가능하고 사실적인 3D 아바타를 디자인할 수 있는 도구입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/avaturn.png",
+      "url": "https://www.aixploria.com/en/avaturn/",
+      "type": "무료",
+      "category": "#Avatars, #Developer Tools",
+      "upvotes": 3
+    },
+    {
+      "name": "Unrealme",
+      "description": "« 이미지를 생성하고 세련된 아바타로 변신합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/unrealme.png",
+      "url": "https://www.aixploria.com/en/unrealme/",
+      "type": "유료",
+      "category": "#Avatars",
+      "upvotes": 2
+    },
+    {
+      "name": "Reface",
+      "description": "« 당신의 얼굴로 디자인된 애니메이션 아바타. 모바일 및 태블릿에서 작동 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/reface.png",
+      "url": "https://www.aixploria.com/en/reface/",
+      "type": "부분 무료",
+      "category": "#Avatars",
+      "upvotes": 2
+    },
+    {
+      "name": "Caricaturer IO",
+      "description": "« 사진을 설득력 있는 캐리커처로 바꿔 보세요. 64가지 유형의 캐리커처를 사용할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/caricaturer-io.png",
+      "url": "https://www.aixploria.com/en/caricaturer-io/",
+      "type": "무료",
+      "category": "#Amazing, #Avatars",
+      "upvotes": 5
+    },
+    {
+      "name": "NeuralStudio",
+      "description": "« 고품질 아바타 디자인을 담당하는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/neuralstudio.png",
+      "url": "https://www.aixploria.com/en/neuralstudio/",
+      "type": "부분 무료",
+      "category": "#Avatars",
+      "upvotes": 2
+    },
+    {
+      "name": "Personal Avatars Synthesia",
+      "description": "« 자신만의 초현실적인 디지털 트윈 만들기: 손 움직임, 음성 복제, 다양한 각도 + 29개 언어로 아바타 지원 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/personal-avatars-synthesia.png",
+      "url": "https://www.aixploria.com/en/personal-custom-avatars-synthesia-ai/",
+      "type": "부분 무료",
+      "category": "#Avatars",
+      "upvotes": 36
+    },
+    {
+      "name": "Beb AI",
+      "description": "« 아바타, 동물 또는 유명인의 세대에서 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/beb-ai.png",
+      "url": "https://www.aixploria.com/en/beb-ai/",
+      "type": "유료",
+      "category": "#Avatars",
+      "upvotes": 3
+    },
+    {
+      "name": "LiveReacting",
+      "description": "« 프로젝트에 애니메이션 아바타와 비디오 만들기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/livereacting.png",
+      "url": "https://www.aixploria.com/en/livereacting/",
+      "type": "유료",
+      "category": "#Avatars",
+      "upvotes": 4
+    },
+    {
+      "name": "PROTEUS by Apparate",
+      "description": "« 초현실적이고 표현력이 뛰어난 가상 인간을 실시간으로 생성하는 AI입니다. 이 모델들은 웃고, 노래하고, 말하고, 심지어 울 수도 있습니다! 간단한 고성능 API 사용 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/proteus-by-apparate-ai/",
+      "type": "무료",
+      "category": "#Avatars, #LLM models",
+      "upvotes": 23
+    },
+    {
+      "name": "Moemate",
+      "description": "« 이미지에서 캐릭터를 생성하고 매우 사실적인 방식으로 생생하게 구현하세요. 목소리와 성격을 선택하고 채팅하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/moemate.png",
+      "url": "https://www.aixploria.com/en/moemate-ai/",
+      "type": "무료",
+      "category": "#Amazing, #Avatars",
+      "upvotes": 11
+    },
+    {
+      "name": "Dream Pic AI",
+      "description": "« 사진을 참고하여 아바타나 프로필을 그려보세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/dream-pic-ai.png",
+      "url": "https://www.aixploria.com/en/dream-pic-ai/",
+      "type": "유료",
+      "category": "#Avatars",
+      "upvotes": 1
+    },
+    {
+      "name": "SpiritMe",
+      "description": "« 표현력이 풍부한 디지털 아바타로 개인화된 비디오를 만드세요. 텍스트를 추가하고 아바타를 선택한 후 내보냅니다. iPhone에서도 사용 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/spiritme.png",
+      "url": "https://www.aixploria.com/en/spiritme/",
+      "type": "부분 무료",
+      "category": "#Avatars, #Video Generators",
+      "upvotes": 18
+    },
+    {
+      "name": "Audio2Photoreal by Meta",
+      "description": "« 몸 전체를 통합하고 작가의 목소리에 따라 움직임이 자연스럽게 안내되는 사실적인 아바타 생성기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/audio2photoreal-by-meta.png",
+      "url": "https://www.aixploria.com/en/audio2photoreal-by-meta/",
+      "type": "무료",
+      "category": "#Amazing, #Avatars",
+      "upvotes": 5
+    },
+    {
+      "name": "AI Time Machine",
+      "description": "« 사진에서 이미지를 생성하여 시간을 건너보세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-time-machine.png",
+      "url": "https://www.aixploria.com/en/ai-time-machine/",
+      "type": "부분 무료",
+      "category": "#Amazing, #Avatars",
+      "upvotes": 3
+    },
+    {
+      "name": "Apob AI",
+      "description": "« AI를 사용하여 한 번의 클릭으로 디지털 클론을 만드세요. 사진을 업로드하고 개인화된 이미지와 비디오를 통해 디지털 인물을 생생하게 표현해 보세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/apob-ai.png",
+      "url": "https://www.aixploria.com/en/apob-ai/",
+      "type": "부분 무료",
+      "category": "#Avatars, #Image Generators",
+      "upvotes": 20
+    },
+    {
+      "name": "DomoAI",
+      "description": "« 애니메이션, 만화, 만화 등 다양한 스타일의 허구적이고 현실적인 캐릭터로 변신하는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/domoai.png",
+      "url": "https://www.aixploria.com/en/domoai/",
+      "type": "Free-Trial",
+      "category": "#Art, #Avatars",
+      "upvotes": 19
+    },
+    {
+      "name": "AI Portrait Generator",
+      "description": "« Midjourney V5 기술을 사용하여 셀카를 예술적인 인물 사진으로 바꿔보세요. 다양한 스타일과 모델 중에서 선택하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-portrait-generator.png",
+      "url": "https://www.aixploria.com/en/ai-portrait-generator/",
+      "type": "무료",
+      "category": "#Art, #Avatars",
+      "upvotes": 4
+    },
+    {
+      "name": "Vana Portrait",
+      "description": "« 최고의 예술 거장들로부터 영감을 받으며 자신을 예술적으로 묘사하는 초상화 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/vana-portrait.png",
+      "url": "https://www.aixploria.com/en/vana-portrait/",
+      "type": "무료",
+      "category": "#Art, #Avatars",
+      "upvotes": 15
+    },
+    {
+      "name": "In3D",
+      "description": "« 스마트폰과 모바일에서 아바타를 만드는 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/in3d.png",
+      "url": "https://www.aixploria.com/en/in3d/",
+      "type": "부분 무료",
+      "category": "#Avatars",
+      "upvotes": 2
+    },
+    {
+      "name": "Kamoto.AI",
+      "description": "« 자신만의 AI 캐릭터와 개성을 만들고, 훈련하고, 수익을 창출하세요. 이 사이트에는 창작물을 공유할 수 있는 마켓플레이스도 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/kamoto-ai.png",
+      "url": "https://www.aixploria.com/en/kamoto-ai/",
+      "type": "부분 무료",
+      "category": "#Avatars, #ChatBots",
+      "upvotes": 4
+    },
+    {
+      "name": "Digen AI",
+      "description": "« 다양한 언어로 작동하는 인상적인 비디오 아바타 생성기. 초대를 통해서만 이용 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/digen-ai.png",
+      "url": "https://www.aixploria.com/en/digen-ai-avatar-video/",
+      "type": "Free-Trial",
+      "category": "#Avatars, #Video Generators",
+      "upvotes": 21
+    },
+    {
+      "name": "InsightFace",
+      "description": "« 2D 및 3D 얼굴 분석을 위한 전문가 AI. 비디오 게임에서 개인화되고 몰입도 높은 캐릭터를 만드는 능력 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/insightface.png",
+      "url": "https://www.aixploria.com/en/insightface/",
+      "type": "무료",
+      "category": "#3D model, #Avatars",
+      "upvotes": 6
+    },
+    {
+      "name": "Imagetocartoon",
+      "description": "« AI를 사용하면 단 몇 초 만에 사진을 만화 스타일의 아바타로 변환할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/imagetocartoon/",
+      "type": "무료",
+      "category": "#Avatars",
+      "upvotes": 1
+    },
+    {
+      "name": "PhotoAI",
+      "description": "« 때로는 매우 예술적인 스타일로 자신의 사진 30장을 생성하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/photoai.png",
+      "url": "https://www.aixploria.com/en/photoai/",
+      "type": "유료",
+      "category": "#Avatars",
+      "upvotes": 2
+    },
+    {
+      "name": "AI Avatars by Vidyard",
+      "description": "« 대규모로 개인화된 판매 동영상을 제작하세요. 이 도구는 현실적인 AI 아바타 형태로 귀하의 복제본을 생성하고 비디오 메시지를 생성합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-avatars-by-vidyard.png",
+      "url": "https://www.aixploria.com/en/ai-avatars-by-vidyard/",
+      "type": "Free-Trial",
+      "category": "#Avatars, #Business",
+      "upvotes": 17
+    },
+    {
+      "name": "Disney AI Poster",
+      "description": "« Disney Pixar 스타일로 애완동물을 만화 캐릭터로 변신시켜 보세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/disney-ai-poster.png",
+      "url": "https://www.aixploria.com/en/disney-ai-poster/",
+      "type": "유료",
+      "category": "#Amazing, #Avatars",
+      "upvotes": 3
+    },
+    {
+      "name": "Gemelo",
+      "description": "« NVIDIA Maxine 기반 AI로 대화형 AI 트윈을 만들고 고객 충성도를 구축하세요. 음성 복제, 아바타, 비전, 상호 작용 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/gemelo.png",
+      "url": "https://www.aixploria.com/en/gemelo-ai/",
+      "type": "부분 무료",
+      "category": "#Avatars, #Developer Tools",
+      "upvotes": 4
+    },
+    {
+      "name": "PictoDream",
+      "description": "« 다양한 스타일을 사용하고 맞춤형 아바타 만들기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/pictodream.png",
+      "url": "https://www.aixploria.com/en/pictodream/",
+      "type": "유료",
+      "category": "#Avatars",
+      "upvotes": 3
+    },
+    {
+      "name": "Autodraft",
+      "description": "« 만화, 만화, 만화 및 애니메이션 제작을 전문으로 하는 AI 이미지 생성기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/autodraft.png",
+      "url": "https://www.aixploria.com/en/autodraft/",
+      "type": "부분 무료",
+      "category": "#Avatars, #Image Generators",
+      "upvotes": 2
+    },
+    {
+      "name": "Pixelz AI",
+      "description": "« 텍스트로 맞춤형 아바타 만들기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/pixelz-ai/",
+      "type": "부분 무료",
+      "category": "#Art, #Avatars",
+      "upvotes": 0
+    },
+    {
+      "name": "Typho",
+      "description": "« 복잡한 설정 없이 독특한 예술적 인물 사진을 만들기 위해 Apple Store에서 사용할 수 있는 AI 애플리케이션입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/typho.png",
+      "url": "https://www.aixploria.com/en/typho-ai/",
+      "type": "무료",
+      "category": "#Avatars, #Image Generators",
+      "upvotes": 1
+    },
+    {
+      "name": "ChatAvatar",
+      "description": "« AI를 사용하여 개인화된 애니메이션 3D 아바타를 만드세요. 채팅 및 메시징 애플리케이션에 적합 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/chatavatar.png",
+      "url": "https://www.aixploria.com/en/chatavatar/",
+      "type": "무료",
+      "category": "#Avatars",
+      "upvotes": 3
+    },
+    {
+      "name": "Picapiu",
+      "description": "« 웹 페이지에서 사용자 정의되거나 선택된 이미지로 인물 사진 만들기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/picapiu.png",
+      "url": "https://www.aixploria.com/en/picapiu/",
+      "type": "무료",
+      "category": "#Avatars, #Extensions ChatGPT",
+      "upvotes": 0
+    },
+    {
+      "name": "Modif",
+      "description": "« 실시간 모션 캡처를 사용하여 역동적인 디지털 콘텐츠 제작 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/modif.png",
+      "url": "https://www.aixploria.com/en/modif/",
+      "type": "무료",
+      "category": "#Avatars",
+      "upvotes": 2
+    },
+    {
+      "name": "MyPrint AI",
+      "description": "« 자신의 사진 10장을 업로드하면 AI가 당신을 다양한 예술적 스타일로 바꿔줍니다. 포스터, 머그 등에 인쇄 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/myprint-ai.png",
+      "url": "https://www.aixploria.com/en/myprint-ai/",
+      "type": "부분 무료",
+      "category": "#Art, #Avatars",
+      "upvotes": 1
+    },
+    {
+      "name": "Aragon AI",
+      "description": "« 전문적인 방식으로 초상화(아바타) 디자인하기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/aragon-ai.png",
+      "url": "https://www.aixploria.com/en/aragon-ai/",
+      "type": "유료",
+      "category": "#Avatars",
+      "upvotes": 1
+    },
+    {
+      "name": "Magic AI Avatars",
+      "description": "« 프로필 사진에 전문가 AI가 포함된 100개 이상의 고품질 맞춤형 아바타를 얻을 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/magic-ai-avatars.png",
+      "url": "https://www.aixploria.com/en/magic-ai-avatars/",
+      "type": "부분 무료",
+      "category": "#Avatars",
+      "upvotes": 1
+    },
+    {
+      "name": "Facetune",
+      "description": "« AI 아바타 생성, 셀카 개선 등을 위한 사진 및 비디오 편집 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/facetune.png",
+      "url": "https://www.aixploria.com/en/facetune/",
+      "type": "유료",
+      "category": "#Avatars",
+      "upvotes": 2
+    },
+    {
+      "name": "AnimeAI App",
+      "description": "« 사용자 정의 스타일을 선택하여 사진 중 하나에서 애니메이션 스타일 아바타 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/animeai-app.png",
+      "url": "https://www.aixploria.com/en/animeai-app/",
+      "type": "유료",
+      "category": "#Avatars, #Image Generators",
+      "upvotes": 2
+    },
+    {
+      "name": "Imagine Me",
+      "description": "« 개인 사진 중 하나로 예술 작품 만들기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/imagine-me.png",
+      "url": "https://www.aixploria.com/en/imagine-me/",
+      "type": "유료",
+      "category": "#Art, #Avatars",
+      "upvotes": 1
+    },
+    {
+      "name": "Role Model AI",
+      "description": "« 생산성을 높이는 아바타 형태의 맞춤형 AI 비서 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/02/favicon-defa.png",
+      "url": "https://www.aixploria.com/en/role-model-ai/",
+      "type": "유료",
+      "category": "#Avatars, #ChatBots",
+      "upvotes": 3
+    },
+    {
+      "name": "Puppetry",
+      "description": "« 직관적인 애플리케이션(iPhone, iPad, Mac)을 사용하여 사진에 애니메이션을 적용하고 캐릭터를 만들어 보세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/puppetry.png",
+      "url": "https://www.aixploria.com/en/puppetry/",
+      "type": "무료",
+      "category": "#Avatars, #Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "TheDream AI",
+      "description": "« AI를 사용하여 소셜 네트워크용 원본 프로필 사진과 아바타 만들기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/thedream-ai.png",
+      "url": "https://www.aixploria.com/en/thedream-ai/",
+      "type": "유료",
+      "category": "#Avatars, #Social Networks",
+      "upvotes": 2
+    },
+    {
+      "name": "AI Photos",
+      "description": "« 스마트 이미지 생성기를 사용하여 다양한 스타일의 독특한 디지털 아바타 만들기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-photos.png",
+      "url": "https://www.aixploria.com/en/ai-photos/",
+      "type": "유료",
+      "category": "#Avatars",
+      "upvotes": 1
+    }
+  ]
+}

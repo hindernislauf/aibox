@@ -1,0 +1,392 @@
+{
+  "name": "AI detection",
+  "items": [
+    {
+      "name": "PimEyes",
+      "description": "« 사진 중 하나를 AI에 제공하고 인터넷에서 귀하가 나타나는 위치를 알아보세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/pimeyes.png",
+      "url": "https://www.aixploria.com/en/pimeyes/",
+      "type": "무료",
+      "category": "#AI detection, #Social Networks",
+      "upvotes": 56
+    },
+    {
+      "name": "Undetectable AI",
+      "description": "« AI 생성 텍스트를 인간화하여 감지할 수 없도록 만드세요. 학생, SEO 카피라이터, 언론인 등에 이상적입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/undetectable-ai.png",
+      "url": "https://www.aixploria.com/en/undetectable-ai/",
+      "type": "부분 무료",
+      "category": "#AI detection, #AIxploria Selection",
+      "upvotes": 54
+    },
+    {
+      "name": "FaceCheck ID",
+      "description": "« 인터넷에서 누구든지 찾을 수 있는 AI 기반 검색 엔진입니다. 온라인에서 사람 이름 찾기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/facecheck-id.png",
+      "url": "https://www.aixploria.com/en/facecheck-id/",
+      "type": "무료",
+      "category": "#AI detection",
+      "upvotes": 32
+    },
+    {
+      "name": "GPTZero",
+      "description": "« AI의 도움으로 텍스트의 표절을 빠르고 혁신적으로 탐지합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/gptzero.png",
+      "url": "https://www.aixploria.com/en/gptzero/",
+      "type": "무료",
+      "category": "#AI detection, #Extensions ChatGPT",
+      "upvotes": 18
+    },
+    {
+      "name": "Originality AI",
+      "description": "« 꽤 신뢰할 수 있는 AI 및 표절 탐지기입니다. 문서, 파일을 스캔하거나 URL에서 직접 스캔할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/originality-ai.png",
+      "url": "https://www.aixploria.com/en/originality-ai/",
+      "type": "유료",
+      "category": "#AI detection",
+      "upvotes": 21
+    },
+    {
+      "name": "ZeroGPT",
+      "description": "« 텍스트가 인간이나 AI에 의해 작성되었는지 쉽게 감지합니다. ZeroGPT는 또한 의역, 맞춤법 검사기, 메시징 도우미, 번역기 등 다른 AI 도구도 제공합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/zerogpt.png",
+      "url": "https://www.aixploria.com/en/zerogpt/",
+      "type": "부분 무료",
+      "category": "#AI detection",
+      "upvotes": 12
+    },
+    {
+      "name": "Copyleaks",
+      "description": "« 귀하의 콘텐츠가 100% 고유한지 확인하는 표절 탐지 플랫폼입니다. 사용 가능한 API 통합 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/copyleaks.png",
+      "url": "https://www.aixploria.com/en/copyleaks/",
+      "type": "무료",
+      "category": "#AI detection, #Writing & Web SEO",
+      "upvotes": 11
+    },
+    {
+      "name": "StealthGPT",
+      "description": "« AI 감지기가 콘텐츠를 감지할 수 없게 만드는 GPT3 프롬프트입니다. 학생들에게 이상적입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/stealthgpt.png",
+      "url": "https://www.aixploria.com/en/stealthgpt/",
+      "type": "부분 무료",
+      "category": "#AI detection",
+      "upvotes": 3
+    },
+    {
+      "name": "Have I Been Encoded",
+      "description": "« AI 알고리즘이 당신에 대해 무엇을 알고 있는지, 그리고 그들이 말하는 내용을 알아보세요... »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/have-i-been-encoded.png",
+      "url": "https://www.aixploria.com/en/have-i-been-encoded/",
+      "type": "무료",
+      "category": "#AI detection, #Search engine",
+      "upvotes": 15
+    },
+    {
+      "name": "GeoSpy.ai",
+      "description": "« 몇 초 만에 사진에 위치정보 태그를 지정하는 강력한 AI 도구입니다. 사진이 찍힌 곳을 세계지도에서 알아보세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/geospy-ai.png",
+      "url": "https://www.aixploria.com/en/geospy-ai/",
+      "type": "부분 무료",
+      "category": "#AI detection, #SuperTools",
+      "upvotes": 32
+    },
+    {
+      "name": "Humanizer AI",
+      "description": "« AI 생성 텍스트를 단축, 확장 및 AI 감지기를 우회할 수 있는 \"Human Score\"와 같은 기능을 통해 인간과 같은 쓰기로 다듬는 AI 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/humanizer-ai.png",
+      "url": "https://www.aixploria.com/en/humanizer-ai-tool/",
+      "type": "부분 무료",
+      "category": "#AI detection, #AIxploria Selection",
+      "upvotes": 28
+    },
+    {
+      "name": "Roboflow",
+      "description": "« 물체를 감지하고 모든 종류의 프로젝트에 통합할 수 있는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/roboflow.png",
+      "url": "https://www.aixploria.com/en/roboflow/",
+      "type": "부분 무료",
+      "category": "#AI detection, #No Code/Low Code",
+      "upvotes": 6
+    },
+    {
+      "name": "Humanize AI",
+      "description": "« AI 텍스트를 자연스럽고 인간적인 콘텐츠로 변환하는 간단한 도구입니다. AI 감지 시스템이 콘텐츠를 감지할 수 없도록 만드는 데 적합합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/humanize-ai.png",
+      "url": "https://www.aixploria.com/en/humanize-ai/",
+      "type": "무료",
+      "category": "#AI detection",
+      "upvotes": 6
+    },
+    {
+      "name": "GPT-4V Online",
+      "description": "« 이미지를 보고 해석할 수 있는 다중 모드 모델입니다. 시각적 인식, OCR, 객체 감지 등에 이상적입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/gpt-4v-online.png",
+      "url": "https://www.aixploria.com/en/gpt-4v-online/",
+      "type": "부분 무료",
+      "category": "#AI detection",
+      "upvotes": 3
+    },
+    {
+      "name": "DeepFake Detector",
+      "description": "« DeepFake 스타일 기술로 비디오나 음성이 변조되었는지 즉시 감지합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/deepfake-detector.png",
+      "url": "https://www.aixploria.com/en/deepfake-detector/",
+      "type": "유료",
+      "category": "#AI detection, #Face Swap & DeepFake",
+      "upvotes": 1
+    },
+    {
+      "name": "TinEye",
+      "description": "« 이미지 인식(역방향) 전문 검색 엔진입니다. 애플리케이션: 콘텐츠 조정, 사기 탐지, 온라인 이미지 추적 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/tineye.png",
+      "url": "https://www.aixploria.com/en/tineye-ai/",
+      "type": "무료",
+      "category": "#AI detection, #Search engine",
+      "upvotes": 19
+    },
+    {
+      "name": "Turnitin",
+      "description": "« 학생 과제물에서 보조 글쓰기를 감지하는 AI를 통해 학문적 무결성을 유지하세요. 대학, 고등학교 또는 연구를 위한 작업 흐름에 도구를 쉽게 통합할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/turnitin.png",
+      "url": "https://www.aixploria.com/en/turnitin-ai-detection/",
+      "type": "유료",
+      "category": "#AI detection, #Education / Studies",
+      "upvotes": 28
+    },
+    {
+      "name": "Bypassgpt",
+      "description": "« AI 감지 시스템이 텍스트를 감지할 수 없도록 만드는 AI 콘텐츠 재작성 도구입니다. SEO 및 표절 방지에 매우 중요합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/bypassgpt.png",
+      "url": "https://www.aixploria.com/en/bypassgpt-ai/",
+      "type": "부분 무료",
+      "category": "#AI detection, #Writing & Web SEO",
+      "upvotes": 6
+    },
+    {
+      "name": "Copyright Check AI",
+      "description": "« 저작권 침해 소송으로부터 소셜 네트워크를 보호하세요. AI가 귀하의 게시물을 스캔하고, 불법적으로 사용된 음악을 식별하고, 프로세스를 안내합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/copyright-check-ai.png",
+      "url": "https://www.aixploria.com/en/copyright-check-ai/",
+      "type": "무료",
+      "category": "#AI detection, #Music",
+      "upvotes": 15
+    },
+    {
+      "name": "AudioSeal by Meta AI",
+      "description": "« AI 생성 오디오 파일에 현지화된 워터마크를 추가하는 도구입니다. 또한 대규모 실시간에서도 효과적인 오디오 DeepFake 감지 기능을 갖추고 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/audioseal-by-meta-ai.png",
+      "url": "https://www.aixploria.com/en/audioseal-ai-meta/",
+      "type": "무료",
+      "category": "#AI detection, #Audio Editing",
+      "upvotes": 8
+    },
+    {
+      "name": "Winston AI",
+      "description": "« AI 생성 텍스트 콘텐츠 자동 감지. PDF, Word 등의 문서 확인 가능. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/winston-ai.png",
+      "url": "https://www.aixploria.com/en/winston-ai/",
+      "type": "부분 무료",
+      "category": "#AI detection",
+      "upvotes": 1
+    },
+    {
+      "name": "Detect GPT",
+      "description": "« 예를 들어 ChatGPT에서 AI에 의해 생성된 텍스트 감지기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/detect-gpt.png",
+      "url": "https://www.aixploria.com/en/detect-gpt/",
+      "type": "무료",
+      "category": "#AI detection, #Education / Studies",
+      "upvotes": 1
+    },
+    {
+      "name": "Real or Fake Text",
+      "description": "« 텍스트가 사람이 쓴 것인지, 인공지능(AI)이 쓴 것인지 빠르게 판단하기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/02/favicon-defa.png",
+      "url": "https://www.aixploria.com/en/real-or-fake-text/",
+      "type": "무료",
+      "category": "#AI detection, #Games",
+      "upvotes": 1
+    },
+    {
+      "name": "Content Credentials",
+      "description": "« 온라인 콘텐츠의 출처와 편집 이력을 검증하는 딥페이크 방지 솔루션입니다. 모든 미디어 유형에서 작동합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/content-credentials.png",
+      "url": "https://www.aixploria.com/en/content-credentials-ai/",
+      "type": "무료",
+      "category": "#AI detection",
+      "upvotes": 7
+    },
+    {
+      "name": "FakerLabs",
+      "description": "« 동영상이 가짜인지 진짜인지 쉽게 구별할 수 있는 Deepfake 전문 사이트 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/fakerlabs.png",
+      "url": "https://www.aixploria.com/en/fakerlabs-ai/",
+      "type": "무료",
+      "category": "#AI detection",
+      "upvotes": 2
+    },
+    {
+      "name": "ScrapX AI",
+      "description": "« 웹사이트에 변경 사항이 발생하는 즉시 이메일이나 Slack을 통해 알림을 받을 수 있는 웹사이트입니다. 실용적인 모니터링 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/scrapx-ai.png",
+      "url": "https://www.aixploria.com/en/scrapx-ai/",
+      "type": "부분 무료",
+      "category": "#AI detection, #Websites & Design",
+      "upvotes": 3
+    },
+    {
+      "name": "PhotoGuard AI",
+      "description": "« 사진이 인공 지능에 의해 생성되었거나 편집되었는지 쉽게 감지할 수 있습니다. AI 탐지 모델을 사용하여 가짜 이미지를 빠르게 찾아냅니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/photoguard-ai.png",
+      "url": "https://www.aixploria.com/en/photoguard-ai/",
+      "type": "무료",
+      "category": "#AI detection",
+      "upvotes": 2
+    },
+    {
+      "name": "AIundetect",
+      "description": "« 콘텐츠가 모든 AI 탐지기를 능가하는 데 도움이 되는 전문 텍스트 재작성 도구입니다. 텍스트가 일관되고 인간적인 스타일로 다시 작성됨 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/aiundetect.png",
+      "url": "https://www.aixploria.com/en/aiundetect/",
+      "type": "부분 무료",
+      "category": "#AI detection",
+      "upvotes": 4
+    },
+    {
+      "name": "WriteHuman",
+      "description": "« AI가 생성한 텍스트를 감지할 수 없는 사람의 손글씨로 변환합니다. AI 콘텐츠 탐지 방지 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/writehuman.png",
+      "url": "https://www.aixploria.com/en/writehuman/",
+      "type": "부분 무료",
+      "category": "#AI detection, #Writing & Web SEO",
+      "upvotes": 3
+    },
+    {
+      "name": "GPTinf",
+      "description": "« AI가 감지할 수 없도록 텍스트를 다시 작성하고 바꿔 쓰는 편리한 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/gptinf.png",
+      "url": "https://www.aixploria.com/en/gptinf/",
+      "type": "부분 무료",
+      "category": "#AI detection",
+      "upvotes": 0
+    },
+    {
+      "name": "Wasitai",
+      "description": "« 이미지가 AI 머신으로 생성되었는지 쉽게 확인할 수 있습니다. 이미지를 업로드하고 가짜인지 즉시 확인하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/wasitai.png",
+      "url": "https://www.aixploria.com/en/wasitai/",
+      "type": "무료",
+      "category": "#AI detection",
+      "upvotes": 1
+    },
+    {
+      "name": "Bladerunner",
+      "description": "« AI 생성 텍스트를 식별하는 강력한 브라우저 확장입니다. 허위 리뷰 및 기사의 빠른 탐지 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/bladerunner.png",
+      "url": "https://www.aixploria.com/en/bladerunner/",
+      "type": "무료",
+      "category": "#AI detection",
+      "upvotes": 2
+    },
+    {
+      "name": "Nuanced",
+      "description": "« AI 생성 이미지를 효율적으로 감지하고 비즈니스 플랫폼의 신뢰성을 보존하세요. 강력한 API를 통해 통합 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/nuanced.png",
+      "url": "https://www.aixploria.com/en/nuanced-ai-image-detection/",
+      "type": "부분 무료",
+      "category": "#AI detection",
+      "upvotes": 12
+    },
+    {
+      "name": "Crossplag’s AI detector",
+      "description": "« AI를 사용하여 텍스트의 출처와 텍스트가 사람이 쓴 것인지 AI 기계가 쓴 것인지 정확하게 판단합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/crossplags-ai-detector/",
+      "type": "부분 무료",
+      "category": "#AI detection",
+      "upvotes": 0
+    },
+    {
+      "name": "AI or Not",
+      "description": "« 인공지능에 의해 생성된 이미지인지 분석하고 정확하게 판별하는 이미지 검출기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-or-not.png",
+      "url": "https://www.aixploria.com/en/ai-or-not/",
+      "type": "부분 무료",
+      "category": "#AI detection",
+      "upvotes": 14
+    },
+    {
+      "name": "GPT-Minus1",
+      "description": "« 인공지능(ChatGPT의 AI) 하에서 콘텐츠 감지를 우회하는 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/gpt-minus1.png",
+      "url": "https://www.aixploria.com/en/gpt-minus1/",
+      "type": "무료",
+      "category": "#AI detection",
+      "upvotes": 0
+    },
+    {
+      "name": "Twelve Labs",
+      "description": "« 비디오 검색 기능에 통합할 API 세트: 타겟 광고, 콘텐츠 조정, 미디어 분석 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/twelve-labs.png",
+      "url": "https://www.aixploria.com/en/twelve-labs/",
+      "type": "부분 무료",
+      "category": "#AI detection, #Developer Tools",
+      "upvotes": 1
+    },
+    {
+      "name": "GPT-2 Output Detector",
+      "description": "« 확률을 백분율로 제공하여 AI가 텍스트를 작성했는지 감지합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/02/favicon-defa.png",
+      "url": "https://www.aixploria.com/en/gpt-2-output-detector/",
+      "type": "무료",
+      "category": "#AI detection",
+      "upvotes": 1
+    },
+    {
+      "name": "AICheatCheck",
+      "description": "« 교사가 콘텐츠가 AI에 의해 작성되었는지 감지할 수 있도록 지원 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/aicheatcheck.png",
+      "url": "https://www.aixploria.com/en/aicheatcheck/",
+      "type": "무료",
+      "category": "#AI detection, #Education / Studies",
+      "upvotes": 2
+    },
+    {
+      "name": "Is This Image NSFW?",
+      "description": "« 이미지를 업로드하면 AI가 작업에 안전한지 알려줍니다(NSFW) »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/02/favicon-defa.png",
+      "url": "https://www.aixploria.com/en/is-this-image-nsfw/",
+      "type": "무료",
+      "category": "#AI detection",
+      "upvotes": 1
+    },
+    {
+      "name": "GPTKit",
+      "description": "« AI가 텍스트를 생성했는지 쉽게 감지하는 AI(GPT) »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/gptkit.png",
+      "url": "https://www.aixploria.com/en/gptkit/",
+      "type": "부분 무료",
+      "category": "#AI detection",
+      "upvotes": 1
+    },
+    {
+      "name": "Illuminarty",
+      "description": "« 고급 알고리즘을 통해 AI가 생성, 수정, 딥페이크 이미지를 탐지하는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/illuminarty.png",
+      "url": "https://www.aixploria.com/en/illuminarty/",
+      "type": "부분 무료",
+      "category": "#AI detection",
+      "upvotes": 1
+    },
+    {
+      "name": "Content At Scale",
+      "description": "« 확인하고 싶은 텍스트를 복사해서 붙여넣으면 AI가 이 콘텐츠 뒤에 있는 사람이 정말 사람인지 알려줄 것입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/content-at-scale.png",
+      "url": "https://www.aixploria.com/en/content-at-scale/",
+      "type": "무료",
+      "category": "#AI detection",
+      "upvotes": 1
+    }
+  ]
+}

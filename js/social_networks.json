@@ -1,0 +1,1184 @@
+{
+  "name": "Social Networks",
+  "items": [
+    {
+      "name": "Adcreative AI",
+      "description": "« 브랜드, 로고, 색상 및 형식에 맞게 조정되는 AI를 사용하여 전문가 수준의 광고를 쉽게 디자인하세요. 소셜 네트워크 마케팅 및 기업에 권장됩니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/adcreative-ai.png",
+      "url": "https://www.aixploria.com/en/adcreative-ai/",
+      "type": "Free-Trial",
+      "category": "#AIxploria Selection, #Business",
+      "upvotes": 410
+    },
+    {
+      "name": "PimEyes",
+      "description": "« 사진 중 하나를 AI에 제공하고 인터넷에서 귀하가 나타나는 위치를 알아보세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/pimeyes.png",
+      "url": "https://www.aixploria.com/en/pimeyes/",
+      "type": "무료",
+      "category": "#AI detection, #Social Networks",
+      "upvotes": 56
+    },
+    {
+      "name": "AI Video Cut",
+      "description": "« 긴 비디오를 YouTube, TikTok 또는 광고용 바이럴 콘텐츠로 변환하세요. AI는 맞춤형 예고편, 클립, 광고를 만듭니다. 9:16, 4:3 또는 원본 크기로 내보내기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-video-cut.png",
+      "url": "https://www.aixploria.com/en/ai-video-cut/",
+      "type": "무료",
+      "category": "#AIxploria Selection, #Social Networks",
+      "upvotes": 43
+    },
+    {
+      "name": "Faceless.video",
+      "description": "« TikTok 계정의 주제를 입력하면 AI가 관련 비디오를 생성합니다. 그러면 매주 자동으로 귀하의 계정에 게시됩니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/12/faceless-video-ai.webp",
+      "url": "https://www.aixploria.com/en/faceless-video/",
+      "type": "유료",
+      "category": "#Social Networks, #Video Generators",
+      "upvotes": 64
+    },
+    {
+      "name": "Predis AI",
+      "description": "« 소셜 네트워크에 특화된 AI 콘텐츠 생성기. 텍스트, 이미지, 음성, 광고, 캐러셀 등을 만들 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/predis-ai.png",
+      "url": "https://www.aixploria.com/en/predis/",
+      "type": "부분 무료",
+      "category": "#Marketing, #Social Networks",
+      "upvotes": 38
+    },
+    {
+      "name": "Opus Clip",
+      "description": "« 긴 비디오를 TikTok, Shorts 등 소셜 네트워크용 짧은 클립으로 변환하는 데 도움이 됩니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/opus-clip.png",
+      "url": "https://www.aixploria.com/en/opus-clip/",
+      "type": "무료",
+      "category": "#Social Networks, #Video Edition",
+      "upvotes": 34
+    },
+    {
+      "name": "Repurpose IO",
+      "description": "« 소셜 네트워크에서 마케팅 및 게시를 단순화하는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/01/repurpose-io-ai-icon.webp",
+      "url": "https://www.aixploria.com/en/repurpose-io/",
+      "type": "Free-Trial",
+      "category": "#Business, #E-commerce",
+      "upvotes": 47
+    },
+    {
+      "name": "Taplio",
+      "description": "« AI 비서로 더 빠르게 작성하고 LinkedIn에서 기사의 품질을 높이세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/taplio.png",
+      "url": "https://www.aixploria.com/en/taplio/",
+      "type": "부분 무료",
+      "category": "#Business, #Social Networks",
+      "upvotes": 72
+    },
+    {
+      "name": "AI Social Bio",
+      "description": "« 무료로 소셜 네트워크 약력을 생성하는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-social-bio.png",
+      "url": "https://www.aixploria.com/en/ai-social-bio/",
+      "type": "무료",
+      "category": "#AI Useful, #Social Networks",
+      "upvotes": 5
+    },
+    {
+      "name": "Tube Magic",
+      "description": "« 비디오 아이디어, 스크립트 및 제목을 생성하기 위한 이 AI 도구를 사용하여 YouTube 채널을 강화하세요. 손쉽게 가시성 확보 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/04/tube-magic-ai-video.png",
+      "url": "https://www.aixploria.com/en/tube-magic-ai-video/",
+      "type": "유료",
+      "category": "#Marketing, #Social Networks",
+      "upvotes": 47
+    },
+    {
+      "name": "HubSpot Clip Creator",
+      "description": "« 콘텐츠에서 클립을 생성하는 AI로 전문적인 마케팅 비디오를 만드세요. 결과는 맞춤화 가능하며 TikTok, Reels Instagram 또는 YouTube Shorts와 같은 소셜 네트워크에 이상적입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/04/HubSpot-fav.png",
+      "url": "https://www.aixploria.com/en/hubspot-clip-creator-ai-video/",
+      "type": "무료",
+      "category": "#Social Networks, #Video Generators",
+      "upvotes": 37
+    },
+    {
+      "name": "Steve AI",
+      "description": "« 모든 소셜 네트워크를 위한 비디오 제작 및 타겟 광고 디자인 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/steve-ai.png",
+      "url": "https://www.aixploria.com/en/steve-ai/",
+      "type": "부분 무료",
+      "category": "#Social Networks, #Text-to-video",
+      "upvotes": 22
+    },
+    {
+      "name": "Thumbnail AI",
+      "description": "« YouTube 동영상에 대한 미리보기 이미지의 AI 최적화 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/thumbnail-ai.png",
+      "url": "https://www.aixploria.com/en/thumbnailai/",
+      "type": "무료",
+      "category": "#Social Networks",
+      "upvotes": 2
+    },
+    {
+      "name": "TikTok Watermark Remover",
+      "description": "« 무료 온라인 도구를 사용하여 TikTok 비디오에서 워터마크를 쉽게 제거하세요. 품질 저하 없이 좋아하는 콘텐츠를 다른 플랫폼에 업로드, 편집 및 공유하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/tiktok-watermark-remover.png",
+      "url": "https://www.aixploria.com/en/tiktok-watermark-remover-ai-media/",
+      "type": "부분 무료",
+      "category": "#Social Networks, #Video Edition",
+      "upvotes": 40
+    },
+    {
+      "name": "SuperMeme",
+      "description": "« 아이디어를 쓰면 AI가 이를 밈으로 바꿔줍니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/supermeme.png",
+      "url": "https://www.aixploria.com/en/supermeme/",
+      "type": "무료",
+      "category": "#Amazing, #Social Networks",
+      "upvotes": 4
+    },
+    {
+      "name": "Captions",
+      "description": "« 쉽고 빠르게 비디오를 제작, 캡션 및 사용자 정의할 수 있는 AI 스튜디오 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/captions.png",
+      "url": "https://www.aixploria.com/en/captions/",
+      "type": "무료",
+      "category": "#Social Networks, #Video Edition",
+      "upvotes": 27
+    },
+    {
+      "name": "Viral Post Generator",
+      "description": "« LinkedIn 소셜 네트워크에서 인기 있고 인기 있는 게시물 만들기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/viral-post-generator.png",
+      "url": "https://www.aixploria.com/en/viral-post-generator/",
+      "type": "무료",
+      "category": "#Social Networks",
+      "upvotes": 1
+    },
+    {
+      "name": "Profil Picture AI",
+      "description": "« 소셜 네트워크를 위한 완벽한 프로필 사진 만들기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/profil-picture-ai.png",
+      "url": "https://www.aixploria.com/en/profil-picture-ai/",
+      "type": "유료",
+      "category": "#Avatars, #Social Networks",
+      "upvotes": 6
+    },
+    {
+      "name": "AI Studio by Meta",
+      "description": "« 관심 분야에 따라 AI 캐릭터나 자신의 복제품을 만드세요. 그러면 청중은 Instagram, Messenger 또는 WhatsApp의 챗봇을 통해 이 페르소나와 채팅할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-studio-by-meta.png",
+      "url": "https://www.aixploria.com/en/ai-studio-by-meta/",
+      "type": "무료",
+      "category": "#Avatars, #Social Networks",
+      "upvotes": 27
+    },
+    {
+      "name": "Immersity AI",
+      "description": "« 2D 이미지를 3D로 빠르게 변환하는 AI. 라이트필드 애니메이션을 포함한 다양한 형식과 호환 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/immersity-ai.png",
+      "url": "https://www.aixploria.com/en/immersity-ai-leiapix/",
+      "type": "부분 무료",
+      "category": "#3D model, #Social Networks",
+      "upvotes": 10
+    },
+    {
+      "name": "Resume Worded",
+      "description": "« LinkedIn 프로필 페이지를 쉽게 개선하고 채용 담당자에게 더욱 매력적으로 다가가세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/resume-worded.png",
+      "url": "https://www.aixploria.com/en/resume-worded/",
+      "type": "부분 무료",
+      "category": "#Human Resources, #Social Networks",
+      "upvotes": 12
+    },
+    {
+      "name": "URL to UGC by HeyGen",
+      "description": "« 초현실적인 UGC 스타일 비디오 아바타를 만드세요. URL에서 작동합니다. 소셜 네트워크(Tiktok, Reels 또는 Youtube Shorts)에 적합합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/07/heygen-V2.png",
+      "url": "https://www.aixploria.com/en/url-to-ugc-by-heygen-ai-video/",
+      "type": "부분 무료",
+      "category": "#Social Networks, #Video Generators",
+      "upvotes": 29
+    },
+    {
+      "name": "TwitterBio",
+      "description": "« 귀하의 취향과 욕구에 따라 트위터 소개를 생성하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/twitterbio.png",
+      "url": "https://www.aixploria.com/en/twitterbio/",
+      "type": "무료",
+      "category": "#Social Networks",
+      "upvotes": 2
+    },
+    {
+      "name": "Morise AI",
+      "description": "« YouTube 동영상 제작 시 SEO를 개선하는 AI 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/morise-ai.png",
+      "url": "https://www.aixploria.com/en/morise-ai/",
+      "type": "유료",
+      "category": "#Social Networks",
+      "upvotes": 1
+    },
+    {
+      "name": "Beacons.ai",
+      "description": "« 소셜 네트워크를 위한 유기적 링크 생성을 전문으로 하는 마케팅 플랫폼입니다. 나만의 온라인 상점을 빠르게 만들 수도 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/beacons-ai.png",
+      "url": "https://www.aixploria.com/en/beacons-ai/",
+      "type": "부분 무료",
+      "category": "#Marketing, #Social Networks",
+      "upvotes": 24
+    },
+    {
+      "name": "Optimo",
+      "description": "« SEO, 인스타그램, 카피라이팅, 비디오, 이메일 등을 위한 AI가 포함된 완벽한 무료 마케팅 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/optimo.png",
+      "url": "https://www.aixploria.com/en/optimo/",
+      "type": "무료",
+      "category": "#Marketing, #Social Networks",
+      "upvotes": 2
+    },
+    {
+      "name": "Pixelhunter",
+      "description": "« 전문 디자이너처럼 AI가 이미지를 자르도록 하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/pixelhunter.png",
+      "url": "https://www.aixploria.com/en/pixelhunter/",
+      "type": "무료",
+      "category": "#Image editing, #Social Networks",
+      "upvotes": 32
+    },
+    {
+      "name": "Headpix.ai",
+      "description": "« AI로 전문적인 프로필 사진을 만드세요. 소셜 네트워크와 웹사이트에서 전문적인 이미지를 얻기 위해 셀카를 스튜디오 품질의 인물 사진으로 바꿔 보세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/headpix-ai.png",
+      "url": "https://www.aixploria.com/en/headpix-ai-headshot/",
+      "type": "유료",
+      "category": "#AIxploria Selection, #Image Generators",
+      "upvotes": 33
+    },
+    {
+      "name": "QuickVid.Ai",
+      "description": "« YouTube Shorts와 같은 짧은 동영상 자동 생성 실험 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/quickvid-ai.png",
+      "url": "https://www.aixploria.com/en/quickvid-ai/",
+      "type": "부분 무료",
+      "category": "#Social Networks, #Video Edition",
+      "upvotes": 3
+    },
+    {
+      "name": "Automata",
+      "description": "« 비디오와 블로그를 Twitter 게시물이나 LinkedIn 기사로 전환하기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/automata.png",
+      "url": "https://www.aixploria.com/en/automata/",
+      "type": "부분 무료",
+      "category": "#Social Networks",
+      "upvotes": 1
+    },
+    {
+      "name": "Repl AI",
+      "description": "« 어휘력을 확장하고 고품질 트윗 만들기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/repl-ai/",
+      "type": "부분 무료",
+      "category": "#Social Networks",
+      "upvotes": 0
+    },
+    {
+      "name": "CrawlQ AI",
+      "description": "« 고객의 감정을 활용하여 고객을 브랜드에 중독시키세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/crawlq-ai.png",
+      "url": "https://www.aixploria.com/en/crawlq-ai/",
+      "type": "부분 무료",
+      "category": "#Social Networks",
+      "upvotes": 1
+    },
+    {
+      "name": "Gpt twit-bot",
+      "description": "« 당신의 트윗을 분석하고 트위터에 개인화된 프로필(약력, 사진, 닉네임 등)을 만들어주는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/gpt-twit-bot.png",
+      "url": "https://www.aixploria.com/en/gpt-twit-bot/",
+      "type": "무료",
+      "category": "#Social Networks",
+      "upvotes": 0
+    },
+    {
+      "name": "Scrip AI",
+      "description": "« AI를 사용하면 10배 더 빠르게 비디오 스크립트를 만들 수 있습니다. TikTok, Instagram Reels 또는 YouTube Shorts에 적합합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/scrip-ai.png",
+      "url": "https://www.aixploria.com/en/scrip-ai/",
+      "type": "무료",
+      "category": "#Social Networks",
+      "upvotes": 0
+    },
+    {
+      "name": "AI Post Generator",
+      "description": "« 프롬프트에서 매력적인 출판물을 자동으로 생성합니다. 소셜 네트워크에 최적화되어 있으며 6개 언어로 제공됩니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-post-generator.png",
+      "url": "https://www.aixploria.com/en/ai-post-generator/",
+      "type": "무료",
+      "category": "#Social Networks",
+      "upvotes": 0
+    },
+    {
+      "name": "Peachly AI",
+      "description": "« Instagram, Facebook 또는 Google Ads에서 매우 정확하고 효과적인 광고 캠페인 시작 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/peachly-ai.png",
+      "url": "https://www.aixploria.com/en/peachly-ai/",
+      "type": "부분 무료",
+      "category": "#Social Networks",
+      "upvotes": 2
+    },
+    {
+      "name": "TimeToTok",
+      "description": "« AI 부조종사와 함께 TikTok에서 성장을 극대화하세요. 게시하기 가장 좋은 시기, 바이럴 트렌드, 경쟁사 추적 등에 대한 개인화된 통찰력을 얻으세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/timetotok.png",
+      "url": "https://www.aixploria.com/en/timetotok-ai/",
+      "type": "부분 무료",
+      "category": "#Social Networks",
+      "upvotes": 1
+    },
+    {
+      "name": "Postly",
+      "description": "« 소셜 미디어 캠페인 제작을 위한 다양한 AI 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/postly.png",
+      "url": "https://www.aixploria.com/en/postly/",
+      "type": "부분 무료",
+      "category": "#Social Networks",
+      "upvotes": 1
+    },
+    {
+      "name": "TubeBuddy",
+      "description": "« YouTube 채널을 최적화하고 더 많은 조회수와 구독자를 확보하세요. 키워드, 참조, 썸네일 등을 개선하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/tubebuddy.png",
+      "url": "https://www.aixploria.com/en/tubebuddy/",
+      "type": "부분 무료",
+      "category": "#Social Networks",
+      "upvotes": 0
+    },
+    {
+      "name": "Spatial",
+      "description": "« 소셜 네트워크에서 사용자의 행동에 실시간으로 영향을 미치고 예측합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/spatial.png",
+      "url": "https://www.aixploria.com/en/spatial/",
+      "type": "부분 무료",
+      "category": "#Social Networks",
+      "upvotes": 0
+    },
+    {
+      "name": "Contenda",
+      "description": "« AI를 통해 입증된 마케팅 기법 재사용 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/contenda.png",
+      "url": "https://www.aixploria.com/en/contenda/",
+      "type": "부분 무료",
+      "category": "#Marketing, #Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "NSWR.ai",
+      "description": "« 모든 댓글을 보다 쉽고 효과적으로 관리하세요: 즉각적인 응답, 부정적인 댓글 필터링, 참여율 향상 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/nswr-ai.png",
+      "url": "https://www.aixploria.com/en/nswr-ai-comment/",
+      "type": "Free-Trial",
+      "category": "#Business, #Social Networks",
+      "upvotes": 24
+    },
+    {
+      "name": "Manychat",
+      "description": "« 소셜 네트워크 대화를 자동화하여 더 많은 리드와 매출을 창출하세요. 하루 24시간 모든 메시지에 즉시 응답합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/manychat.png",
+      "url": "https://www.aixploria.com/en/manychat-ai-chatbot/",
+      "type": "무료",
+      "category": "#Automation, #ChatBots",
+      "upvotes": 24
+    },
+    {
+      "name": "FeedHive",
+      "description": "« 모든 소셜 네트워크에 대한 자동 콘텐츠 구성 및 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/feedhive.png",
+      "url": "https://www.aixploria.com/en/feedhive/",
+      "type": "부분 무료",
+      "category": "#Social Networks",
+      "upvotes": 1
+    },
+    {
+      "name": "Skim It",
+      "description": "« 모든 유형의 기사 요약을 이메일 받은 편지함으로 직접 가져오기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/skim-it.png",
+      "url": "https://www.aixploria.com/en/skim-it/",
+      "type": "무료",
+      "category": "#Social Networks, #Summarizer",
+      "upvotes": 2
+    },
+    {
+      "name": "Creatus AI",
+      "description": "« 소셜 네트워크에 광고를 만들기 위한 텍스트-비디오 생성기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/creatus-ai.png",
+      "url": "https://www.aixploria.com/en/creatus-ai/",
+      "type": "무료",
+      "category": "#Marketing, #Social Networks",
+      "upvotes": 3
+    },
+    {
+      "name": "SocialBu",
+      "description": "« 소셜 네트워크 전용 다기능 AI로 존재감을 강화하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/socialbu.png",
+      "url": "https://www.aixploria.com/en/socialbu/",
+      "type": "부분 무료",
+      "category": "#Social Networks",
+      "upvotes": 0
+    },
+    {
+      "name": "Graham AI",
+      "description": "« 마치 당신이 신기술의 진정한 천재인 것처럼 트윗하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/graham-ai.png",
+      "url": "https://www.aixploria.com/en/graham-ai/",
+      "type": "무료",
+      "category": "#Social Networks",
+      "upvotes": 1
+    },
+    {
+      "name": "Higgsfield",
+      "description": "« 고성능 모델을 사용하여 소셜 네트워크에서 비디오 제작의 민주화를 목표로 하는 AI 플랫폼입니다. 현실적인 캐릭터와 움직임 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/higgsfield.png",
+      "url": "https://www.aixploria.com/en/higgsfield/",
+      "type": "무료",
+      "category": "#Social Networks, #Video Generators",
+      "upvotes": 20
+    },
+    {
+      "name": "Wordhero",
+      "description": "« 소셜 네트워크, 이메일 등을 위한 콘텐츠 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/wordhero.png",
+      "url": "https://www.aixploria.com/en/wordhero/",
+      "type": "유료",
+      "category": "#Social Networks, #Text Generators",
+      "upvotes": 2
+    },
+    {
+      "name": "Butterflies AI",
+      "description": "« AI 캐릭터와 상호 작용할 수 있는 독창적인 소셜 네트워크입니다. Instagram과 마찬가지로 아바타를 만들고, 콘텐츠를 게시하고, 채팅할 수 있지만 인공 지능을 사용합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/butterflies-ai.png",
+      "url": "https://www.aixploria.com/en/butterflies-ai-social-network/",
+      "type": "무료",
+      "category": "#Amazing, #Social Networks",
+      "upvotes": 19
+    },
+    {
+      "name": "Markopolo",
+      "description": "« Instagram, Google, TikTok, YouTube, LinkedIn 또는 Facebook과 같은 소셜 네트워크에서 잃어버린 청중 복구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/markopolo.png",
+      "url": "https://www.aixploria.com/en/markopolo/",
+      "type": "부분 무료",
+      "category": "#E-commerce, #Social Networks",
+      "upvotes": 1
+    },
+    {
+      "name": "Clips AI",
+      "description": "« 긴 동영상을 소셜 네트워크(예: TikTok 또는 Shorts)에 이상적인 짧은 동영상으로 변환하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/clips-ai.png",
+      "url": "https://www.aixploria.com/en/clips-ai/",
+      "type": "부분 무료",
+      "category": "#Social Networks, #Video Edition",
+      "upvotes": 2
+    },
+    {
+      "name": "Pinterest Performance+",
+      "description": "« AI를 통해 Pinterest에서 광고 캠페인을 강화하세요. 자동으로 광고를 최적화하고, 가장 관련성이 높은 잠재 고객을 타겟팅하고, 성과를 측정하여 ROI를 극대화합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/pinterest-performance-.png",
+      "url": "https://www.aixploria.com/en/pinterest-performance-ai-marketing/",
+      "type": "부분 무료",
+      "category": "#Marketing, #Social Networks",
+      "upvotes": 31
+    },
+    {
+      "name": "Stable Artisan",
+      "description": "« Stability AI API와 함께 작동하는 다중 모드 생성 AI Discord 봇입니다. Stable Diffusion 3을 사용하여 이미지를 생성하고 수정할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/stable-artisan.png",
+      "url": "https://www.aixploria.com/en/stable-artisan-ai-discord-bot/",
+      "type": "Free-Trial",
+      "category": "#Image Generators, #Social Networks",
+      "upvotes": 27
+    },
+    {
+      "name": "Alter AI",
+      "description": "« AI를 사용하여 평범한 셀카를 고품질 프로필 사진으로 바꿔보세요. LinkedIn, Instagram, Tinder 및 WhatsApp에 이상적입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/alter-ai.png",
+      "url": "https://www.aixploria.com/en/alter-ai/",
+      "type": "유료",
+      "category": "#Dating & Relationships, #Image editing",
+      "upvotes": 4
+    },
+    {
+      "name": "Airchat",
+      "description": "« 무전기(푸시 투 토크)와 유사한 시스템을 사용하는 오디오 소셜 네트워크입니다. 말한 내용을 텍스트로 전사할 수 있습니다. IOS 및 Android에서 사용 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/airchat.png",
+      "url": "https://www.aixploria.com/en/airchat-ai-social-audio/",
+      "type": "무료",
+      "category": "#Social Networks",
+      "upvotes": 21
+    },
+    {
+      "name": "Tweet Hunter",
+      "description": "« 매우 쉽고 빠르게 트위터에서 청중으로부터 수익을 창출하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/tweet-hunter.png",
+      "url": "https://www.aixploria.com/en/tweet-hunter/",
+      "type": "부분 무료",
+      "category": "#Social Networks",
+      "upvotes": 1
+    },
+    {
+      "name": "Fanfuel",
+      "description": "« YouTube 동영상 제작자를 위한 AI 어시스턴트: 콘텐츠 제작, 썸네일 생성기, 통계 분석, 얼굴 스왑퍼 등에 대한 지원 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/fanfuel.png",
+      "url": "https://www.aixploria.com/en/fanfuel-ai/",
+      "type": "유료",
+      "category": "#Face Swap & DeepFake, #Social Networks",
+      "upvotes": 2
+    },
+    {
+      "name": "Contlo.ai",
+      "description": "« 소셜 네트워크에서의 마케팅 활동에 도움을 주는 어시스턴트 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/contlo-ai.png",
+      "url": "https://www.aixploria.com/en/contlo-ai/",
+      "type": "부분 무료",
+      "category": "#Business, #E-commerce",
+      "upvotes": 4
+    },
+    {
+      "name": "Vidiofy",
+      "description": "« 귀하의 기사를 릴과 같은 모바일 형식의 매력적인 비디오로 변환하십시오. 소셜 네트워크에 이상적인 AI 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/vidiofy.png",
+      "url": "https://www.aixploria.com/en/vidiofy-ai/",
+      "type": "부분 무료",
+      "category": "#Social Networks, #Video Edition",
+      "upvotes": 3
+    },
+    {
+      "name": "JibeWith",
+      "description": "« 이 AI는 국가의 청중을 대상으로 하며 소셜 네트워크에서 성공적인 마케팅 전략을 설계합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/jibewith.png",
+      "url": "https://www.aixploria.com/en/jibewith/",
+      "type": "부분 무료",
+      "category": "#Marketing, #Social Networks",
+      "upvotes": 0
+    },
+    {
+      "name": "Thumbly",
+      "description": "« 매력적인 YouTube 썸네일을 쉽게 만들어 동영상의 가시성과 클릭률을 높일 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/thumbly/",
+      "type": "무료",
+      "category": "#Social Networks",
+      "upvotes": 0
+    },
+    {
+      "name": "Pygma",
+      "description": "« 이 멀티태스킹 AI 도구를 사용하여 Instagram의 존재감을 강화하세요. 개인화된 콘텐츠를 생성하고 게시물을 예약하며 전반적인 전략을 개선합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/pygma.png",
+      "url": "https://www.aixploria.com/en/pygma-ai-instagram/",
+      "type": "Free-Trial",
+      "category": "#Social Networks",
+      "upvotes": 26
+    },
+    {
+      "name": "Topview.ai",
+      "description": "« 소셜 네트워크용 바이럴 비디오를 쉽게 만들 수 있습니다. 아이디어를 설명하고 AI가 나머지 작업을 수행하도록 하세요. Reels, TikTok, YouTube 및 Shorts와 호환 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/topview-ai.png",
+      "url": "https://www.aixploria.com/en/topview-ai/",
+      "type": "Free-Trial",
+      "category": "#Social Networks, #Video Generators",
+      "upvotes": 12
+    },
+    {
+      "name": "InstaSalesAI",
+      "description": "« 인스타그램 앱 마케팅에 사용되는 AI 도구 세트 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/instasalesai.png",
+      "url": "https://www.aixploria.com/en/instasalesai/",
+      "type": "부분 무료",
+      "category": "#Marketing, #Sales & Conversion",
+      "upvotes": 1
+    },
+    {
+      "name": "Typefully",
+      "description": "« AI 도우미를 통해 소셜 네트워킹 존재감을 확장하세요. 영향력 있는 게시물/스레드를 작성, 계획 및 게시하세요. Twitter, LinkedIn 및 Mastodon과 호환 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/typefully.png",
+      "url": "https://www.aixploria.com/en/typefully-ai/",
+      "type": "부분 무료",
+      "category": "#Social Networks",
+      "upvotes": 11
+    },
+    {
+      "name": "Syllaby",
+      "description": "« 소셜 네트워크를 위한 마케팅 전략을 만들고, 가장 인기 있는 질문을 찾고, TikTok 또는 YouTube에서 동영상을 제작하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/syllaby.png",
+      "url": "https://www.aixploria.com/en/syllaby/",
+      "type": "무료",
+      "category": "#Marketing, #Social Networks",
+      "upvotes": 1
+    },
+    {
+      "name": "Magicreply IO",
+      "description": "« LinkedIn 및 X(Twitter)의 댓글에 대한 인간화된 응답을 생성하는 AI 비서. 네트워크를 빠르게 확장하는 데 적합합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/magicreply-io.png",
+      "url": "https://www.aixploria.com/en/magicreply-io/",
+      "type": "유료",
+      "category": "#Extensions ChatGPT, #Social Networks",
+      "upvotes": 25
+    },
+    {
+      "name": "InfluencerFarm",
+      "description": "« 개인화된 AI 영향력자를 쉽게 만들고 소셜 네트워크에서 유명 인사에 접근할 수 있습니다. 이 인플루언서 생성기는 신뢰할 수 있는 사진을 생성합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/influencerfarm.png",
+      "url": "https://www.aixploria.com/en/influencerfarm-ai/",
+      "type": "유료",
+      "category": "#Amazing, #Social Networks",
+      "upvotes": 3
+    },
+    {
+      "name": "Summarize Tech",
+      "description": "« 모든 YouTube 동영상을 분석하고 간단하고 읽기 쉬운 요약을 만드는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/summarize-tech.png",
+      "url": "https://www.aixploria.com/en/summarize-tech/",
+      "type": "무료",
+      "category": "#AI Useful, #Productivity",
+      "upvotes": 3
+    },
+    {
+      "name": "Twip AI",
+      "description": "« YouTube를 위한 완벽한 창작 도구: 맞춤형 AI 스크립트, 사실적인 음성 해설, SEO 최적화, 아이디어 생성기 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/twip-ai.png",
+      "url": "https://www.aixploria.com/en/twip-ai/",
+      "type": "유료",
+      "category": "#Social Networks, #Video Edition",
+      "upvotes": 6
+    },
+    {
+      "name": "Stream Chat AI",
+      "description": "« Twitch 플랫폼의 스트리머를 위한 AI 챗봇. 봇은 지치지 않고 시청자와 지능적으로 채팅할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/stream-chat-ai.png",
+      "url": "https://www.aixploria.com/en/stream-chat-ai/",
+      "type": "부분 무료",
+      "category": "#ChatBots, #Social Networks",
+      "upvotes": 2
+    },
+    {
+      "name": "SamurAI",
+      "description": "« Discord 커뮤니티를 빠르게 성장시킬 수 있는 무료 ChatBot »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/samurai.png",
+      "url": "https://www.aixploria.com/en/samurai/",
+      "type": "무료",
+      "category": "#ChatBots, #Social Networks",
+      "upvotes": 2
+    },
+    {
+      "name": "Postus",
+      "description": "« 자동화된 솔루션으로 소셜 네트워크 관리를 최적화하세요. 사용자 정의 가능한 게시 빈도로 AI 덕분에 콘텐츠 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/postus.png",
+      "url": "https://www.aixploria.com/en/postus-ai/",
+      "type": "유료",
+      "category": "#Social Networks",
+      "upvotes": 1
+    },
+    {
+      "name": "MakeShorts AI",
+      "description": "« 비디오를 단축하고 AI 캡션 및 자막이 포함된 바이럴 클립으로 바꾸는 도구입니다. TikTok, YouTube Shorts, Reels 등과 호환 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/makeshorts-ai.png",
+      "url": "https://www.aixploria.com/en/makeshorts-ai/",
+      "type": "유료",
+      "category": "#Social Networks, #Video Edition",
+      "upvotes": 0
+    },
+    {
+      "name": "Name Drop AI",
+      "description": "« AI로 리드 생성을 강화하세요. 진정한 방식으로 소셜 네트워크에서 타겟 고객을 식별하고 상호 작용합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/name-drop-ai.png",
+      "url": "https://www.aixploria.com/en/name-drop-ai/",
+      "type": "무료",
+      "category": "#Business, #Social Networks",
+      "upvotes": 13
+    },
+    {
+      "name": "ReplyMind",
+      "description": "« AI 덕분에 자동으로 응답을 생성하고 소셜 네트워크에서 참여율을 빠르게 향상시킵니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/replymind.png",
+      "url": "https://www.aixploria.com/en/replymind-ai/",
+      "type": "부분 무료",
+      "category": "#Social Networks",
+      "upvotes": 18
+    },
+    {
+      "name": "Ocoya",
+      "description": "« 단 몇 분만에 소셜 네트워크용 마케팅 콘텐츠를 제작할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ocoya.png",
+      "url": "https://www.aixploria.com/en/ocoya/",
+      "type": "부분 무료",
+      "category": "#Marketing, #Social Networks",
+      "upvotes": 1
+    },
+    {
+      "name": "Human Circles AI",
+      "description": "« 네트워킹을 최적화하고 새로운 협력자를 찾으세요. 이 AI를 LinkedIn과 통합하여 보다 정확한 연결의 이점을 누리세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/human-circles-ai.png",
+      "url": "https://www.aixploria.com/en/human-circles-ai/",
+      "type": "무료",
+      "category": "#Business, #Human Resources",
+      "upvotes": 3
+    },
+    {
+      "name": "Typegrow",
+      "description": "« LinkedIn 계정을 강화하는 AI 도구 모음: 전문 출판 AI 보조자, 해시태그 생성기, 스마트 캘린더 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/typegrow.png",
+      "url": "https://www.aixploria.com/en/typegrow-ai/",
+      "type": "부분 무료",
+      "category": "#Social Networks",
+      "upvotes": 4
+    },
+    {
+      "name": "Lychee AI",
+      "description": "« 팟캐스트를 YouTube Short, TikTok 또는 Reels와 같은 플랫폼을 위한 짧은 동영상으로 전환하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/lychee-ai.png",
+      "url": "https://www.aixploria.com/en/lychee-ai/",
+      "type": "부분 무료",
+      "category": "#Social Networks, #Video Generators",
+      "upvotes": 1
+    },
+    {
+      "name": "Circleboom",
+      "description": "« 소셜 네트워크 계정을 쉽게 성장시킬 수 있는 관리 도구: 포스트 생성, 자동 예약, 해시태그 생성기 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/circleboom.png",
+      "url": "https://www.aixploria.com/en/circleboom-ai/",
+      "type": "유료",
+      "category": "#Social Networks",
+      "upvotes": 4
+    },
+    {
+      "name": "Postwise",
+      "description": "« 트위터에서 가시성을 높이기 위한 AI 기반의 여러 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/postwise.png",
+      "url": "https://www.aixploria.com/en/postwise/",
+      "type": "유료",
+      "category": "#Social Networks",
+      "upvotes": 1
+    },
+    {
+      "name": "BrandBastion Lite",
+      "description": "« 소셜 네트워크에서 커뮤니티의 모든 댓글을 관리하고 조정합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/brandbastion-lite.png",
+      "url": "https://www.aixploria.com/en/brandbastion-lite/",
+      "type": "부분 무료",
+      "category": "#Social Networks",
+      "upvotes": 0
+    },
+    {
+      "name": "GetBetterPics",
+      "description": "« 다양한 스타일의 소셜 네트워크용 고품질 사진을 빠르게 생성하기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/getbetterpics.png",
+      "url": "https://www.aixploria.com/en/getbetterpics/",
+      "type": "유료",
+      "category": "#Image editing, #Social Networks",
+      "upvotes": 1
+    },
+    {
+      "name": "Commenter AI",
+      "description": "« 인간화된 AI 피드백과 전문가 팀을 통해 LinkedIn에서 브랜드를 강화하세요. 빠르고 효과적인 성장의 이점 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/commenter-ai.png",
+      "url": "https://www.aixploria.com/en/commenter-ai/",
+      "type": "부분 무료",
+      "category": "#Social Networks",
+      "upvotes": 1
+    },
+    {
+      "name": "LeadDelta 3.0",
+      "description": "« LinkedIn에서 연락처를 중앙 집중화하고 AI로 팀의 집단 네트워크를 활용하세요. 새로운 관계 구축에 도움 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/leaddelta-3-0.png",
+      "url": "https://www.aixploria.com/en/leaddelta-3-0/",
+      "type": "유료",
+      "category": "#Business, #Social Networks",
+      "upvotes": 2
+    },
+    {
+      "name": "Draftly",
+      "description": "« LinkedIn에서 귀하의 존재감을 높이는 데 도움이 되는 AI 도구입니다. 개인화된 게시물을 작성하고, 콘텐츠를 예약하고, AI 생성 댓글로 청중의 참여를 유도하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/draftly.png",
+      "url": "https://www.aixploria.com/en/raftwise-ai-linkedin/",
+      "type": "유료",
+      "category": "#Social Networks",
+      "upvotes": 37
+    },
+    {
+      "name": "Twitter Bookmarks",
+      "description": "« Twitter 북마크 저장 및 구성(X): GPT-4로 최고의 트윗 가져오기, 구성 및 관리 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/twitter-bookmarks.png",
+      "url": "https://www.aixploria.com/en/twitter-bookmarks-ai/",
+      "type": "유료",
+      "category": "#Social Networks",
+      "upvotes": 9
+    },
+    {
+      "name": "Thumbmachine",
+      "description": "« YouTube 동영상을 위한 트렌디하고 시선을 사로잡는 썸네일을 디자인하세요. AI가 눈길을 끄는 이미지를 생성하도록 하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/thumbmachine.png",
+      "url": "https://www.aixploria.com/en/thumbmachine-ai/",
+      "type": "유료",
+      "category": "#Social Networks",
+      "upvotes": 1
+    },
+    {
+      "name": "Profile Bakery",
+      "description": "« AI를 사용하여 셀카를 독특하고 전문적인 인물 사진으로 바꿔보세요. LinkedIn 프로필이나 웹사이트에 딱 맞습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/profile-bakery.png",
+      "url": "https://www.aixploria.com/en/profile-bakery-ai/",
+      "type": "유료",
+      "category": "#Image editing, #Social Networks",
+      "upvotes": 1
+    },
+    {
+      "name": "SMM Agent",
+      "description": "« LinkedIn 마케팅을 자동화할 수 있는 AI 에이전트의 이점을 누리세요. 콘텐츠를 만들고, 아이디어를 창출하고, 설득력 있는 유인을 창출하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/smm-agent.png",
+      "url": "https://www.aixploria.com/en/smm-agent-ai/",
+      "type": "유료",
+      "category": "#ChatBots, #Social Networks",
+      "upvotes": 1
+    },
+    {
+      "name": "Vulse",
+      "description": "« LinkedIn 계정을 최적화하고 강화하는 전체 AI 도구 세트: 전략적 분석, 콘텐츠 생성, 참여율 증가 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/vulse.png",
+      "url": "https://www.aixploria.com/en/vulse-ai/",
+      "type": "부분 무료",
+      "category": "#Marketing, #Social Networks",
+      "upvotes": 2
+    },
+    {
+      "name": "Postfluencer",
+      "description": "« 전문 소셜 네트워크에 특화된 AI를 사용하여 LinkedIn용 출판물 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/postfluencer/",
+      "type": "무료",
+      "category": "#Social Networks",
+      "upvotes": 0
+    },
+    {
+      "name": "XspaceGPT",
+      "description": "« Twitter Spaces를 보다 접근하기 쉬운 형식(MP3 또는 텍스트 파일)으로 변환하세요. 라이브 없이 토론을 팔로우하는 데 적합합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/xspacegpt.png",
+      "url": "https://www.aixploria.com/en/xspacegpt-ai/",
+      "type": "부분 무료",
+      "category": "#Social Networks, #Transcriber",
+      "upvotes": 1
+    },
+    {
+      "name": "Typeface AI",
+      "description": "« 소셜 네트워크(인스타그램 광고, 페이스북 등)를 위한 시각적 콘텐츠를 자동으로 생성하는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/typeface-ai.png",
+      "url": "https://www.aixploria.com/en/typeface-ai/",
+      "type": "유료",
+      "category": "#Social Networks",
+      "upvotes": 2
+    },
+    {
+      "name": "CaptionIt",
+      "description": "« 이미지에 매력적이고 귀여운 캡션을 즉시 만들어보세요. 소셜 네트워크에 더 많은 관심을 가져보세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/captionit.png",
+      "url": "https://www.aixploria.com/en/captionit/",
+      "type": "부분 무료",
+      "category": "#Social Networks",
+      "upvotes": 1
+    },
+    {
+      "name": "RedCom AI",
+      "description": "« 개인화된 Reddit 댓글을 생성하여 웹 트래픽을 빠르게 늘리세요. 이 AI로 마케팅 전략을 개선하세요. 제휴 마케팅에 적합 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/redcom-ai.png",
+      "url": "https://www.aixploria.com/en/redcom-ai/",
+      "type": "부분 무료",
+      "category": "#Marketing, #Social Networks",
+      "upvotes": 14
+    },
+    {
+      "name": "XspaceGPT",
+      "description": "« Twitter 공간을 읽기 쉬운 텍스트로 빠르게 변환하고 요약합니다. AI는 토론의 마인드맵과 타임라인을 기록하고, 요약하고, 생성합니다. 다국어 지원 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/xspacegpt.png",
+      "url": "https://www.aixploria.com/en/xspacegpt-ai-twitter-spaces/",
+      "type": "유료",
+      "category": "#Social Networks",
+      "upvotes": 13
+    },
+    {
+      "name": "Nowy",
+      "description": "« AI로 강화된 모바일 앱을 통해 꿈의 여행을 더욱 강렬하게 발견하고 계획하고 경험해 보세요. 안드로이드 및 IOS 호환 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/nowy.png",
+      "url": "https://www.aixploria.com/en/nowy/",
+      "type": "무료",
+      "category": "#Social Networks, #Travel",
+      "upvotes": 1
+    },
+    {
+      "name": "PostNitro",
+      "description": "« 소셜 네트워크를 위한 스마트 캐러셀 생성기. 청중의 신속한 참여에 이상적입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/postnitro.png",
+      "url": "https://www.aixploria.com/en/postnitro-ai/",
+      "type": "부분 무료",
+      "category": "#Social Networks",
+      "upvotes": 8
+    },
+    {
+      "name": "AICarousels",
+      "description": "« AI를 사용하여 소셜 네트워크를 위한 강력한 캐러셀을 만듭니다. 사용자 정의 가능한 디자인 및 이를 다양한 형식으로 내보내는 기능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/aicarousels.png",
+      "url": "https://www.aixploria.com/en/aicarousels/",
+      "type": "부분 무료",
+      "category": "#Social Networks",
+      "upvotes": 2
+    },
+    {
+      "name": "Zocket",
+      "description": "« 소셜 네트워크에서 광고를 빠르게 생성할 수 있는 AI 플랫폼입니다. 성과를 향상시키면서 마케팅 캠페인을 최적화할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/zocket.png",
+      "url": "https://www.aixploria.com/en/zocket/",
+      "type": "Free-Trial",
+      "category": "#Marketing, #Social Networks",
+      "upvotes": 3
+    },
+    {
+      "name": "Reply Boy",
+      "description": "« X 플랫폼에서 응답하고 X 계정을 강화하는 Chrome 확장 프로그램입니다. 답장의 어조를 선택할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/reply-boy.png",
+      "url": "https://www.aixploria.com/en/reply-boy-ai/",
+      "type": "부분 무료",
+      "category": "#Social Networks",
+      "upvotes": 0
+    },
+    {
+      "name": "ChatTube",
+      "description": "« YouTube 동영상과 채팅하고 개인화된 AI 상호작용을 할 수 있는 확장 프로그램 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/chattube.png",
+      "url": "https://www.aixploria.com/en/chattube/",
+      "type": "부분 무료",
+      "category": "#Productivity, #Social Networks",
+      "upvotes": 1
+    },
+    {
+      "name": "WriteSmart",
+      "description": "« LinkedIn 게시물에 매력적인 응답과 댓글을 작성하는 데 도움이 되는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/writesmart.png",
+      "url": "https://www.aixploria.com/en/writesmart/",
+      "type": "부분 무료",
+      "category": "#Social Networks, #Writing & Web SEO",
+      "upvotes": 1
+    },
+    {
+      "name": "Sococal.ai",
+      "description": "« 소셜 네트워크에 맞게 콘텐츠 제작을 최적화하세요. 30일 출판 일정 자동화 및 최적화 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/sococal-ai.png",
+      "url": "https://www.aixploria.com/en/sococal-ai/",
+      "type": "부분 무료",
+      "category": "#Social Networks",
+      "upvotes": 1
+    },
+    {
+      "name": "Creasquare",
+      "description": "« 소셜 네트워크 전문 플랫폼: 콘텐츠 작성, 기획, 일정 관리, 광고 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/creasquare.png",
+      "url": "https://www.aixploria.com/en/creasquare-io/",
+      "type": "부분 무료",
+      "category": "#Marketing, #Social Networks",
+      "upvotes": 2
+    },
+    {
+      "name": "Social Studio AI",
+      "description": "« 지능형 어시스턴트로 콘텐츠 제작을 자동화하세요. Instagram 네트워크용으로 만들어진 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/social-studio-ai.png",
+      "url": "https://www.aixploria.com/en/social-studio-ai/",
+      "type": "부분 무료",
+      "category": "#Social Networks",
+      "upvotes": 1
+    },
+    {
+      "name": "CaptionGen",
+      "description": "« ChatGPT 및 Vercel Edge 기능을 사용하여 소셜 네트워크를 위한 완벽한 텍스트 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/captiongen.png",
+      "url": "https://www.aixploria.com/en/captiongen/",
+      "type": "무료",
+      "category": "#Marketing, #Social Networks",
+      "upvotes": 0
+    },
+    {
+      "name": "Waverly",
+      "description": "« 작업이나 집중 세션 중에 주의가 산만해지는 것을 방지하는 보조자 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/waverly.png",
+      "url": "https://www.aixploria.com/en/waverly/",
+      "type": "부분 무료",
+      "category": "#Life Assistants, #Social Networks",
+      "upvotes": 2
+    },
+    {
+      "name": "Devi",
+      "description": "« 리드를 모니터링하고 콘텐츠 일정을 계획할 수 있는 소셜 네트워크용 스마트 멀티태스킹 관리자 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/devi.png",
+      "url": "https://www.aixploria.com/en/devi/",
+      "type": "유료",
+      "category": "#Sales & Conversion, #Social Networks",
+      "upvotes": 2
+    },
+    {
+      "name": "TweetMe",
+      "description": "« 당신의 글쓰기 스타일과 트윗을 따라해주는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/tweetme.png",
+      "url": "https://www.aixploria.com/en/tweetme/",
+      "type": "부분 무료",
+      "category": "#Social Networks",
+      "upvotes": 0
+    },
+    {
+      "name": "Rizz! Keyboard",
+      "description": "« 이메일, 문자, 소셜 네트워크 메시지 등 짧은 문자를 작성하기 위해 설계된 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/rizz--keyboard.png",
+      "url": "https://www.aixploria.com/en/rizz-keyboard/",
+      "type": "무료",
+      "category": "#Life Assistants, #Social Networks",
+      "upvotes": 1
+    },
+    {
+      "name": "Tweet to Video",
+      "description": "« 트윗을 동영상으로 변환하여 TikTok, YouTube Short, Instagram Reel 및 기타 플랫폼에서 공유하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/tweet-to-video.png",
+      "url": "https://www.aixploria.com/en/tweet-to-video/",
+      "type": "부분 무료",
+      "category": "#Social Networks, #Video Generators",
+      "upvotes": 2
+    },
+    {
+      "name": "VidIq",
+      "description": "« YouTube에서 가장 인기 있는 주제와 키워드를 찾아보세요. 청중을 빠르게 늘리십시오. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/vidiq.png",
+      "url": "https://www.aixploria.com/en/vidiq/",
+      "type": "부분 무료",
+      "category": "#Social Networks",
+      "upvotes": 1
+    },
+    {
+      "name": "Targum Video",
+      "description": "« YouTube나 TikTok과 같은 소셜 네트워크의 모든 동영상을 자동으로 번역합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/targum-video.png",
+      "url": "https://www.aixploria.com/en/targum-video/",
+      "type": "무료",
+      "category": "#Social Networks, #Translation",
+      "upvotes": 0
+    },
+    {
+      "name": "SocialBee",
+      "description": "« AI의 도움으로 소셜 네트워크에 최적화된 콘텐츠 자동 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/socialbee.png",
+      "url": "https://www.aixploria.com/en/socialbee/",
+      "type": "부분 무료",
+      "category": "#Social Networks",
+      "upvotes": 2
+    },
+    {
+      "name": "ViralViews",
+      "description": "« 최신 트렌드에 대한 맞춤형 콘텐츠를 매일 받아보세요. 소셜 네트워크에서 입소문이 퍼지는 내용 분석 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/viralviews.png",
+      "url": "https://www.aixploria.com/en/viralviews/",
+      "type": "부분 무료",
+      "category": "#Social Networks",
+      "upvotes": 1
+    },
+    {
+      "name": "TweetEmote",
+      "description": "« Twitter 네트워크에서 팔로워의 참여율 향상 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/tweetemote.png",
+      "url": "https://www.aixploria.com/en/tweetemote/",
+      "type": "무료",
+      "category": "#Social Networks",
+      "upvotes": 1
+    },
+    {
+      "name": "Bannerbear",
+      "description": "« 이미지, 비디오, PDF 등을 생성하기 위한 마케팅 자동화 도구, API 및 통합 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/bannerbear.png",
+      "url": "https://www.aixploria.com/en/bannerbear/",
+      "type": "유료",
+      "category": "#Automation, #E-commerce",
+      "upvotes": 1
+    },
+    {
+      "name": "Supercreator AI",
+      "description": "« AI를 사용하여 TikTok, Reels, Shorts 등의 짧은 동영상을 빠르게 제작하는 모바일 앱 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/supercreator-ai.png",
+      "url": "https://www.aixploria.com/en/supercreator-ai/",
+      "type": "부분 무료",
+      "category": "#Social Networks, #Video Edition",
+      "upvotes": 1
+    },
+    {
+      "name": "Vidyo AI",
+      "description": "« AI로 짧은 동영상을 빠르게 만들고 소셜 네트워크에서 가시성을 높이세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/vidyo-ai.png",
+      "url": "https://www.aixploria.com/en/vidyo-ai/",
+      "type": "유료",
+      "category": "#Social Networks, #Video Edition",
+      "upvotes": 1
+    },
+    {
+      "name": "Lensa AI",
+      "description": "« 사진, 얼굴, 배경을 편집하고 필터를 적용하는 등의 작업을 수행할 수 있는 AI 모바일 애플리케이션 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/lensa-ai.png",
+      "url": "https://www.aixploria.com/en/lensa-ai/",
+      "type": "유료",
+      "category": "#Image editing, #Social Networks",
+      "upvotes": 3
+    },
+    {
+      "name": "Affable AI",
+      "description": "« Excel 또는 DM 파일을 활용한 마케팅 캠페인 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/affable-ai.png",
+      "url": "https://www.aixploria.com/en/affable-ai/",
+      "type": "부분 무료",
+      "category": "#Marketing, #Social Networks",
+      "upvotes": 1
+    },
+    {
+      "name": "Editby",
+      "description": "« 가장 유명하고 영향력 있는 트위터 계정에서 영감을 받아 네트워크의 핵심 플레이어가 되세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/editby.png",
+      "url": "https://www.aixploria.com/en/editby/",
+      "type": "부분 무료",
+      "category": "#Social Networks",
+      "upvotes": 0
+    },
+    {
+      "name": "MagicBrief",
+      "description": "« Facebook, Instagram 및 TikTok에서 창의적인 협업을 단순화하는 Chrome 확장 프로그램 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/magicbrief.png",
+      "url": "https://www.aixploria.com/en/magicbrief/",
+      "type": "유료",
+      "category": "#Extensions ChatGPT, #Social Networks",
+      "upvotes": 2
+    },
+    {
+      "name": "TheDream AI",
+      "description": "« AI를 사용하여 소셜 네트워크용 원본 프로필 사진과 아바타 만들기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/thedream-ai.png",
+      "url": "https://www.aixploria.com/en/thedream-ai/",
+      "type": "유료",
+      "category": "#Avatars, #Social Networks",
+      "upvotes": 2
+    },
+    {
+      "name": "Tweet Monk",
+      "description": "« 트윗 작성 능력을 향상하고 트위터에서 청중을 폭발적으로 늘리세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/tweet-monk.png",
+      "url": "https://www.aixploria.com/en/tweet-monk/",
+      "type": "부분 무료",
+      "category": "#Social Networks",
+      "upvotes": 1
+    },
+    {
+      "name": "Social Comments GPT",
+      "description": "« ChatGPT API를 사용하여 소셜 네트워크에 매력적인 댓글을 작성하는 Chrome 확장 프로그램 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/social-comments-gpt.png",
+      "url": "https://www.aixploria.com/en/social-comments-gpt/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Social Networks",
+      "upvotes": 0
+    }
+  ]
+}

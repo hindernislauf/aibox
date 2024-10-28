@@ -1,0 +1,527 @@
+{
+  "name": "E-mail",
+  "items": [
+    {
+      "name": "HoppyCopy",
+      "description": "« AI 덕분에 눈 깜짝할 사이에 효과적인 이메일 캠페인을 작성할 수 있습니다. 귀하의 요구 사항에 맞게 최적화된 50개 이상의 템플릿으로 귀중한 시간을 절약하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/hoppycopy.png",
+      "url": "https://www.aixploria.com/en/hoppycopy/",
+      "type": "부분 무료",
+      "category": "#E-mail, #Marketing",
+      "upvotes": 84
+    },
+    {
+      "name": "Benchmark Email",
+      "description": "« 전문적이고 매력적인 이메일 만들기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/benchmark-email.png",
+      "url": "https://www.aixploria.com/en/benchmark-email/",
+      "type": "무료",
+      "category": "#Business, #E-commerce",
+      "upvotes": 19
+    },
+    {
+      "name": "beehiiv AI",
+      "description": "« 작성, 편집, 번역 및 수익 창출 도구를 사용하여 뉴스레터 콘텐츠 제작을 개선하고 가속화하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/beehiiv-ai.png",
+      "url": "https://www.aixploria.com/en/beehiiv-ai/",
+      "type": "부분 무료",
+      "category": "#AIxploria Selection, #E-mail",
+      "upvotes": 36
+    },
+    {
+      "name": "Superhuman",
+      "description": "« 정리정돈된 AI로 우편함을 주문하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/superhuman.png",
+      "url": "https://www.aixploria.com/en/superhuman/",
+      "type": "유료",
+      "category": "#E-mail, #Productivity",
+      "upvotes": 3
+    },
+    {
+      "name": "Free AI Email Writer",
+      "description": "« 관련 잠재 고객 이메일을 대규모로 무료로 작성하고 이메일 전송을 자동화하는 AI 도구입니다. 사전 정의된 전문 템플릿 사용 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/g--n--rateur-e-mails.png",
+      "url": "https://www.aixploria.com/en/generateur-e-mails-gratuit-hubspot-ia/",
+      "type": "무료",
+      "category": "#E-mail",
+      "upvotes": 39
+    },
+    {
+      "name": "Harpa AI",
+      "description": "« 일반적인 글쓰기(이메일, 요약 등)를 수행하는 ChatGPT의 지능형 보조자 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/harpa-ai.png",
+      "url": "https://www.aixploria.com/en/harpa-ai/",
+      "type": "무료",
+      "category": "#E-mail, #Extensions ChatGPT",
+      "upvotes": 2
+    },
+    {
+      "name": "Robin AI",
+      "description": "« 콜드 이메일 전송을 자동화하고 마케팅 콘텐츠를 생성하는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/robin-ai.png",
+      "url": "https://www.aixploria.com/en/robin-ai/",
+      "type": "유료",
+      "category": "#E-mail, #Marketing",
+      "upvotes": 3
+    },
+    {
+      "name": "Compose",
+      "description": "« 이메일을 자동으로 작성하고 열심히 글을 쓸 수 있는 크롬 확장 프로그램 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/compose.png",
+      "url": "https://www.aixploria.com/en/compose/",
+      "type": "무료",
+      "category": "#E-mail, #Text Generators",
+      "upvotes": 1
+    },
+    {
+      "name": "SuperReply",
+      "description": "« 매우 인간적으로 보이고 이메일에 진지하게 답변할 수 있는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/superreply.png",
+      "url": "https://www.aixploria.com/en/superreply/",
+      "type": "무료",
+      "category": "#E-mail",
+      "upvotes": 1
+    },
+    {
+      "name": "ParagraphAI",
+      "description": "« AI의 도움을 받아 텍스트 콘텐츠 또는 이메일 자동 작성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/paragraphai.png",
+      "url": "https://www.aixploria.com/en/paragraphai/",
+      "type": "부분 무료",
+      "category": "#E-mail",
+      "upvotes": 1
+    },
+    {
+      "name": "Voxwave AI",
+      "description": "« 대규모 이메일 마케팅 캠페인을 만드는 전문 이메일 작성자(콜드 방식) »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/voxwave-ai.png",
+      "url": "https://www.aixploria.com/en/voxwave-ai/",
+      "type": "유료",
+      "category": "#E-mail, #Marketing",
+      "upvotes": 3
+    },
+    {
+      "name": "Tugan.ai",
+      "description": "« 간단한 URL을 통해 귀하의 마케팅 캠페인에 완벽하게 적합한 이메일을 생성할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/tugan-ai.png",
+      "url": "https://www.aixploria.com/en/tugan-ai/",
+      "type": "부분 무료",
+      "category": "#E-mail, #Marketing",
+      "upvotes": 2
+    },
+    {
+      "name": "Remail AI",
+      "description": "« AI가 크롬 확장 프로그램을 통해 이메일을 작성해 드립니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/remail-ai.png",
+      "url": "https://www.aixploria.com/en/remail-ai/",
+      "type": "부분 무료",
+      "category": "#E-mail",
+      "upvotes": 1
+    },
+    {
+      "name": "Ipso AI",
+      "description": "« 의제에 따라 이메일을 작성하세요(GPT3) »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ipso-ai.png",
+      "url": "https://www.aixploria.com/en/ipso-ai/",
+      "type": "유료",
+      "category": "#E-mail, #Extensions ChatGPT",
+      "upvotes": 1
+    },
+    {
+      "name": "Regie",
+      "description": "« AI와 팀을 이루어 메시지와 이메일을 통해 매출을 증대하십시오. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/regie.png",
+      "url": "https://www.aixploria.com/en/regie/",
+      "type": "부분 무료",
+      "category": "#E-mail, #Sales & Conversion",
+      "upvotes": 0
+    },
+    {
+      "name": "Hot Reach AI",
+      "description": "« 콜드 이메일 작성 AI 전문가와 함께 전환율 대폭 향상 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/hot-reach-ai.png",
+      "url": "https://www.aixploria.com/en/hot-reach-ai/",
+      "type": "부분 무료",
+      "category": "#E-mail",
+      "upvotes": 0
+    },
+    {
+      "name": "Mentioned",
+      "description": "« 귀하의 콘텐츠를 분석하고 귀하가 언급한 사람이나 회사에 연락하는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/mentioned/",
+      "type": "유료",
+      "category": "#E-mail",
+      "upvotes": 0
+    },
+    {
+      "name": "Pipl AI",
+      "description": "« 여러 이메일 주소에 연결하여 대규모 광고 캠페인을 빠르게 시작하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/pipl-ai.png",
+      "url": "https://www.aixploria.com/en/pipl-ai/",
+      "type": "부분 무료",
+      "category": "#E-mail",
+      "upvotes": 1
+    },
+    {
+      "name": "Mailchimp",
+      "description": "« AI로 구동되는 완전한 이메일 및 SMS 마케팅 플랫폼입니다. 매출 증대 및 고객 충성도 구축을 위한 캠페인 생성, 자동화 및 최적화 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/mailchimp.png",
+      "url": "https://www.aixploria.com/en/mailchimp-ai-marketing-email/",
+      "type": "Free-Trial",
+      "category": "#E-mail, #Marketing",
+      "upvotes": 34
+    },
+    {
+      "name": "DraftLab",
+      "description": "« Google Gmail(Chrome 확장 프로그램)의 전문 이메일 도우미 활용하기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/draftlab.png",
+      "url": "https://www.aixploria.com/en/draftlab/",
+      "type": "부분 무료",
+      "category": "#E-mail",
+      "upvotes": 0
+    },
+    {
+      "name": "Reply IO",
+      "description": "« GPT-3 하에서 운영되는 온라인 판매 및 마케팅(이메일) 전문 AI 비서 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/reply-io.png",
+      "url": "https://www.aixploria.com/en/reply-io/",
+      "type": "부분 무료",
+      "category": "#E-mail, #Marketing",
+      "upvotes": 1
+    },
+    {
+      "name": "ECold AI",
+      "description": "« 크롬 확장 프로그램을 통한 전문 이메일 자동 작성(LinkedIn 호환) »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ecold-ai.png",
+      "url": "https://www.aixploria.com/en/ecold-ai/",
+      "type": "부분 무료",
+      "category": "#E-mail",
+      "upvotes": 0
+    },
+    {
+      "name": "Ghostwrite",
+      "description": "« 이메일을 대신 작성해 주는 Chrome 확장 프로그램 형태의 인공 지능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ghostwrite.png",
+      "url": "https://www.aixploria.com/en/ghostwrite/",
+      "type": "무료",
+      "category": "#E-mail, #Extensions ChatGPT",
+      "upvotes": 2
+    },
+    {
+      "name": "Instantly AI",
+      "description": "« 대규모 광고 캠페인 중에 이메일을 보낼 수 있는 사이트 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/instantly-ai.png",
+      "url": "https://www.aixploria.com/en/instantly-ai/",
+      "type": "부분 무료",
+      "category": "#E-mail",
+      "upvotes": 0
+    },
+    {
+      "name": "EmailMagic AI",
+      "description": "« 영어, 스페인어, 독일어로 인공지능이 지원하는 자동 이메일 작성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/emailmagic-ai.png",
+      "url": "https://www.aixploria.com/en/emailmagic-ai/",
+      "type": "부분 무료",
+      "category": "#E-mail",
+      "upvotes": 0
+    },
+    {
+      "name": "Writers Brew",
+      "description": "« macOS용 다기능 글쓰기 도우미. 이메일 작성에 이상적인 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/writers-brew/",
+      "type": "유료",
+      "category": "#E-mail",
+      "upvotes": 0
+    },
+    {
+      "name": "PolitePost",
+      "description": "« 편지에 예의와 공손함이 존중되도록 이메일을 다시 작성하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/politepost.png",
+      "url": "https://www.aixploria.com/en/politepost/",
+      "type": "무료",
+      "category": "#E-mail",
+      "upvotes": 1
+    },
+    {
+      "name": "OutplayHQ",
+      "description": "« 더 많은 매출을 올리고 방문자를 단골 고객으로 전환하는 데 도움이 되는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/outplayhq.png",
+      "url": "https://www.aixploria.com/en/outplayhq/",
+      "type": "무료",
+      "category": "#Business, #E-commerce",
+      "upvotes": 4
+    },
+    {
+      "name": "Luna",
+      "description": "« AI가 구동하는 이메일로 광고 캠페인 작성 및 보내기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/luna.png",
+      "url": "https://www.aixploria.com/en/luna/",
+      "type": "부분 무료",
+      "category": "#E-mail",
+      "upvotes": 1
+    },
+    {
+      "name": "Rizemail",
+      "description": "« 뉴스레터, 토론 및 상업 커뮤니케이션을 요약하는 AI 도우미를 통해 이메일 관리 최적화 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/rizemail.png",
+      "url": "https://www.aixploria.com/en/rizemail/",
+      "type": "무료",
+      "category": "#E-mail",
+      "upvotes": 0
+    },
+    {
+      "name": "Addy AI",
+      "description": "« 스타일을 선택하면 AI가 선택한 톤으로 이메일에 응답합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/addy-ai.png",
+      "url": "https://www.aixploria.com/en/addy-ai/",
+      "type": "무료",
+      "category": "#E-mail",
+      "upvotes": 1
+    },
+    {
+      "name": "Warmer AI",
+      "description": "« 인공 지능의 도움으로 개인화된 이메일 캠페인 디자인하기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/warmer-ai.png",
+      "url": "https://www.aixploria.com/en/warmer-ai/",
+      "type": "부분 무료",
+      "category": "#E-mail",
+      "upvotes": 1
+    },
+    {
+      "name": "Smartwriter",
+      "description": "« LinkedIn과 같은 네트워크에 이메일을 작성할 수 있는 AI 직장인 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/smartwriter.png",
+      "url": "https://www.aixploria.com/en/smartwriter/",
+      "type": "부분 무료",
+      "category": "#E-mail",
+      "upvotes": 1
+    },
+    {
+      "name": "MailMaestro",
+      "description": "« 이메일을 작성하고 스레드와 첨부 파일을 요약하는 AI 도우미입니다. 받은편지함 관리도 개선됩니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/mailmaestro.png",
+      "url": "https://www.aixploria.com/en/mailmaestro-ai/",
+      "type": "부분 무료",
+      "category": "#E-mail, #Human Resources",
+      "upvotes": 3
+    },
+    {
+      "name": "Quicklines",
+      "description": "« 콜드 이메일(CSV)에 넣을 수 있는 눈길을 끄는 콘텐츠를 자동으로 생성합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/quicklines.png",
+      "url": "https://www.aixploria.com/en/quicklines/",
+      "type": "유료",
+      "category": "#E-mail",
+      "upvotes": 1
+    },
+    {
+      "name": "Angry Email Translator",
+      "description": "« 저속한 이메일을 정중하고 전문적인 메시지로 바꿔보세요. 고객과의 긍정적인 커뮤니케이션 촉진 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/angry-email-translator/",
+      "type": "무료",
+      "category": "#Amazing, #E-mail",
+      "upvotes": 2
+    },
+    {
+      "name": "GETitOUT",
+      "description": "« 좋은 품질의 마케팅 텍스트 생성기 및 이메일 작성기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/getitout.png",
+      "url": "https://www.aixploria.com/en/getitout/",
+      "type": "부분 무료",
+      "category": "#E-mail, #Marketing",
+      "upvotes": 0
+    },
+    {
+      "name": "Klaviyo",
+      "description": "« AI로 마케팅 캠페인을 자동화하세요. 실시간 고객 데이터를 사용하여 매우 개인화된 이메일 및 SMS 보내기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/klaviyo.png",
+      "url": "https://www.aixploria.com/en/klaviyo-ai-email-automation/",
+      "type": "부분 무료",
+      "category": "#Automation, #E-mail",
+      "upvotes": 16
+    },
+    {
+      "name": "Success.ai",
+      "description": "« 리드 생성 및 이메일 캠페인을 위한 도구를 갖춘 B2B 잠재 고객 발굴 플랫폼. 7억 개가 넘는 B2B 연락처 및 AI 기반 글쓰기 도우미에 액세스 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/success-ai.png",
+      "url": "https://www.aixploria.com/en/success-ai/",
+      "type": "유료",
+      "category": "#E-mail, #Marketing",
+      "upvotes": 1
+    },
+    {
+      "name": "Professionalize It To Me",
+      "description": "« AI의 도움을 받아 진지하고 전문적인 방식으로 이메일을 생성하거나 답변하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/professionalize-it-to-me/",
+      "type": "무료",
+      "category": "#E-mail",
+      "upvotes": 0
+    },
+    {
+      "name": "Redense AI",
+      "description": "« 뉴스레터 작성을 단순화하고 가속화합니다. 관련 제목 생성, 작성 자동화 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/redense-ai.png",
+      "url": "https://www.aixploria.com/en/redense-ai/",
+      "type": "부분 무료",
+      "category": "#E-mail, #Writing & Web SEO",
+      "upvotes": 0
+    },
+    {
+      "name": "AI Mailer",
+      "description": "« 특정 주제 또는 주제에 대해 GPT에서 작동하는 자동 이메일 편집기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-mailer.png",
+      "url": "https://www.aixploria.com/en/ai-mailer/",
+      "type": "무료",
+      "category": "#E-mail",
+      "upvotes": 0
+    },
+    {
+      "name": "Missive AI",
+      "description": "« 최적의 이메일 관리를 위한 지능형 협업 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/missive-ai.png",
+      "url": "https://www.aixploria.com/en/missive-ai/",
+      "type": "부분 무료",
+      "category": "#E-mail",
+      "upvotes": 0
+    },
+    {
+      "name": "SkimAI",
+      "description": "« 지능형 요약, 바로 보낼 수 있는 초안, 구성 등 이메일 관리를 자동화하여 생산성을 높이는 이메일 AI 도우미 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/skimai.png",
+      "url": "https://www.aixploria.com/en/skimai/",
+      "type": "Free-Trial",
+      "category": "#E-mail",
+      "upvotes": 10
+    },
+    {
+      "name": "Superflows",
+      "description": "« 매우 빠르고 우수한 품질의 이메일 작성 도우미 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/superflows.png",
+      "url": "https://www.aixploria.com/en/superflows/",
+      "type": "유료",
+      "category": "#E-mail",
+      "upvotes": 0
+    },
+    {
+      "name": "Gmail GPT",
+      "description": "« 이메일 작성에 도움이 되는 AI 도구를 사용하여 이메일을 최적화하세요. Gmail에서 직접 사용할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/gmail-gpt.png",
+      "url": "https://www.aixploria.com/en/gmail-gpt/",
+      "type": "무료",
+      "category": "#E-mail",
+      "upvotes": 0
+    },
+    {
+      "name": "Postaga",
+      "description": "« 콜드 이메일을 매우 빠르게 보낼 수 있습니다(콜드 이메일 실행을 최적화하여) »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/postaga.png",
+      "url": "https://www.aixploria.com/en/postaga/",
+      "type": "부분 무료",
+      "category": "#E-mail",
+      "upvotes": 1
+    },
+    {
+      "name": "Usetwain",
+      "description": "« 고객과의 접촉 중에 전문적인 이메일을 작성하여 매출 증대 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/usetwain.png",
+      "url": "https://www.aixploria.com/en/usetwain/",
+      "type": "무료",
+      "category": "#E-mail, #Marketing",
+      "upvotes": 1
+    },
+    {
+      "name": "InboxPro",
+      "description": "« AI 도구 모음으로 Gmail 생산성을 최적화하세요. 쉽게 전문적인 이메일을 생성하고 약속 일정을 잡으세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/inboxpro.png",
+      "url": "https://www.aixploria.com/en/inboxpro/",
+      "type": "유료",
+      "category": "#E-mail",
+      "upvotes": 0
+    },
+    {
+      "name": "Tiny Magic",
+      "description": "« 이메일 Pro 작성을 도와주는 GPT-3의 이메일 생성기. Chrome 확장 프로그램 사용 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/tiny-magic.png",
+      "url": "https://www.aixploria.com/en/tiny-magic/",
+      "type": "무료",
+      "category": "#E-mail, #Extensions ChatGPT",
+      "upvotes": 0
+    },
+    {
+      "name": "Klynk",
+      "description": "« AI를 통해 이메일 캠페인 생성을 단순화하고 CRM과 쉽게 통합합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/klynk/",
+      "type": "부분 무료",
+      "category": "#E-mail, #Marketing",
+      "upvotes": 0
+    },
+    {
+      "name": "Parsio",
+      "description": "« 이메일이나 PDF 파일에서 데이터 추출. Google Sheets, Slack, DropBox 등과 통합 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/parsio.png",
+      "url": "https://www.aixploria.com/en/parsio/",
+      "type": "부분 무료",
+      "category": "#E-mail, #Files & Spreadsheets",
+      "upvotes": 0
+    },
+    {
+      "name": "Ellie AI",
+      "description": "« 이 AI는 귀하의 글쓰기 스타일을 모방하여 개인화된 방식으로 귀하의 이메일에 답변합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ellie-ai.png",
+      "url": "https://www.aixploria.com/en/ellie-ai/",
+      "type": "부분 무료",
+      "category": "#E-mail",
+      "upvotes": 0
+    },
+    {
+      "name": "Inbox Narrator",
+      "description": "« 이메일을 소리내어 읽을 수 있을 뿐만 아니라 쉽게 요약할 수도 있는 AI 음성 리더기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/inbox-narrator.png",
+      "url": "https://www.aixploria.com/en/inbox-narrator/",
+      "type": "유료",
+      "category": "#E-mail",
+      "upvotes": 1
+    },
+    {
+      "name": "Lavender AI",
+      "description": "« 사서함을 관리하고 일련의 지능형 도구를 갖춘 도우미 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/lavender-ai.png",
+      "url": "https://www.aixploria.com/en/lavender-ai/",
+      "type": "부분 무료",
+      "category": "#E-mail",
+      "upvotes": 0
+    },
+    {
+      "name": "Ortto",
+      "description": "« 인공 지능을 사용하여 SMS, 이메일 등에 응답합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ortto.png",
+      "url": "https://www.aixploria.com/en/ortto/",
+      "type": "부분 무료",
+      "category": "#E-mail",
+      "upvotes": 0
+    },
+    {
+      "name": "EmailTriager",
+      "description": "« AI로 이메일 응답을 자동으로 작성하세요. 소프트웨어나 확장 프로그램 없이 작동 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/emailtriager.png",
+      "url": "https://www.aixploria.com/en/emailtriager/",
+      "type": "무료",
+      "category": "#E-mail",
+      "upvotes": 0
+    },
+    {
+      "name": "Magic Reach",
+      "description": "« AI를 통해 더욱 전문적인 이메일을 작성하고 매출을 매우 빠르게 늘리세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/magic-reach.png",
+      "url": "https://www.aixploria.com/en/magic-reach/",
+      "type": "부분 무료",
+      "category": "#E-mail, #Sales & Conversion",
+      "upvotes": 0
+    }
+  ]
+}

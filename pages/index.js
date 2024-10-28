@@ -56,7 +56,7 @@ export default function Home() {
     <>
       <Head>
         <title>AI 서비스 대시보드</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
       </Head>
       <div className="pageHeader">
         <h1 className="pageTitle">AIBOX</h1>

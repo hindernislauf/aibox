@@ -38,9 +38,10 @@
   
   .serviceGrid {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     gap: 20px;
     justify-content: center;
+    width: 100%;
   }
   
   .serviceCard {
@@ -244,4 +245,21 @@
 
 .seeMoreButton:hover {
   background-color: #818181;
+}
+
+@media (max-width: 768px) {
+  .container {
+    padding: 10px;
+  }
+
+  .serviceGrid {
+    grid-template-columns: 1fr;
+    gap: 15px;
+  }
+
+  .serviceCard {
+    width: 100%;
+    max-width: 300px;
+    margin: 0 auto;
+  }
 }

@@ -62,3 +62,26 @@ body {
   margin-top: 20px;
   margin-bottom: 20px;
 }
+
+@media (max-width: 768px) {
+  body {
+    padding: 10px;
+    padding-top: 40px;
+  }
+
+  .container {
+    padding: 0 10px;
+  }
+
+  .pageTitle {
+    font-size: 2rem;
+  }
+
+  .searchForm {
+    width: 100%;
+  }
+
+  .searchInput {
+    width: calc(100% - 40px);
+  }
+}

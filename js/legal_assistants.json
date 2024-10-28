@@ -1,0 +1,212 @@
+{
+  "name": "Legal Assistants",
+  "items": [
+    {
+      "name": "DoNotPay",
+      "description": "« 귀하의 변호사 역할을 하며 법을 암기하는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/donotpay.png",
+      "url": "https://www.aixploria.com/en/donotpay/",
+      "type": "유료",
+      "category": "#Business, #Legal Assistants",
+      "upvotes": 35
+    },
+    {
+      "name": "Casetext",
+      "description": "« 귀하의 법률 문서에 대한 심층 분석을 수행하고 즉각적인 도움을 받으세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/casetext.png",
+      "url": "https://www.aixploria.com/en/casetext/",
+      "type": "부분 무료",
+      "category": "#Legal Assistants",
+      "upvotes": 47
+    },
+    {
+      "name": "Dropbox Sign",
+      "description": "« 안전하고 사용하기 쉬운 전자 서명 솔루션. 작업 흐름에 서명을 통합하고, 프로세스를 자동화하고, 계약 체결 속도를 높이세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/dropbox-sign.png",
+      "url": "https://www.aixploria.com/en/dropbox-sign-ai-contracts/",
+      "type": "Free-Trial",
+      "category": "#Business, #Legal Assistants",
+      "upvotes": 37
+    },
+    {
+      "name": "Darrow AI",
+      "description": "« 다음 사건을 찾는 변호사를 위한 스마트한 도움 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/darrow-ai.png",
+      "url": "https://www.aixploria.com/en/darrow-ai/",
+      "type": "유료",
+      "category": "#Legal Assistants",
+      "upvotes": 3
+    },
+    {
+      "name": "Adobe Content Credentials",
+      "description": "« 귀하의 디지털 창작물을 보호하기 위한 Adobe의 무료 웹 애플리케이션입니다. 이미지, 비디오, 오디오 파일에 메타데이터를 쉽게 추가하고, AI 교육 등에서 콘텐츠를 제외하도록 선택하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/10/favicon.png",
+      "url": "https://www.aixploria.com/en/adobe-content-credentials-ai/",
+      "type": "무료",
+      "category": "#AI Useful, #Legal Assistants",
+      "upvotes": 31
+    },
+    {
+      "name": "ContractCrab",
+      "description": "« 복잡한 법률 문서에 대한 이해를 단순화하는 AI 기반 계약 요약 도구입니다. 계약의 핵심 사항을 빠르고 쉽고 안전하게 확인하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/contractcrab.png",
+      "url": "https://www.aixploria.com/en/contractcrab-online-ai-contract/",
+      "type": "Free-Trial",
+      "category": "#Business, #Legal Assistants",
+      "upvotes": 29
+    },
+    {
+      "name": "Leya",
+      "description": "« AI로 수행하는 전문 법률 보조원. 연구를 합리화하고 문서 초안을 더 빠르게 작성하며 법률 회사의 지식에 쉽게 접근하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/leya.png",
+      "url": "https://www.aixploria.com/en/leya-ai-legal-assistant/",
+      "type": "유료",
+      "category": "#Legal Assistants",
+      "upvotes": 20
+    },
+    {
+      "name": "Created by Humans",
+      "description": "« AI 창작물로 수익을 창출할 수 있는 강력한 플랫폼입니다. 자신의 저작물 사용을 통제하고 공정한 보상을 받으세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/created-by-humans.png",
+      "url": "https://www.aixploria.com/en/created-by-humans-ai/",
+      "type": "유료",
+      "category": "#Legal Assistants",
+      "upvotes": 17
+    },
+    {
+      "name": "AI Lawyer",
+      "description": "« AI 도우미를 사용하여 법률 텍스트 및 문서에 대한 조언 받기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-lawyer.png",
+      "url": "https://www.aixploria.com/en/ai-lawyer/",
+      "type": "부분 무료",
+      "category": "#Legal Assistants",
+      "upvotes": 2
+    },
+    {
+      "name": "Legaliser",
+      "description": "« 계약을 분석하고 개선 사항을 제안하며 사용자 정의 가능한 템플릿을 제공하는 AI 법률 보조원입니다. 손쉽게 계약 관리 최적화 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/legaliser.png",
+      "url": "https://www.aixploria.com/en/legaliser-ai/",
+      "type": "Free-Trial",
+      "category": "#Legal Assistants",
+      "upvotes": 16
+    },
+    {
+      "name": "Spellbook",
+      "description": "« GPT-3 인공지능으로 3배 더 빠르게 계약서 개발 및 작성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/spellbook.png",
+      "url": "https://www.aixploria.com/en/spellbook/",
+      "type": "유료",
+      "category": "#Legal Assistants",
+      "upvotes": 1
+    },
+    {
+      "name": "Ask-rbg",
+      "description": "« Ruth Bader Ginsburg 판사의 실험적인 가상 버전과 상호 작용하고 질문에 대한 답변을 얻으십시오. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ask-rbg.png",
+      "url": "https://www.aixploria.com/en/ask-rbg/",
+      "type": "무료",
+      "category": "#Amazing, #Legal Assistants",
+      "upvotes": 3
+    },
+    {
+      "name": "Traverse AI™",
+      "description": "« 다양한 분야에서 법률 지원 역할을 할 AI 애플리케이션 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/traverse-ai---.png",
+      "url": "https://www.aixploria.com/en/traverse-ai/",
+      "type": "무료",
+      "category": "#Legal Assistants",
+      "upvotes": 3
+    },
+    {
+      "name": "Ferret",
+      "description": "« 당신이 피해야 할 사람과 당신에게 도움이 될 사람을 알려주는 도우미 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ferret.png",
+      "url": "https://www.aixploria.com/en/ferret/",
+      "type": "부분 무료",
+      "category": "#Human Resources, #Legal Assistants",
+      "upvotes": 4
+    },
+    {
+      "name": "PatentDrawAI",
+      "description": "« 특허 기술 초안 작성 및 설명을 위한 이 AI 도구를 사용하여 발명품 창작 속도를 높이세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/patentdrawai.png",
+      "url": "https://www.aixploria.com/en/patentdrawai/",
+      "type": "무료",
+      "category": "#Image Generators, #Legal Assistants",
+      "upvotes": 2
+    },
+    {
+      "name": "Maigon IO",
+      "description": "« AI의 도움으로 계약을 분석하고 모든 중요한 정보를 얻으세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/maigon-io.png",
+      "url": "https://www.aixploria.com/en/maigon-io/",
+      "type": "유료",
+      "category": "#Legal Assistants",
+      "upvotes": 0
+    },
+    {
+      "name": "AskLegal.bot",
+      "description": "« 완전한 기밀로 법적 문제를 명확히 하기 위해 즉각적이고 개인화된 법적 답변을 얻으세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/asklegal-bot.png",
+      "url": "https://www.aixploria.com/en/asklegal-bot-ai/",
+      "type": "무료",
+      "category": "#Legal Assistants",
+      "upvotes": 11
+    },
+    {
+      "name": "Activazon",
+      "description": "« 해당 지역의 범죄와 비행을 실시간으로 추적하는 스마트 탐지기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/activazon.png",
+      "url": "https://www.aixploria.com/en/activazon/",
+      "type": "무료",
+      "category": "#Legal Assistants",
+      "upvotes": 1
+    },
+    {
+      "name": "Legalese Decoder",
+      "description": "« AI 지원 법률 어휘 단순화 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/legalese-decoder/",
+      "type": "부분 무료",
+      "category": "#Legal Assistants",
+      "upvotes": 3
+    },
+    {
+      "name": "Detangle AI",
+      "description": "« 법률 문서를 단순화하고 요약하여 이해하기 쉽게 만드는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/detangle-ai.png",
+      "url": "https://www.aixploria.com/en/detangle-ai/",
+      "type": "유료",
+      "category": "#Legal Assistants, #Summarizer",
+      "upvotes": 3
+    },
+    {
+      "name": "PatentPal",
+      "description": "« 지적재산권 및 특허디자인 분야 AI 전문가 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/patentpal.png",
+      "url": "https://www.aixploria.com/en/patentpal/",
+      "type": "무료",
+      "category": "#Legal Assistants",
+      "upvotes": 2
+    },
+    {
+      "name": "Legal Robot",
+      "description": "« AI의 도움으로 법률 문서를 검토하세요. 그런 다음 귀중한 조언과 정보를 얻으십시오. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/02/favicon-defa.png",
+      "url": "https://www.aixploria.com/en/legal-robot/",
+      "type": "유료",
+      "category": "#Legal Assistants",
+      "upvotes": 0
+    },
+    {
+      "name": "Lawrie AI",
+      "description": "« 귀하의 계약을 빠르고 쉽게 이해하는 AI 도우미. PDF와 채팅하고 즉각적인 답변 얻기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/lawrie-ai.png",
+      "url": "https://www.aixploria.com/en/lawrie-ai/",
+      "type": "무료",
+      "category": "#Legal Assistants",
+      "upvotes": 1
+    }
+  ]
+}

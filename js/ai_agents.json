@@ -1,0 +1,374 @@
+{
+  "name": "AI Agents",
+  "items": [
+    {
+      "name": "AutoGPT",
+      "description": "« 사람의 개입 없이 작업을 수행할 수 있는 오픈 소스 인터넷 연결 AI(GPT) »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/autoGPT-favicon.png",
+      "url": "https://www.aixploria.com/en/autogpt/",
+      "type": "무료",
+      "category": "#AI Agents, #Github Projects",
+      "upvotes": 28
+    },
+    {
+      "name": "Devin AI by Cognition",
+      "description": "« 매우 복잡한 코드를 생성하고 지원할 수 있는 AI 보조자입니다. 완전한 애플리케이션을 생성할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/devin-ai-by-cognition.png",
+      "url": "https://www.aixploria.com/en/devin-ai-by-cognition/",
+      "type": "무료",
+      "category": "#AI Agents, #Assistant Code",
+      "upvotes": 63
+    },
+    {
+      "name": "Genie by Cosine",
+      "description": "« AI 소프트웨어 엔지니어는 독립적으로 코드를 작성하고 수정할 수 있습니다. SWE-Bench에서 SOTA 점수 30%를 달성했습니다. 버그 해결, 기능 추가 및 코드 리팩토링에 유용함 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/genie-by-cosine.png",
+      "url": "https://www.aixploria.com/en/genie-by-cosine-ai-software-engineer/",
+      "type": "무료",
+      "category": "#AI Agents, #Assistant Code",
+      "upvotes": 42
+    },
+    {
+      "name": "Paradigm AI",
+      "description": "« 지능형 에이전트 떼를 사용하여 인간과 같은 정밀도로 데이터를 수집, 구성 및 실행합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/09/favicon-192x192-1.png",
+      "url": "https://www.aixploria.com/en/paradigm-ai-agents-data-workplace/",
+      "type": "무료",
+      "category": "#AI Agents, #Data & Analytics",
+      "upvotes": 24
+    },
+    {
+      "name": "AutoGen",
+      "description": "« LLM을 기반으로 하는 다중 에이전트 시스템을 생성하기 위한 Microsoft의 오픈 소스 프레임워크입니다. 향상된 API 덕분에 복잡한 AI 애플리케이션을 쉽게 개발하고 추론 성능을 최적화하며 비용을 절감할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/autogen.png",
+      "url": "https://www.aixploria.com/en/autogen-agentic-ai-microsoft/",
+      "type": "무료",
+      "category": "#AI Agents, #Developer Tools",
+      "upvotes": 31
+    },
+    {
+      "name": "Devika AI",
+      "description": "« 고성능 오픈 소스 AI 소프트웨어 엔지니어를 만나보세요. 그녀에게 지시를 내리고 그녀가 자동으로 코드를 작성하게 하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/devika-ai.png",
+      "url": "https://www.aixploria.com/en/devika-ai-agentic-software-engineer/",
+      "type": "무료",
+      "category": "#AI Agents, #Developer Tools",
+      "upvotes": 23
+    },
+    {
+      "name": "Momen",
+      "description": "« 확장하고 수익을 창출할 수 있는 AI 에이전트를 구축하세요. LLM 통합, 데이터 관리 및 사용자 인터페이스 개발을 쉽게(코드 없음, 제한 없음) »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/momen.png",
+      "url": "https://www.aixploria.com/en/momen-ai-agent-built-apps/",
+      "type": "부분 무료",
+      "category": "#AI Agents, #AIxploria Selection",
+      "upvotes": 46
+    },
+    {
+      "name": "MultiOn",
+      "description": "« 당신의 지능적인 집사가 될 수 있는 개인 비서. 식사 주문, 항공편 예약, 약속 잡기 등을 할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/multion.png",
+      "url": "https://www.aixploria.com/en/multion-ai/",
+      "type": "부분 무료",
+      "category": "#AI Agents, #Life Assistants",
+      "upvotes": 15
+    },
+    {
+      "name": "Altera PlayLabs",
+      "description": "« 대화형 인공 지능 게임을 만들고 공유하기 위한 플랫폼입니다. 프로그래밍 지식 없이도 AI로 생성된 다양한 게임을 탐색하고 맞춤화하거나 자신만의 게임을 만들어 보세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/altera-playlabs.png",
+      "url": "https://www.aixploria.com/en/altera-playlabs-ai-games-apps/",
+      "type": "무료",
+      "category": "#AI Agents, #Games",
+      "upvotes": 24
+    },
+    {
+      "name": "Godmode",
+      "description": "« 생성 에이전트(예: ChatGPT)를 사용하여 고유한 결과를 만들고 창의성을 자극합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/godmode.png",
+      "url": "https://www.aixploria.com/en/godmode/",
+      "type": "무료",
+      "category": "#AI Agents, #Life Assistants",
+      "upvotes": 8
+    },
+    {
+      "name": "Claude Engineer",
+      "description": "« Claude-3.5-Sonnet의 모델을 통합하고 코드를 분석하고 웹 검색을 수행하거나 프로젝트를 자율적으로 관리할 수 있는 명령줄 인터페이스(CLI) »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/claude-engineer.png",
+      "url": "https://www.aixploria.com/en/claude-engineer-ai-cli-autonomous/",
+      "type": "무료",
+      "category": "#AI Agents, #Developer Tools",
+      "upvotes": 23
+    },
+    {
+      "name": "Wordfare AI",
+      "description": "« AI 에이전트를 10배 더 빠르게 생성하세요. 자연어 프로그래밍을 위한 직관적인 IDE(루프, 후크, 멀티모달, API 배포 등)를 얻으세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/wordfare-ai.png",
+      "url": "https://www.aixploria.com/en/wordfare-ai/",
+      "type": "부분 무료",
+      "category": "#AI Agents, #Developer Tools",
+      "upvotes": 18
+    },
+    {
+      "name": "Replit Agent",
+      "description": "« 텍스트 설명으로 애플리케이션을 생성하는 개발자를 위한 AI 도우미입니다. 공동 AI 에이전트의 도움으로 신속하게 프로토타입을 제작하고 50개 이상의 언어로 코딩하고 프로젝트를 쉽게 배포할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/replit-agent.png",
+      "url": "https://www.aixploria.com/en/replit-agent/",
+      "type": "Free-Trial",
+      "category": "#AI Agents, #Developer Tools",
+      "upvotes": 31
+    },
+    {
+      "name": "KaneAI",
+      "description": "« 팀이 자연어를 사용하여 테스트를 생성, 디버그 및 발전시키는 데 도움이 되는 지능형 테스트 에이전트입니다. 세계 최초의 완전한 소프트웨어 테스팅 도우미 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/kaneai.png",
+      "url": "https://www.aixploria.com/en/kaneai-testing-agent-lambdatest/",
+      "type": "부분 무료",
+      "category": "#AI Agents, #Automation",
+      "upvotes": 31
+    },
+    {
+      "name": "OpenDevin",
+      "description": "« 코드 및 소프트웨어 설계를 위한 매우 정교한 자율 에이전트입니다. 이 오픈 소스 AI는 최신 LLM 모델의 증가하는 기능을 활용합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/opendevin.png",
+      "url": "https://www.aixploria.com/en/opendevin-ai/",
+      "type": "무료",
+      "category": "#AI Agents, #Developer Tools",
+      "upvotes": 17
+    },
+    {
+      "name": "Jarvis (Microsoft)",
+      "description": "« AI가 구동하는 자율 개인 비서. Microsoft 팀에서 개발함 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/jarvis--microsoft-.png",
+      "url": "https://www.aixploria.com/en/jarvis-microsoft/",
+      "type": "무료",
+      "category": "#AI Agents, #Future Tools",
+      "upvotes": 4
+    },
+    {
+      "name": "MetaGPT",
+      "description": "« 복잡한 작업도 성공적으로 수행하기 위해 전문가 팀을 생성하고 시뮬레이션하는 AI입니다. API도 있음 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/metagpt.png",
+      "url": "https://www.aixploria.com/en/metagpt/",
+      "type": "무료",
+      "category": "#AI Agents, #Github Projects",
+      "upvotes": 3
+    },
+    {
+      "name": "Cognosys 2.0",
+      "description": "« 데이터 분석을 기반으로 더 나은 의사결정을 내리는 AI 기반 멀티태스킹 에이전트 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/cognosys-2-0.png",
+      "url": "https://www.aixploria.com/en/cognosys/",
+      "type": "무료",
+      "category": "#AI Agents, #Extensions ChatGPT",
+      "upvotes": 11
+    },
+    {
+      "name": "Swarm by OpenAI",
+      "description": "« AI 에이전트 오케스트레이션을 탐색하기 위한 OpenAI의 오픈 소스 교육 프레임워크입니다. 복잡한 작업을 위한 경량의 사용자 정의 가능한 다중 에이전트 시스템 구축 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/swarm-by-openai.png",
+      "url": "https://www.aixploria.com/en/swarm-by-openai-agents/",
+      "type": "무료",
+      "category": "#AI Agents, #Github Projects",
+      "upvotes": 48
+    },
+    {
+      "name": "Open Interpreter",
+      "description": "« 터미널을 통해 컴퓨터와 대화하고 컴퓨팅 작업을 더 빠르게 수행하십시오. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/open-interpreter.png",
+      "url": "https://www.aixploria.com/en/open-interpreter-ai/",
+      "type": "무료",
+      "category": "#AI Agents, #Developer Tools",
+      "upvotes": 6
+    },
+    {
+      "name": "SuperAGI",
+      "description": "« 자율 에이전트를 신속하게 개발하고 배포하기 위한 오픈 소스 프로젝트입니다. GitHub를 통해 접근 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/superagi.png",
+      "url": "https://www.aixploria.com/en/superagi/",
+      "type": "무료",
+      "category": "#AI Agents, #Github Projects",
+      "upvotes": 3
+    },
+    {
+      "name": "Multi-GPT",
+      "description": "« 프로젝트 관리자 역할을 하고 목표 달성을 위해 전문가 팀을 구성하는 자율 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/multi-gpt.png",
+      "url": "https://www.aixploria.com/en/multi-gpt/",
+      "type": "무료",
+      "category": "#AI Agents, #Github Projects",
+      "upvotes": 7
+    },
+    {
+      "name": "Amelia.ai",
+      "description": "« 확장 가능한 지능형 가상 도우미를 통해 고객 서비스를 자동화하고, 내부 프로세스를 최적화하며, 개인화된 사용자 경험을 제공하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/amelia-ai.png",
+      "url": "https://www.aixploria.com/en/amelia-ai-agent-conversation-voice/",
+      "type": "유료",
+      "category": "#AI Agents, #Automation",
+      "upvotes": 29
+    },
+    {
+      "name": "Jace.ai",
+      "description": "« 가장 복잡한 작업을 쉽게 자동화할 수 있는 자율 AI 에이전트입니다. 그냥 물어보세요. 그러면 작업이 완료됩니다! »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/jace-ai.png",
+      "url": "https://www.aixploria.com/en/jace-ai-zeta-labs-ai-agent/",
+      "type": "부분 무료",
+      "category": "#AI Agents, #Automation",
+      "upvotes": 21
+    },
+    {
+      "name": "Autotab AI",
+      "description": "« 최초의 AI 기반 디지털 로봇을 사용하여 브라우저에서 반복적인 작업을 자동화하세요. 단계를 보여주면 나머지는 알아서 처리됩니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/autotab-ai.png",
+      "url": "https://www.aixploria.com/en/autotab-ai/",
+      "type": "유료",
+      "category": "#AI Agents",
+      "upvotes": 16
+    },
+    {
+      "name": "Camel AI",
+      "description": "« 자율적이고 지능적인 결정을 내리는 에이전트 기반 AI입니다. ChatBot을 통한 토론 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/camel-ai/",
+      "type": "무료",
+      "category": "#AI Agents, #Extensions ChatGPT",
+      "upvotes": 4
+    },
+    {
+      "name": "crewAI",
+      "description": "« 자율 AI 에이전트가 보다 효과적으로 협업할 수 있게 해주는 플랫폼입니다. 더 큰 시설로 복잡한 작업을 수행하는 데 이상적입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/crewai.png",
+      "url": "https://www.aixploria.com/en/crewai/",
+      "type": "무료",
+      "category": "#AI Agents",
+      "upvotes": 4
+    },
+    {
+      "name": "Synthflow AI",
+      "description": "« 연중무휴 24시간 통화를 자동화하는 사람의 목소리를 갖춘 AI 음성 비서. 자동화된 판매 또는 약속 일정 관리에 이상적입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/synthflow-ai.png",
+      "url": "https://www.aixploria.com/en/synthflow-ai/",
+      "type": "Free-Trial",
+      "category": "#AI Agents, #Business",
+      "upvotes": 15
+    },
+    {
+      "name": "Fini AI",
+      "description": "« 지식 데이터베이스를 몇 분 만에 대화형 AI 도우미로 바꿔보세요. 연중무휴 24시간 고객 질문의 70% 해결 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/fini-ai.png",
+      "url": "https://www.aixploria.com/en/fini-ai/",
+      "type": "Free-Trial",
+      "category": "#AI Agents, #Business",
+      "upvotes": 17
+    },
+    {
+      "name": "BabyAgi",
+      "description": "« 스스로 여러 작업을 수행하고 자동 프롬프트를 표시할 수 있는 자율 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/babyagi.png",
+      "url": "https://www.aixploria.com/en/babyagi/",
+      "type": "무료",
+      "category": "#AI Agents, #Extensions ChatGPT",
+      "upvotes": 9
+    },
+    {
+      "name": "SWE-agent",
+      "description": "« GPT-4를 사용하여 GitHub 리포지토리의 버그를 자동으로 수정합니다. AI와 소스 코드 간의 상호 작용을 촉진하도록 설계됨 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/swe-agent.png",
+      "url": "https://www.aixploria.com/en/swe-agent-ai-software-engineering/",
+      "type": "무료",
+      "category": "#AI Agents, #Developer Tools",
+      "upvotes": 19
+    },
+    {
+      "name": "AgentGPT",
+      "description": "« 자율 AI 에이전트를 쉽게 설정하고 배포할 수 있습니다. 이 사이트는 간단하고 직관적인 인터페이스를 가지고 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/agentgpt.png",
+      "url": "https://www.aixploria.com/en/agentgpt/",
+      "type": "무료",
+      "category": "#AI Agents, #Extensions ChatGPT",
+      "upvotes": 6
+    },
+    {
+      "name": "WestWorld Simulation",
+      "description": "« 자율 AI가 함께 생활하는 연구원이 만든 시뮬레이션. 활동, 사회적 상호작용 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/westworld-simulation.png",
+      "url": "https://www.aixploria.com/en/westworld-simulation/",
+      "type": "무료",
+      "category": "#AI Agents, #Future Tools",
+      "upvotes": 2
+    },
+    {
+      "name": "Aomni AI",
+      "description": "« Auto-GPT의 기능을 10배 향상시키는 데이터 추출 전문 자율 에이전트 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/aomni-ai.png",
+      "url": "https://www.aixploria.com/en/aomni-ai/",
+      "type": "무료",
+      "category": "#AI Agents, #Data & Analytics",
+      "upvotes": 3
+    },
+    {
+      "name": "Open Agent Studio",
+      "description": "« 코딩 없이 강력한 자동화 에이전트를 만드세요. 에이전트의 변화에 ​​대한 탄력성을 높이는 의미 체계 대상 시스템 기능 제공(에이전트) »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/open-agent-studio.png",
+      "url": "https://www.aixploria.com/en/open-agent-studio/",
+      "type": "무료",
+      "category": "#AI Agents, #Automation",
+      "upvotes": 25
+    },
+    {
+      "name": "OpenAGI",
+      "description": "« 이미지를 조작할 수 있는 자율적 다중 모드 AI. 실험 프로젝트 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/openagi.png",
+      "url": "https://www.aixploria.com/en/openagi/",
+      "type": "무료",
+      "category": "#AI Agents, #Github Projects",
+      "upvotes": 3
+    },
+    {
+      "name": "DreamGPT",
+      "description": "« 인공지능을 활용하여 환각에서 새롭고 창의적인 아이디어를 창출하는 혁신적인 프로젝트 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/dreamgpt.png",
+      "url": "https://www.aixploria.com/en/dreamgpt/",
+      "type": "무료",
+      "category": "#AI Agents, #Github Projects",
+      "upvotes": 3
+    },
+    {
+      "name": "AgentLLM",
+      "description": "« LLAMA와 함께 작동하는 무료 오픈 소스 자율 에이전트 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/agentllm.png",
+      "url": "https://www.aixploria.com/en/agentllm/",
+      "type": "무료",
+      "category": "#AI Agents, #Github Projects",
+      "upvotes": 4
+    },
+    {
+      "name": "LoopGPT",
+      "description": "« 도중에 방향을 바꿀 수 있는 자율적 및 다중 작업 AI. 일시 정지 기능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/loopgpt.png",
+      "url": "https://www.aixploria.com/en/loopgpt/",
+      "type": "무료",
+      "category": "#AI Agents, #Github Projects",
+      "upvotes": 2
+    },
+    {
+      "name": "ChatArena️",
+      "description": "« 언어 게임을 통해 자율 에이전트 간의 사회적 상호 작용에 대한 연구를 용이하게 하는 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/chatarena---.png",
+      "url": "https://www.aixploria.com/en/chatarena/",
+      "type": "무료",
+      "category": "#AI Agents, #Github Projects",
+      "upvotes": 2
+    },
+    {
+      "name": "GoalGPT",
+      "description": "« 스스로 여러 작업을 수행할 수 있는 OpenAI API와 연결된 자율 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/goalgpt.png",
+      "url": "https://www.aixploria.com/en/goalgpt/",
+      "type": "부분 무료",
+      "category": "#AI Agents",
+      "upvotes": 2
+    }
+  ]
+}

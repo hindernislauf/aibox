@@ -72,7 +72,7 @@ export default async function handler(req, res) {
         logo: `https://images.weserv.nl/?url=${encodeURIComponent(row.logo)}&w=48&h=48&fit=contain&output=png`,
         type: row.type || '무료',
         rating: row.rating || 'N/A',
-        url: row.domain || '#'
+        url: row.url || row.domain || '#'
       }));
 
       res.status(200).json(services);

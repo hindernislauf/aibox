@@ -1,0 +1,635 @@
+{
+  "name": "3D model",
+  "items": [
+    {
+      "name": "Leonardo AI",
+      "description": "« 귀하의 프로젝트를 위한 AI 생성 창의적 콘텐츠, 이미지 및 3D 모델. 미세 조정 모델 사용 가능성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/leonardo-ai.png",
+      "url": "https://www.aixploria.com/en/leonardo-ai/",
+      "type": "부분 무료",
+      "category": "#3D model, #AIxploria Selection",
+      "upvotes": 321
+    },
+    {
+      "name": "Genie by Lumalabs",
+      "description": "« 다양한 설정(애니메이션 전환, 입자 크기 또는 밀도화)을 사용하여 3D 모델을 디자인합니다. Discord에서 창작물을 공동작업하고 공유하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/genie-by-lumalabs.png",
+      "url": "https://www.aixploria.com/en/genie-by-lumalabs/",
+      "type": "무료",
+      "category": "#3D model",
+      "upvotes": 164
+    },
+    {
+      "name": "Kinetix",
+      "description": "« 지식 없이도 3D 애니메이션을 만들 수 있는 플랫폼 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/kinetix.png",
+      "url": "https://www.aixploria.com/en/kinetix/",
+      "type": "무료",
+      "category": "#3D model",
+      "upvotes": 11
+    },
+    {
+      "name": "Get3D Nvidia",
+      "description": "« Nvidia 팀이 만든 사실적인 3D 모델 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/get3d-nvidia.png",
+      "url": "https://www.aixploria.com/en/get3d-nvidia/",
+      "type": "무료",
+      "category": "#3D model",
+      "upvotes": 12
+    },
+    {
+      "name": "DreamFusion 3D",
+      "description": "« 텍스트 프롬프트에서 3D 객체 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/dreamfusion-3d.png",
+      "url": "https://www.aixploria.com/en/dreamfusion-3d/",
+      "type": "무료",
+      "category": "#3D model, #Github Projects",
+      "upvotes": 8
+    },
+    {
+      "name": "Krikey AI",
+      "description": "« 3D 아바타 자동 생성 및 공개 갤러리 액세스 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/krikey-ai.png",
+      "url": "https://www.aixploria.com/en/krikey-ai/",
+      "type": "부분 무료",
+      "category": "#3D model, #Avatars",
+      "upvotes": 8
+    },
+    {
+      "name": "DeepMotion",
+      "description": "« 실시간으로 모든 비디오를 고품질 3D 애니메이션으로 변환 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/deepmotion.png",
+      "url": "https://www.aixploria.com/en/deepmotion/",
+      "type": "부분 무료",
+      "category": "#3D model",
+      "upvotes": 3
+    },
+    {
+      "name": "Pixela AI",
+      "description": "« 프롬프트에서 텍스처를 생성합니다. 키워드를 사용하여 매우 큰 데이터베이스를 검색할 수도 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/pixela-ai.png",
+      "url": "https://www.aixploria.com/en/pixela-ai/",
+      "type": "무료",
+      "category": "#3D model, #Image Generators",
+      "upvotes": 7
+    },
+    {
+      "name": "Luma AI",
+      "description": "« 현실을 포착하고 놀라운 3D 방식으로 변환 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/luma-ai.png",
+      "url": "https://www.aixploria.com/en/luma-ai/",
+      "type": "부분 무료",
+      "category": "#3D model",
+      "upvotes": 9
+    },
+    {
+      "name": "Move AI",
+      "description": "« 모션 캡처 및 3D 비디오 애니메이션에 대한 전문 지식을 갖춘 AI 플랫폼입니다. 실시간으로 반응하는 3D 캐릭터 만들기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/move-ai.png",
+      "url": "https://www.aixploria.com/en/move-ai/",
+      "type": "Free-Trial",
+      "category": "#3D model, #Video Edition",
+      "upvotes": 15
+    },
+    {
+      "name": "3DFY.ai",
+      "description": "« 텍스트에서 3D 모델을 만듭니다. 대규모 3D 콘텐츠 제작 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/3dfy-ai.png",
+      "url": "https://www.aixploria.com/en/3dfy-ai/",
+      "type": "유료",
+      "category": "#3D model",
+      "upvotes": 5
+    },
+    {
+      "name": "CharmedAI",
+      "description": "« AI 도우미를 사용하여 3D 모델과 텍스처를 빠르게 생성하세요. 게임 개발에 완벽한 무료 도구이지만 아직 베타 버전입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/charmedai.png",
+      "url": "https://www.aixploria.com/en/charmedai/",
+      "type": "무료",
+      "category": "#3D model, #Games",
+      "upvotes": 2
+    },
+    {
+      "name": "Meshy AI",
+      "description": "« 다양한 자산, 요소 및 개체를 3D로 생성할 수 있는 AI 도구입니다. 텍스트 또는 이미지로 작업 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/meshy-ai.png",
+      "url": "https://www.aixploria.com/en/meshy-ai/",
+      "type": "무료",
+      "category": "#3D model",
+      "upvotes": 11
+    },
+    {
+      "name": "The Simulation",
+      "description": "« 메타버스에 특화된 AI가 구동하는 시뮬레이션 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/the-simulation.png",
+      "url": "https://www.aixploria.com/en/the-simulation/",
+      "type": "부분 무료",
+      "category": "#3D model, #Games",
+      "upvotes": 1
+    },
+    {
+      "name": "ViewCrafter",
+      "description": "« 제한된 2D 이미지에서 사실적인 3D 뷰를 생성하여 몰입형 경험과 고품질 3D 콘텐츠 제작 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/viewcrafter-ai-2d-3d-video/",
+      "type": "무료",
+      "category": "#3D model",
+      "upvotes": 25
+    },
+    {
+      "name": "Immersity AI",
+      "description": "« 2D 이미지를 3D로 빠르게 변환하는 AI. 라이트필드 애니메이션을 포함한 다양한 형식과 호환 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/immersity-ai.png",
+      "url": "https://www.aixploria.com/en/immersity-ai-leiapix/",
+      "type": "부분 무료",
+      "category": "#3D model, #Social Networks",
+      "upvotes": 10
+    },
+    {
+      "name": "CAD with AI",
+      "description": "« 강력한 AI 기반 CAD(컴퓨터 지원 설계) 도구입니다. 텍스트 설명을 통해 3D 모델을 쉽게 생성 및 수정 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/cad-with-ai.png",
+      "url": "https://www.aixploria.com/en/cad-with-ai-3d-cao/",
+      "type": "무료",
+      "category": "#3D model",
+      "upvotes": 24
+    },
+    {
+      "name": "Mirageml",
+      "description": "« 3D 객체 디자인 및 텍스트 설명을 통한 디자인 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/mirageml.png",
+      "url": "https://www.aixploria.com/en/mirageml/",
+      "type": "부분 무료",
+      "category": "#3D model",
+      "upvotes": 1
+    },
+    {
+      "name": "Meshcapade",
+      "description": "« 사용하기 쉬운 캐릭터 편집기로 애니메이션 3D 아바타를 만드세요. 텍스트나 비디오에서 움직임을 생성하고 이미지에서 3D 본체를 생성합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/meshcapade.png",
+      "url": "https://www.aixploria.com/en/meshcapade-ai-3d-avatar-human/",
+      "type": "무료",
+      "category": "#3D model",
+      "upvotes": 30
+    },
+    {
+      "name": "Imagine 3D",
+      "description": "« 텍스트를 사용하여 3D 모델을 생성하고 상상하는 프로토타입 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/imagine-3d.png",
+      "url": "https://www.aixploria.com/en/imagine-3d/",
+      "type": "유료",
+      "category": "#3D model",
+      "upvotes": 2
+    },
+    {
+      "name": "Ponzu",
+      "description": "« 프롬프트에서 3D 모델과 텍스처를 만듭니다. 스타일과 디자인 선택 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/ponzu/",
+      "type": "무료",
+      "category": "#3D model",
+      "upvotes": 2
+    },
+    {
+      "name": "WildGaussians",
+      "description": "« 통제되지 않은 환경의 실시간 3D 렌더링을 생성하는 AI 도구입니다. 교합 및 모양 변화에 대한 매우 효율적인 관리 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/wildgaussians-ai-3d-splatting/",
+      "type": "무료",
+      "category": "#3D model",
+      "upvotes": 23
+    },
+    {
+      "name": "Kaedim 3D",
+      "description": "« 2D 이미지에서 고품질 3D 모델을 매우 빠르게 생성합니다. AI를 통해 3D 개체 생성이 쉽고 직관적으로 가능합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/kaedim-3d.png",
+      "url": "https://www.aixploria.com/en/kaedim-3d/",
+      "type": "유료",
+      "category": "#3D model",
+      "upvotes": 2
+    },
+    {
+      "name": "CharacterGen",
+      "description": "« 단일 이미지에서 3D 캐릭터를 생성합니다. AI는 포즈를 보정하고 3D 모델을 재구성하며 고품질 텍스처를 적용합니다. 애니메이션에 적합 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/charactergen.png",
+      "url": "https://www.aixploria.com/en/charactergen-ai-3d/",
+      "type": "무료",
+      "category": "#3D model, #Github Projects",
+      "upvotes": 20
+    },
+    {
+      "name": "CSM",
+      "description": "« 새로운 AI 생성을 위한 오픈 소스 인터페이스, 소프트웨어 및 API 제공 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/csm.png",
+      "url": "https://www.aixploria.com/en/csm/",
+      "type": "유료",
+      "category": "#3D model, #Developer Tools",
+      "upvotes": 4
+    },
+    {
+      "name": "Masterpiece Studio",
+      "description": "« 3D 모델의 자동 설계를 단순화하고 가능하게 하는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/masterpiece-studio.png",
+      "url": "https://www.aixploria.com/en/masterpiece-studio/",
+      "type": "부분 무료",
+      "category": "#3D model",
+      "upvotes": 2
+    },
+    {
+      "name": "Simulon",
+      "description": "« 모바일 장치에서 VFX가 디자인되는 방식을 변화시키는 AI 도구입니다. 놀라운 영화적 렌더링을 위해 3D 모델을 비디오로 가져오기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/simulon.png",
+      "url": "https://www.aixploria.com/en/simulon-ai-3d-tool-vfx/",
+      "type": "무료",
+      "category": "#3D model, #Future Tools",
+      "upvotes": 31
+    },
+    {
+      "name": "G3DAI {Jedi}",
+      "description": "« 텍스트 쿼리를 사용하고 모델, 객체 등과 같은 3D 리소스 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/g3dai--jedi-.png",
+      "url": "https://www.aixploria.com/en/g3dai-jedi/",
+      "type": "무료",
+      "category": "#3D model",
+      "upvotes": 1
+    },
+    {
+      "name": "TripoSR",
+      "description": "« 단일 이미지에서 1초 이내에 고품질 3D 모델을 쉽게 만들 수 있습니다. GPU가 없으며 MIT 라이센스에 따라 사용 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/triposr.png",
+      "url": "https://www.aixploria.com/en/triposr-ai-3d-model/",
+      "type": "무료",
+      "category": "#3D model",
+      "upvotes": 19
+    },
+    {
+      "name": "InstantMesh 3D",
+      "description": "« 10초 이내에 단일 이미지에서 고품질 3D 모델을 생성하는 도구입니다. 다중 뷰 확산과 희소 재구성 결합 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/instantmesh-3d.png",
+      "url": "https://www.aixploria.com/en/instantmesh-3d-ai/",
+      "type": "무료",
+      "category": "#3D model, #Github Projects",
+      "upvotes": 19
+    },
+    {
+      "name": "Recraft",
+      "description": "« AI를 사용하여 벡터 이미지, 아이콘, 3D 일러스트레이션을 쉽게 만들고 수정하기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/recraft.png",
+      "url": "https://www.aixploria.com/en/recraft/",
+      "type": "무료",
+      "category": "#3D model, #Image editing",
+      "upvotes": 4
+    },
+    {
+      "name": "Substance 3D Viewer",
+      "description": "« 3D 개체를 보고 조작하기 위한 무료 데스크톱 애플리케이션입니다. 3D 모델을 Photoshop 디자인에 쉽게 통합하고 조명 및 재료를 쉽게 조정 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/08/adobe-podcast.png",
+      "url": "https://www.aixploria.com/en/adobe-substance-3d-viewer/",
+      "type": "무료",
+      "category": "#3D model",
+      "upvotes": 30
+    },
+    {
+      "name": "Stable Video 3D",
+      "description": "« 단일 이미지에서 3D 비디오를 생성합니다. 두 가지 가능한 변형: 궤도 뷰용 SV3D_u 및 특정 궤적용 SV3D_p »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/stable-video-3d.png",
+      "url": "https://www.aixploria.com/en/stable-video-3d-svd3/",
+      "type": "무료",
+      "category": "#3D model, #Future Tools",
+      "upvotes": 23
+    },
+    {
+      "name": "Cartwheel",
+      "description": "« 간단히 텍스트를 작성하여(텍스트-애니메이션) 3D 캐릭터에 애니메이션을 적용할 수 있습니다. 비디오, 영화, 광고, 게임 및 VR 프로젝트에 이상적입니다. 손끝에서 3D 이용 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/cartwheel.png",
+      "url": "https://www.aixploria.com/en/cartwheel-ai-text-to-animation-3d/",
+      "type": "무료",
+      "category": "#3D model",
+      "upvotes": 17
+    },
+    {
+      "name": "Unique3D",
+      "description": "« ISOMER AI 기술을 사용하여 단일 이미지에서 고품질 3D 메시를 생성합니다. 현실적인 기하학적 세부 사항과 질감. 빠르고 일관되며 확장 가능합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/unique3d-ai-mesh/",
+      "type": "무료",
+      "category": "#3D model",
+      "upvotes": 18
+    },
+    {
+      "name": "Depth Pro",
+      "description": "« Apple이 설계한 새로운 AI 시스템으로 2D 이미지에서 상세한 3D 깊이 맵을 생성할 수 있습니다. 품질과 속도 면에서 기존 모델보다 뛰어난 단일 이미지로부터 정확한 깊이 맵 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/depth-pro.png",
+      "url": "https://www.aixploria.com/en/depth-pro-ai-3d-vision-apple/",
+      "type": "무료",
+      "category": "#3D model, #Future Tools",
+      "upvotes": 36
+    },
+    {
+      "name": "4D Gaussian Splatting",
+      "description": "« 시퀀스에서 실시간으로 사실적인 3D 렌더링을 생성합니다. 이 모델은 복잡한 움직임도 포착하고 단일 GPU에서 실행할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/4d-gaussian-splatting-ai-4dgs/",
+      "type": "무료",
+      "category": "#3D model",
+      "upvotes": 25
+    },
+    {
+      "name": "Dora",
+      "description": "« 간단한 인터페이스로 코드 없는 웹사이트를 디자인합니다. 2번의 클릭으로 3D 애니메이션 제작 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/dora.png",
+      "url": "https://www.aixploria.com/en/dora/",
+      "type": "무료",
+      "category": "#3D model, #No Code/Low Code",
+      "upvotes": 5
+    },
+    {
+      "name": "LGM 3D",
+      "description": "« 텍스트나 이미지로부터 고해상도 3D 모델을 만드는 프로젝트입니다. 다중 뷰 가우스 속성을 결합하는 기술 사용 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/lgm-3d.png",
+      "url": "https://www.aixploria.com/en/lgm-3d-model/",
+      "type": "무료",
+      "category": "#3D model, #Github Projects",
+      "upvotes": 6
+    },
+    {
+      "name": "Depthify.ai",
+      "description": "« 이미지와 비디오를 3D 형식으로 쉽게 변환할 수 있습니다. Apple Vision Pro 및 Meta Quest VR 헤드셋과 호환되는 3D 모델 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/depthify-ai.png",
+      "url": "https://www.aixploria.com/en/depthify-ai/",
+      "type": "무료",
+      "category": "#3D model, #Image editing",
+      "upvotes": 18
+    },
+    {
+      "name": "Text-to-CAD UI",
+      "description": "« 텍스트에서 3D 자산(CAD) 자동 생성. UI 디자이너를 위한 빠르고 사용하기 쉬운 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/text-to-cad-ui.png",
+      "url": "https://www.aixploria.com/en/text-to-cad-ui/",
+      "type": "무료",
+      "category": "#3D model",
+      "upvotes": 5
+    },
+    {
+      "name": "L-MAGIC by Intel",
+      "description": "« AI를 사용하여 이미지, 텍스트 또는 스케치에서 360° 파노라마를 생성합니다. 단 몇 번의 클릭만으로 놀라운 결과를 얻을 수 있습니다. 3D 제작에 이상적 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/06/favicon-mmpano-intel-magic.png",
+      "url": "https://www.aixploria.com/en/l-magic-by-intel/",
+      "type": "무료",
+      "category": "#3D model",
+      "upvotes": 28
+    },
+    {
+      "name": "Rodin AI",
+      "description": "« 여러 매개변수 설정을 갖춘 3D 리소스 생성기. 텍스트나 이미지에서 초현실적인 3D 얼굴이나 개체 모델 만들기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/rodin-ai.png",
+      "url": "https://www.aixploria.com/en/rodin-ai-3d/",
+      "type": "Free-Trial",
+      "category": "#3D model",
+      "upvotes": 19
+    },
+    {
+      "name": "Promethean AI",
+      "description": "« 아티스트가 가상 세계를 3D로 디자인할 수 있도록 지원하는 최초의 인공 지능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/promethean-ai.png",
+      "url": "https://www.aixploria.com/en/promethean-ai/",
+      "type": "부분 무료",
+      "category": "#3D model",
+      "upvotes": 1
+    },
+    {
+      "name": "Leo AI",
+      "description": "« 엔지니어링 설계 AI 공동 드라이버를 사용하여 제품 아이디어에 생기를 불어넣으세요. 3D CAD 모델의 개념 및 최적화 단순화 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/leo-ai.png",
+      "url": "https://www.aixploria.com/en/leo-ai/",
+      "type": "부분 무료",
+      "category": "#3D model, #Image Generators",
+      "upvotes": 1
+    },
+    {
+      "name": "Make-A-Character",
+      "description": "« 프롬프트 기반의 3D 애니메이션 캐릭터 생성기. 알리바바그룹이 만든 인공지능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/make-a-character.png",
+      "url": "https://www.aixploria.com/en/make-a-character-3d-ai/",
+      "type": "무료",
+      "category": "#3D model, #Github Projects",
+      "upvotes": 1
+    },
+    {
+      "name": "DreamGaussian",
+      "description": "« 3D 콘텐츠를 제작하는 혁신적인 방법입니다. 생성적 가우스 스플래팅 기술을 활용하는 새로운 접근 방식 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/dreamgaussian.png",
+      "url": "https://www.aixploria.com/en/dreamgaussian-ai/",
+      "type": "무료",
+      "category": "#3D model",
+      "upvotes": 2
+    },
+    {
+      "name": "Sloyd",
+      "description": "« 3D 모델 생성을 단순화하고 대규모 모델 라이브러리 보유 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/sloyd.png",
+      "url": "https://www.aixploria.com/en/sloyd/",
+      "type": "유료",
+      "category": "#3D model",
+      "upvotes": 1
+    },
+    {
+      "name": "MotionGPT",
+      "description": "« 프롬프트로 원하는 움직임(모션)을 정의하기만 하면 AI가 즉시 이를 재현할 수 있습니다. 최초의 텍스트-모션 AI입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/motiongpt.png",
+      "url": "https://www.aixploria.com/en/motiongpt-ai/",
+      "type": "무료",
+      "category": "#3D model, #Video Edition",
+      "upvotes": 1
+    },
+    {
+      "name": "Any Image to 3D",
+      "description": "« 2D 이미지를 상세한 3D 모델로 쉽게 변환할 수 있습니다. 비디오 게임, 로봇 공학, 증강 현실 등에 이상적입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/any-image-to-3d.png",
+      "url": "https://www.aixploria.com/en/any-image-to-3d/",
+      "type": "무료",
+      "category": "#3D model",
+      "upvotes": 2
+    },
+    {
+      "name": "Hiber 3D",
+      "description": "« 프롬프트에서 3D 모델과 세계를 디자인하세요. 귀하의 모든 요구 사항을 충족하는 창의적인 대화형 ChatBot과 함께 작동합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/hiber-3d.png",
+      "url": "https://www.aixploria.com/en/hiber-3d-ai/",
+      "type": "무료",
+      "category": "#3D model",
+      "upvotes": 1
+    },
+    {
+      "name": "Retrovision App",
+      "description": "« AI 생성 깊이를 사용하여 이미지를 돌출된 3D 메시로 변환하는 도구입니다. 투영 매개변수를 미세 조정하고 GLB로 내보내기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/retrovision-app-ai-3d-mesh/",
+      "type": "무료",
+      "category": "#3D model, #Art",
+      "upvotes": 14
+    },
+    {
+      "name": "Vector to 3D",
+      "description": "« 벡터 이미지(SVG)에서 작동하는 3D 효과 생성기. 다양한 매개변수 기능: 해상도, 경사, 그림자, 각도 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/vector-to-3d.png",
+      "url": "https://www.aixploria.com/en/vector-to-3d/",
+      "type": "부분 무료",
+      "category": "#3D model, #Image editing",
+      "upvotes": 2
+    },
+    {
+      "name": "MoMask",
+      "description": "« 텍스트에서 3D 인간 움직임을 생성하는 새로운 방법입니다. 계층적 양자화 및 양방향 변환기 사용 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/momask-ai-3d/",
+      "type": "무료",
+      "category": "#3D model",
+      "upvotes": 6
+    },
+    {
+      "name": "GaussianObject",
+      "description": "« Gaussian Splatting 기술을 사용하여 4개의 이미지에서 고품질 3D 개체를 쉽게 만들 수 있는 프로젝트 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/gaussianobject-3d-ai/",
+      "type": "무료",
+      "category": "#3D model, #Github Projects",
+      "upvotes": 7
+    },
+    {
+      "name": "Tripo AI",
+      "description": "« 텍스트에서 3D 모델을 생성하도록 설계된 AI 생성기입니다. 단 몇 초 만에 고품질 3D 모델 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/tripo-ai/",
+      "type": "유료",
+      "category": "#3D model",
+      "upvotes": 5
+    },
+    {
+      "name": "InsightFace",
+      "description": "« 2D 및 3D 얼굴 분석을 위한 전문가 AI. 비디오 게임에서 개인화되고 몰입도 높은 캐릭터를 만드는 능력 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/insightface.png",
+      "url": "https://www.aixploria.com/en/insightface/",
+      "type": "무료",
+      "category": "#3D model, #Avatars",
+      "upvotes": 6
+    },
+    {
+      "name": "Poly AI",
+      "description": "« 텍스트에서 단 몇 초 만에 사실적인 3D 텍스처 생성(프롬프트) »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/poly-ai.png",
+      "url": "https://www.aixploria.com/en/poly-ai/",
+      "type": "부분 무료",
+      "category": "#3D model",
+      "upvotes": 1
+    },
+    {
+      "name": "MagiScan",
+      "description": "« 스마트폰으로 물체를 스캔하면 이 AI가 이를 고품질 3D 모델로 변환합니다. iOS 및 Android에서 사용 가능한 모바일 애플리케이션 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/magiscan.png",
+      "url": "https://www.aixploria.com/en/magiscan/",
+      "type": "Free-Trial",
+      "category": "#3D model",
+      "upvotes": 14
+    },
+    {
+      "name": "Texture Lab",
+      "description": "« 게임 및 게임 프로젝트를 위한 3D 모델링 텍스처 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/texture-lab.png",
+      "url": "https://www.aixploria.com/en/texture-lab/",
+      "type": "부분 무료",
+      "category": "#3D model",
+      "upvotes": 0
+    },
+    {
+      "name": "Masterpiece X",
+      "description": "« 텍스트 설명을 3D 시각적 요소로 변환하는 AI 기반 생성기입니다. 신속한 프로토타이핑에 이상적 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/masterpiece-x.png",
+      "url": "https://www.aixploria.com/en/masterpiece-x/",
+      "type": "부분 무료",
+      "category": "#3D model",
+      "upvotes": 0
+    },
+    {
+      "name": "PanoHead",
+      "description": "« 머리의 2D 이미지를 360°에서 볼 수 있는 3D 모델로 자동 변환 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/panohead.png",
+      "url": "https://www.aixploria.com/en/panohead/",
+      "type": "무료",
+      "category": "#3D model, #Github Projects",
+      "upvotes": 0
+    },
+    {
+      "name": "2D&3D Video Converter",
+      "description": "« 전문적이고 사용자 친화적인 도구를 사용하여 2D 비디오를 몰입형 3D 경험으로 쉽게 변환합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/2d--038-3d-video-converter.png",
+      "url": "https://www.aixploria.com/en/2d3d-video-converter/",
+      "type": "무료",
+      "category": "#3D model",
+      "upvotes": 1
+    },
+    {
+      "name": "Shap-e",
+      "description": "« 텍스트나 이미지에서 3D 개체를 만드는 도구입니다. 디자이너, 예술가, 건축가에게 이상적입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/shap-e.png",
+      "url": "https://www.aixploria.com/en/shap-e/",
+      "type": "무료",
+      "category": "#3D model, #Github Projects",
+      "upvotes": 0
+    },
+    {
+      "name": "Monster Mash",
+      "description": "« 스케치를 기반으로 한 3D 모델링 및 애니메이션 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/monster-mash.png",
+      "url": "https://www.aixploria.com/en/monster-mash/",
+      "type": "무료",
+      "category": "#3D model",
+      "upvotes": 0
+    },
+    {
+      "name": "Movmi AI",
+      "description": "« AI 지원 모션 캡쳐를 활용한 3D 휴머노이드 애니메이션 제작 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/movmi-ai.png",
+      "url": "https://www.aixploria.com/en/movmi-ai/",
+      "type": "부분 무료",
+      "category": "#3D model",
+      "upvotes": 2
+    },
+    {
+      "name": "Blender Copilot",
+      "description": "« Blender에서 3D 모델 생성 속도를 높이고 단순화하는 GPT 기반 AI입니다. 간단한 명령 사용 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/blender-copilot/",
+      "type": "부분 무료",
+      "category": "#3D model",
+      "upvotes": 0
+    },
+    {
+      "name": "Polycam",
+      "description": "« 사진에서 고품질 3D 모델 생성, AI가 LiDAR 센서로 스캔 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/polycam.png",
+      "url": "https://www.aixploria.com/en/polycam/",
+      "type": "부분 무료",
+      "category": "#3D model",
+      "upvotes": 1
+    },
+    {
+      "name": "Plask AI",
+      "description": "« 지능형 모션 캡처를 사용하여 3D 캐릭터 애니메이션 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/plask-ai.png",
+      "url": "https://www.aixploria.com/en/plask-ai/",
+      "type": "부분 무료",
+      "category": "#3D model",
+      "upvotes": 1
+    },
+    {
+      "name": "Cascadeur",
+      "description": "« 다양한 도구와 AI 지원을 갖춘 3D 애니메이션 소프트웨어 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/cascadeur.png",
+      "url": "https://www.aixploria.com/en/cascadeur/",
+      "type": "무료",
+      "category": "#3D model",
+      "upvotes": 0
+    }
+  ]
+}

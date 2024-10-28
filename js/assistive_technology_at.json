@@ -1,0 +1,221 @@
+{
+  "name": "Assistive technology (AT)",
+  "items": [
+    {
+      "name": "TTS Reader",
+      "description": "« 전체 웹페이지를 읽거나 Chrome 확장 프로그램으로 설치할 수도 있는 진정한 무료 온라인 텍스트 리더 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/tts-reader.png",
+      "url": "https://www.aixploria.com/en/tts-reader/",
+      "type": "무료",
+      "category": "#Assistive technology (AT), #Text To Speech",
+      "upvotes": 34
+    },
+    {
+      "name": "Woebot Health",
+      "description": "« 정신적으로 당신을 지원하는 개인 코치 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/woebot-health.png",
+      "url": "https://www.aixploria.com/en/woebot-health/",
+      "type": "무료",
+      "category": "#Assistive technology (AT), #Healthcare",
+      "upvotes": 3
+    },
+    {
+      "name": "Be My Eyes",
+      "description": "« 실시간 시각 지원을 위해 시각 장애인을 자원 봉사자와 연결하는 무료 애플리케이션 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/be-my-eyes.png",
+      "url": "https://www.aixploria.com/en/be-my-eyes/",
+      "type": "유료",
+      "category": "#Assistive technology (AT), #Healthcare",
+      "upvotes": 29
+    },
+    {
+      "name": "Atom Limbs",
+      "description": "« 혁신적인 AI 기반 로봇 팔 보철물: 정신 제어, 촉각 피드백, 자연스러운 진폭. 전 세계 1억 명의 절단 장애인을 위한 미래 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/atom-limbs.png",
+      "url": "https://www.aixploria.com/en/atom-limbs-ai-bionic-arm/",
+      "type": "유료",
+      "category": "#Assistive technology (AT), #Robots and Devices",
+      "upvotes": 37
+    },
+    {
+      "name": "Neuralink",
+      "description": "« 엄청난 잠재력을 지닌 AI 칩으로 사용할 수 있는 뇌-기계 인터페이스: 마비 또는 시각 장애가 있는 사람들에게 자율성을 돌려주고 생각으로 컴퓨터를 제어하는 ​​등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/neuralink.png",
+      "url": "https://www.aixploria.com/en/neuralink-ai-chip-interfaces/",
+      "type": "유료",
+      "category": "#Assistive technology (AT), #Robots and Devices",
+      "upvotes": 48
+    },
+    {
+      "name": "All in One Accessibility®",
+      "description": "« AI 기반 도구는 WCAG 2.0, 2.1, 2.2 및 ADA 웹 사이트 접근성 향상을 향상시킵니다. 2분만에 빠른 설치. 140개 이상의 언어 지원. 모든 CMS, LMS, CRM, 전자상거래 및 웹사이트 빌더 플랫폼과 호환 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/09/all-in-one-accessibility-logo.png",
+      "url": "https://www.aixploria.com/en/skynet-technologies-ai-all-in-one-accessibility/",
+      "type": "Free-Trial",
+      "category": "#AIxploria Selection, #Assistive technology (AT)",
+      "upvotes": 41
+    },
+    {
+      "name": "ElevenLabs Reader",
+      "description": "« 기사, PDF 및 ePub을 고품질 오디오 파일로 변환하는 AI 텍스트 리더입니다. 다양한 음성 중에서 선택하고 어디에 있든 콘텐츠를 감상하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/elevenlabs-reader.png",
+      "url": "https://www.aixploria.com/en/elevenlabs-reader-ai/",
+      "type": "Free-Trial",
+      "category": "#Assistive technology (AT), #Text To Speech",
+      "upvotes": 36
+    },
+    {
+      "name": "Goblin Tools",
+      "description": "« 활동 시퀀스 생성을 위한 AI 플랫폼. 자세한 할 일 목록을 신속하게 생성하고, 텍스트의 감정적 어조를 분석하고, 신경 비정상인 사람들의 자율성을 촉진합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/goblin-tools.png",
+      "url": "https://www.aixploria.com/en/goblin-tools-ai/",
+      "type": "무료",
+      "category": "#AIxploria Selection, #Assistive technology (AT)",
+      "upvotes": 32
+    },
+    {
+      "name": "Menteebot",
+      "description": "« 음성 지시를 이해하고 실행할 수 있는 AI 로봇. 실시간으로 3D로 환경을 매핑하여 이동할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/menteebot.png",
+      "url": "https://www.aixploria.com/en/menteebot-ai-robot/",
+      "type": "유료",
+      "category": "#Assistive technology (AT), #Robots and Devices",
+      "upvotes": 21
+    },
+    {
+      "name": "Endel",
+      "description": "« 집중, 휴식, 수면에 도움이 되는 맞춤형 음악 만들기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/endel.png",
+      "url": "https://www.aixploria.com/en/endel/",
+      "type": "부분 무료",
+      "category": "#Assistive technology (AT), #Life Assistants",
+      "upvotes": 2
+    },
+    {
+      "name": "Willow X",
+      "description": "« 잔디를 깎고, 잡초를 뽑고, 쓰레기를 모으고, 과일을 수확하는 AI 로봇입니다. 그리퍼 암이 장착되어 있어 모든 정원 작업에 적합합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/willow-x.png",
+      "url": "https://www.aixploria.com/en/willow-x-ai-robot-garden/",
+      "type": "유료",
+      "category": "#Assistive technology (AT), #Future Tools",
+      "upvotes": 21
+    },
+    {
+      "name": "Synchron",
+      "description": "« 생각으로 장치를 제어하는 ​​뇌-컴퓨터 인터페이스입니다. 최소 침습적 절차 덕분에 거동이 불편한 사람들의 자율성을 회복하고 인간-기계 상호 작용의 새로운 가능성을 탐구합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/10/synchron-fav.png",
+      "url": "https://www.aixploria.com/en/synchron-brain-computer-interface-ai/",
+      "type": "유료",
+      "category": "#Assistive technology (AT), #Robots and Devices",
+      "upvotes": 27
+    },
+    {
+      "name": "Vibrato",
+      "description": "« 당신을 위해 전화를 걸고 받을 수 있는 AI. 발신자와 협상하고 약속을 잡는 등의 작업을 할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/vibrato-ai/",
+      "type": "무료",
+      "category": "#Assistive technology (AT), #Life Assistants",
+      "upvotes": 1
+    },
+    {
+      "name": "Say My Name!",
+      "description": "« 이름을 올바르게 발음하는 방법을 배우십시오. 이름을 검색하고 AI가 안내하는 발음을 들어보세요. 나만의 발음 시트를 만들고 무료로 공유하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/say-my-name-ai/",
+      "type": "무료",
+      "category": "#Amazing, #Assistive technology (AT)",
+      "upvotes": 15
+    },
+    {
+      "name": "MemoryLane",
+      "description": "« 기억을 개인화된 책으로 변환하여 기억을 보존하는 데 도움이 되는 치료 AI 도구입니다. 신뢰할 수 있는 AI Genie와 당신의 인생 이야기를 공유하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/memorylane.png",
+      "url": "https://www.aixploria.com/en/memorylane-ai/",
+      "type": "유료",
+      "category": "#Assistive technology (AT), #Life Assistants",
+      "upvotes": 19
+    },
+    {
+      "name": "Article.Audio",
+      "description": "« 모든 기사를 오디오로 변환(음성 재생 포함) »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/article-audio/",
+      "type": "부분 무료",
+      "category": "#Assistive technology (AT), #Text To Speech",
+      "upvotes": 0
+    },
+    {
+      "name": "Docus AI",
+      "description": "« 맞춤형 조언으로 건강을 관리하는 AI 비서. 저명한 의료 전문가의 조언도 이용 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/docus-ai.png",
+      "url": "https://www.aixploria.com/en/docus-ai-health-assistant/",
+      "type": "부분 무료",
+      "category": "#Assistive technology (AT), #Healthcare",
+      "upvotes": 20
+    },
+    {
+      "name": "Fable",
+      "description": "« 디지털 접근성을 테스트하기 위한 실용적인 플랫폼입니다. 장애인과 협력하여 제품의 유용성을 개선합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/fable.png",
+      "url": "https://www.aixploria.com/en/fable-ai-diigial-accessibility/",
+      "type": "무료",
+      "category": "#Assistive technology (AT)",
+      "upvotes": 23
+    },
+    {
+      "name": "Heali AI",
+      "description": "« 개인화되고 치료적인 영양 계획을 제공하는 AI 모바일 애플리케이션입니다. 어시스턴트는 귀하의 취향과 요구 사항에 맞춰 조정됩니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/heali-ai.png",
+      "url": "https://www.aixploria.com/en/heali-ai/",
+      "type": "부분 무료",
+      "category": "#Assistive technology (AT), #Healthcare",
+      "upvotes": 15
+    },
+    {
+      "name": "HoneyDo",
+      "description": "« 당신의 말을 듣고 따르는 쇼핑 목록 생성기(음성 명령). 일상적인 쇼핑을 단순화하는 데 이상적입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/honeydo.png",
+      "url": "https://www.aixploria.com/en/honeydo-ai/",
+      "type": "무료",
+      "category": "#Assistive technology (AT), #Life Assistants",
+      "upvotes": 1
+    },
+    {
+      "name": "RambleFix",
+      "description": "« AI를 통해 단 몇 초 만에 정리되지 않은 생각을 명확하고 일관된 텍스트로 변환하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/ramblefix/",
+      "type": "무료",
+      "category": "#Assistive technology (AT), #Life Assistants",
+      "upvotes": 0
+    },
+    {
+      "name": "Call Annie",
+      "description": "« 학습, 문제 해결 등 생활에 도움을 줄 수 있는 AI와 화상 통화를 통해 채팅하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/call-annie.png",
+      "url": "https://www.aixploria.com/en/call-annie/",
+      "type": "부분 무료",
+      "category": "#Amazing, #Assistive technology (AT)",
+      "upvotes": 2
+    },
+    {
+      "name": "Lotus",
+      "description": "« 가상 치료사 역할을 하며 감정을 표현할 수 있는 안전한 공간을 제공하는 ChatBot »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/lotus.png",
+      "url": "https://www.aixploria.com/en/lotus/",
+      "type": "무료",
+      "category": "#Amazing, #Assistive technology (AT)",
+      "upvotes": 2
+    },
+    {
+      "name": "MealByMeal",
+      "description": "« 지능형 비서로 음식 추적을 단순화하세요. AI가 각 식사를 추적하고 칼로리 계산을 도와줍니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/mealbymeal.png",
+      "url": "https://www.aixploria.com/en/mealbymeal/",
+      "type": "부분 무료",
+      "category": "#Assistive technology (AT), #Life Assistants",
+      "upvotes": 1
+    }
+  ]
+}

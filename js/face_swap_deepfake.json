@@ -1,0 +1,185 @@
+{
+  "name": "Face Swap & DeepFake",
+  "items": [
+    {
+      "name": "FaceFusion",
+      "description": "« DeepFake 비디오를 생성하고 영화 영웅, 가수 등 좋아하는 사람의 역할을 수행해 보세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/facefusion.png",
+      "url": "https://www.aixploria.com/en/facefusion-ai/",
+      "type": "무료",
+      "category": "#Face Swap & DeepFake, #Github Projects",
+      "upvotes": 139
+    },
+    {
+      "name": "FaceSwapper",
+      "description": "« 사진이나 비디오의 모든 얼굴을 AI로 사실적으로 교체하세요. 즉시 옷을 갈아입고 아바타를 만드는 등 다양한 기능을 제공합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/faceswapper.png",
+      "url": "https://www.aixploria.com/en/faceswapper/",
+      "type": "부분 무료",
+      "category": "#Amazing, #Face Swap & DeepFake",
+      "upvotes": 47
+    },
+    {
+      "name": "Face Swap by Remaker",
+      "description": "« 무료 보안 온라인 도구를 사용하여 사진 속의 얼굴을 쉽게 바꿀 수 있습니다. 유머러스한 비디오, 밈 등을 만드는 데 적합합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/face-swap-by-remaker.png",
+      "url": "https://www.aixploria.com/en/face-swap-by-remaker-ai/",
+      "type": "무료",
+      "category": "#Face Swap & DeepFake",
+      "upvotes": 42
+    },
+    {
+      "name": "DeepFakesWeb",
+      "description": "« 2번의 클릭으로 놀라운 Deepfake 동영상 만들기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/deepfakesweb/",
+      "type": "무료",
+      "category": "#Face Swap & DeepFake",
+      "upvotes": 15
+    },
+    {
+      "name": "Misgif",
+      "description": "« Faceswap이라는 AI 기술 덕분에 GIF에 있는 캐릭터의 얼굴을 자신의 얼굴로 바꿀 수 있습니다. 편집 도구도 포함되어 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/misgif.png",
+      "url": "https://www.aixploria.com/en/misgif-ai/",
+      "type": "무료",
+      "category": "#Amazing, #Face Swap & DeepFake",
+      "upvotes": 42
+    },
+    {
+      "name": "Deepfakes.lol",
+      "description": "« 강력하고 사실적인 립싱크를 사용하여 DeepFake 비디오를 만드세요. 전용 Discord 서버에서 창작물을 공유하고 토론하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/deepfakes-lol.png",
+      "url": "https://www.aixploria.com/en/deepfakes-lol/",
+      "type": "부분 무료",
+      "category": "#Face Swap & DeepFake, #Video Edition",
+      "upvotes": 8
+    },
+    {
+      "name": "DeepSwapper AI",
+      "description": "« 얼굴 교환 기술을 사용하여 이미지에서 얼굴을 빠르게 바꿀 수 있습니다. 결과는 사실적이고 워터마크가 있으며 무료입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/deepswapper-ai.png",
+      "url": "https://www.aixploria.com/en/deepswapper-ai/",
+      "type": "무료",
+      "category": "#Face Swap & DeepFake, #Image editing",
+      "upvotes": 8
+    },
+    {
+      "name": "DeepFaceLab",
+      "description": "« 관련 Deepfake 생성. 사실적인 고품질 비디오를 유지하면서 얼굴을 바꾸세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/deepfacelab.png",
+      "url": "https://www.aixploria.com/en/deepfacelab/",
+      "type": "무료",
+      "category": "#Face Swap & DeepFake, #Github Projects",
+      "upvotes": 2
+    },
+    {
+      "name": "Face Swap by Akool",
+      "description": "« 프리미엄 플랫폼의 도움으로 전문가처럼 얼굴을 바꿔보세요. 영화 캐릭터로 변신하거나 나만의 아바타를 만들어 보세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/face-swap-by-akool.png",
+      "url": "https://www.aixploria.com/en/face-swap-by-akool/",
+      "type": "부분 무료",
+      "category": "#Avatars, #Face Swap & DeepFake",
+      "upvotes": 14
+    },
+    {
+      "name": "Swapface",
+      "description": "« 실시간으로 현실적인 얼굴 교환을 수행하는 AI. 스트리밍, 화상 통화 등에 적합합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/swapface.png",
+      "url": "https://www.aixploria.com/en/swapface/",
+      "type": "무료",
+      "category": "#Amazing, #Face Swap & DeepFake",
+      "upvotes": 4
+    },
+    {
+      "name": "FraimeBot",
+      "description": "« ChatBot을 사용하여 Telegram에 내장된 AI로 동영상 속 얼굴을 쉽게 교환(faceswap) »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/fraimebot.png",
+      "url": "https://www.aixploria.com/en/fraimebot/",
+      "type": "무료",
+      "category": "#ChatBots, #Face Swap & DeepFake",
+      "upvotes": 2
+    },
+    {
+      "name": "DeepSwap",
+      "description": "« 사진, GIF 또는 비디오에서 AI가 생성한 얼굴 교환. 어떤 얼굴이든 쉽게 교체할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/deepswap.png",
+      "url": "https://www.aixploria.com/en/deepswap/",
+      "type": "부분 무료",
+      "category": "#Face Swap & DeepFake, #Image editing",
+      "upvotes": 1
+    },
+    {
+      "name": "Artguru",
+      "description": "« 이미지 생성기, 얼굴 교환, 아바타, 얼굴 사진 등 다양한 AI 도구를 갖춘 예술 전용 플랫폼 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/artguru.png",
+      "url": "https://www.aixploria.com/en/artguru-ai/",
+      "type": "부분 무료",
+      "category": "#Art, #Face Swap & DeepFake",
+      "upvotes": 16
+    },
+    {
+      "name": "Unboring AI",
+      "description": "« AI를 사용하여 사진이나 비디오를 편집, 수정 및 애니메이션화하세요. 얼굴을 바꾸고 재미있는 동영상 만들기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/unboring-ai.png",
+      "url": "https://www.aixploria.com/en/unboring-ai/",
+      "type": "부분 무료",
+      "category": "#Face Swap & DeepFake, #Image editing",
+      "upvotes": 2
+    },
+    {
+      "name": "SwapFans AI",
+      "description": "« 한 번에 소셜 네트워크의 수많은 동영상과 얼굴을 빠르게 교환하세요. 자신만의 AI 모델을 만드는 데 적합합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/swapfans-ai.png",
+      "url": "https://www.aixploria.com/en/swapfans-ai/",
+      "type": "부분 무료",
+      "category": "#Face Swap & DeepFake",
+      "upvotes": 21
+    },
+    {
+      "name": "Roop AI",
+      "description": "« DeepFake 생성은 사용하기 쉽고 누구나 접근할 수 있습니다. 단 한 번의 클릭만으로 놀라운 얼굴 교환을 만들 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/roop-ai.png",
+      "url": "https://www.aixploria.com/en/roop-ai/",
+      "type": "무료",
+      "category": "#Face Swap & DeepFake, #Github Projects",
+      "upvotes": 0
+    },
+    {
+      "name": "DeepFake Detector",
+      "description": "« DeepFake 스타일 기술로 비디오나 음성이 변조되었는지 즉시 감지합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/deepfake-detector.png",
+      "url": "https://www.aixploria.com/en/deepfake-detector/",
+      "type": "유료",
+      "category": "#AI detection, #Face Swap & DeepFake",
+      "upvotes": 1
+    },
+    {
+      "name": "SDXL Auto FaceSwap",
+      "description": "« [일시 중지됨] 사진에서 얼굴을 무료로 빠르게 바꿀 수 있는 FaceSwap 생성기입니다. SDXL DPO 및 DeepFakeAI와 함께 작동합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/sdxl-auto-faceswap.png",
+      "url": "https://www.aixploria.com/en/sdxl-auto-faceswap/",
+      "type": "무료",
+      "category": "#Face Swap & DeepFake, #Image editing",
+      "upvotes": 1
+    },
+    {
+      "name": "Fanfuel",
+      "description": "« YouTube 동영상 제작자를 위한 AI 어시스턴트: 콘텐츠 제작, 썸네일 생성기, 통계 분석, 얼굴 스왑퍼 등에 대한 지원 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/fanfuel.png",
+      "url": "https://www.aixploria.com/en/fanfuel-ai/",
+      "type": "유료",
+      "category": "#Face Swap & DeepFake, #Social Networks",
+      "upvotes": 2
+    },
+    {
+      "name": "AI Face Swap By Vidqu",
+      "description": "« 당신을 누구로든 바꿀 수 있는 고품질 AI Face Swap 생성기. 빠르고 쉬운 사용 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/02/vidqu-favicon.png",
+      "url": "https://www.aixploria.com/en/ai-face-swap-by-vidqu/",
+      "type": "무료",
+      "category": "#Amazing, #Face Swap & DeepFake",
+      "upvotes": 12
+    }
+  ]
+}

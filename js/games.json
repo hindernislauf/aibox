@@ -1,0 +1,509 @@
+{
+  "name": "Games",
+  "items": [
+    {
+      "name": "Infinite Craft By Neal",
+      "description": "« 두 가지 요소를 결합하여 새로운 요소를 만들어야 하는 인공 지능 게임입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/infinite-craft-by-neal.png",
+      "url": "https://www.aixploria.com/en/infinite-craft-by-neal-ai/",
+      "type": "무료",
+      "category": "#Games, #SuperTools",
+      "upvotes": 40
+    },
+    {
+      "name": "Hidden Door",
+      "description": "« 창의적인 스토리를 만들어내는 AI 기반 RPG 어드벤처 게임 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/hidden-door.png",
+      "url": "https://www.aixploria.com/en/hidden-door/",
+      "type": "유료",
+      "category": "#Games",
+      "upvotes": 15
+    },
+    {
+      "name": "AI Town",
+      "description": "« AI 캐릭터가 살고, 말하고, 상호 작용하는 매혹적인 가상 도시를 탐험해보세요. 나만의 캐릭터를 만들고 다음에 무슨 일이 일어나는지 지켜보세요! »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-town.png",
+      "url": "https://www.aixploria.com/en/ai-town-game/",
+      "type": "무료",
+      "category": "#Games",
+      "upvotes": 40
+    },
+    {
+      "name": "AI Dungeon",
+      "description": "« 끝없는 이야기를 만들 수 있는 GPT 인공 지능으로 구동되는 텍스트 기반 어드벤처 게임입니다. 싱글 플레이어 또는 멀티 플레이어에서 사용 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/01/ai-dugeon-game-favicon.webp",
+      "url": "https://www.aixploria.com/en/ai-dungeon/",
+      "type": "무료",
+      "category": "#Games, #Storytelling Generator",
+      "upvotes": 102
+    },
+    {
+      "name": "Human or Not 2",
+      "description": "« 지금 대화하고 있는 사람이 진짜 인간인지 인공지능인지 알아내야 하는 게임 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/human-or-not-2.png",
+      "url": "https://www.aixploria.com/en/human-or-not-2/",
+      "type": "무료",
+      "category": "#Games",
+      "upvotes": 6
+    },
+    {
+      "name": "Websim AI",
+      "description": "« AI로 실시간으로 창작하는 새로운 방법. 웹사이트, 게임, 애플리케이션 등을 자동으로 빠르게 만들 수 있는 플레이그라운드를 찾아보세요. 프롬프트를 통해 작동 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/websim-ai.png",
+      "url": "https://www.aixploria.com/en/websim-ai-create-game-website/",
+      "type": "무료",
+      "category": "#Games, #No Code/Low Code",
+      "upvotes": 37
+    },
+    {
+      "name": "Booom.ai",
+      "description": "« 친구와 함께 플레이할 수 있는 맞춤형 퀴즈 게임 생성(멀티플레이어) »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/booom-ai.png",
+      "url": "https://www.aixploria.com/en/booom-ai/",
+      "type": "무료",
+      "category": "#Games",
+      "upvotes": 11
+    },
+    {
+      "name": "Hexagen World AI",
+      "description": "« 당신이 신인 시뮬레이션 게임. 당신의 목표는 무엇입니까? 육각형의 세계를 조종하세요. 설치가 필요하지 않습니다. 웹 브라우저를 통해 작동합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/hexagen-world-ai.png",
+      "url": "https://www.aixploria.com/en/hexagen-world-ai-game/",
+      "type": "무료",
+      "category": "#Games",
+      "upvotes": 40
+    },
+    {
+      "name": "Inworld",
+      "description": "« 채팅하고 끝없는 이야기를 만들 수 있는 일련의 캐릭터 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/inworld.png",
+      "url": "https://www.aixploria.com/en/inworld-2/",
+      "type": "부분 무료",
+      "category": "#Games",
+      "upvotes": 6
+    },
+    {
+      "name": "NPC-Playground",
+      "description": "« 상호 작용하고 지침을 꼼꼼하게 따르는 LLM 기반 지능형 NPC를 통해 비디오 게임의 미래를 알아보세요. 무료로 자신만의 세상을 만들어보세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/npc-playground.png",
+      "url": "https://www.aixploria.com/en/npc-playground-game-ai/",
+      "type": "무료",
+      "category": "#Games",
+      "upvotes": 23
+    },
+    {
+      "name": "ChessGPT",
+      "description": "« 체스를 두며 대화를 나눌 수 있는 챗봇. 이 AI는 또한 귀하에게 도움을 주고 팁을 제공할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/chessgpt.png",
+      "url": "https://www.aixploria.com/en/chessgpt-ai/",
+      "type": "무료",
+      "category": "#Games",
+      "upvotes": 9
+    },
+    {
+      "name": "Scenario",
+      "description": "« 비디오 게임 디자인을 위한 리소스 및 자산 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/scenario.png",
+      "url": "https://www.aixploria.com/en/scenario/",
+      "type": "부분 무료",
+      "category": "#Games",
+      "upvotes": 9
+    },
+    {
+      "name": "EndlessVN",
+      "description": "« 이야기가 끝나지 않는 AI 기반 스토리텔링 게임 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/endlessvn.png",
+      "url": "https://www.aixploria.com/en/endlessvn/",
+      "type": "부분 무료",
+      "category": "#Games",
+      "upvotes": 3
+    },
+    {
+      "name": "Human or AI?",
+      "description": "« 이미지가 생성된 것이 인간인지 AI인지 추측해야 하는 게임입니다. 이 연구 결과는 매주 발표됩니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/human-or-ai-.png",
+      "url": "https://www.aixploria.com/en/human-or-ai/",
+      "type": "무료",
+      "category": "#Games, #Research & Science",
+      "upvotes": 7
+    },
+    {
+      "name": "CharmedAI",
+      "description": "« AI 도우미를 사용하여 3D 모델과 텍스처를 빠르게 생성하세요. 게임 개발에 완벽한 무료 도구이지만 아직 베타 버전입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/charmedai.png",
+      "url": "https://www.aixploria.com/en/charmedai/",
+      "type": "무료",
+      "category": "#3D model, #Games",
+      "upvotes": 2
+    },
+    {
+      "name": "CAPTURELAB",
+      "description": "« Twitch에서 게임을 편집하고 최고의 순간을 자동으로 제공하는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/capturelab.png",
+      "url": "https://www.aixploria.com/en/capturelab/",
+      "type": "부분 무료",
+      "category": "#Games",
+      "upvotes": 4
+    },
+    {
+      "name": "The Simulation",
+      "description": "« 메타버스에 특화된 AI가 구동하는 시뮬레이션 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/the-simulation.png",
+      "url": "https://www.aixploria.com/en/the-simulation/",
+      "type": "부분 무료",
+      "category": "#3D model, #Games",
+      "upvotes": 1
+    },
+    {
+      "name": "Ready Player Me",
+      "description": "« 메타버스 및 게임 플랫폼을 위한 아바타 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ready-player-me.png",
+      "url": "https://www.aixploria.com/en/ready-player-me/",
+      "type": "부분 무료",
+      "category": "#Avatars, #Games",
+      "upvotes": 3
+    },
+    {
+      "name": "SIMA AI by Google",
+      "description": "« 인간처럼 비디오 게임을 할 수 있는 놀라운 AI입니다. 진정한 게임 파트너 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/sima-ai-by-google.png",
+      "url": "https://www.aixploria.com/en/sima-ai-google-deepmind/",
+      "type": "무료",
+      "category": "#Future Tools, #Games",
+      "upvotes": 46
+    },
+    {
+      "name": "Are You Smarter Than ChatGPT",
+      "description": "« ChatGPT에 대한 지식에 도전하는 재미있는 게임입니다. 자신을 테스트하고 누가 가장 똑똑한지 알아보세요! »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/are-you-smarter-than-chatgpt.png",
+      "url": "https://www.aixploria.com/en/are-you-smarter-than-chatgpt/",
+      "type": "무료",
+      "category": "#Amazing, #Games",
+      "upvotes": 7
+    },
+    {
+      "name": "Genie by Deepmind",
+      "description": "« 프롬프트(텍스트-게임)에서 비디오 게임의 전체 세계를 자율적으로 생성할 수 있는 AI 모델 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/genie-by-deepmind.png",
+      "url": "https://www.aixploria.com/en/genie-by-deepmind-ai-game/",
+      "type": "무료",
+      "category": "#Future Tools, #Games",
+      "upvotes": 19
+    },
+    {
+      "name": "ImgenArena.ai",
+      "description": "« AI 생성 이미지의 품질을 평가하기 위한 재미있는 플랫폼입니다. 프롬프트와 이미지가 가장 잘 일치하는 항목에 투표하고 가장 성능이 뛰어난 AI 모델 순위에 기여하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/imgen-arena/",
+      "type": "무료",
+      "category": "#Games, #LLM models",
+      "upvotes": 24
+    },
+    {
+      "name": "Truth or Dare AI",
+      "description": "« 진실 또는 도전 파티를 위한 매운 질문의 AI 생성기입니다. 질문을 맞춤화하고 친근함, 매력적 등 스타일을 선택할 수 있습니다. 게임은 온라인과 IOS에서 이용 가능합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/truth-or-dare-ai.png",
+      "url": "https://www.aixploria.com/en/truth-or-dare-ai-game/",
+      "type": "부분 무료",
+      "category": "#Amazing, #Games",
+      "upvotes": 29
+    },
+    {
+      "name": "AI Roguelite",
+      "description": "« 로그라이트 게임을 위한 AI 아바타 생성 및 기타 여러 기능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-roguelite.png",
+      "url": "https://www.aixploria.com/en/ai-roguelite/",
+      "type": "유료",
+      "category": "#Games",
+      "upvotes": 1
+    },
+    {
+      "name": "TTSLabs",
+      "description": "« 모든 종류의 소리, 음성 또는 텍스트 음성 변환을 수정할 수 있는 Twitch 스트리머 전용 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/ttslabs/",
+      "type": "무료",
+      "category": "#Audio Editing, #Games",
+      "upvotes": 3
+    },
+    {
+      "name": "Buildbox 4",
+      "description": "« 생성 AI 덕분에 단 몇 번의 클릭만으로 독특한 게임과 자산을 만들 수 있습니다. Buildbox 4는 코드 없이 게임 개발에 혁신을 가져옵니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/buildbox-4.png",
+      "url": "https://www.aixploria.com/en/buildbox-4-ai/",
+      "type": "무료",
+      "category": "#Games",
+      "upvotes": 19
+    },
+    {
+      "name": "What Beats Rock",
+      "description": "« 가위바위보에서 영감을 받은 이 게임에서 AI와 대결해보세요. 상대방의 움직임을 예상하여 점수를 획득하세요. 간단한 규칙, 재미있는 게임플레이 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/what-beats-rock.png",
+      "url": "https://www.aixploria.com/en/what-beats-rock-ai-games/",
+      "type": "무료",
+      "category": "#Amazing, #Games",
+      "upvotes": 21
+    },
+    {
+      "name": "GameNgen",
+      "description": "« 실시간으로 DOOM을 시뮬레이션할 수 있는 AI로 구동되는 게임 엔진입니다. 인상적인 시각적 품질을 제공하고 게임 개발에 대한 새로운 관점을 열어줍니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/gamengen.png",
+      "url": "https://www.aixploria.com/en/gamengen-ai-models/",
+      "type": "무료",
+      "category": "#Future Tools, #Games",
+      "upvotes": 19
+    },
+    {
+      "name": "Saga",
+      "description": "« AI로 강화되거나 시뮬레이션된 캐릭터로 텍스트 기반 모험을 만들고 플레이할 수 있는 게임 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/saga.png",
+      "url": "https://www.aixploria.com/en/saga/",
+      "type": "무료",
+      "category": "#Games",
+      "upvotes": 0
+    },
+    {
+      "name": "Voyager Minecraft AI",
+      "description": "« 비디오 게임 Minecraft의 전문 플레이어로 변신한 자율 에이전트. GPT-4 프로젝트 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/voyager-minecraft-ai.png",
+      "url": "https://www.aixploria.com/en/voyager-minecraft-ai/",
+      "type": "무료",
+      "category": "#Amazing, #Games",
+      "upvotes": 2
+    },
+    {
+      "name": "NVIDIA RTX Remix",
+      "description": "« 레이 트레이싱과 AI 강화 텍스처로 좋아하는 복고풍 게임을 리마스터해 보세요. 쉽게 게임 자산을 캡처하고 마법 같은 일이 일어나도록 하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/nvidia-rtx-remix.png",
+      "url": "https://www.aixploria.com/en/nvidia-rtx-remix-ai/",
+      "type": "무료",
+      "category": "#Games",
+      "upvotes": 28
+    },
+    {
+      "name": "AI or Human",
+      "description": "« 어떤 이미지가 인간에게서 유래한 것인지, 어떤 이미지가 인공지능에 의해 생성된 것인지 추측해야 하는 게임 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/ai-or-human/",
+      "type": "무료",
+      "category": "#Games",
+      "upvotes": 1
+    },
+    {
+      "name": "RPGGO AI",
+      "description": "« AI를 통해 다중 NPC 게임 챕터를 통해 모험, 사랑, 미스터리 또는 시뮬레이션 장르를 플레이하고 제작할 수 있는 AI RPG 플랫폼 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/rpggo-ai.png",
+      "url": "https://www.aixploria.com/en/rpggo-ai-rpg-games/",
+      "type": "무료",
+      "category": "#Games, #Storytelling Generator",
+      "upvotes": 27
+    },
+    {
+      "name": "Rosebud",
+      "description": "« AI로 빠르게 게임을 만드세요. 아이디어를 설명하고 어시스턴트가 자산과 코드를 생성하도록 하세요. 한 번의 클릭으로 게시하고 공유하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/rosebud.png",
+      "url": "https://www.aixploria.com/en/rosebud-ai-games/",
+      "type": "무료",
+      "category": "#Games",
+      "upvotes": 17
+    },
+    {
+      "name": "Riddle Me This",
+      "description": "« AI로 구동되는 재미있는 추측 게임입니다. 다양한 난이도로 인공 지능이 생성한 퍼즐을 풀어 논리와 창의력을 테스트하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/riddle-me-this.png",
+      "url": "https://www.aixploria.com/en/riddle-me-this/",
+      "type": "무료",
+      "category": "#Amazing, #Games",
+      "upvotes": 42
+    },
+    {
+      "name": "Altera PlayLabs",
+      "description": "« 대화형 인공 지능 게임을 만들고 공유하기 위한 플랫폼입니다. 프로그래밍 지식 없이도 AI로 생성된 다양한 게임을 탐색하고 맞춤화하거나 자신만의 게임을 만들어 보세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/altera-playlabs.png",
+      "url": "https://www.aixploria.com/en/altera-playlabs-ai-games-apps/",
+      "type": "무료",
+      "category": "#AI Agents, #Games",
+      "upvotes": 24
+    },
+    {
+      "name": "BrickCenter",
+      "description": "« 텍스트나 사진에서 맞춤형 레고 세트와 미니피규어를 생성하세요. 무료로 상상력을 발휘해보세요! »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/brickcenter.png",
+      "url": "https://www.aixploria.com/en/brickcenter-ai-lego-generator/",
+      "type": "무료",
+      "category": "#Amazing, #Games",
+      "upvotes": 21
+    },
+    {
+      "name": "Play Afar",
+      "description": "« 다채로운 세계를 달리고, 오르고, 날아다니는 중독성 있는 모바일 게임입니다. 진행하고, 보너스를 잠금 해제하고, 친구들과 대결하세요! »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/play-afar.png",
+      "url": "https://www.aixploria.com/en/play-afar-game/",
+      "type": "무료",
+      "category": "#Games",
+      "upvotes": 20
+    },
+    {
+      "name": "AuxWorld",
+      "description": "« 쉽게 맞춤형 게임을 생성하고 진정한 몰입형 모험을 즐겨보세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/auxworld.png",
+      "url": "https://www.aixploria.com/en/auxworld/",
+      "type": "무료",
+      "category": "#Games",
+      "upvotes": 1
+    },
+    {
+      "name": "AI Game Master",
+      "description": "« GPT가 생성하는 환상적인 모험과 AI 스토리텔링을 경험해 보세요. 혼자 또는 멀티플레이어 모드에서 말로 싸우고 무한한 던전을 탐험하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-game-master.png",
+      "url": "https://www.aixploria.com/en/ai-game-master/",
+      "type": "부분 무료",
+      "category": "#Games",
+      "upvotes": 35
+    },
+    {
+      "name": "Chatmate AI",
+      "description": "« WhatsApp, 메신저 등 메시징 애플리케이션에서 매우 인간처럼 보이는 AI와 직접 채팅하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/chatmate-ai.png",
+      "url": "https://www.aixploria.com/en/chatmate-ai/",
+      "type": "유료",
+      "category": "#Amazing, #Games",
+      "upvotes": 2
+    },
+    {
+      "name": "Playstrict",
+      "description": "« 게임 마케팅을 개발하여 전 세계에 알리세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/playstrict.png",
+      "url": "https://www.aixploria.com/en/playstrict/",
+      "type": "부분 무료",
+      "category": "#Games, #Marketing",
+      "upvotes": 1
+    },
+    {
+      "name": "Rooms",
+      "description": "« 대화형 가상 공간을 맞춤화하고 공유할 수 있는 AI 도구입니다. 데스크톱 및 IOS에서 사용 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/rooms.png",
+      "url": "https://www.aixploria.com/en/rooms/",
+      "type": "무료",
+      "category": "#Games",
+      "upvotes": 2
+    },
+    {
+      "name": "Hexagram",
+      "description": "« 일상생활과 가상세계 모두에서 일어나는 게임 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/hexagram.png",
+      "url": "https://www.aixploria.com/en/hexagram/",
+      "type": "부분 무료",
+      "category": "#Games",
+      "upvotes": 0
+    },
+    {
+      "name": "Aitubo",
+      "description": "« 게임용 캐릭터나 세계 생성에 최적화된 고품질 이미지 생성기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/aitubo/",
+      "type": "무료",
+      "category": "#Games, #Image Generators",
+      "upvotes": 0
+    },
+    {
+      "name": "Charisma",
+      "description": "« AI의 도움으로 대화형 캐릭터와 스토리를 만들어 보세요. 다양한 플랫폼과 호환 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/charisma.png",
+      "url": "https://www.aixploria.com/en/charisma/",
+      "type": "무료",
+      "category": "#Games, #Storytelling Generator",
+      "upvotes": 1
+    },
+    {
+      "name": "Project G-Assist",
+      "description": "« PC 게임 및 애플리케이션을 위해 특별히 설계된 상황에 맞는 AI 도우미입니다. 성과를 최적화하고 실시간으로 맞춤 조언을 받아보세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/project-g-assist.png",
+      "url": "https://www.aixploria.com/en/project-g-assist-ai-nvidia-game/",
+      "type": "무료",
+      "category": "#Games, #Life Assistants",
+      "upvotes": 21
+    },
+    {
+      "name": "Framedrop",
+      "description": "« 게임 세션 중 최고의 순간을 선택하여 클립으로 변환하는 AI. 스트림의 URL을 입력하면 AI가 작업을 수행합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/framedrop.png",
+      "url": "https://www.aixploria.com/en/framedrop-gg/",
+      "type": "부분 무료",
+      "category": "#Games, #Video Edition",
+      "upvotes": 1
+    },
+    {
+      "name": "Noctie AI",
+      "description": "« 귀하의 레벨에 맞는 AI 코치와 함께 체스 기술을 향상시키세요. 실시간 조언 및 맞춤형 교육 받기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/noctie-ai.png",
+      "url": "https://www.aixploria.com/en/noctie-ai-chess-game-coach/",
+      "type": "무료",
+      "category": "#Games",
+      "upvotes": 21
+    },
+    {
+      "name": "I/O Crossword",
+      "description": "« 이 공동 십자말풀이를 통해 Google I/O에 대한 지식을 테스트해보세요. AI는 단서를 생성하고 막히면 도움을 줍니다. 재미있고 유익함 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/i-o-crossword.png",
+      "url": "https://www.aixploria.com/en/i-o-crossword-google-ai-game/",
+      "type": "무료",
+      "category": "#Games",
+      "upvotes": 18
+    },
+    {
+      "name": "Readyverse",
+      "description": "« 메타버스 게임과 환경을 탐색하기 위한 완벽한 플랫폼입니다. 상호 연결된 세계를 발견하고, AI로 콘텐츠를 만들고, Ready Player One과 같은 인기 라이선스로 AAA 게임 경험을 즐겨보세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/readyverse.png",
+      "url": "https://www.aixploria.com/en/readyverse-ai-game/",
+      "type": "무료",
+      "category": "#Games",
+      "upvotes": 24
+    },
+    {
+      "name": "Scrabblecam",
+      "description": "« 스크래블 보드 사진을 보내면 AI가 게임에서 승리할 수 있는 최선의 동작을 제안합니다. 이 서비스는 다국어이며 API를 제공합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/scrabblecam.png",
+      "url": "https://www.aixploria.com/en/scrabblecam-ai/",
+      "type": "무료",
+      "category": "#Amazing, #Games",
+      "upvotes": 3
+    },
+    {
+      "name": "Real or Fake Text",
+      "description": "« 텍스트가 사람이 쓴 것인지, 인공지능(AI)이 쓴 것인지 빠르게 판단하기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/02/favicon-defa.png",
+      "url": "https://www.aixploria.com/en/real-or-fake-text/",
+      "type": "무료",
+      "category": "#AI detection, #Games",
+      "upvotes": 1
+    },
+    {
+      "name": "LitRPG Adventures",
+      "description": "« RPG 게임용 콘텐츠 및 대화 생성기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/litrpg-adventures.png",
+      "url": "https://www.aixploria.com/en/litrpg-adventures/",
+      "type": "유료",
+      "category": "#Games",
+      "upvotes": 0
+    },
+    {
+      "name": "EasySBC",
+      "description": "« EA Sports FC 25에서 팀을 최적화하는 AI 도우미. 모든 플레이어의 메타 등급을 탐색하고, SBC용 AI 솔루션을 얻고, 진화를 위한 최선의 선택을 찾아보세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/easysbc.png",
+      "url": "https://www.aixploria.com/en/easysbc-ai-games/",
+      "type": "Free-Trial",
+      "category": "#Games",
+      "upvotes": 21
+    },
+    {
+      "name": "Human or Not?",
+      "description": "« 대화 상대가 인간인지 AI 봇인지 판단해야 하는 게임 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/human-or-not-.png",
+      "url": "https://www.aixploria.com/en/human-or-not/",
+      "type": "무료",
+      "category": "#Amazing, #Games",
+      "upvotes": 6
+    }
+  ]
+}

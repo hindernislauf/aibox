@@ -1,0 +1,842 @@
+{
+  "name": "Extensions ChatGPT",
+  "items": [
+    {
+      "name": "GPTGO",
+      "description": "« Google과 ChatGPT를 사용하여 가장 관련성이 높고 정확한 답변을 제공하는 고성능 검색 엔진 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/gptgo.png",
+      "url": "https://www.aixploria.com/en/gptgo/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Search engine",
+      "upvotes": 47
+    },
+    {
+      "name": "GPTs list",
+      "description": "« 현재 ChatGPT용으로 생성된 최고의 GPT 목록입니다. 디렉터리에는 수백 개의 맞춤 GPT가 포함되어 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/11/faviconV22.webp",
+      "url": "https://www.aixploria.com/en/liste-gpts/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #SuperTools",
+      "upvotes": 29
+    },
+    {
+      "name": "Merlin",
+      "description": "« ChatGPT, GPT-4, Claude2 및 Llama 2를 포함한 AI의 모든 기능을 즐겨찾는 웹사이트에 통합하는 Chrome 확장 프로그램입니다. 이메일 작성, 기사 요약, 코드 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/merlin.png",
+      "url": "https://www.aixploria.com/en/merlin/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Productivity",
+      "upvotes": 41
+    },
+    {
+      "name": "GPTZero",
+      "description": "« AI의 도움으로 텍스트의 표절을 빠르고 혁신적으로 탐지합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/gptzero.png",
+      "url": "https://www.aixploria.com/en/gptzero/",
+      "type": "무료",
+      "category": "#AI detection, #Extensions ChatGPT",
+      "upvotes": 18
+    },
+    {
+      "name": "Ordinary People Prompts",
+      "description": "« ChatGPT에서 생성된 가장 아름답고 관련성이 높은 프롬프트에서 영감을 얻으세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ordinary-people-prompts.png",
+      "url": "https://www.aixploria.com/en/ordinary-people-prompts/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Prompts & Aids",
+      "upvotes": 2
+    },
+    {
+      "name": "Speechki",
+      "description": "« 제출한 모든 텍스트를 읽을 수 있는 ChatGPT-4에서 사용할 수 있는 무료 플러그인 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/speechki.png",
+      "url": "https://www.aixploria.com/en/speechki/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Text To Speech",
+      "upvotes": 40
+    },
+    {
+      "name": "Harpa AI",
+      "description": "« 일반적인 글쓰기(이메일, 요약 등)를 수행하는 ChatGPT의 지능형 보조자 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/harpa-ai.png",
+      "url": "https://www.aixploria.com/en/harpa-ai/",
+      "type": "무료",
+      "category": "#E-mail, #Extensions ChatGPT",
+      "upvotes": 2
+    },
+    {
+      "name": "ChatGPT Plugins",
+      "description": "« 특정 작업을 수행하는 데 ChatGPT 및 전문가에게 유용한 플러그인 활용 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/chatgpt-plugins.png",
+      "url": "https://www.aixploria.com/en/chatgpt-plugins/",
+      "type": "부분 무료",
+      "category": "#Extensions ChatGPT",
+      "upvotes": 1
+    },
+    {
+      "name": "HyperWrite AI",
+      "description": "« Chrome 확장 프로그램에서 AI 작성 도우미를 사용하여 텍스트 콘텐츠 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/hyperwrite-ai.png",
+      "url": "https://www.aixploria.com/en/hyperwrite-ai/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Text Generators",
+      "upvotes": 4
+    },
+    {
+      "name": "ChatGPT For Search Engines",
+      "description": "« 즐겨찾는 검색 엔진과 ChatGPT의 원클릭 통합 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/chatgpt-for-search-engines/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Productivity",
+      "upvotes": 8
+    },
+    {
+      "name": "ChatGPT Android",
+      "description": "« OpenAI 팀이 개발한 Android용 공식 ChatGPT 애플리케이션입니다. 스마트폰에서 ChatGPT로 채팅 시작하기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/chatgpt-android.png",
+      "url": "https://www.aixploria.com/en/chatgpt-android/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT",
+      "upvotes": 1
+    },
+    {
+      "name": "ECommerce Prompt Generator",
+      "description": "« 전자상거래 사이트 및 마케팅을 위한 고급 설정이 포함된 ChatGPT 프롬프트 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ecommerce-prompt-generator.png",
+      "url": "https://www.aixploria.com/en/ecommerce-prompt-generator/",
+      "type": "무료",
+      "category": "#E-commerce, #Extensions ChatGPT",
+      "upvotes": 4
+    },
+    {
+      "name": "Stunning AI",
+      "description": "« ChatGPT 인공지능으로 구동되는 웹사이트 빌더 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/stunning-ai.png",
+      "url": "https://www.aixploria.com/en/stunning-ai/",
+      "type": "부분 무료",
+      "category": "#Extensions ChatGPT, #No Code/Low Code",
+      "upvotes": 7
+    },
+    {
+      "name": "Ipso AI",
+      "description": "« 의제에 따라 이메일을 작성하세요(GPT3) »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ipso-ai.png",
+      "url": "https://www.aixploria.com/en/ipso-ai/",
+      "type": "유료",
+      "category": "#E-mail, #Extensions ChatGPT",
+      "upvotes": 1
+    },
+    {
+      "name": "GPTHotline",
+      "description": "« ChatGPT의 도움으로 작동하는 놀라운 WhatsApp용 ChatBot »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/gpthotline.png",
+      "url": "https://www.aixploria.com/en/gpthotline/",
+      "type": "유료",
+      "category": "#ChatBots, #Extensions ChatGPT",
+      "upvotes": 2
+    },
+    {
+      "name": "TextGPT",
+      "description": "« 이메일 애플리케이션에서 GPT 최고의 텍스트 및 이미지 생성기에 쉽게 액세스하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/textgpt.png",
+      "url": "https://www.aixploria.com/en/textgpt/",
+      "type": "무료",
+      "category": "#AI Useful, #Extensions ChatGPT",
+      "upvotes": 2
+    },
+    {
+      "name": "NoteGPT",
+      "description": "« 이 다기능 AI 도우미로 학습을 최적화하세요. YouTube 동영상, PDF, 기사를 요약하고, 마인드맵을 생성하고, 노트를 더욱 지능적으로 정리하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/notegpt.png",
+      "url": "https://www.aixploria.com/en/notegpt/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Extensions ChatGPT",
+      "upvotes": 31
+    },
+    {
+      "name": "StudyGPT",
+      "description": "« 텍스트 요약, 문서 번역, 학술 연구, 디자인 퀴즈 등을 수행하는 데 도움이 되는 멀티태스킹 부조종사입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/studygpt.png",
+      "url": "https://www.aixploria.com/en/studygpt/",
+      "type": "무료",
+      "category": "#Education / Studies, #Extensions ChatGPT",
+      "upvotes": 11
+    },
+    {
+      "name": "Bluedot",
+      "description": "« Bluedot은 봇이 통화에 참여하지 않고도 회의를 녹음하는 AI 메모 작성기입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/bluedot.png",
+      "url": "https://www.aixploria.com/en/bluedot-ai-note-taker/",
+      "type": "Free-Trial",
+      "category": "#Extensions ChatGPT, #Transcriber",
+      "upvotes": 28
+    },
+    {
+      "name": "Promptly",
+      "description": "« 프롬프트 측면에서 ChatGPT 또는 Jasper와 같은 AI의 성능을 10배 향상시키는 확장 프로그램 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/promptly.png",
+      "url": "https://www.aixploria.com/en/promptly/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Prompts & Aids",
+      "upvotes": 0
+    },
+    {
+      "name": "ReaderGPT",
+      "description": "« ChatGPT를 사용하여 웹 페이지 요약을 생성하는 확장 프로그램입니다. 시간을 절약하고 읽기를 단순화하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/readergpt.png",
+      "url": "https://www.aixploria.com/en/readergpt/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Summarizer",
+      "upvotes": 1
+    },
+    {
+      "name": "Ghostwrite",
+      "description": "« 이메일을 대신 작성해 주는 Chrome 확장 프로그램 형태의 인공 지능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ghostwrite.png",
+      "url": "https://www.aixploria.com/en/ghostwrite/",
+      "type": "무료",
+      "category": "#E-mail, #Extensions ChatGPT",
+      "upvotes": 2
+    },
+    {
+      "name": "DorkGPT",
+      "description": "« Google 검색 엔진에 제출할 매우 정확한 쿼리(Dorks)를 AI로 생성합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/dorkgpt.png",
+      "url": "https://www.aixploria.com/en/dorkgpt/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Search engine",
+      "upvotes": 1
+    },
+    {
+      "name": "Texti",
+      "description": "« 긴 인터넷 세션 동안 항상 함께 할 AI 비서 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/texti.png",
+      "url": "https://www.aixploria.com/en/texti/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "Arcwise AI",
+      "description": "« 전문가처럼 Google 스프레드시트 파일을 처리하는 부조종사. 스프레드시트를 쉽게 관리하고 정리하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/arcwise-ai.png",
+      "url": "https://www.aixploria.com/en/arcwise-ai/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Files & Spreadsheets",
+      "upvotes": 2
+    },
+    {
+      "name": "AIPRM ChatGPT",
+      "description": "« 최고의 프롬프트 템플릿을 추가하여 ChatGPT에서 창을 사용자 정의하세요. 카테고리별로 정렬 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/aiprm-chatgpt.png",
+      "url": "https://www.aixploria.com/en/aiprm-chatgpt/",
+      "type": "부분 무료",
+      "category": "#Extensions ChatGPT, #Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "Arvin AI",
+      "description": "« 이 다재다능한 ChatGPT 확장 프로그램을 통해 글쓰기, 이력서 등에 도움을 받으세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/arvin-ai.png",
+      "url": "https://www.aixploria.com/en/arvin-ai/",
+      "type": "유료",
+      "category": "#Extensions ChatGPT, #Human Resources",
+      "upvotes": 6
+    },
+    {
+      "name": "ChatGPT Writer",
+      "description": "« 이제 필수적인 Chrome 확장 프로그램으로 ChatGPT의 모든 기능을 활용하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/chatgpt-writer.png",
+      "url": "https://www.aixploria.com/en/chatgpt-writer/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "Tooltips AI",
+      "description": "« 단락이나 단어를 선택하면 AI가 간단한 설명을 제공합니다(Chrome 확장 프로그램) »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/tooltips-ai.png",
+      "url": "https://www.aixploria.com/en/tooltips-ai/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "MaxAI.me",
+      "description": "« 어디서나 액세스할 수 있는 Chrome 확장 프로그램으로 생산성을 높이세요. ChatGPT, Claude, Gemini 등의 도움으로 작문 실력을 향상하고 텍스트를 요약하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/maxai-me.png",
+      "url": "https://www.aixploria.com/en/maxai-me/",
+      "type": "부분 무료",
+      "category": "#Extensions ChatGPT",
+      "upvotes": 17
+    },
+    {
+      "name": "Thunderbit",
+      "description": "« Chrome 확장 프로그램으로 제공되는 AI로 반복적인 작업을 자동화하세요. 귀하의 요구사항을 설명하면 AI가 맞춤형 자동화 솔루션을 구축합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/thunderbit.png",
+      "url": "https://www.aixploria.com/en/thunderbit-ai-automation/",
+      "type": "무료",
+      "category": "#Automation, #Extensions ChatGPT",
+      "upvotes": 15
+    },
+    {
+      "name": "Cognosys 2.0",
+      "description": "« 데이터 분석을 기반으로 더 나은 의사결정을 내리는 AI 기반 멀티태스킹 에이전트 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/cognosys-2-0.png",
+      "url": "https://www.aixploria.com/en/cognosys/",
+      "type": "무료",
+      "category": "#AI Agents, #Extensions ChatGPT",
+      "upvotes": 11
+    },
+    {
+      "name": "Shownotes",
+      "description": "« ChatGPT를 사용하여 YouTube 동영상을 팟캐스트로 자동 변환 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/shownotes.png",
+      "url": "https://www.aixploria.com/en/shownotes/",
+      "type": "부분 무료",
+      "category": "#Extensions ChatGPT, #Summarizer",
+      "upvotes": 2
+    },
+    {
+      "name": "Promptheus",
+      "description": "« 음성을 사용하여 ChatGPT와 대화하는 Chrome 확장 프로그램입니다. 빠르고 유연한 대화 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/promptheus.png",
+      "url": "https://www.aixploria.com/en/promptheus/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "GooGPT",
+      "description": "« ChatGPT를 Google 검색 엔진과 직접 연결하여 이 AI의 기능을 10배 확장(GptGo) »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/googpt.png",
+      "url": "https://www.aixploria.com/en/googpt/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "Upcat AI",
+      "description": "« 자기 소개서를 작성하고 구직을 최적화하는 AI. Chrome 확장 프로그램으로 사용 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/upcat-ai.png",
+      "url": "https://www.aixploria.com/en/upcat-ai/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Human Resources",
+      "upvotes": 1
+    },
+    {
+      "name": "Simplescraper",
+      "description": "« 웹사이트에서 데이터를 쉽게 추출하기 위한 AI 도구입니다. JSON 또는 CSV 형식의 데이터를 얻기 위해 GPTS를 생성할 때 매우 유용합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/simplescraper.png",
+      "url": "https://www.aixploria.com/en/simplescraper-ai/",
+      "type": "무료",
+      "category": "#Data & Analytics, #Extensions ChatGPT",
+      "upvotes": 5
+    },
+    {
+      "name": "Detect GPT",
+      "description": "« 예를 들어 ChatGPT에서 AI에 의해 생성된 텍스트 감지기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/detect-gpt.png",
+      "url": "https://www.aixploria.com/en/detect-gpt/",
+      "type": "무료",
+      "category": "#AI detection, #Education / Studies",
+      "upvotes": 1
+    },
+    {
+      "name": "ChatGPT Sidebar",
+      "description": "« 번역, 텍스트 요약 등과 같은 작업을 빠르게 도와주는 ChatGPT용 Chrome 확장 프로그램 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/chatgpt-sidebar.png",
+      "url": "https://www.aixploria.com/en/chatgpt-sidebar/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT",
+      "upvotes": 4
+    },
+    {
+      "name": "Magicreply IO",
+      "description": "« LinkedIn 및 X(Twitter)의 댓글에 대한 인간화된 응답을 생성하는 AI 비서. 네트워크를 빠르게 확장하는 데 적합합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/magicreply-io.png",
+      "url": "https://www.aixploria.com/en/magicreply-io/",
+      "type": "유료",
+      "category": "#Extensions ChatGPT, #Social Networks",
+      "upvotes": 25
+    },
+    {
+      "name": "Camel AI",
+      "description": "« 자율적이고 지능적인 결정을 내리는 에이전트 기반 AI입니다. ChatBot을 통한 토론 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/camel-ai/",
+      "type": "무료",
+      "category": "#AI Agents, #Extensions ChatGPT",
+      "upvotes": 4
+    },
+    {
+      "name": "WebChatGPT",
+      "description": "« ChatGPT 세션 중에 관련 제안을 추가하는 Chrome 확장 프로그램의 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/webchatgpt.png",
+      "url": "https://www.aixploria.com/en/webchatgpt/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "smudge.ai",
+      "description": "« 메뉴에 AI 옵션을 추가하는 확장 기능으로 탐색 기능을 강화하세요. 기사 요약, 실수 수정, 텍스트 번역 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/smudge-ai.png",
+      "url": "https://www.aixploria.com/en/smudge-ai/",
+      "type": "부분 무료",
+      "category": "#Extensions ChatGPT, #Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "DocGPT",
+      "description": "« PDF, TXT 또는 DOC 파일을 분석, 요약 또는 채팅하기 위한 Chrome 확장 프로그램입니다. ChatGPT 도움말과 함께 작동합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/docgpt/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Files & Spreadsheets",
+      "upvotes": 0
+    },
+    {
+      "name": "Resume Scanner",
+      "description": "« 후보자의 이력서를 스캔하고 평가하는 AI. 또한 후보자의 기술을 평가하기 위한 질문도 생성됩니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/resume-scanner.png",
+      "url": "https://www.aixploria.com/en/resume-scanner-ai/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Human Resources",
+      "upvotes": 3
+    },
+    {
+      "name": "BabyAgi",
+      "description": "« 스스로 여러 작업을 수행하고 자동 프롬프트를 표시할 수 있는 자율 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/babyagi.png",
+      "url": "https://www.aixploria.com/en/babyagi/",
+      "type": "무료",
+      "category": "#AI Agents, #Extensions ChatGPT",
+      "upvotes": 9
+    },
+    {
+      "name": "Monica",
+      "description": "« 번역, 요약, 이메일 작성, 텍스트 생성 등을 수행할 수 있는 ChatGPT용 Chrome 확장 프로그램 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/monica.png",
+      "url": "https://www.aixploria.com/en/monica/",
+      "type": "부분 무료",
+      "category": "#Extensions ChatGPT, #Summarizer",
+      "upvotes": 8
+    },
+    {
+      "name": "AgentGPT",
+      "description": "« 자율 AI 에이전트를 쉽게 설정하고 배포할 수 있습니다. 이 사이트는 간단하고 직관적인 인터페이스를 가지고 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/agentgpt.png",
+      "url": "https://www.aixploria.com/en/agentgpt/",
+      "type": "무료",
+      "category": "#AI Agents, #Extensions ChatGPT",
+      "upvotes": 6
+    },
+    {
+      "name": "Web3 Summary",
+      "description": "« 모든 암호화폐 프로젝트(NFT, 스왑, DeFi, 블록체인)를 분석하는 ChatGPT 기반 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/web3-summary.png",
+      "url": "https://www.aixploria.com/en/web3-summary/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Finance",
+      "upvotes": 11
+    },
+    {
+      "name": "ChatGPT File Uploader",
+      "description": "« ChatGPT 인터페이스에서 PDF, Excel 등 다양한 파일 형식을 직접 업로드하고 처리할 수 있는 Chrome 확장 프로그램 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/chatgpt-file-uploader.png",
+      "url": "https://www.aixploria.com/en/chatgpt-file-uploader/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Files & Spreadsheets",
+      "upvotes": 0
+    },
+    {
+      "name": "Fluentify",
+      "description": "« 쓰기, 요약, 검색 등 웹상의 모든 작업을 수행하는 데 도움을 주는 부조종사 확장 프로그램 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/fluentify/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "SummerEyes",
+      "description": "« 몇 초 만에 텍스트를 요약할 수 있는 AI로 생산성 최적화 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/summereyes.png",
+      "url": "https://www.aixploria.com/en/summereyes/",
+      "type": "부분 무료",
+      "category": "#Extensions ChatGPT, #Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "Bearly AI",
+      "description": "« 다양한 파일(PDF, DOC 등) 또는 웹페이지에서 텍스트 요약 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/bearly-ai.png",
+      "url": "https://www.aixploria.com/en/bearly-ai/",
+      "type": "부분 무료",
+      "category": "#Extensions ChatGPT, #Files & Spreadsheets",
+      "upvotes": 1
+    },
+    {
+      "name": "ChatGPT for YouTube",
+      "description": "« YouTube 동영상을 요약하고 시간을 절약할 수 있는 무료 Chrome 확장 프로그램 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/chatgpt-for-youtube.png",
+      "url": "https://www.aixploria.com/en/chatgpt-for-youtube/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "WriteGPT",
+      "description": "« 글쓰기, 번역 등을 더욱 쉽게 만들어주는 Chrome 확장 프로그램 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/writegpt.png",
+      "url": "https://www.aixploria.com/en/writegpt/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Productivity",
+      "upvotes": 2
+    },
+    {
+      "name": "Writingmate AI",
+      "description": "« Sheets, Slides, Docs 파일용 AI 도우미를 사용하여 Google Workspace 관리를 단순화하세요. Chrome 확장 프로그램으로 사용 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/writingmate-ai.png",
+      "url": "https://www.aixploria.com/en/writingmate-ai/",
+      "type": "유료",
+      "category": "#Extensions ChatGPT, #Files & Spreadsheets",
+      "upvotes": 0
+    },
+    {
+      "name": "Glimpse",
+      "description": "« 요약, 설명, 수정 등 웹 서핑을 돕기 위해 브라우저와 통합되는 AI 도우미 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/glimpse.png",
+      "url": "https://www.aixploria.com/en/glimpse-ai/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "SRead",
+      "description": "« 웹서핑을 하면서 기사나 텍스트를 읽어주는 어시스턴트. Chrome 확장 프로그램을 통해 AI와 채팅할 수도 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/sread.png",
+      "url": "https://www.aixploria.com/en/sread-ai/",
+      "type": "부분 무료",
+      "category": "#Extensions ChatGPT, #Text To Speech",
+      "upvotes": 0
+    },
+    {
+      "name": "GPT for Sheets",
+      "description": "« GPT-3에 따른 AI의 도움으로 Google 스프레드시트에서 데이터를 쉽게 추출하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/gpt-for-sheets.png",
+      "url": "https://www.aixploria.com/en/gpt-for-sheets/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Files & Spreadsheets",
+      "upvotes": 2
+    },
+    {
+      "name": "ChatGPT Super",
+      "description": "« 요약, 검색 등 생산성을 향상시키는 ChatGPT용 웹 연결 Chrome 확장 프로그램 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/chatgpt-super.png",
+      "url": "https://www.aixploria.com/en/chatgpt-super/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Summarizer",
+      "upvotes": 0
+    },
+    {
+      "name": "YouTube Summarized",
+      "description": "« YouTube 동영상을 쉽게 요약할 수 있는 사용하기 쉬운 Chrome 확장 프로그램(OpenAI API 사용) »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/youtube-summarized.png",
+      "url": "https://www.aixploria.com/en/youtube-summarized/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "Promptitude",
+      "description": "« GPT를 애플리케이션에 쉽게 통합하고 간단한 API로 프롬프트를 관리하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/promptitude.png",
+      "url": "https://www.aixploria.com/en/promptitude/",
+      "type": "유료",
+      "category": "#Extensions ChatGPT, #Prompts & Aids",
+      "upvotes": 0
+    },
+    {
+      "name": "DeepTab",
+      "description": "« 생산성을 높이는 AI 도구 세트. 웹을 탐색할 때 챗봇의 도움을 받으세요. Chrome 확장 프로그램으로 사용 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/deeptab.png",
+      "url": "https://www.aixploria.com/en/deeptab-ai/",
+      "type": "부분 무료",
+      "category": "#Extensions ChatGPT, #Productivity",
+      "upvotes": 2
+    },
+    {
+      "name": "ChatGPT For Search Engine",
+      "description": "« ChatGPT 확장 프로그램을 Google, DuckDuckGo 또는 Bing의 검색 결과에 통합하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/chatgpt-for-search-engine.png",
+      "url": "https://www.aixploria.com/en/chatgpt-chrome-extension/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Search engine",
+      "upvotes": 0
+    },
+    {
+      "name": "Picapiu",
+      "description": "« 웹 페이지에서 사용자 정의되거나 선택된 이미지로 인물 사진 만들기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/picapiu.png",
+      "url": "https://www.aixploria.com/en/picapiu/",
+      "type": "무료",
+      "category": "#Avatars, #Extensions ChatGPT",
+      "upvotes": 0
+    },
+    {
+      "name": "iChatWithGPT",
+      "description": "« Iphone 및 Imessage에서 실행되는 애플리케이션에서 ChatGPT와 채팅 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ichatwithgpt.png",
+      "url": "https://www.aixploria.com/en/ichatwithgpt/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Life Assistants",
+      "upvotes": 0
+    },
+    {
+      "name": "Google Trends Supercharged 2",
+      "description": "« AI의 도움으로 Google 트렌드의 새로운 트렌드를 분석, 상담 및 발견 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/google-trends-supercharged-2.png",
+      "url": "https://www.aixploria.com/en/google-trends-supercharged-2/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Marketing",
+      "upvotes": 0
+    },
+    {
+      "name": "EditGPT",
+      "description": "« ChatGPT에서 직접 텍스트를 편집하고 교정하기 위한 확장 프로그램입니다. 직관적이고 효율적인 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/editgpt.png",
+      "url": "https://www.aixploria.com/en/editgpt/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT",
+      "upvotes": 0
+    },
+    {
+      "name": "Tiny Magic",
+      "description": "« 이메일 Pro 작성을 도와주는 GPT-3의 이메일 생성기. Chrome 확장 프로그램 사용 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/tiny-magic.png",
+      "url": "https://www.aixploria.com/en/tiny-magic/",
+      "type": "무료",
+      "category": "#E-mail, #Extensions ChatGPT",
+      "upvotes": 0
+    },
+    {
+      "name": "ChatGPT for Amazon",
+      "description": "« Amazon 판매자가 가시성과 수익을 높일 수 있게 해주는 ChatGPT용 Chrome 확장 프로그램 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/chatgpt-for-amazon.png",
+      "url": "https://www.aixploria.com/en/chatgpt-for-amazon/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Marketing",
+      "upvotes": 1
+    },
+    {
+      "name": "Casper AI",
+      "description": "« 기사 요약 등 다양한 사무 작업을 도와주는 스마트 Chrome 확장 프로그램 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/casper-ai.png",
+      "url": "https://www.aixploria.com/en/casper-ai/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "Snack Prompt",
+      "description": "« 최고의 성과를 내는 메시지를 공유하는 커뮤니티입니다. 카테고리, 인기도, 투표순으로 순위 지정 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/snack-prompt.png",
+      "url": "https://www.aixploria.com/en/snack-prompt/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Prompts & Aids",
+      "upvotes": 1
+    },
+    {
+      "name": "Code-GPT",
+      "description": "« Visual Studio Code에서 코드에 대한 즉각적인 설명을 얻고 코딩 기술을 향상시키세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/code-gpt.png",
+      "url": "https://www.aixploria.com/en/code-gpt/",
+      "type": "무료",
+      "category": "#Assistant Code, #Extensions ChatGPT",
+      "upvotes": 2
+    },
+    {
+      "name": "Voice Control for ChatGPT",
+      "description": "« ChatGPT와 대화하는 동안 음성으로 직접 제어하고 말하기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/voice-control-for-chatgpt.png",
+      "url": "https://www.aixploria.com/en/voice-control-for-chatgpt/",
+      "type": "무료",
+      "category": "#AI Useful, #Extensions ChatGPT",
+      "upvotes": 1
+    },
+    {
+      "name": "EasyChat AI",
+      "description": "« Windows에서 ChatGPT를 사용하는 타사 응용 프로그램입니다. Markdown, 다크 모드, API 등과 호환 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/easychat-ai.png",
+      "url": "https://www.aixploria.com/en/easychat-ai/",
+      "type": "유료",
+      "category": "#Extensions ChatGPT, #Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "ChatGPT for Google",
+      "description": "« ChatGPT를 Google 검색 결과와 연결하세요. Chrome 및 Firefox 브라우저에서 사용할 수 있는 확장 프로그램 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/chatgpt-for-google.png",
+      "url": "https://www.aixploria.com/en/chatgpt-for-google/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "BrowseGPT",
+      "description": "« AI를 사용하여 GPT-3에서 웹 검색을 자동화하는 Chrome 확장 프로그램 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/browsegpt.png",
+      "url": "https://www.aixploria.com/en/browsegpt/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "PrayGen",
+      "description": "« 코란, 성경, 토라, 기타와 같은 종교 서적의 GPT 전문가인 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/praygen.png",
+      "url": "https://www.aixploria.com/en/praygen/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Life Assistants",
+      "upvotes": 0
+    },
+    {
+      "name": "WebCopilot AI",
+      "description": "« 웹 탐색 시 도움을 주는 Chrome 확장 프로그램: 이메일 작성, 소셜 네트워크, Google 시트 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/webcopilot-ai.png",
+      "url": "https://www.aixploria.com/en/webcopilot-ai/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Files & Spreadsheets",
+      "upvotes": 0
+    },
+    {
+      "name": "Liner",
+      "description": "« ChatGPT로 생산성을 높이는 Google Chrome 확장 프로그램입니다. PDF 도우미도 있음 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/liner.png",
+      "url": "https://www.aixploria.com/en/liner/",
+      "type": "부분 무료",
+      "category": "#Extensions ChatGPT, #Files & Spreadsheets",
+      "upvotes": 0
+    },
+    {
+      "name": "AIBrane",
+      "description": "« 어디서나 사용자를 따라다니며 생산성을 대폭 향상시키는 지능형 확장 프로그램 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/aibrane/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "Uminal",
+      "description": "« 웹에서 직접 검색할 수 있는 ChatGPT용 서비스 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/uminal.png",
+      "url": "https://www.aixploria.com/en/uminal/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "AI Genius",
+      "description": "« 웹에서 영구적으로 사용자를 따라다니며 일상 작업에 도움을 주는 AI 기반 Chrome 확장 프로그램 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-genius.png",
+      "url": "https://www.aixploria.com/en/ai-genius/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "MagicBrief",
+      "description": "« Facebook, Instagram 및 TikTok에서 창의적인 협업을 단순화하는 Chrome 확장 프로그램 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/magicbrief.png",
+      "url": "https://www.aixploria.com/en/magicbrief/",
+      "type": "유료",
+      "category": "#Extensions ChatGPT, #Social Networks",
+      "upvotes": 2
+    },
+    {
+      "name": "MacGPT",
+      "description": "« 메뉴 표시줄에서 Mac의 ChatGPT AI에 빠르게 액세스하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/macgpt.png",
+      "url": "https://www.aixploria.com/en/macgpt/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "TeamSmart AI",
+      "description": "« 텍스트 요약, 코드 생성 등을 할 수 있는 ChatGPT용 Chrome 확장 프로그램으로 생산성을 높이세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/teamsmart-ai/",
+      "type": "유료",
+      "category": "#Extensions ChatGPT, #Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "PixieBrix",
+      "description": "« AI 지원 Chrome 확장 프로그램으로 생산성을 높이세요. 멀티태스킹 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/pixiebrix.png",
+      "url": "https://www.aixploria.com/en/pixiebrix/",
+      "type": "부분 무료",
+      "category": "#Extensions ChatGPT, #Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "AiBERT",
+      "description": "« ChatGPT에서 이미지와 텍스트를 생성할 수 있는 WhatsApp에 직접 통합된 ChatBot »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/aibert.png",
+      "url": "https://www.aixploria.com/en/aibert/",
+      "type": "유료",
+      "category": "#ChatBots, #Extensions ChatGPT",
+      "upvotes": 0
+    },
+    {
+      "name": "GPT2Markdown",
+      "description": "« ChatGPT를 사용하여 모든 대화를 마크다운 형식으로 쉽게 내보낼 수 있는 확장 프로그램 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/gpt2markdown.png",
+      "url": "https://www.aixploria.com/en/gpt2markdown/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "Glarity",
+      "description": "« 무료 Chrome 확장 프로그램을 사용하여 Google/YouTube 결과에서 ChatGPT 요약을 받아보세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/glarity.png",
+      "url": "https://www.aixploria.com/en/glarity/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "RespoAI",
+      "description": "« 사려 깊고 효과적인 응답을 쉽게 만들 수 있는 브라우저 확장 프로그램 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/respoai.png",
+      "url": "https://www.aixploria.com/en/respoai/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "Superpower GPT",
+      "description": "« 내보내기, 검색 등과 같은 추가 기능으로 ChatGPT 대화 향상 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/superpower-gpt.png",
+      "url": "https://www.aixploria.com/en/superpower-gpt/",
+      "type": "무료",
+      "category": "#ChatBots, #Extensions ChatGPT",
+      "upvotes": 0
+    },
+    {
+      "name": "Social Comments GPT",
+      "description": "« ChatGPT API를 사용하여 소셜 네트워크에 매력적인 댓글을 작성하는 Chrome 확장 프로그램 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/social-comments-gpt.png",
+      "url": "https://www.aixploria.com/en/social-comments-gpt/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Social Networks",
+      "upvotes": 0
+    }
+  ]
+}

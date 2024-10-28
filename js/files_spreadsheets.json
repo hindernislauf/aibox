@@ -1,0 +1,590 @@
+{
+  "name": "Files & Spreadsheets",
+  "items": [
+    {
+      "name": "ChatPDF",
+      "description": "« AI는 인간처럼 PDF 파일과 상호 작용합니다. 대용량 문서에서도 쉽게 정보 추출 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/chatpdf.png",
+      "url": "https://www.aixploria.com/en/chatpdf/",
+      "type": "부분 무료",
+      "category": "#AIxploria Selection, #Business",
+      "upvotes": 111
+    },
+    {
+      "name": "GPTExcel",
+      "description": "« AI를 통해 Excel 및 Google 시트 파일 작업 방식을 개선하세요. 복잡한 수식, 자동화 스크립트, SQL 쿼리 등 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/05/GPTExcel-ai-tools.webp",
+      "url": "https://www.aixploria.com/en/gptexcel/",
+      "type": "무료",
+      "category": "#Files & Spreadsheets",
+      "upvotes": 59
+    },
+    {
+      "name": "Acrobat AI by Adobe",
+      "description": "« AI 도우미 덕분에 문서와 빠르게 상호 작용할 수 있습니다. 질문하고, 즉각적인 요약을 얻고, 강력한 콘텐츠를 만드세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/08/adobe-podcast.png",
+      "url": "https://www.aixploria.com/en/acrobat-ai-assistant-by-adobe/",
+      "type": "Free-Trial",
+      "category": "#Files & Spreadsheets, #Summarizer",
+      "upvotes": 95
+    },
+    {
+      "name": "AskYourPDF",
+      "description": "« PDF 파일과 효율적으로 상호 작용하고 이해를 촉진하는 AI ChatBot »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/askyourpdf.png",
+      "url": "https://www.aixploria.com/en/ask-your-pdf/",
+      "type": "부분 무료",
+      "category": "#AIxploria Selection, #Business",
+      "upvotes": 74
+    },
+    {
+      "name": "ChatDOC",
+      "description": "« PDF 파일에서 정보를 추출하고 요약하는 ChatGPT 기반 AI 도우미 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/chatdoc.png",
+      "url": "https://www.aixploria.com/en/chatdoc/",
+      "type": "무료",
+      "category": "#Education / Studies, #Files & Spreadsheets",
+      "upvotes": 5
+    },
+    {
+      "name": "Humata AI",
+      "description": "« PDF 파일 전문 멀티태스킹 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/humata-ai.png",
+      "url": "https://www.aixploria.com/en/humata-ai/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Files & Spreadsheets",
+      "upvotes": 48
+    },
+    {
+      "name": "Mindgrasp",
+      "description": "« PDF 문서, Zoom 회의, 팟캐스트, YouTube 등의 질문과 답변 디자인 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/mindgrasp.png",
+      "url": "https://www.aixploria.com/en/mindgrasp/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Files & Spreadsheets",
+      "upvotes": 6
+    },
+    {
+      "name": "TinyWow",
+      "description": "« 당신의 모든 문제를 해결해 줄 AI 도구 (PDF, 이미지, 비디오, 글 등) »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/tinywow.png",
+      "url": "https://www.aixploria.com/en/tinywow/",
+      "type": "무료",
+      "category": "#Files & Spreadsheets, #Productivity",
+      "upvotes": 23
+    },
+    {
+      "name": "Excel Formula Bot",
+      "description": "« 텍스트를 Excel 및 Google Sheets 데이터로 변환하고 반복 작업을 자동화하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/excel-formula-bot.png",
+      "url": "https://www.aixploria.com/en/excel-formula-bot/",
+      "type": "부분 무료",
+      "category": "#Business, #Files & Spreadsheets",
+      "upvotes": 4
+    },
+    {
+      "name": "Numerous AI",
+      "description": "« ChatGPT의 도움으로 스프레드시트를 더욱 스마트하게 만드세요. 텍스트 추출, 분류, 수식 생성 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/numerous-ai.png",
+      "url": "https://www.aixploria.com/en/numerous-ai/",
+      "type": "무료",
+      "category": "#Files & Spreadsheets",
+      "upvotes": 24
+    },
+    {
+      "name": "Fillout AI",
+      "description": "« AI를 사용하여 양식, 설문 조사 및 퀴즈를 쉽게 만들 수 있습니다. 템플릿과 Google 시트, Google 지도, 웹사이트 등과의 통합이 포함됩니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/fillout-ai.png",
+      "url": "https://www.aixploria.com/en/fillout-ai/",
+      "type": "무료",
+      "category": "#Education / Studies, #Files & Spreadsheets",
+      "upvotes": 8
+    },
+    {
+      "name": "Arcwise AI",
+      "description": "« 전문가처럼 Google 스프레드시트 파일을 처리하는 부조종사. 스프레드시트를 쉽게 관리하고 정리하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/arcwise-ai.png",
+      "url": "https://www.aixploria.com/en/arcwise-ai/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Files & Spreadsheets",
+      "upvotes": 2
+    },
+    {
+      "name": "Julius.ai",
+      "description": "« 데이터 분석 및 시각화(CSV 및 Excel)를 단순화하는 전문가입니다. Julius가 동적 애니메이션을 분석, 정리 또는 생성하도록 합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/julius-ai.png",
+      "url": "https://www.aixploria.com/en/julius-ai/",
+      "type": "유료",
+      "category": "#Business, #Files & Spreadsheets",
+      "upvotes": 12
+    },
+    {
+      "name": "Knowlee AI",
+      "description": "« PDF, DOC, YouTube, X, Discord, Instagram, Gmail 등 다양한 소스를 허용하는 AI 에이전트로 분석 및 데이터 생성을 최적화하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/knowlee-ai.png",
+      "url": "https://www.aixploria.com/en/knowlee-ai/",
+      "type": "무료",
+      "category": "#ChatBots, #Files & Spreadsheets",
+      "upvotes": 3
+    },
+    {
+      "name": "Scribe AI",
+      "description": "« AI를 사용하여 프로세스를 단계별 시각적 가이드(튜토리얼)로 전환하세요. 컨텍스트, 브랜딩, 팁을 추가하세요. 링크, PDF 또는 삽입을 통해 결과 공유 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/scribe-ai.png",
+      "url": "https://www.aixploria.com/en/scribe-ai/",
+      "type": "부분 무료",
+      "category": "#Files & Spreadsheets, #Productivity",
+      "upvotes": 23
+    },
+    {
+      "name": "PDFelement by Wondershare",
+      "description": "« 이 AI 기반 편집기를 사용하여 PDF를 쉽게 편집하고 수정할 수 있습니다. 변환, 병합, 번역, 서명 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/pdfelement-by-wondershare.png",
+      "url": "https://www.aixploria.com/en/pdfelement-by-wondershare/",
+      "type": "유료",
+      "category": "#Files & Spreadsheets, #Summarizer",
+      "upvotes": 22
+    },
+    {
+      "name": "Brainy Docs",
+      "description": "« PDF를 매력적인 설명 동영상으로 변환하는 AI 도구입니다. 텍스트와 이미지를 사용자 정의, 다운로드 및 공유 가능한 비디오 프레젠테이션으로 변환 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/brainy-docs.png",
+      "url": "https://www.aixploria.com/en/brainy-docs-ai-pdf-video/",
+      "type": "Free-Trial",
+      "category": "#Education / Studies, #Files & Spreadsheets",
+      "upvotes": 17
+    },
+    {
+      "name": "OmniAI",
+      "description": "« 문서에서 데이터 추출을 자동화하는 AI 플랫폼. 간단하고 안전한 API를 통해 PDF, 프리젠테이션 및 웹사이트를 구조화된 데이터로 쉽게 변환합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/omniai.png",
+      "url": "https://www.aixploria.com/en/omniai-automate-document/",
+      "type": "유료",
+      "category": "#Automation, #Files & Spreadsheets",
+      "upvotes": 27
+    },
+    {
+      "name": "Magika by Google",
+      "description": "« 다양한 파일 형식을 최대한 정확하게 감지하는 지능형 시스템입니다. 빠르고 안정적인 파일 식별에 이상적입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/magika-by-google.png",
+      "url": "https://www.aixploria.com/en/magika-by-google/",
+      "type": "무료",
+      "category": "#Developer Tools, #Files & Spreadsheets",
+      "upvotes": 17
+    },
+    {
+      "name": "Matrices AI",
+      "description": "« 필요한 모든 데이터를 분석하고 추출하는 지능형 에이전트 팀. 프롬프트를 통해 작동 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/matrices-ai.png",
+      "url": "https://www.aixploria.com/en/matrices-app-ai/",
+      "type": "부분 무료",
+      "category": "#Data & Analytics, #Files & Spreadsheets",
+      "upvotes": 11
+    },
+    {
+      "name": "Any Summary",
+      "description": "« PDF, docx, jpg, pptx, mp3, mp4, csv 등 모든 파일 형식에서 빠른 요약을 가져옵니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/any-summary.png",
+      "url": "https://www.aixploria.com/en/any-summary/",
+      "type": "무료",
+      "category": "#Files & Spreadsheets, #Summarizer",
+      "upvotes": 1
+    },
+    {
+      "name": "ChatGPT for Excel",
+      "description": "« Microsoft Excel ™ 파일 처리 시 전문 조력자와 함께 생산성을 높이고 AI의 모든 기능을 활용하십시오. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/chatgpt-for-excel.png",
+      "url": "https://www.aixploria.com/en/chatgpt-for-excel/",
+      "type": "무료",
+      "category": "#Files & Spreadsheets, #Productivity",
+      "upvotes": 4
+    },
+    {
+      "name": "ChartPixel",
+      "description": "« 데이터를 시각적으로 매력적인 그래프로 자동 변환하는 AI 도구를 사용하여 데이터 시각화 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/chartpixel.png",
+      "url": "https://www.aixploria.com/en/chartpixel/",
+      "type": "무료",
+      "category": "#Data & Analytics, #Files & Spreadsheets",
+      "upvotes": 0
+    },
+    {
+      "name": "Papermark AI",
+      "description": "« 오픈 소스 AI를 사용하여 문서를 공유하고 직접 상호 작용하세요. AI와 채팅하거나 프레젠테이션 요약 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/papermark-ai.png",
+      "url": "https://www.aixploria.com/en/papermark-ai/",
+      "type": "무료",
+      "category": "#Files & Spreadsheets, #Summarizer",
+      "upvotes": 4
+    },
+    {
+      "name": "Simplescraper",
+      "description": "« 웹사이트에서 데이터를 쉽게 추출하기 위한 AI 도구입니다. JSON 또는 CSV 형식의 데이터를 얻기 위해 GPTS를 생성할 때 매우 유용합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/simplescraper.png",
+      "url": "https://www.aixploria.com/en/simplescraper-ai/",
+      "type": "무료",
+      "category": "#Data & Analytics, #Extensions ChatGPT",
+      "upvotes": 5
+    },
+    {
+      "name": "SheetGod",
+      "description": "« Google Apps Script를 통한 기본 작업 자동화 및 복잡한 Excel 수식 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/sheetgod.png",
+      "url": "https://www.aixploria.com/en/sheetgod/",
+      "type": "부분 무료",
+      "category": "#Automation, #Files & Spreadsheets",
+      "upvotes": 4
+    },
+    {
+      "name": "GPT Space",
+      "description": "« ChatGPT를 Google Workspace에 통합하여 생산성을 높이세요. Google Docs, Sheets, Slides, Drive, Gmail 및 Duet AI와 호환 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/gpt-space.png",
+      "url": "https://www.aixploria.com/en/gpt-space/",
+      "type": "부분 무료",
+      "category": "#Files & Spreadsheets",
+      "upvotes": 3
+    },
+    {
+      "name": "Cascade",
+      "description": "« 모든 문서에 즉시 액세스하고 정확한 답변을 빠르게 얻으세요. 지식 기반을 Slack, Discord, Microsoft Teams 등에 직접 통합하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/cascade.png",
+      "url": "https://www.aixploria.com/en/cascade-ai-casc/",
+      "type": "무료",
+      "category": "#Files & Spreadsheets, #Productivity",
+      "upvotes": 21
+    },
+    {
+      "name": "Claude For Sheets",
+      "description": "« 텍스트 재작성, 번역, 분류, API 등과 같은 기능을 제공하는 마법사를 통해 Google Sheets™에서 Claude를 직접 사용하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/claude-for-sheets.png",
+      "url": "https://www.aixploria.com/en/claude-for-sheets/",
+      "type": "무료",
+      "category": "#Files & Spreadsheets",
+      "upvotes": 2
+    },
+    {
+      "name": "Ajelix",
+      "description": "« 수식, 번역, 보고서, 분석, VBA 스크립트 등 다양한 도구를 갖춘 Excel 및 Google 스프레드시트용 AI 도우미 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ajelix.png",
+      "url": "https://www.aixploria.com/en/ajelix-ai/",
+      "type": "부분 무료",
+      "category": "#Automation, #Files & Spreadsheets",
+      "upvotes": 4
+    },
+    {
+      "name": "PDFChat",
+      "description": "« 문서 채팅을 돕고 대용량 PDF(1000페이지 이상)를 처리 및 요약하는 데 도움이 되는 지능형 AI 도우미입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/pdfchat.png",
+      "url": "https://www.aixploria.com/en/pdfchat/",
+      "type": "부분 무료",
+      "category": "#Files & Spreadsheets",
+      "upvotes": 2
+    },
+    {
+      "name": "DocGPT",
+      "description": "« PDF, TXT 또는 DOC 파일을 분석, 요약 또는 채팅하기 위한 Chrome 확장 프로그램입니다. ChatGPT 도움말과 함께 작동합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/docgpt/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Files & Spreadsheets",
+      "upvotes": 0
+    },
+    {
+      "name": "Chatd AI",
+      "description": "« Chatd를 사용하면 문서 및 파일을 로컬로 통신할 수 있습니다. 이 IA 소프트웨어는 Windows 및 MAC과 호환됩니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/chatd-ai.png",
+      "url": "https://www.aixploria.com/en/chatd-ai/",
+      "type": "무료",
+      "category": "#Files & Spreadsheets",
+      "upvotes": 3
+    },
+    {
+      "name": "PDF GPT",
+      "description": "« PDF 파일을 분석, 요약하고 답변을 얻기 위한 사용하기 쉬운 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/pdf-gpt.png",
+      "url": "https://www.aixploria.com/en/pdf-gpt/",
+      "type": "무료",
+      "category": "#Files & Spreadsheets, #Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "SuperGPT",
+      "description": "« 데이터를 Google 스프레드시트로 빠르고 자동으로 가져옵니다. 테이블 및 그래프 생성 기능과 코드가 필요 없는 통합입니다. RevOps 팀에 적합 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/supergpt.png",
+      "url": "https://www.aixploria.com/en/supergpt-ai-google-sheets/",
+      "type": "부분 무료",
+      "category": "#Files & Spreadsheets",
+      "upvotes": 17
+    },
+    {
+      "name": "GPT For Google Forms",
+      "description": "« ChatGPT를 사용하여 Google 양식 생성을 단순화하는 도구입니다. Google Workspace에서 직접 설문조사, 퀴즈 등을 생성하는 데 유용합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/gpt-for-google-forms.png",
+      "url": "https://www.aixploria.com/en/gpt-for-google-forms-ai/",
+      "type": "부분 무료",
+      "category": "#Files & Spreadsheets",
+      "upvotes": 5
+    },
+    {
+      "name": "SheetAI.app",
+      "description": "« 간단한 텍스트로 Google 스프레드시트 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/sheetai-app.png",
+      "url": "https://www.aixploria.com/en/sheetai-app/",
+      "type": "부분 무료",
+      "category": "#Business, #Files & Spreadsheets",
+      "upvotes": 3
+    },
+    {
+      "name": "ChatGPT File Uploader",
+      "description": "« ChatGPT 인터페이스에서 PDF, Excel 등 다양한 파일 형식을 직접 업로드하고 처리할 수 있는 Chrome 확장 프로그램 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/chatgpt-file-uploader.png",
+      "url": "https://www.aixploria.com/en/chatgpt-file-uploader/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Files & Spreadsheets",
+      "upvotes": 0
+    },
+    {
+      "name": "Documind",
+      "description": "« PDF 문서와 상호 작용하는 방식을 변화시키세요. AI와 직관적으로 채팅하고 즉각적이고 정확한 답변 얻기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/documind.png",
+      "url": "https://www.aixploria.com/en/documind-ai/",
+      "type": "무료",
+      "category": "#Files & Spreadsheets",
+      "upvotes": 1
+    },
+    {
+      "name": "GoPDF",
+      "description": "« 빠른 편집, 전자 서명 추가, 문서 채팅 등 다양한 기능을 갖춘 온라인 PDF 편집기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/gopdf.png",
+      "url": "https://www.aixploria.com/en/gopdf-ai/",
+      "type": "부분 무료",
+      "category": "#Files & Spreadsheets",
+      "upvotes": 1
+    },
+    {
+      "name": "Aqua Voice",
+      "description": "« 매우 효율적인 AI를 사용하여 음성으로 문서를 편집하세요. 부드럽고 정확한 글쓰기를 위해 자연어로 텍스트를 받아쓰기, 편집 및 변환합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/aqua-voice.png",
+      "url": "https://www.aixploria.com/en/aqua-voice/",
+      "type": "Free-Trial",
+      "category": "#Files & Spreadsheets",
+      "upvotes": 16
+    },
+    {
+      "name": "Bearly AI",
+      "description": "« 다양한 파일(PDF, DOC 등) 또는 웹페이지에서 텍스트 요약 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/bearly-ai.png",
+      "url": "https://www.aixploria.com/en/bearly-ai/",
+      "type": "부분 무료",
+      "category": "#Extensions ChatGPT, #Files & Spreadsheets",
+      "upvotes": 1
+    },
+    {
+      "name": "TableFlow",
+      "description": "« CSV 데이터를 사용자 친화적인 테이블로 분석, 분류 및 정렬하는 AI입니다. CSV 파일을 가져와 결과를 확인하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/tableflow.png",
+      "url": "https://www.aixploria.com/en/tableflow-ai/",
+      "type": "부분 무료",
+      "category": "#Files & Spreadsheets",
+      "upvotes": 4
+    },
+    {
+      "name": "Writingmate AI",
+      "description": "« Sheets, Slides, Docs 파일용 AI 도우미를 사용하여 Google Workspace 관리를 단순화하세요. Chrome 확장 프로그램으로 사용 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/writingmate-ai.png",
+      "url": "https://www.aixploria.com/en/writingmate-ai/",
+      "type": "유료",
+      "category": "#Extensions ChatGPT, #Files & Spreadsheets",
+      "upvotes": 0
+    },
+    {
+      "name": "PrepAI",
+      "description": "« 모든 문서에서 설문지 및 기타 다양한 연습 만들기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/prepai.png",
+      "url": "https://www.aixploria.com/en/prepai/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Files & Spreadsheets",
+      "upvotes": 0
+    },
+    {
+      "name": "GPT for Sheets",
+      "description": "« GPT-3에 따른 AI의 도움으로 Google 스프레드시트에서 데이터를 쉽게 추출하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/gpt-for-sheets.png",
+      "url": "https://www.aixploria.com/en/gpt-for-sheets/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Files & Spreadsheets",
+      "upvotes": 2
+    },
+    {
+      "name": "BrainyPDF",
+      "description": "« PDF 문서를 조사하고 질문에 대한 즉각적인 답변을 얻으세요. 다국어, 안전하고 학구적인 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/brainypdf.png",
+      "url": "https://www.aixploria.com/en/brainypdf-ai/",
+      "type": "유료",
+      "category": "#Files & Spreadsheets",
+      "upvotes": 1
+    },
+    {
+      "name": "Rows",
+      "description": "« 스프레드시트를 쉽게 처리할 수 있습니다. 대화형 그래프와 표를 사용하여 신속하게 데이터 분석 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/rows.png",
+      "url": "https://www.aixploria.com/en/rows/",
+      "type": "무료",
+      "category": "#Files & Spreadsheets",
+      "upvotes": 3
+    },
+    {
+      "name": "Luminal",
+      "description": "« 스프레드시트 AI를 사용하여 스프레드시트 생성, 분석, 정리 및 편집 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/luminal.png",
+      "url": "https://www.aixploria.com/en/luminal/",
+      "type": "부분 무료",
+      "category": "#Files & Spreadsheets",
+      "upvotes": 0
+    },
+    {
+      "name": "AI Assist by Equals",
+      "description": "« 스프레드시트를 위한 GPT-4 터보 기반 보조자. SQL, 수식 등의 작성, 편집, 수정에 적합합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-assist-by-equals.png",
+      "url": "https://www.aixploria.com/en/ai-assist-by-equals/",
+      "type": "유료",
+      "category": "#Files & Spreadsheets",
+      "upvotes": 2
+    },
+    {
+      "name": "ResearchGPT",
+      "description": "« PDF 문서를 검색하고 원하는 답변을 추출할 수 있는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/researchgpt.png",
+      "url": "https://www.aixploria.com/en/researchgpt/",
+      "type": "무료",
+      "category": "#Files & Spreadsheets, #Github Projects",
+      "upvotes": 0
+    },
+    {
+      "name": "Finsheet",
+      "description": "« Excel 및 Google Sheets용 간단한 추가 기능을 통해 금융 데이터를 제공하는 AI 기반 사이트 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/finsheet.png",
+      "url": "https://www.aixploria.com/en/finsheet/",
+      "type": "부분 무료",
+      "category": "#Files & Spreadsheets, #Finance",
+      "upvotes": 1
+    },
+    {
+      "name": "Filechat IO",
+      "description": "« PDF, Word 등을 제출하여 개인화된 ChatBot에 질문하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/filechat-io.png",
+      "url": "https://www.aixploria.com/en/filechat-io/",
+      "type": "유료",
+      "category": "#ChatBots, #Files & Spreadsheets",
+      "upvotes": 0
+    },
+    {
+      "name": "Parsio",
+      "description": "« 이메일이나 PDF 파일에서 데이터 추출. Google Sheets, Slack, DropBox 등과 통합 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/parsio.png",
+      "url": "https://www.aixploria.com/en/parsio/",
+      "type": "부분 무료",
+      "category": "#E-mail, #Files & Spreadsheets",
+      "upvotes": 0
+    },
+    {
+      "name": "PDF Candy",
+      "description": "« PDF 파일을 쉽게 변환 및 조작: 변환, 편집, 병합, 압축 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/pdf-candy.png",
+      "url": "https://www.aixploria.com/en/pdf-candy/",
+      "type": "유료",
+      "category": "#Files & Spreadsheets",
+      "upvotes": 0
+    },
+    {
+      "name": "Tomat AI",
+      "description": "« 거대한 CSV 파일을 열고 탐색해보세요. 스프레드시트로 작업한 적이 있다면 바로 Tomat 작업을 시작할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/tomat-ai.png",
+      "url": "https://www.aixploria.com/en/tomat-ai/",
+      "type": "부분 무료",
+      "category": "#Files & Spreadsheets",
+      "upvotes": 0
+    },
+    {
+      "name": "LightPDF AI",
+      "description": "« PDF 파일을 분석, 요약하거나 질문하여 빠르고 정확한 답변을 얻으세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/lightpdf-ai/",
+      "type": "부분 무료",
+      "category": "#Files & Spreadsheets",
+      "upvotes": 0
+    },
+    {
+      "name": "Chat2CSV",
+      "description": "« 프롬프트를 사용하여 CSV 데이터를 그래픽으로 변환하는 도구입니다. 또한 귀하의 기밀성을 존중합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/chat2csv.png",
+      "url": "https://www.aixploria.com/en/chat2csv/",
+      "type": "부분 무료",
+      "category": "#Files & Spreadsheets",
+      "upvotes": 1
+    },
+    {
+      "name": "GPT Cheat Sheet",
+      "description": "« 다양한 고품질 ChatGPT 프롬프트, 무료 소프트웨어 및 최적화 팁 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/gpt-cheat-sheet.png",
+      "url": "https://www.aixploria.com/en/gpt-cheat-sheet/",
+      "type": "무료",
+      "category": "#Files & Spreadsheets, #Prompts & Aids",
+      "upvotes": 0
+    },
+    {
+      "name": "Genius Sheets",
+      "description": "« Excel 및 Google Sheets에서 재무 보고서와 모델을 생성하는 AI 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/genius-sheets.png",
+      "url": "https://www.aixploria.com/en/genius-sheets/",
+      "type": "부분 무료",
+      "category": "#Files & Spreadsheets, #Finance",
+      "upvotes": 0
+    },
+    {
+      "name": "GRID.is",
+      "description": "« AI 지원이 강화된 스프레드시트 편집기. 계산, 모델링, 시각화 등을 촉진합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/grid-is.png",
+      "url": "https://www.aixploria.com/en/grid-is/",
+      "type": "무료",
+      "category": "#Files & Spreadsheets",
+      "upvotes": 0
+    },
+    {
+      "name": "WebCopilot AI",
+      "description": "« 웹 탐색 시 도움을 주는 Chrome 확장 프로그램: 이메일 작성, 소셜 네트워크, Google 시트 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/webcopilot-ai.png",
+      "url": "https://www.aixploria.com/en/webcopilot-ai/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Files & Spreadsheets",
+      "upvotes": 0
+    },
+    {
+      "name": "Liner",
+      "description": "« ChatGPT로 생산성을 높이는 Google Chrome 확장 프로그램입니다. PDF 도우미도 있음 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/liner.png",
+      "url": "https://www.aixploria.com/en/liner/",
+      "type": "부분 무료",
+      "category": "#Extensions ChatGPT, #Files & Spreadsheets",
+      "upvotes": 0
+    },
+    {
+      "name": "Botsheets",
+      "description": "« Google Sheets와 직접 연결하여 데이터 수집 및 고객 응답을 자동화합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/botsheets.png",
+      "url": "https://www.aixploria.com/en/botsheets/",
+      "type": "유료",
+      "category": "#Customer Support, #Files & Spreadsheets",
+      "upvotes": 0
+    },
+    {
+      "name": "Audioread",
+      "description": "« 읽은 내용을 팟캐스트로 쉽게 변환하세요. PDF, 기사, 이메일 등을 들어보세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/audioread.png",
+      "url": "https://www.aixploria.com/en/audioread/",
+      "type": "부분 무료",
+      "category": "#Files & Spreadsheets, #Transcriber",
+      "upvotes": 0
+    }
+  ]
+}

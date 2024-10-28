@@ -1,0 +1,320 @@
+{
+  "name": "AI Chat & Assistant",
+  "items": [
+    {
+      "name": "ChatGPT",
+      "description": "« 세계에서 가장 유명한 대화 도우미. 질문하고 정확한 답변을 얻으세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/chatgpt.png",
+      "url": "https://www.aixploria.com/en/chatgpt/",
+      "type": "무료",
+      "category": "#AI Chat & Assistant, #ChatBots",
+      "upvotes": 1266
+    },
+    {
+      "name": "Claude AI",
+      "description": "« 점점 더 발전하는 능력과 인상적인 성능을 갖춘 AI 비서. 컨텍스트 창은 100만 개의 토큰에 접근합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/claude-ai.png",
+      "url": "https://www.aixploria.com/en/claude/",
+      "type": "무료",
+      "category": "#AI Chat & Assistant",
+      "upvotes": 410
+    },
+    {
+      "name": "Gemini AI",
+      "description": "« 성능 면에서 ChatGPT에 필적하는 Google의 강력한 AI 채팅 도우미 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/12/gemini_favicon.png",
+      "url": "https://www.aixploria.com/en/google-gemini-ai/",
+      "type": "무료",
+      "category": "#AI Chat & Assistant",
+      "upvotes": 535
+    },
+    {
+      "name": "Poe",
+      "description": "« 귀하의 모든 질문에 답할 수 있는 Quora 기반 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/poe.png",
+      "url": "https://www.aixploria.com/en/poe/",
+      "type": "유료",
+      "category": "#AI Chat & Assistant, #Education / Studies",
+      "upvotes": 44
+    },
+    {
+      "name": "Microsoft Copilot",
+      "description": "« 매일 당신을 돕는 다재다능한 조수. 언제든지 맞춤형 솔루션과 유용한 정보를 받아보세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/microsoft-copilot.png",
+      "url": "https://www.aixploria.com/en/microsoft-copilot-ai/",
+      "type": "무료",
+      "category": "#AI Chat & Assistant, #Life Assistants",
+      "upvotes": 311
+    },
+    {
+      "name": "Meta AI",
+      "description": "« 가장 똑똑한 오픈 소스 AI 비서와 채팅하세요. Llama 3에서 제공하는 이 도구는 일상적인 작업에 도움을 주며 실시간으로 이미지를 생성할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/meta-ai.png",
+      "url": "https://www.aixploria.com/en/meta-ai/",
+      "type": "무료",
+      "category": "#AI Chat & Assistant",
+      "upvotes": 32
+    },
+    {
+      "name": "ChatSonic",
+      "description": "« 비즈니스 세계 전용 대화형 AI 도우미: 실시간 웹 검색, PDF 초고속 분석 및 프로 이미지 생성. 개인화된 모델을 훈련할 수도 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/chatsonic.png",
+      "url": "https://www.aixploria.com/en/chatsonic/",
+      "type": "무료",
+      "category": "#AI Chat & Assistant, #ChatBots",
+      "upvotes": 42
+    },
+    {
+      "name": "Le Chat by Mistral AI",
+      "description": "« 공식 Mistral AI 대화 도우미. 최고의 OpenAI 모델과 경쟁하는 오픈 소스 ChatBot과 채팅 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/le-chat-by-mistral-ai.png",
+      "url": "https://www.aixploria.com/en/mistral-ai/",
+      "type": "무료",
+      "category": "#AI Chat & Assistant",
+      "upvotes": 137
+    },
+    {
+      "name": "Grok by xAI",
+      "description": "« xAI(Elon Musk)가 만든 AI 비서. X 사용자의 실시간 데이터를 기반으로 귀하의 질문에 답변합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/grok-by-xai.png",
+      "url": "https://www.aixploria.com/en/grok-by-xai/",
+      "type": "부분 무료",
+      "category": "#AI Chat & Assistant",
+      "upvotes": 95
+    },
+    {
+      "name": "Pi AI",
+      "description": "« 최고의 AI 비서와 유사한 놀라운 성능을 제공하는 Inflection AI가 만든 대화형 ChatBot »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/pi-ai.png",
+      "url": "https://www.aixploria.com/en/pi-inflection-ai/",
+      "type": "무료",
+      "category": "#AI Chat & Assistant",
+      "upvotes": 88
+    },
+    {
+      "name": "YouChat",
+      "description": "« 검색(텍스트, 이미지, 비디오 또는 뉴스) 및 다양한 쿼리를 지원하는 챗봇 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/youchat.png",
+      "url": "https://www.aixploria.com/en/youchat/",
+      "type": "무료",
+      "category": "#AI Chat & Assistant, #ChatBots",
+      "upvotes": 19
+    },
+    {
+      "name": "Chat with RTX by Nvidia",
+      "description": "« 로컬 및 비공개로 이용 가능한 강력한 AI 비서와 채팅하세요. 문서를 안전하게 분석하고 요약 등을 받아보세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/chat-with-rtx-by-nvidia.png",
+      "url": "https://www.aixploria.com/en/chat-with-rtx-by-nvidia-ai/",
+      "type": "무료",
+      "category": "#AI Chat & Assistant, #ChatBots",
+      "upvotes": 25
+    },
+    {
+      "name": "HuggingChat",
+      "description": "« Hugging Face 회사에서 제작한 무료 오픈 소스 대화형 ChatBot입니다. ChatGPT 과 유사함 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/huggingchat.png",
+      "url": "https://www.aixploria.com/en/huggingchat/",
+      "type": "무료",
+      "category": "#AI Chat & Assistant, #LLM models",
+      "upvotes": 14
+    },
+    {
+      "name": "StableLM",
+      "description": "« ChatGPT의 무료 오픈 소스 대안이 될 수 있는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/stablelm.png",
+      "url": "https://www.aixploria.com/en/stablelm/",
+      "type": "무료",
+      "category": "#AI Chat & Assistant, #Github Projects",
+      "upvotes": 15
+    },
+    {
+      "name": "Andi",
+      "description": "« 검색 엔진처럼 모든 질문에 답하는 어시스턴트 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/01/fav-andi2.webp",
+      "url": "https://www.aixploria.com/en/andi/",
+      "type": "무료",
+      "category": "#AI Chat & Assistant, #ChatBots",
+      "upvotes": 3
+    },
+    {
+      "name": "Molmo by Ai2",
+      "description": "« 텍스트와 이미지를 이해하고 생성할 수 있는 오픈 소스 다중 모드 언어 모델입니다. 컴퓨터 비전, 이미지 생성 및 시각적 추론 작업에 사용 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/molmo-by-ai2.png",
+      "url": "https://www.aixploria.com/en/molmo-by-ai2/",
+      "type": "무료",
+      "category": "#AI Chat & Assistant, #LLM models",
+      "upvotes": 41
+    },
+    {
+      "name": "Grok-2 Beta",
+      "description": "« xAI가 디자인한 X 플랫폼 AI 도우미. 텍스트, 이미지 등 실시간 정보를 통합합니다. Grok 2는 Black Forest Labs의 Flux.1을 통해 고품질 이미지를 생성할 수도 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/grok-2-beta.png",
+      "url": "https://www.aixploria.com/en/grok-2-beta-ai/",
+      "type": "유료",
+      "category": "#AI Chat & Assistant",
+      "upvotes": 51
+    },
+    {
+      "name": "Minigpt-4",
+      "description": "« 이미지를 정확하게 설명하고, 웹사이트를 만들고, 스토리를 생성하는 등의 작업을 수행할 수 있는 GPT-4의 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/minigpt-4/",
+      "type": "무료",
+      "category": "#AI Chat & Assistant, #Github Projects",
+      "upvotes": 5
+    },
+    {
+      "name": "Bard AI (Gemini)",
+      "description": "« AI ChatGPT의 잠재적인 라이벌. 유명한 미국 회사인 Google LLC에서 제작함 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/12/gemini_favicon.png",
+      "url": "https://www.aixploria.com/en/bard-ai/",
+      "type": "무료",
+      "category": "#AI Chat & Assistant",
+      "upvotes": 41
+    },
+    {
+      "name": "Brave Leo AI",
+      "description": "« 웹 페이지를 요약하고 콘텐츠를 생성하며 질문에 답변할 수 있는 브라우저에 통합된 AI 도우미입니다. 모두 비공개로 안전하게 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/brave-leo-ai.png",
+      "url": "https://www.aixploria.com/en/brave-leo-ai/",
+      "type": "무료",
+      "category": "#AI Chat & Assistant, #Search engine",
+      "upvotes": 28
+    },
+    {
+      "name": "Amazon Q",
+      "description": "« 귀하의 업무나 전문적인 업무를 돕기 위해 특별히 제작된 AI 비서입니다. 기업 및 모든 종류의 비즈니스에 이상적입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/amazon-q.png",
+      "url": "https://www.aixploria.com/en/amazon-q/",
+      "type": "유료",
+      "category": "#AI Chat & Assistant",
+      "upvotes": 8
+    },
+    {
+      "name": "Fluid AI",
+      "description": "« Mac용 개인 AI 비서. 오프라인으로 작동하여 민감한 데이터를 보호합니다. 음성 제어로 ChatGPT 품질을 즐겨보세요. 설치가 용이함 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/fluid-ai.png",
+      "url": "https://www.aixploria.com/en/fluid-private-ai-assistant-mac/",
+      "type": "무료",
+      "category": "#AI Chat & Assistant, #LLM models",
+      "upvotes": 34
+    },
+    {
+      "name": "Moshi AI",
+      "description": "« 실시간으로 당신의 목소리를 듣고, 이해하고, 반응하는 AI 비서와 자연스럽게 채팅하세요. 대화는 유동적이며 지속적으로 감정에 적응합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/moshi-chat-kyutai-ai/",
+      "type": "무료",
+      "category": "#AI Chat & Assistant",
+      "upvotes": 28
+    },
+    {
+      "name": "Jeeves.Ai",
+      "description": "« 검색 엔진처럼 작동하고 모든 종류의 콘텐츠를 만들 수 있는 AI 플랫폼입니다. 모바일 호환 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/jeeves-ai.png",
+      "url": "https://www.aixploria.com/en/jeeves-ai/",
+      "type": "무료",
+      "category": "#AI Chat & Assistant, #Search engine",
+      "upvotes": 4
+    },
+    {
+      "name": "GodMode by Smol.ai",
+      "description": "« ChatGPT, Claude 2, Bing, Perplexity, Bard, Llama2, HuggingChat 등과 동시에 채팅하는 GitHub 프로젝트 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/godmode-by-smol-ai.png",
+      "url": "https://www.aixploria.com/en/godmode-by-smol-ai/",
+      "type": "무료",
+      "category": "#AI Chat & Assistant, #Github Projects",
+      "upvotes": 9
+    },
+    {
+      "name": "StupidGPT",
+      "description": "« 항상 채팅에 참여하고 있지만 말도 안되는 말을 많이 하는 AI. 유머러스한 프로젝트 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/stupidgpt.png",
+      "url": "https://www.aixploria.com/en/stupidgpt/",
+      "type": "무료",
+      "category": "#AI Chat & Assistant, #Amazing",
+      "upvotes": 7
+    },
+    {
+      "name": "DuckDuckGo AI Chat",
+      "description": "« DuckDuckGo의 AI와 완전한 비밀을 유지하면서 대화하세요. 귀하의 대화는 녹음되거나 AI(GPT-3.5 및 Claude) 훈련에 사용되지 않습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/duckduckgo-ai-chat.png",
+      "url": "https://www.aixploria.com/en/duckduckgo-ai-chat/",
+      "type": "무료",
+      "category": "#AI Chat & Assistant",
+      "upvotes": 22
+    },
+    {
+      "name": "ChatHub",
+      "description": "« ChatGPT, Claude, Bard, Bing 등 여러 ChatBot을 동시에 사용할 수 있는 Chrome 확장 프로그램 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/chathub.png",
+      "url": "https://www.aixploria.com/en/chathub/",
+      "type": "무료",
+      "category": "#AI Chat & Assistant, #LLM models",
+      "upvotes": 6
+    },
+    {
+      "name": "Goody-2",
+      "description": "« 윤리와 보안을 최우선으로 생각하는 지능형 대화 도우미. 시장에서 가장 정중하고 안전한 챗봇으로 발표됨 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/goody-2.png",
+      "url": "https://www.aixploria.com/en/goody-2-ai-chatbot/",
+      "type": "무료",
+      "category": "#AI Chat & Assistant, #Amazing",
+      "upvotes": 8
+    },
+    {
+      "name": "MemoryGPT",
+      "description": "« ChatGPT와 매우 유사하지만 매우 장기 기억력을 지닌 AI입니다. 유망한 실험 프로젝트 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/memorygpt.png",
+      "url": "https://www.aixploria.com/en/memorygpt/",
+      "type": "무료",
+      "category": "#AI Chat & Assistant",
+      "upvotes": 3
+    },
+    {
+      "name": "Guanaco AI",
+      "description": "« 7B 매개변수 모델로 훈련된 고성능 다국어 대화형 챗봇 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/guanaco-ai.png",
+      "url": "https://www.aixploria.com/en/guanaco-ai/",
+      "type": "무료",
+      "category": "#AI Chat & Assistant, #LLM models",
+      "upvotes": 4
+    },
+    {
+      "name": "Open Assistant",
+      "description": "« 모든 종류의 질문에 답할 수 있는 오픈소스 AI 대화 에이전트 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/open-assistant.png",
+      "url": "https://www.aixploria.com/en/open-assistant/",
+      "type": "무료",
+      "category": "#AI Chat & Assistant, #LLM models",
+      "upvotes": 3
+    },
+    {
+      "name": "ChatGod",
+      "description": "« WhatsApp 및 Telegram을 통해 ChatGPT와 같은 다양한 AI 비서와 쉽게 통신할 수 있는 사이트 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/chatgod.png",
+      "url": "https://www.aixploria.com/en/chatgod/",
+      "type": "부분 무료",
+      "category": "#AI Chat & Assistant, #ChatBots",
+      "upvotes": 5
+    },
+    {
+      "name": "Yelp AI assistant",
+      "description": "« 대화형 AI 도우미 덕분에 서비스 제공업체 검색을 최적화하는 AI 도구입니다. 비즈니스 관리도 향상됩니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/yelp-ai-assistant.png",
+      "url": "https://www.aixploria.com/en/yelp-ai-assistant/",
+      "type": "부분 무료",
+      "category": "#AI Chat & Assistant, #Search engine",
+      "upvotes": 19
+    },
+    {
+      "name": "OppenheimerGPT",
+      "description": "« 탭 전환 없이 ChatGPT와 Bard를 동시에 사용할 수 있는 실용적인 MacOS 애플리케이션입니다. 실용적이고 안전하며 무료인 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/oppenheimergpt.png",
+      "url": "https://www.aixploria.com/en/oppenheimergpt/",
+      "type": "무료",
+      "category": "#AI Chat & Assistant",
+      "upvotes": 3
+    }
+  ]
+}

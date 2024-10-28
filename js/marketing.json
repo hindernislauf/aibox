@@ -1,0 +1,1022 @@
+{
+  "name": "Marketing",
+  "items": [
+    {
+      "name": "Adcreative AI",
+      "description": "« 브랜드, 로고, 색상 및 형식에 맞게 조정되는 AI를 사용하여 전문가 수준의 광고를 쉽게 디자인하세요. 소셜 네트워크 마케팅 및 기업에 권장됩니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/adcreative-ai.png",
+      "url": "https://www.aixploria.com/en/adcreative-ai/",
+      "type": "Free-Trial",
+      "category": "#AIxploria Selection, #Business",
+      "upvotes": 410
+    },
+    {
+      "name": "Canva AI",
+      "description": "« 디지털 제작 및 시각 디자인을 위한 도구 세트입니다. AI 기반 플랫폼으로 모든 시각적 요소를 빠르게 생성하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/canva-ai.png",
+      "url": "https://www.aixploria.com/en/canva-ai/",
+      "type": "부분 무료",
+      "category": "#Business, #Marketing",
+      "upvotes": 223
+    },
+    {
+      "name": "HubSpot CRM",
+      "description": "« 특히 직관적인 AI 기반 전문 CRM을 통해 영업 및 마케팅을 최적화하세요. 실시간으로 성과를 추적하고 보다 효율적으로 작업을 자동화합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/04/HubSpot-fav.png",
+      "url": "https://www.aixploria.com/en/hubspot-crm-ai/",
+      "type": "Free-Trial",
+      "category": "#Automation, #Marketing",
+      "upvotes": 217
+    },
+    {
+      "name": "Synthesia 2.0",
+      "description": "« 실제 사람처럼 표현력이 풍부한 비디오 아바타를 만드세요. 전문가 수준의 결과를 빠르게 얻으세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/synthesia-2-0.png",
+      "url": "https://www.aixploria.com/en/synthesia-io/",
+      "type": "유료",
+      "category": "#AIxploria Selection, #Marketing",
+      "upvotes": 92
+    },
+    {
+      "name": "HoppyCopy",
+      "description": "« AI 덕분에 눈 깜짝할 사이에 효과적인 이메일 캠페인을 작성할 수 있습니다. 귀하의 요구 사항에 맞게 최적화된 50개 이상의 템플릿으로 귀중한 시간을 절약하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/hoppycopy.png",
+      "url": "https://www.aixploria.com/en/hoppycopy/",
+      "type": "부분 무료",
+      "category": "#E-mail, #Marketing",
+      "upvotes": 84
+    },
+    {
+      "name": "Benchmark Email",
+      "description": "« 전문적이고 매력적인 이메일 만들기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/benchmark-email.png",
+      "url": "https://www.aixploria.com/en/benchmark-email/",
+      "type": "무료",
+      "category": "#Business, #E-commerce",
+      "upvotes": 19
+    },
+    {
+      "name": "Predis AI",
+      "description": "« 소셜 네트워크에 특화된 AI 콘텐츠 생성기. 텍스트, 이미지, 음성, 광고, 캐러셀 등을 만들 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/predis-ai.png",
+      "url": "https://www.aixploria.com/en/predis/",
+      "type": "부분 무료",
+      "category": "#Marketing, #Social Networks",
+      "upvotes": 38
+    },
+    {
+      "name": "Repurpose IO",
+      "description": "« 소셜 네트워크에서 마케팅 및 게시를 단순화하는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/01/repurpose-io-ai-icon.webp",
+      "url": "https://www.aixploria.com/en/repurpose-io/",
+      "type": "Free-Trial",
+      "category": "#Business, #E-commerce",
+      "upvotes": 47
+    },
+    {
+      "name": "Beautiful AI",
+      "description": "« 전문 디자인 전문가 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/beautiful-ai.png",
+      "url": "https://www.aixploria.com/en/beautiful-ai/",
+      "type": "유료",
+      "category": "#Business, #Marketing",
+      "upvotes": 53
+    },
+    {
+      "name": "AI Campaign Assistant",
+      "description": "« AI를 사용하면 마케팅 캠페인, 전문 랜딩 페이지 또는 이메일을 순식간에 만들 수 있습니다. 톤과 핵심 포인트를 선택하면 나머지는 어시스턴트가 알아서 처리합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/04/HubSpot-fav.png",
+      "url": "https://www.aixploria.com/en/ai-campaign-assistant-hubspot/",
+      "type": "무료",
+      "category": "#Marketing",
+      "upvotes": 59
+    },
+    {
+      "name": "Flair AI",
+      "description": "« 마케팅용 사진이나 이미지를 디자인하기 위한 이미지 생성기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/flair-ai.png",
+      "url": "https://www.aixploria.com/en/flair-ai/",
+      "type": "무료",
+      "category": "#Business, #Image Generators",
+      "upvotes": 38
+    },
+    {
+      "name": "Tube Magic",
+      "description": "« 비디오 아이디어, 스크립트 및 제목을 생성하기 위한 이 AI 도구를 사용하여 YouTube 채널을 강화하세요. 손쉽게 가시성 확보 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/04/tube-magic-ai-video.png",
+      "url": "https://www.aixploria.com/en/tube-magic-ai-video/",
+      "type": "유료",
+      "category": "#Marketing, #Social Networks",
+      "upvotes": 47
+    },
+    {
+      "name": "Microsoft Designer",
+      "description": "« 전문적이고 상업적인 품질의 시각적 메시지를 위한 AI 생성 마케팅 그래픽. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/microsoft-designer.png",
+      "url": "https://www.aixploria.com/en/microsoft-designer/",
+      "type": "부분 무료",
+      "category": "#Image Generators, #Marketing",
+      "upvotes": 302
+    },
+    {
+      "name": "AI Search Grader",
+      "description": "« AI 검색 엔진 결과에서 브랜드의 가시성을 분석하는 무료 도구입니다. 귀사의 온라인 입지에 대해 자세히 알아보고 AI 시대에 맞춰 마케팅 전략을 최적화하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/04/HubSpot-fav.png",
+      "url": "https://www.aixploria.com/en/ai-search-grader-hubspot-marketing/",
+      "type": "무료",
+      "category": "#Marketing",
+      "upvotes": 28
+    },
+    {
+      "name": "Robin AI",
+      "description": "« 콜드 이메일 전송을 자동화하고 마케팅 콘텐츠를 생성하는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/robin-ai.png",
+      "url": "https://www.aixploria.com/en/robin-ai/",
+      "type": "유료",
+      "category": "#E-mail, #Marketing",
+      "upvotes": 3
+    },
+    {
+      "name": "Magic Studio Canva",
+      "description": "« 프롬프트에서 이미지, 비디오, 프레젠테이션 또는 디자인을 생성하기 위한 AI 도구 모음입니다. 이 보조자는 전문적인 결과를 보장하기 위한 모든 단계를 안내합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/magic-studio-canva.png",
+      "url": "https://www.aixploria.com/en/magic-studio-canva-ai/",
+      "type": "부분 무료",
+      "category": "#Image editing, #Marketing",
+      "upvotes": 28
+    },
+    {
+      "name": "Breeze Copilot",
+      "description": "« 마케팅 캠페인을 최적화하는 AI 도우미(HubSpot). 개인화된 콘텐츠를 생성하고, 성과를 분석하고, 지능적인 추천을 받아 전환 및 고객 참여를 향상시킵니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/04/HubSpot-fav.png",
+      "url": "https://www.aixploria.com/en/breeze-copilot-ai-hubspot/",
+      "type": "부분 무료",
+      "category": "#AIxploria Selection, #Business",
+      "upvotes": 44
+    },
+    {
+      "name": "Augie",
+      "description": "« 이 지능형 보조원을 사용하여 전문적인 기술 없이도 효과적인 마케팅 비디오를 만드세요. 스크립트 생성, 스타일 선택 및 광범위한 미디어 라이브러리 액세스 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/augie.png",
+      "url": "https://www.aixploria.com/en/augie-ai-video-marketing/",
+      "type": "부분 무료",
+      "category": "#Marketing, #Video Generators",
+      "upvotes": 21
+    },
+    {
+      "name": "Beacons.ai",
+      "description": "« 소셜 네트워크를 위한 유기적 링크 생성을 전문으로 하는 마케팅 플랫폼입니다. 나만의 온라인 상점을 빠르게 만들 수도 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/beacons-ai.png",
+      "url": "https://www.aixploria.com/en/beacons-ai/",
+      "type": "부분 무료",
+      "category": "#Marketing, #Social Networks",
+      "upvotes": 24
+    },
+    {
+      "name": "Booth AI",
+      "description": "« AI 모델이 입는 옷을 입거나 제품을 선보이세요. 고품질 사진 이미지 제작 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/booth-ai.png",
+      "url": "https://www.aixploria.com/en/booth-ai/",
+      "type": "부분 무료",
+      "category": "#E-commerce, #Image Generators",
+      "upvotes": 56
+    },
+    {
+      "name": "Optimo",
+      "description": "« SEO, 인스타그램, 카피라이팅, 비디오, 이메일 등을 위한 AI가 포함된 완벽한 무료 마케팅 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/optimo.png",
+      "url": "https://www.aixploria.com/en/optimo/",
+      "type": "무료",
+      "category": "#Marketing, #Social Networks",
+      "upvotes": 2
+    },
+    {
+      "name": "Voxwave AI",
+      "description": "« 대규모 이메일 마케팅 캠페인을 만드는 전문 이메일 작성자(콜드 방식) »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/voxwave-ai.png",
+      "url": "https://www.aixploria.com/en/voxwave-ai/",
+      "type": "유료",
+      "category": "#E-mail, #Marketing",
+      "upvotes": 3
+    },
+    {
+      "name": "ECommerce Prompt Generator",
+      "description": "« 전자상거래 사이트 및 마케팅을 위한 고급 설정이 포함된 ChatGPT 프롬프트 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ecommerce-prompt-generator.png",
+      "url": "https://www.aixploria.com/en/ecommerce-prompt-generator/",
+      "type": "무료",
+      "category": "#E-commerce, #Extensions ChatGPT",
+      "upvotes": 4
+    },
+    {
+      "name": "Tugan.ai",
+      "description": "« 간단한 URL을 통해 귀하의 마케팅 캠페인에 완벽하게 적합한 이메일을 생성할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/tugan-ai.png",
+      "url": "https://www.aixploria.com/en/tugan-ai/",
+      "type": "부분 무료",
+      "category": "#E-mail, #Marketing",
+      "upvotes": 2
+    },
+    {
+      "name": "Go Charlie",
+      "description": "« 웹용 4K 이미지 및 광고 만들기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/go-charlie.png",
+      "url": "https://www.aixploria.com/en/go-charlie/",
+      "type": "부분 무료",
+      "category": "#Image Generators, #Marketing",
+      "upvotes": 10
+    },
+    {
+      "name": "Symplified",
+      "description": "« 텍스트, 비디오, 이미지를 생성할 수 있는 멀티태스킹 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/symplified.png",
+      "url": "https://www.aixploria.com/en/symplified/",
+      "type": "무료",
+      "category": "#Marketing, #Writing & Web SEO",
+      "upvotes": 1
+    },
+    {
+      "name": "Predict AI",
+      "description": "« 데이터를 사용하여 95% 정확도로 고객의 의도를 예측하는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/predict-ai.png",
+      "url": "https://www.aixploria.com/en/predict-ai/",
+      "type": "유료",
+      "category": "#Business, #Data & Analytics",
+      "upvotes": 13
+    },
+    {
+      "name": "Overloop",
+      "description": "« AI로 자동화된 판매 전망 플랫폼. 적합한 리드를 생성하고, 개인화된 이메일 캠페인을 생성하고 손쉽게 전환을 최적화하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/09/Overloop-ai-fav-custom.png",
+      "url": "https://www.aixploria.com/en/overloop-ai-prospect-marketing/",
+      "type": "유료",
+      "category": "#Automation, #Marketing",
+      "upvotes": 41
+    },
+    {
+      "name": "Contenda",
+      "description": "« AI를 통해 입증된 마케팅 기법 재사용 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/contenda.png",
+      "url": "https://www.aixploria.com/en/contenda/",
+      "type": "부분 무료",
+      "category": "#Marketing, #Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "Adobe GenStudio",
+      "description": "« 마케팅 콘텐츠 생성을 가속화하는 생성적 AI 솔루션입니다. 브랜드 아이덴티티를 존중하는 직관적인 도구를 사용하여 교차채널 캠페인을 계획, 생성 및 최적화합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/08/adobe-podcast.png",
+      "url": "https://www.aixploria.com/en/adobe-genstudio-ai-marketing/",
+      "type": "Free-Trial",
+      "category": "#Future Tools, #Marketing",
+      "upvotes": 39
+    },
+    {
+      "name": "Mailchimp",
+      "description": "« AI로 구동되는 완전한 이메일 및 SMS 마케팅 플랫폼입니다. 매출 증대 및 고객 충성도 구축을 위한 캠페인 생성, 자동화 및 최적화 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/mailchimp.png",
+      "url": "https://www.aixploria.com/en/mailchimp-ai-marketing-email/",
+      "type": "Free-Trial",
+      "category": "#E-mail, #Marketing",
+      "upvotes": 34
+    },
+    {
+      "name": "Creatus AI",
+      "description": "« 소셜 네트워크에 광고를 만들기 위한 텍스트-비디오 생성기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/creatus-ai.png",
+      "url": "https://www.aixploria.com/en/creatus-ai/",
+      "type": "무료",
+      "category": "#Marketing, #Social Networks",
+      "upvotes": 3
+    },
+    {
+      "name": "Scalenut",
+      "description": "« SEO 콘텐츠 생성을 단순화하는 AI 플랫폼. 지능형 도구를 사용하여 몇 분 만에 최적화된 기사 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/scalenut.png",
+      "url": "https://www.aixploria.com/en/scalenut-ai-seo/",
+      "type": "Free-Trial",
+      "category": "#Marketing, #Writing & Web SEO",
+      "upvotes": 20
+    },
+    {
+      "name": "Shaped",
+      "description": "« 사용자가 선호하는 것(웹 페이지, 피드, 추천 또는 마케팅 커뮤니케이션)을 기반으로 순위를 디자인합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/shaped.png",
+      "url": "https://www.aixploria.com/en/shaped/",
+      "type": "유료",
+      "category": "#Developer Tools, #Marketing",
+      "upvotes": 0
+    },
+    {
+      "name": "Sequens.ai",
+      "description": "« AI로 대규모 마케팅 콘텐츠를 제작하세요. SEO 블로그 게시물, 소셜 네트워크용 타겟 간행물, 리드 증가를 위한 스크립트를 생성합니다. ➥ B2B 전문가 감독 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/sequens-ai.png",
+      "url": "https://www.aixploria.com/en/sequens-ai-marketing-content-b2b/",
+      "type": "부분 무료",
+      "category": "#Marketing, #Writing & Web SEO",
+      "upvotes": 33
+    },
+    {
+      "name": "Pebblely",
+      "description": "« 마케팅, 광고 또는 제품 프레젠테이션을 위한 영상 제작 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/pebblely.png",
+      "url": "https://www.aixploria.com/en/pebblely/",
+      "type": "부분 무료",
+      "category": "#Image Generators, #Marketing",
+      "upvotes": 1
+    },
+    {
+      "name": "Reply IO",
+      "description": "« GPT-3 하에서 운영되는 온라인 판매 및 마케팅(이메일) 전문 AI 비서 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/reply-io.png",
+      "url": "https://www.aixploria.com/en/reply-io/",
+      "type": "부분 무료",
+      "category": "#E-mail, #Marketing",
+      "upvotes": 1
+    },
+    {
+      "name": "Blobr",
+      "description": "« 비즈니스 데이터 쿼리에 대한 빠른 답변을 얻으세요. Stripe, Google Analytics, Hubspot, Salesforce 등과 통합 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/blobr.png",
+      "url": "https://www.aixploria.com/en/blobr/",
+      "type": "부분 무료",
+      "category": "#Business, #Marketing",
+      "upvotes": 2
+    },
+    {
+      "name": "Playstrict",
+      "description": "« 게임 마케팅을 개발하여 전 세계에 알리세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/playstrict.png",
+      "url": "https://www.aixploria.com/en/playstrict/",
+      "type": "부분 무료",
+      "category": "#Games, #Marketing",
+      "upvotes": 1
+    },
+    {
+      "name": "Pinterest Performance+",
+      "description": "« AI를 통해 Pinterest에서 광고 캠페인을 강화하세요. 자동으로 광고를 최적화하고, 가장 관련성이 높은 잠재 고객을 타겟팅하고, 성과를 측정하여 ROI를 극대화합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/pinterest-performance-.png",
+      "url": "https://www.aixploria.com/en/pinterest-performance-ai-marketing/",
+      "type": "부분 무료",
+      "category": "#Marketing, #Social Networks",
+      "upvotes": 31
+    },
+    {
+      "name": "Second Nature AI",
+      "description": "« AI를 교육하여 수익과 매출을 빠르게 늘리세요. 실시간 통계 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/second-nature-ai.png",
+      "url": "https://www.aixploria.com/en/second-nature-ai/",
+      "type": "부분 무료",
+      "category": "#Business, #Marketing",
+      "upvotes": 2
+    },
+    {
+      "name": "PNGMaker",
+      "description": "« 프롬프트에서 투명한 PNG 이미지를 빠르게 생성하는 웹사이트. 디자이너, 마케팅 담당자, 그래픽 아티스트 등에 적합합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/pngmaker.png",
+      "url": "https://www.aixploria.com/en/pngmaker-ai/",
+      "type": "무료",
+      "category": "#Art, #Image Generators",
+      "upvotes": 18
+    },
+    {
+      "name": "Vizard",
+      "description": "« 2번의 클릭으로 마케팅 비디오 편집 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/vizard.png",
+      "url": "https://www.aixploria.com/en/vizard/",
+      "type": "무료",
+      "category": "#Marketing, #Video Edition",
+      "upvotes": 0
+    },
+    {
+      "name": "Adobe Sensei",
+      "description": "« 더 나은 결정을 내리고 마케팅 캠페인 결과를 개선하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/08/adobe-podcast.png",
+      "url": "https://www.aixploria.com/en/adobe-sensei/",
+      "type": "유료",
+      "category": "#Business, #Marketing",
+      "upvotes": 2
+    },
+    {
+      "name": "AI Ad by ADSBY",
+      "description": "« AI로 관련 광고 캠페인을 만드세요. Google, LinkedIn, Instagram, Facebook 및 X(Twitter)에서 작동합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-ad-by-adsby.png",
+      "url": "https://www.aixploria.com/en/ai-ad-text-generator/",
+      "type": "무료",
+      "category": "#Business, #E-commerce",
+      "upvotes": 3
+    },
+    {
+      "name": "Contlo.ai",
+      "description": "« 소셜 네트워크에서의 마케팅 활동에 도움을 주는 어시스턴트 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/contlo-ai.png",
+      "url": "https://www.aixploria.com/en/contlo-ai/",
+      "type": "부분 무료",
+      "category": "#Business, #E-commerce",
+      "upvotes": 4
+    },
+    {
+      "name": "Unify",
+      "description": "« B2B 잠재고객 발굴을 최적화하는 올인원 AI 플랫폼입니다. 1억 2천만 개가 넘는 연락처에 액세스하고, 개인화된 이메일 캠페인을 자동화하고, 기존 CRM 도구와 데이터를 동기화하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/10/unify-ai-gtm.png",
+      "url": "https://www.aixploria.com/en/unify-ai-gtm/",
+      "type": "유료",
+      "category": "#Automation, #Marketing",
+      "upvotes": 27
+    },
+    {
+      "name": "Sivi AI",
+      "description": "« 텍스트를 배너, 소셜 게시물, 광고 등의 시각적 콘텐츠로 즉시 변환합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/sivi-ai.png",
+      "url": "https://www.aixploria.com/en/sivi-ai/",
+      "type": "무료",
+      "category": "#Marketing, #Websites & Design",
+      "upvotes": 1
+    },
+    {
+      "name": "JibeWith",
+      "description": "« 이 AI는 국가의 청중을 대상으로 하며 소셜 네트워크에서 성공적인 마케팅 전략을 설계합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/jibewith.png",
+      "url": "https://www.aixploria.com/en/jibewith/",
+      "type": "부분 무료",
+      "category": "#Marketing, #Social Networks",
+      "upvotes": 0
+    },
+    {
+      "name": "InstaSalesAI",
+      "description": "« 인스타그램 앱 마케팅에 사용되는 AI 도구 세트 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/instasalesai.png",
+      "url": "https://www.aixploria.com/en/instasalesai/",
+      "type": "부분 무료",
+      "category": "#Marketing, #Sales & Conversion",
+      "upvotes": 1
+    },
+    {
+      "name": "Syllaby",
+      "description": "« 소셜 네트워크를 위한 마케팅 전략을 만들고, 가장 인기 있는 질문을 찾고, TikTok 또는 YouTube에서 동영상을 제작하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/syllaby.png",
+      "url": "https://www.aixploria.com/en/syllaby/",
+      "type": "무료",
+      "category": "#Marketing, #Social Networks",
+      "upvotes": 1
+    },
+    {
+      "name": "La Growth Machine",
+      "description": "« LinkedIn 및 이메일 판매 캠페인을 자동화하는 AI 플랫폼입니다. 리드와 대화를 더욱 효과적으로 분석하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/la-growth-machine.png",
+      "url": "https://www.aixploria.com/en/la-growth-machine-ai-leads/",
+      "type": "Free-Trial",
+      "category": "#Automation, #Marketing",
+      "upvotes": 20
+    },
+    {
+      "name": "Mutiny",
+      "description": "« 마케팅 전문가를 지원하고 전환율을 높이는 노코드 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/mutiny.png",
+      "url": "https://www.aixploria.com/en/mutiny/",
+      "type": "유료",
+      "category": "#Marketing, #No Code/Low Code",
+      "upvotes": 0
+    },
+    {
+      "name": "Pressmaster.ai",
+      "description": "« 매력적인 기사를 작성하고, 잡지에 게재하고, 영향력을 쉽게 모니터링하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/pressmaster-ai.png",
+      "url": "https://www.aixploria.com/en/pressmaster-ai/",
+      "type": "유료",
+      "category": "#Business, #Marketing",
+      "upvotes": 27
+    },
+    {
+      "name": "Blaze AI",
+      "description": "« 수백만 개의 시장 신호를 동시에 분석하는 AI를 통해 마케팅 데이터를 중앙 집중화하고 크로스 플랫폼 캠페인을 자동화합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/blaze-ai.png",
+      "url": "https://www.aixploria.com/en/blaze-ai-marketing/",
+      "type": "무료",
+      "category": "#Marketing",
+      "upvotes": 15
+    },
+    {
+      "name": "Windsor",
+      "description": "« 더 많은 청중에게 다가가기 위해 AI 개인화 비디오를 만드십시오. 특히 이메일 및 SMS 마케팅 캠페인의 경우 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/windsor.png",
+      "url": "https://www.aixploria.com/en/windsor/",
+      "type": "무료",
+      "category": "#Marketing, #Video Edition",
+      "upvotes": 2
+    },
+    {
+      "name": "Telescope AI",
+      "description": "« 거대한 데이터베이스와 AI의 도움으로 관련 B2B 리드 찾기, 시장 조사 수행 또는 타겟 목록 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/telescope-ai.png",
+      "url": "https://www.aixploria.com/en/telescope-ai/",
+      "type": "부분 무료",
+      "category": "#Business, #Marketing",
+      "upvotes": 15
+    },
+    {
+      "name": "PipeLime",
+      "description": "« AI 기반 자동화를 통해 검증된 리드를 생성하여 판매를 최적화하세요. 전환율을 빠르게 개선하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/pipelime.png",
+      "url": "https://www.aixploria.com/en/pipelime-ai/",
+      "type": "부분 무료",
+      "category": "#Automation, #Business",
+      "upvotes": 16
+    },
+    {
+      "name": "Ocoya",
+      "description": "« 단 몇 분만에 소셜 네트워크용 마케팅 콘텐츠를 제작할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ocoya.png",
+      "url": "https://www.aixploria.com/en/ocoya/",
+      "type": "부분 무료",
+      "category": "#Marketing, #Social Networks",
+      "upvotes": 1
+    },
+    {
+      "name": "Aiter",
+      "description": "« 웹사이트 주소만을 이용해 광고 콘텐츠와 마케팅 전략을 생성하는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/aiter.png",
+      "url": "https://www.aixploria.com/en/aiter/",
+      "type": "무료",
+      "category": "#Marketing, #Websites & Design",
+      "upvotes": 1
+    },
+    {
+      "name": "Clickable",
+      "description": "« 마케팅 캠페인에 사용할 매력적인 디자인의 광고 디자인 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/clickable.png",
+      "url": "https://www.aixploria.com/en/clickable/",
+      "type": "부분 무료",
+      "category": "#Business, #Marketing",
+      "upvotes": 1
+    },
+    {
+      "name": "Tavus",
+      "description": "« AI를 사용하여 동영상을 개인화하고 청중의 관심을 높이세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/tavus.png",
+      "url": "https://www.aixploria.com/en/tavus/",
+      "type": "부분 무료",
+      "category": "#Marketing, #Video Edition",
+      "upvotes": 0
+    },
+    {
+      "name": "Air.ai",
+      "description": "« 상업적 가치(마케팅, 애프터 세일즈 및 B2B)로 긴 전화 통화를 할 수 있는 AI 에이전트입니다. 에이전트를 쉽게 사용자 정의할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/air-ai.png",
+      "url": "https://www.aixploria.com/en/air-ai/",
+      "type": "유료",
+      "category": "#Business, #Customer Support",
+      "upvotes": 3
+    },
+    {
+      "name": "Bizwith.ai",
+      "description": "« AI 기반 자동화로 비즈니스를 강화하십시오. 고객 지원, 콘텐츠 제작 등 최적화 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/bizwith-ai.png",
+      "url": "https://www.aixploria.com/en/bizwith-ai/",
+      "type": "부분 무료",
+      "category": "#Automation, #Business",
+      "upvotes": 1
+    },
+    {
+      "name": "StoryChief",
+      "description": "« 콘텐츠 생성, 게시, 홍보를 중앙 집중화하고 자동화하세요. 작업 흐름을 최적화하려는 마케팅 팀에 특히 적합합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/storychief.png",
+      "url": "https://www.aixploria.com/en/storychief-ai-marketing/",
+      "type": "부분 무료",
+      "category": "#Business, #Marketing",
+      "upvotes": 17
+    },
+    {
+      "name": "Sphinx Mind",
+      "description": "« 즉각적인 보고, 분석, 통계를 제공하는 마케팅 전문 AI 비서입니다. Slack 및 Teams와의 통합 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/sphinx-mind.png",
+      "url": "https://www.aixploria.com/en/sphinx-mind-ai/",
+      "type": "유료",
+      "category": "#Marketing",
+      "upvotes": 2
+    },
+    {
+      "name": "RocketAI",
+      "description": "« 마케팅 지향 이미지 생성기. 매력적인 시각적 광고의 빠른 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/rocketai.png",
+      "url": "https://www.aixploria.com/en/rocketai/",
+      "type": "무료",
+      "category": "#Image Generators, #Marketing",
+      "upvotes": 1
+    },
+    {
+      "name": "GETitOUT",
+      "description": "« 좋은 품질의 마케팅 텍스트 생성기 및 이메일 작성기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/getitout.png",
+      "url": "https://www.aixploria.com/en/getitout/",
+      "type": "부분 무료",
+      "category": "#E-mail, #Marketing",
+      "upvotes": 0
+    },
+    {
+      "name": "Klaviyo",
+      "description": "« AI로 마케팅 캠페인을 자동화하세요. 실시간 고객 데이터를 사용하여 매우 개인화된 이메일 및 SMS 보내기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/klaviyo.png",
+      "url": "https://www.aixploria.com/en/klaviyo-ai-email-automation/",
+      "type": "부분 무료",
+      "category": "#Automation, #E-mail",
+      "upvotes": 16
+    },
+    {
+      "name": "Jack AI",
+      "description": "« 마케팅 개발에 전념하는 카피라이팅 보조원입니다. 즉시 콘텐츠를 생성, 개선 및 다듬기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/jack-ai.png",
+      "url": "https://www.aixploria.com/en/jack-ai/",
+      "type": "부분 무료",
+      "category": "#Marketing, #Writing & Web SEO",
+      "upvotes": 13
+    },
+    {
+      "name": "Flowpoint",
+      "description": "« 데이터 기반 의사결정을 통해 웹사이트의 전환율을 최적화하고 ROI를 향상시키는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/flowpoint.png",
+      "url": "https://www.aixploria.com/en/flowpoint/",
+      "type": "유료",
+      "category": "#Data & Analytics, #Marketing",
+      "upvotes": 0
+    },
+    {
+      "name": "Textdrip",
+      "description": "« 개인화된 SMS 메시지 전송을 자동화하고 최적화합니다. 마케팅 커뮤니케이션을 통해 고객 참여 개선 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/textdrip.png",
+      "url": "https://www.aixploria.com/en/textdrip/",
+      "type": "유료",
+      "category": "#Business, #Marketing",
+      "upvotes": 1
+    },
+    {
+      "name": "Zaplify",
+      "description": "« 적합한 리드를 찾아 이메일이나 LinkedIn을 통해 자동으로 참여시키세요. AI 기반 비즈니스 분석 받기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/zaplify.png",
+      "url": "https://www.aixploria.com/en/zaplify/",
+      "type": "부분 무료",
+      "category": "#Marketing, #Sales & Conversion",
+      "upvotes": 1
+    },
+    {
+      "name": "SellMeThisPen",
+      "description": "« 올인원 AI 교육 플랫폼으로 매출을 증대하세요. 연습하고, 피드백을 받고, 실시간 AI 지원 혜택을 누리세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/sellmethispen.png",
+      "url": "https://www.aixploria.com/en/sellmethispen-ai/",
+      "type": "Free-Trial",
+      "category": "#Business, #Marketing",
+      "upvotes": 16
+    },
+    {
+      "name": "Success.ai",
+      "description": "« 리드 생성 및 이메일 캠페인을 위한 도구를 갖춘 B2B 잠재 고객 발굴 플랫폼. 7억 개가 넘는 B2B 연락처 및 AI 기반 글쓰기 도우미에 액세스 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/success-ai.png",
+      "url": "https://www.aixploria.com/en/success-ai/",
+      "type": "유료",
+      "category": "#E-mail, #Marketing",
+      "upvotes": 1
+    },
+    {
+      "name": "Abyssale",
+      "description": "« 자동 모드의 시각적 마케팅 콘텐츠 제작 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/abyssale.png",
+      "url": "https://www.aixploria.com/en/abyssale/",
+      "type": "유료",
+      "category": "#Business, #E-commerce",
+      "upvotes": 2
+    },
+    {
+      "name": "Heylibby.ai",
+      "description": "« 널리 사용되는 CRM 플랫폼과 원활하게 통합되는 AI 도구를 사용하여 리드 생성 및 예약 자동화 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/heylibby-ai/",
+      "type": "무료",
+      "category": "#E-commerce, #Marketing",
+      "upvotes": 0
+    },
+    {
+      "name": "Oxolo",
+      "description": "« 귀하의 전자상거래 사이트에서 판매하는 제품의 URL을 통해 광고 동영상 제작 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/oxolo.png",
+      "url": "https://www.aixploria.com/en/oxolo/",
+      "type": "부분 무료",
+      "category": "#E-commerce, #Marketing",
+      "upvotes": 0
+    },
+    {
+      "name": "Vulse",
+      "description": "« LinkedIn 계정을 최적화하고 강화하는 전체 AI 도구 세트: 전략적 분석, 콘텐츠 생성, 참여율 증가 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/vulse.png",
+      "url": "https://www.aixploria.com/en/vulse-ai/",
+      "type": "부분 무료",
+      "category": "#Marketing, #Social Networks",
+      "upvotes": 2
+    },
+    {
+      "name": "Boolv",
+      "description": "« Boolv로 브랜드를 강화하세요. 빠르게 비디오를 제작하고 비용을 절감하며 고객에게 더욱 효과적으로 다가가세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/boolv.png",
+      "url": "https://www.aixploria.com/en/boolv/",
+      "type": "무료",
+      "category": "#Marketing, #Video Edition",
+      "upvotes": 0
+    },
+    {
+      "name": "RedCom AI",
+      "description": "« 개인화된 Reddit 댓글을 생성하여 웹 트래픽을 빠르게 늘리세요. 이 AI로 마케팅 전략을 개선하세요. 제휴 마케팅에 적합 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/redcom-ai.png",
+      "url": "https://www.aixploria.com/en/redcom-ai/",
+      "type": "부분 무료",
+      "category": "#Marketing, #Social Networks",
+      "upvotes": 14
+    },
+    {
+      "name": "IntelliNode",
+      "description": "« 마케팅이나 블로그 게시물 등 다양한 용도로 사용할 수 있는 매력적인 고품질 콘텐츠 자동 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/intellinode/",
+      "type": "무료",
+      "category": "#Business, #Marketing",
+      "upvotes": 1
+    },
+    {
+      "name": "Pencil",
+      "description": "« 광고 캠페인의 새로운 각도를 찾고 브랜드를 강화하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/pencil.png",
+      "url": "https://www.aixploria.com/en/pencil/",
+      "type": "부분 무료",
+      "category": "#Business, #Marketing",
+      "upvotes": 2
+    },
+    {
+      "name": "Voicepanel",
+      "description": "« AI를 활용해 대규모 심층 조사를 실시합니다. 자세한 통계와 피드백을 신속하고 비용 효율적으로 받기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/voicepanel.png",
+      "url": "https://www.aixploria.com/en/voicepanel-ai/",
+      "type": "유료",
+      "category": "#Business, #Marketing",
+      "upvotes": 7
+    },
+    {
+      "name": "Zocket",
+      "description": "« 소셜 네트워크에서 광고를 빠르게 생성할 수 있는 AI 플랫폼입니다. 성과를 향상시키면서 마케팅 캠페인을 최적화할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/zocket.png",
+      "url": "https://www.aixploria.com/en/zocket/",
+      "type": "Free-Trial",
+      "category": "#Marketing, #Social Networks",
+      "upvotes": 3
+    },
+    {
+      "name": "Google Trends Supercharged 2",
+      "description": "« AI의 도움으로 Google 트렌드의 새로운 트렌드를 분석, 상담 및 발견 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/google-trends-supercharged-2.png",
+      "url": "https://www.aixploria.com/en/google-trends-supercharged-2/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Marketing",
+      "upvotes": 0
+    },
+    {
+      "name": "Creative Fast AID",
+      "description": "« 이념(NGO) 또는 브랜드 캠페인을 빠르게 생성하기 위한 혁신적인 AI 서비스입니다. 빠른 기능으로 사용하기 매우 쉽습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/creative-fast-aid.png",
+      "url": "https://www.aixploria.com/en/creative-fast-aid/",
+      "type": "무료",
+      "category": "#Marketing",
+      "upvotes": 2
+    },
+    {
+      "name": "Memorable Ad Maker",
+      "description": "« 프롬프트에서 자동으로 광고를 생성합니다. AI 기반 마케팅 캠페인 시작 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/memorable-ad-maker.png",
+      "url": "https://www.aixploria.com/en/memorable-ad-maker/",
+      "type": "유료",
+      "category": "#Business, #Marketing",
+      "upvotes": 1
+    },
+    {
+      "name": "Vidon AI",
+      "description": "« 블로그, 웹사이트 또는 스크립트에서 매력적인 비디오를 쉽게 생성하기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/vidon-ai.png",
+      "url": "https://www.aixploria.com/en/vidon-ai/",
+      "type": "유료",
+      "category": "#Marketing, #Video Generators",
+      "upvotes": 0
+    },
+    {
+      "name": "Usetwain",
+      "description": "« 고객과의 접촉 중에 전문적인 이메일을 작성하여 매출 증대 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/usetwain.png",
+      "url": "https://www.aixploria.com/en/usetwain/",
+      "type": "무료",
+      "category": "#E-mail, #Marketing",
+      "upvotes": 1
+    },
+    {
+      "name": "Folio",
+      "description": "« 개인, 소규모 팀 및 스타트업을 위해 설계된 대화형 제품 데모 소프트웨어입니다. 코딩 없이 매력적인 제품 데모 만들기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/folio.png",
+      "url": "https://www.aixploria.com/en/folio/",
+      "type": "부분 무료",
+      "category": "#Marketing",
+      "upvotes": 0
+    },
+    {
+      "name": "Creasquare",
+      "description": "« 소셜 네트워크 전문 플랫폼: 콘텐츠 작성, 기획, 일정 관리, 광고 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/creasquare.png",
+      "url": "https://www.aixploria.com/en/creasquare-io/",
+      "type": "부분 무료",
+      "category": "#Marketing, #Social Networks",
+      "upvotes": 2
+    },
+    {
+      "name": "CaptionGen",
+      "description": "« ChatGPT 및 Vercel Edge 기능을 사용하여 소셜 네트워크를 위한 완벽한 텍스트 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/captiongen.png",
+      "url": "https://www.aixploria.com/en/captiongen/",
+      "type": "무료",
+      "category": "#Marketing, #Social Networks",
+      "upvotes": 0
+    },
+    {
+      "name": "Klynk",
+      "description": "« AI를 통해 이메일 캠페인 생성을 단순화하고 CRM과 쉽게 통합합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/klynk/",
+      "type": "부분 무료",
+      "category": "#E-mail, #Marketing",
+      "upvotes": 0
+    },
+    {
+      "name": "PageGPT",
+      "description": "« 맞춤형 디자인, 카피라이팅 등을 제공하는 AI 기반 랜딩 페이지 제작기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/pagegpt/",
+      "type": "부분 무료",
+      "category": "#Marketing, #Websites & Design",
+      "upvotes": 0
+    },
+    {
+      "name": "ChatGPT for Amazon",
+      "description": "« Amazon 판매자가 가시성과 수익을 높일 수 있게 해주는 ChatGPT용 Chrome 확장 프로그램 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/chatgpt-for-amazon.png",
+      "url": "https://www.aixploria.com/en/chatgpt-for-amazon/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Marketing",
+      "upvotes": 1
+    },
+    {
+      "name": "Zeg AI",
+      "description": "« 귀하의 상용 제품을 위한 전문적인 품질의 비디오 또는 사진(3D)을 손쉽게 얻으세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/zeg-ai.png",
+      "url": "https://www.aixploria.com/en/zeg-ai/",
+      "type": "부분 무료",
+      "category": "#E-commerce, #Marketing",
+      "upvotes": 1
+    },
+    {
+      "name": "MarketingBlocks AI",
+      "description": "« 랜딩 페이지, 동영상, 광고, 텍스트 등을 만들 수 있는 올인원 마케팅 AI 도우미 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/marketingblocks-ai.png",
+      "url": "https://www.aixploria.com/en/marketingblocks-ai/",
+      "type": "부분 무료",
+      "category": "#Business, #E-commerce",
+      "upvotes": 1
+    },
+    {
+      "name": "Lumiere 3D",
+      "description": "« 매장이나 전자상거래 사이트에 제품을 소개하기 위한 3D 비디오 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/lumiere-3d.png",
+      "url": "https://www.aixploria.com/en/lumiere-3d/",
+      "type": "유료",
+      "category": "#E-commerce, #Marketing",
+      "upvotes": 0
+    },
+    {
+      "name": "Moda AI",
+      "description": "« 전자상거래를 위한 올인원 마케팅 플랫폼입니다. 옴니채널 마케팅 전략을 통해 판매 최적화 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/moda-ai.png",
+      "url": "https://www.aixploria.com/en/moda-ai/",
+      "type": "유료",
+      "category": "#E-commerce, #Marketing",
+      "upvotes": 0
+    },
+    {
+      "name": "Keyword Search",
+      "description": "« 광고를 최적화하기 위한 마케팅 도구 모음입니다. 콘텐츠 제작 및 경쟁사 분석 촉진 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/keyword-search.png",
+      "url": "https://www.aixploria.com/en/keyword-search/",
+      "type": "유료",
+      "category": "#Business, #Marketing",
+      "upvotes": 0
+    },
+    {
+      "name": "Digital First AI",
+      "description": "« 마케팅 계획 수립을 단순화하고 광고 캠페인을 최적화하는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/digital-first-ai.png",
+      "url": "https://www.aixploria.com/en/digital-first-ai/",
+      "type": "유료",
+      "category": "#Business, #E-commerce",
+      "upvotes": 1
+    },
+    {
+      "name": "Bannerbear",
+      "description": "« 이미지, 비디오, PDF 등을 생성하기 위한 마케팅 자동화 도구, API 및 통합 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/bannerbear.png",
+      "url": "https://www.aixploria.com/en/bannerbear/",
+      "type": "유료",
+      "category": "#Automation, #E-commerce",
+      "upvotes": 1
+    },
+    {
+      "name": "tinyEinstein",
+      "description": "« 주로 Shopify와 같은 전자상거래를 위한 마케팅 AI 보조 전문가 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/tinyeinstein.png",
+      "url": "https://www.aixploria.com/en/tinyeinstein/",
+      "type": "유료",
+      "category": "#Business, #Marketing",
+      "upvotes": 3
+    },
+    {
+      "name": "Tailwind",
+      "description": "« 기획, 콘텐츠 관리, 분석, 최적화 등 마케팅 전담 AI 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/tailwind.png",
+      "url": "https://www.aixploria.com/en/tailwind/",
+      "type": "부분 무료",
+      "category": "#Marketing",
+      "upvotes": 0
+    },
+    {
+      "name": "Qakaa",
+      "description": "« 귀하의 프로젝트에 가장 적합한 콘텐츠를 찾을 수 있는 완전한 마켓플레이스 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/qakaa.png",
+      "url": "https://www.aixploria.com/en/qakaa/",
+      "type": "유료",
+      "category": "#Marketing",
+      "upvotes": 0
+    },
+    {
+      "name": "Adwrite",
+      "description": "« 편집 콘텐츠 전문 카피라이팅 어시스턴트: SEO, 마케팅, 전자상거래 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/adwrite/",
+      "type": "부분 무료",
+      "category": "#Marketing, #RIP AI",
+      "upvotes": 0
+    },
+    {
+      "name": "Adcrafter AI",
+      "description": "« Google Ads 캠페인을 자동화하고 고성능 광고 만들기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/adcrafter-ai.png",
+      "url": "https://www.aixploria.com/en/adcrafter-ai/",
+      "type": "부분 무료",
+      "category": "#E-commerce, #Marketing",
+      "upvotes": 1
+    },
+    {
+      "name": "Affable AI",
+      "description": "« Excel 또는 DM 파일을 활용한 마케팅 캠페인 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/affable-ai.png",
+      "url": "https://www.aixploria.com/en/affable-ai/",
+      "type": "부분 무료",
+      "category": "#Marketing, #Social Networks",
+      "upvotes": 1
+    },
+    {
+      "name": "Juice AI",
+      "description": "« 마케팅 콘텐츠 제작에 특화된 AI: SEO 텍스트 생성, 키워드 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/juice-ai.png",
+      "url": "https://www.aixploria.com/en/juice/",
+      "type": "유료",
+      "category": "#Marketing, #Writing & Web SEO",
+      "upvotes": 0
+    },
+    {
+      "name": "Jaq n Jil",
+      "description": "« SEO 및 마케팅 콘텐츠 작성을 위한 AI 기반 작성 도우미 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/jaq-n-jil.png",
+      "url": "https://www.aixploria.com/en/jaq-n-jil/",
+      "type": "부분 무료",
+      "category": "#Marketing, #Text Generators",
+      "upvotes": 0
+    },
+    {
+      "name": "Evolup",
+      "description": "« 마케팅, SEO 등의 AI 전문가와 함께 Amazon에서 맞춤형 제휴 스토어를 만드세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/evolup.png",
+      "url": "https://www.aixploria.com/en/evolup/",
+      "type": "부분 무료",
+      "category": "#E-commerce, #Marketing",
+      "upvotes": 0
+    },
+    {
+      "name": "Lebesgue",
+      "description": "« 시장을 분석하고 온라인 비즈니스를 위한 고품질 마케팅 최적화를 수행할 수 있는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/lebesgue.png",
+      "url": "https://www.aixploria.com/en/lebesgue/",
+      "type": "부분 무료",
+      "category": "#E-commerce, #Marketing",
+      "upvotes": 0
+    }
+  ]
+}

@@ -185,3 +185,19 @@
     grid-template-columns: 1fr;
   }
 }
+
+@media (max-width: 768px) {
+  .container {
+    grid-template-columns: 1fr;
+  }
+
+  .category {
+    width: 100%;
+    max-width: 300px;
+    margin: 0 auto;
+  }
+
+  .serviceGrid {
+    grid-template-columns: 1fr;
+  }
+}

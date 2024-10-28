@@ -1,0 +1,347 @@
+{
+  "name": "Translation",
+  "items": [
+    {
+      "name": "Deepl",
+      "description": "« 필수적인 고품질 번역 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/deepl.png",
+      "url": "https://www.aixploria.com/en/deepl/",
+      "type": "무료",
+      "category": "#AI Useful, #Education / Studies",
+      "upvotes": 126
+    },
+    {
+      "name": "AI Video Translator",
+      "description": "« AI를 사용하여 비디오를 140개 이상의 언어로 자동 번역합니다. 자막 활성화가 가능하며 MP4, M4V, MOV, WEBM 등의 형식을 지원합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-video-translator.png",
+      "url": "https://www.aixploria.com/en/ai-video-translator-vidnoz/",
+      "type": "무료",
+      "category": "#Translation, #Video Edition",
+      "upvotes": 57
+    },
+    {
+      "name": "Translate.Video",
+      "description": "« 자막, 더빙, 전사가 포함된 동영상을 번역할 수 있는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/translate-video.png",
+      "url": "https://www.aixploria.com/en/translate-video/",
+      "type": "부분 무료",
+      "category": "#Transcriber, #Translation",
+      "upvotes": 33
+    },
+    {
+      "name": "Voice Engine by OpenAI",
+      "description": "« OpenAI의 음성 엔진을 사용하여 음성을 빠르게 복제하세요. 이 AI 모델은 음성 더빙 및 번역에 대한 새로운 관점을 열어줍니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/voice-engine-by-openai.png",
+      "url": "https://www.aixploria.com/en/voice-engine-by-openai/",
+      "type": "무료",
+      "category": "#Future Tools, #Translation",
+      "upvotes": 42
+    },
+    {
+      "name": "AI Dubbing by ElevenLabs",
+      "description": "« 음성 더빙 및 비디오 번역을 위해 특별히 설계된 놀라운 AI ​​도구입니다. 60개 이상의 언어로 매우 사실적인 음성으로 작업 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-dubbing-by-elevenlabs.png",
+      "url": "https://www.aixploria.com/en/ai-dubbing-by-elevenlabs/",
+      "type": "부분 무료",
+      "category": "#Audio Editing, #SuperTools",
+      "upvotes": 84
+    },
+    {
+      "name": "BlipCut AI Video Translator",
+      "description": "« 음성 복제, AI 음성 해설 및 고품질 자막 번역을 갖춘 스마트 비디오 번역기입니다. 동영상을 95개 언어로 자동 번역할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/blipcut-ai-video-translator.png",
+      "url": "https://www.aixploria.com/en/blipcut-ai-video-translator/",
+      "type": "부분 무료",
+      "category": "#Translation, #Video Edition",
+      "upvotes": 32
+    },
+    {
+      "name": "iTranslate",
+      "description": "« 오늘날 시장에서 가장 강력한 AI 번역기 중 하나입니다. 100개 이상의 언어 지원 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/itranslate.png",
+      "url": "https://www.aixploria.com/en/itranslate/",
+      "type": "부분 무료",
+      "category": "#Translation",
+      "upvotes": 8
+    },
+    {
+      "name": "Google Translate",
+      "description": "« 텍스트, 이미지, 웹사이트를 100개 이상의 언어로 즉시 번역합니다. 오디오 발음, 자동 언어 감지 등의 고급 기능 활용 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/google-translate.png",
+      "url": "https://www.aixploria.com/en/google-translate-ai/",
+      "type": "무료",
+      "category": "#Translation",
+      "upvotes": 46
+    },
+    {
+      "name": "Machine Translation",
+      "description": "« 75개 이상의 언어로 정확하고 신뢰할 수 있는 다중 번역을 제공할 수 있는 AI를 사용하세요. Deepl, ChatGPT, Google 번역 등을 사용하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/machine-translation.png",
+      "url": "https://www.aixploria.com/en/machine-translation/",
+      "type": "무료",
+      "category": "#AI Useful, #Translation",
+      "upvotes": 12
+    },
+    {
+      "name": "Papercut",
+      "description": "« AI를 사용하여 모든 언어로 비디오를 번역하고 재생합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/papercut.png",
+      "url": "https://www.aixploria.com/en/papercut/",
+      "type": "부분 무료",
+      "category": "#Translation, #Video Edition",
+      "upvotes": 11
+    },
+    {
+      "name": "Systran Translate",
+      "description": "« 귀하의 텍스트를 55개 이상의 언어로 번역하는 고품질 번역기. PDF, DOCS, PPTX, XLSX 등과 호환 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/systran-translate.png",
+      "url": "https://www.aixploria.com/en/systran-translate-ai/",
+      "type": "부분 무료",
+      "category": "#Translation",
+      "upvotes": 8
+    },
+    {
+      "name": "Taia Translations",
+      "description": "« AI는 콘텐츠를 빠르고 쉽게 번역하는 데 도움을 줍니다. 번역 프로젝트를 실시간으로 추적하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/taia-translations.png",
+      "url": "https://www.aixploria.com/en/taia-translations/",
+      "type": "무료",
+      "category": "#Translation",
+      "upvotes": 10
+    },
+    {
+      "name": "Talkpal AI",
+      "description": "« 선생님의 도움으로 쉽게 언어를 배우세요. GPT 기반 AI는 16개 언어로 제공됩니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/talkpal-ai.png",
+      "url": "https://www.aixploria.com/en/talkpal-ai/",
+      "type": "무료",
+      "category": "#Education / Studies, #Translation",
+      "upvotes": 3
+    },
+    {
+      "name": "D-ID Video Translate",
+      "description": "« AI를 사용하여 비디오를 다양한 언어로 번역하고 더빙하세요. 초자연적인 시청 경험을 위해 입술을 동기화하고 얼굴 표정을 보존하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/d-id-video-translate.png",
+      "url": "https://www.aixploria.com/en/d-id-video-translate-ai/",
+      "type": "Free-Trial",
+      "category": "#Translation, #Video Edition",
+      "upvotes": 27
+    },
+    {
+      "name": "VideoDubber",
+      "description": "« 30개 이상의 언어로 번역, 더빙 및 텍스트 음성 변환을 제공하는 지능형 비디오 번역기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/videodubber.png",
+      "url": "https://www.aixploria.com/en/videodubber/",
+      "type": "무료",
+      "category": "#Transcriber, #Translation",
+      "upvotes": 5
+    },
+    {
+      "name": "Buzz Captions",
+      "description": "« OpenAI의 Whisper를 통해 90개 이상의 언어로 오디오 녹음 및 번역(오프라인 포함) »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/buzz-captions.png",
+      "url": "https://www.aixploria.com/en/buzz-captions/",
+      "type": "무료",
+      "category": "#Transcriber, #Translation",
+      "upvotes": 3
+    },
+    {
+      "name": "Type Studio",
+      "description": "« 동영상을 쉽게 편집하고 필기 버전(PDF 파일, 자막 등)으로 전사할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/type-studio.png",
+      "url": "https://www.aixploria.com/en/type-studio/",
+      "type": "부분 무료",
+      "category": "#Transcriber, #Translation",
+      "upvotes": 3
+    },
+    {
+      "name": "Unbabel",
+      "description": "« 모든 텍스트나 문서를 다양한 언어로 번역할 수 있는 고성능 번역기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/unbabel.png",
+      "url": "https://www.aixploria.com/en/unbabel/",
+      "type": "부분 무료",
+      "category": "#Translation",
+      "upvotes": 4
+    },
+    {
+      "name": "Rask AI",
+      "description": "« 동영상을 찾아 자막과 음성 해설을 추가하고 자동 번역을 수행하는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/rask-ai.png",
+      "url": "https://www.aixploria.com/en/rask-ai/",
+      "type": "유료",
+      "category": "#SuperTools, #Translation",
+      "upvotes": 20
+    },
+    {
+      "name": "BiRead",
+      "description": "« Google Chrome 확장 프로그램을 통해 AI가 포함된 모든 웹사이트를 읽고 번역하세요. 언어를 배우거나 외국 콘텐츠를 이해하는 데 유용한 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/biread.png",
+      "url": "https://www.aixploria.com/en/biread-ai-bilingual-translation/",
+      "type": "무료",
+      "category": "#Education / Studies, #Translation",
+      "upvotes": 19
+    },
+    {
+      "name": "Vidby",
+      "description": "« 빠르고 정확한 번역 및 비디오 더빙을 위한 AI 기반 도구입니다. 75개 이상의 언어로 사용 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/vidby.png",
+      "url": "https://www.aixploria.com/en/vidby/",
+      "type": "유료",
+      "category": "#Translation, #Video Edition",
+      "upvotes": 4
+    },
+    {
+      "name": "Felo Translator",
+      "description": "« GPT-4 기반 AI로 실시간 번역을 즐겨보세요. Android 및 IOS에서 15개 이상의 언어로 사용 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/felo-translator.png",
+      "url": "https://www.aixploria.com/en/felo-translator-ai/",
+      "type": "부분 무료",
+      "category": "#Translation",
+      "upvotes": 3
+    },
+    {
+      "name": "Lingosync",
+      "description": "« 비디오를 40개 이상의 언어로 쉽게 번역하세요. E-러닝이나 소셜 네트워크에도 적합합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/lingosync.png",
+      "url": "https://www.aixploria.com/en/lingosync/",
+      "type": "부분 무료",
+      "category": "#Transcriber, #Translation",
+      "upvotes": 2
+    },
+    {
+      "name": "Mirai Translate",
+      "description": "« 고급 AI 기술로 안전하고 전문적인 기계 번역 서비스를 받으세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/mirai-translate.png",
+      "url": "https://www.aixploria.com/en/mirai-translate/",
+      "type": "부분 무료",
+      "category": "#Translation",
+      "upvotes": 4
+    },
+    {
+      "name": "Alexa Translations",
+      "description": "« 기업과 전문가를 위한 AI 번역 소프트웨어. 안정적이고 빠르며 안전합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/alexa-translations.png",
+      "url": "https://www.aixploria.com/en/alexa-translations/",
+      "type": "유료",
+      "category": "#Business, #Translation",
+      "upvotes": 5
+    },
+    {
+      "name": "WriteGPT",
+      "description": "« 글쓰기, 번역 등을 더욱 쉽게 만들어주는 Chrome 확장 프로그램 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/writegpt.png",
+      "url": "https://www.aixploria.com/en/writegpt/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Productivity",
+      "upvotes": 2
+    },
+    {
+      "name": "Anytalk.ai",
+      "description": "« 지연을 최소화하면서 대화와 화상 회의를 실시간으로 다양한 언어로 번역하세요. 대화 상대의 원래 목소리는 보존됩니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/anytalk-ai.png",
+      "url": "https://www.aixploria.com/en/anytalk-ai/",
+      "type": "부분 무료",
+      "category": "#Translation, #Video Edition",
+      "upvotes": 12
+    },
+    {
+      "name": "Crowdin AI",
+      "description": "« 베타 버전의 AI ChatBot을 사용한 전문적인 고품질 번역 서비스 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/crowdin-ai.png",
+      "url": "https://www.aixploria.com/en/crowdin-ai/",
+      "type": "부분 무료",
+      "category": "#Translation",
+      "upvotes": 3
+    },
+    {
+      "name": "Smartling",
+      "description": "« 전문적인 AI 지원 번역 서비스입니다. API를 통한 통합, 번역팀 구성, 실시간 번역 분석 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/smartling.png",
+      "url": "https://www.aixploria.com/en/smartling/",
+      "type": "유료",
+      "category": "#Translation",
+      "upvotes": 2
+    },
+    {
+      "name": "Thing Translator",
+      "description": "« 휴대폰 카메라를 통해 물체를 감지하고 이를 선택한 언어의 텍스트로 번역합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/thing-translator.png",
+      "url": "https://www.aixploria.com/en/thing-translator/",
+      "type": "무료",
+      "category": "#Translation",
+      "upvotes": 2
+    },
+    {
+      "name": "Zaplingo",
+      "description": "« 당신의 실력 향상을 돕는 AI 지원 영어 교사. WhatsApp 또는 Telegram에서 사용 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/zaplingo.png",
+      "url": "https://www.aixploria.com/en/zaplingo/",
+      "type": "무료",
+      "category": "#Translation",
+      "upvotes": 3
+    },
+    {
+      "name": "idict",
+      "description": "« 실시간 음성 번역 모바일 앱 덕분에 언어적 제한 없이 채팅하세요. Google Play 및 App Store에서 이용 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/idict.png",
+      "url": "https://www.aixploria.com/en/idict-ai-translator/",
+      "type": "Free-Trial",
+      "category": "#Translation",
+      "upvotes": 8
+    },
+    {
+      "name": "Hanami Live Translator",
+      "description": "« 음성 인식 및 기계 번역을 사용하여 오디오를 텍스트로 자동 번역합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/hanami-live-translator.png",
+      "url": "https://www.aixploria.com/en/hanami-live-translator/",
+      "type": "무료",
+      "category": "#Github Projects, #Transcriber",
+      "upvotes": 0
+    },
+    {
+      "name": "Targum Video",
+      "description": "« YouTube나 TikTok과 같은 소셜 네트워크의 모든 동영상을 자동으로 번역합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/targum-video.png",
+      "url": "https://www.aixploria.com/en/targum-video/",
+      "type": "무료",
+      "category": "#Social Networks, #Translation",
+      "upvotes": 0
+    },
+    {
+      "name": "Sonix",
+      "description": "« 단 몇 초만에 자동으로 자막을 전사하고 번역하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/sonix.png",
+      "url": "https://www.aixploria.com/en/sonix/",
+      "type": "유료",
+      "category": "#Transcriber, #Translation",
+      "upvotes": 2
+    },
+    {
+      "name": "LanguagePro",
+      "description": "« 번역, 수정, 요약 등 언어적 글쓰기를 돕는 전문 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/languagepro.png",
+      "url": "https://www.aixploria.com/en/languagepro/",
+      "type": "부분 무료",
+      "category": "#Productivity, #Summarizer",
+      "upvotes": 2
+    },
+    {
+      "name": "OpenL",
+      "description": "« 다국어 AI 번역기로 텍스트를 빠르게 번역할 수 있습니다. 13개 언어 지원 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/openl.png",
+      "url": "https://www.aixploria.com/en/openl/",
+      "type": "부분 무료",
+      "category": "#Translation",
+      "upvotes": 0
+    },
+    {
+      "name": "Zeemo",
+      "description": "« 소프트웨어나 특별한 기술 없이도 동영상을 글로 옮겨 보세요. 17개 언어로 이용 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/zeemo.png",
+      "url": "https://www.aixploria.com/en/zeemo/",
+      "type": "부분 무료",
+      "category": "#Transcriber, #Translation",
+      "upvotes": 0
+    }
+  ]
+}

@@ -1,0 +1,1184 @@
+{
+  "name": "Writing & Web SEO",
+  "items": [
+    {
+      "name": "Rytr",
+      "description": "« 고품질 콘텐츠 제작을 도와주는 지능형 카피라이팅 도우미 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/rytr.png",
+      "url": "https://www.aixploria.com/en/rytr/",
+      "type": "부분 무료",
+      "category": "#AIxploria Selection, #Text Generators",
+      "upvotes": 184
+    },
+    {
+      "name": "QuillBot",
+      "description": "« 텍스트를 빠르게 다시 작성하고 확인하고 개선할 수 있는 실용적인 도구입니다. 사용 가능한 옵션: 의역, 문법, 번역, 표절 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/quillbot.png",
+      "url": "https://www.aixploria.com/en/quillbot/",
+      "type": "무료",
+      "category": "#AIxploria Selection, #Education / Studies",
+      "upvotes": 202
+    },
+    {
+      "name": "Undetectable AI",
+      "description": "« AI 생성 텍스트를 인간화하여 감지할 수 없도록 만드세요. 학생, SEO 카피라이터, 언론인 등에 이상적입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/undetectable-ai.png",
+      "url": "https://www.aixploria.com/en/undetectable-ai/",
+      "type": "부분 무료",
+      "category": "#AI detection, #AIxploria Selection",
+      "upvotes": 54
+    },
+    {
+      "name": "ContentShake AI",
+      "description": "« SEO에 최적화된 콘텐츠를 쉽게 생성하기 위한 AI 도구입니다. 아이디어를 찾고, 기사를 작성하고, 블로그나 웹사이트에 직접 게시하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/contentshake-ai.png",
+      "url": "https://www.aixploria.com/en/contentshake-ai-semrush-seo-writer/",
+      "type": "Free-Trial",
+      "category": "#AIxploria Selection, #Text Generators",
+      "upvotes": 65
+    },
+    {
+      "name": "WriteSonic",
+      "description": "« SEO에 최적화된 기사를 생성하도록 특별히 설계된 텍스트 생성기입니다. 챗봇을 통해 다양한 모델을 사용할 가능성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/writesonic.png",
+      "url": "https://www.aixploria.com/en/writesonic/",
+      "type": "부분 무료",
+      "category": "#AIxploria Selection, #Text Generators",
+      "upvotes": 91
+    },
+    {
+      "name": "Free AI Content Writer",
+      "description": "« HubSpot에서 개발한 AI 어시스턴트로 영향력 있는 콘텐츠를 즉시 제작하세요. 귀하의 브랜드와 청중에 적합한 SEO 기사, 소셜 미디어 게시물 또는 이메일 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/04/HubSpot-fav.png",
+      "url": "https://www.aixploria.com/en/free-ai-content-writer-hubspot/",
+      "type": "무료",
+      "category": "#Text Generators, #Writing & Web SEO",
+      "upvotes": 55
+    },
+    {
+      "name": "Jasper",
+      "description": "« 베타 버전의 챗봇을 갖춘 최고의 SEO 최적화 텍스트 생성기 중 하나 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/jasper.png",
+      "url": "https://www.aixploria.com/en/jasper-ai/",
+      "type": "Free-Trial",
+      "category": "#SuperTools, #Text Generators",
+      "upvotes": 96
+    },
+    {
+      "name": "Paraphrasing Tool",
+      "description": "« 이 AI 도우미는 통합 검색 및 의역 기능을 사용하여 텍스트를 만들고 번역합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/paraphrasing-tool.png",
+      "url": "https://www.aixploria.com/en/paraphrasing-tool/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Writing & Web SEO",
+      "upvotes": 7
+    },
+    {
+      "name": "GPTZero",
+      "description": "« AI의 도움으로 텍스트의 표절을 빠르고 혁신적으로 탐지합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/gptzero.png",
+      "url": "https://www.aixploria.com/en/gptzero/",
+      "type": "무료",
+      "category": "#AI detection, #Extensions ChatGPT",
+      "upvotes": 18
+    },
+    {
+      "name": "LanguageTool",
+      "description": "« 텍스트 개선을 위한 다국어 AI 글쓰기 도우미. 브라우저 및 데스크탑 애플리케이션 확장 프로그램을 사용하여 30개 이상의 언어로 문법, 철자 및 스타일을 교정합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/languagetool.png",
+      "url": "https://www.aixploria.com/en/languagetool/",
+      "type": "무료",
+      "category": "#Education / Studies, #Writing & Web SEO",
+      "upvotes": 57
+    },
+    {
+      "name": "Smodin",
+      "description": "« 학생들에게 이상적인 강력한 콘텐츠 작가 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/smodin.png",
+      "url": "https://www.aixploria.com/en/smodin/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Text Generators",
+      "upvotes": 8
+    },
+    {
+      "name": "Video To Blog",
+      "description": "« YouTube URL에서 모든 비디오를 SEO 블로그 게시물로 변환할 수 있습니다. HTML, TXT, PDF 등으로 내보내기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/video-to-blog.png",
+      "url": "https://www.aixploria.com/en/videotoblog-ai/",
+      "type": "부분 무료",
+      "category": "#Summarizer, #Transcriber",
+      "upvotes": 61
+    },
+    {
+      "name": "Text Cortex",
+      "description": "« 완전히 사용자 정의 가능한 글쓰기 전용 AI 도구 세트입니다. 이 AI는 더 큰 관련성을 위해 귀하의 글쓰기 스타일에 적응할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/text-cortex.png",
+      "url": "https://www.aixploria.com/en/text-cortex-ai/",
+      "type": "부분 무료",
+      "category": "#Writing & Web SEO",
+      "upvotes": 44
+    },
+    {
+      "name": "Free AI Content Assistant",
+      "description": "« 전문 카피라이팅 AI 어시스턴트로 더 눈길을 끄는 고품질 콘텐츠를 작성하세요. SEO 블로그 기사, 소셜 네트워크 게시물, 이메일 마케팅 등을 생성할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/04/HubSpot-fav.png",
+      "url": "https://www.aixploria.com/en/free-ai-content-assistant-hubspot/",
+      "type": "무료",
+      "category": "#Writing & Web SEO",
+      "upvotes": 45
+    },
+    {
+      "name": "Blog Ideas Generator",
+      "description": "« HubSpot의 AI를 통해 관련성이 높고 SEO에 최적화된 블로그 아이디어를 즉시 생성하세요. 눈에 띄는 제목과 게시물 개요를 빠르게 만들기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/04/HubSpot-fav.png",
+      "url": "https://www.aixploria.com/en/blog-ideas-generator-by-hubspot/",
+      "type": "무료",
+      "category": "#Writing & Web SEO",
+      "upvotes": 68
+    },
+    {
+      "name": "SciSpace AI Writer",
+      "description": "« 이 고성능 연구 조교는 글쓰기에 도움이 되는 강력한 AI 기능을 갖추고 있습니다. 내장된 인용, 정확한 자동 완성 및 75개 이상의 언어 지원을 통해 과학 콘텐츠 제작 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/scispace-ai-writer.png",
+      "url": "https://www.aixploria.com/en/scispace-ai-academic-writer/",
+      "type": "부분 무료",
+      "category": "#Research & Science, #Writing & Web SEO",
+      "upvotes": 35
+    },
+    {
+      "name": "Easy-Peasy AI",
+      "description": "« 콘텐츠를 10배 더 빠르게 작성하세요. 글쓰기, 이미지 생성 등에 사용할 수 있는 템플릿 80개 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/easy-peasy-ai.png",
+      "url": "https://www.aixploria.com/en/easy-peasy-ai/",
+      "type": "부분 무료",
+      "category": "#Image Generators, #Text Generators",
+      "upvotes": 124
+    },
+    {
+      "name": "Grammarly",
+      "description": "« 독창적인 고품질 콘텐츠를 작성하세요. AI 기반 작문 도우미로부터 조언 받기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/grammarly.png",
+      "url": "https://www.aixploria.com/en/grammarly/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #SuperTools",
+      "upvotes": 101
+    },
+    {
+      "name": "Frase IO",
+      "description": "« SERP 분석, 키워드 연구, 계획 생성, 기사 작성 등을 수행하는 AI로 SEO 콘텐츠를 최적화하세요. 사용하기 쉽고 매우 효과적인 도구를 사용하여 경쟁업체와 자신을 비교하십시오. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/frase-io.png",
+      "url": "https://www.aixploria.com/en/frase-io/",
+      "type": "Free-Trial",
+      "category": "#Writing & Web SEO",
+      "upvotes": 41
+    },
+    {
+      "name": "HyperWrite AI",
+      "description": "« Chrome 확장 프로그램에서 AI 작성 도우미를 사용하여 텍스트 콘텐츠 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/hyperwrite-ai.png",
+      "url": "https://www.aixploria.com/en/hyperwrite-ai/",
+      "type": "무료",
+      "category": "#Extensions ChatGPT, #Text Generators",
+      "upvotes": 4
+    },
+    {
+      "name": "Copyleaks",
+      "description": "« 귀하의 콘텐츠가 100% 고유한지 확인하는 표절 탐지 플랫폼입니다. 사용 가능한 API 통합 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/copyleaks.png",
+      "url": "https://www.aixploria.com/en/copyleaks/",
+      "type": "무료",
+      "category": "#AI detection, #Writing & Web SEO",
+      "upvotes": 11
+    },
+    {
+      "name": "Copy.ai",
+      "description": "« SEO, 소셜 네트워크 및 이메일을 위한 편집 콘텐츠 생성기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/copy-ai.png",
+      "url": "https://www.aixploria.com/en/copy-ai/",
+      "type": "유료",
+      "category": "#Text Generators, #Writing & Web SEO",
+      "upvotes": 5
+    },
+    {
+      "name": "Chapple AI",
+      "description": "« 텍스트, 이미지, 오디오, 프로그래밍 코드 등 모든 종류의 창의적인 콘텐츠를 빠르게 생성하기 위한 AI 도구 세트 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2024/02/chapple-ai.png",
+      "url": "https://www.aixploria.com/en/chapple-ai/",
+      "type": "Free-Trial",
+      "category": "#Productivity, #Writing & Web SEO",
+      "upvotes": 13
+    },
+    {
+      "name": "Optimo",
+      "description": "« SEO, 인스타그램, 카피라이팅, 비디오, 이메일 등을 위한 AI가 포함된 완벽한 무료 마케팅 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/optimo.png",
+      "url": "https://www.aixploria.com/en/optimo/",
+      "type": "무료",
+      "category": "#Marketing, #Social Networks",
+      "upvotes": 2
+    },
+    {
+      "name": "WordAI",
+      "description": "« 전문적인 품질로 텍스트를 다시 작성하세요. AI가 변경 사항을 제안하고 글쓰기 스타일을 개선하도록 하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/wordai.png",
+      "url": "https://www.aixploria.com/en/wordai/",
+      "type": "유료",
+      "category": "#Writing & Web SEO",
+      "upvotes": 2
+    },
+    {
+      "name": "Symplified",
+      "description": "« 텍스트, 비디오, 이미지를 생성할 수 있는 멀티태스킹 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/symplified.png",
+      "url": "https://www.aixploria.com/en/symplified/",
+      "type": "무료",
+      "category": "#Marketing, #Writing & Web SEO",
+      "upvotes": 1
+    },
+    {
+      "name": "HIX.AI",
+      "description": "« 120개 이상의 도구를 갖춘 강력한 AI 글쓰기 도우미. 편집 및 마케팅 프로젝트를 위해 50개 이상의 언어로 콘텐츠 생성, 검색, 재작성 및 최적화 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/hix-ai.png",
+      "url": "https://www.aixploria.com/en/hix-ai/",
+      "type": "Free-Trial",
+      "category": "#Text Generators, #Writing & Web SEO",
+      "upvotes": 34
+    },
+    {
+      "name": "InkForAll",
+      "description": "« SEO에 초점을 맞춘 콘텐츠 작성에 도움 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/inkforall.png",
+      "url": "https://www.aixploria.com/en/inkforall/",
+      "type": "유료",
+      "category": "#Text Generators, #Writing & Web SEO",
+      "upvotes": 1
+    },
+    {
+      "name": "AI Lab",
+      "description": "« 아이디어에서 텍스트를 제안하고 철자 실수 없이 글을 쓸 수 있도록 도와주세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-lab.png",
+      "url": "https://www.aixploria.com/en/ai-lab/",
+      "type": "부분 무료",
+      "category": "#Text Generators, #Writing & Web SEO",
+      "upvotes": 1
+    },
+    {
+      "name": "Analogenie",
+      "description": "« AI를 사용하여 이해하기 쉬운 비유를 사용하여 복잡한 개념을 설명합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/analogenie.png",
+      "url": "https://www.aixploria.com/en/analogenie/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Writing & Web SEO",
+      "upvotes": 2
+    },
+    {
+      "name": "Peppertype.ai",
+      "description": "« 고품질의 편집 콘텐츠를 만드는 데 도움이 되는 가상 비서 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/peppertype-ai.png",
+      "url": "https://www.aixploria.com/en/peppertype-ai/",
+      "type": "부분 무료",
+      "category": "#Text Generators, #Writing & Web SEO",
+      "upvotes": 1
+    },
+    {
+      "name": "Deepl Write",
+      "description": "« 철자 오류 수정, 동의어 찾기 등을 쉽게 해주는 Deepl의 새로운 AI 도구로 영어 작문 실력을 향상하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/deepl-write.png",
+      "url": "https://www.aixploria.com/en/deepl-write-ai/",
+      "type": "무료",
+      "category": "#AI Useful, #Writing & Web SEO",
+      "upvotes": 12
+    },
+    {
+      "name": "Moonbeam",
+      "description": "« 장편 에세이 전문 자동 AI 작가 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/moonbeam.png",
+      "url": "https://www.aixploria.com/en/moonbeam/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Text Generators",
+      "upvotes": 2
+    },
+    {
+      "name": "Scalenut",
+      "description": "« SEO 콘텐츠 생성을 단순화하는 AI 플랫폼. 지능형 도구를 사용하여 몇 분 만에 최적화된 기사 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/scalenut.png",
+      "url": "https://www.aixploria.com/en/scalenut-ai-seo/",
+      "type": "Free-Trial",
+      "category": "#Marketing, #Writing & Web SEO",
+      "upvotes": 20
+    },
+    {
+      "name": "PairOkay",
+      "description": "« 사용하기 쉬운 SEO 카피라이팅 도우미 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/pairokay.png",
+      "url": "https://www.aixploria.com/en/pairokay/",
+      "type": "부분 무료",
+      "category": "#Text Generators, #Writing & Web SEO",
+      "upvotes": 2
+    },
+    {
+      "name": "Humanizer AI",
+      "description": "« AI 생성 텍스트를 단축, 확장 및 AI 감지기를 우회할 수 있는 \"Human Score\"와 같은 기능을 통해 인간과 같은 쓰기로 다듬는 AI 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/humanizer-ai.png",
+      "url": "https://www.aixploria.com/en/humanizer-ai-tool/",
+      "type": "부분 무료",
+      "category": "#AI detection, #AIxploria Selection",
+      "upvotes": 28
+    },
+    {
+      "name": "Sequens.ai",
+      "description": "« AI로 대규모 마케팅 콘텐츠를 제작하세요. SEO 블로그 게시물, 소셜 네트워크용 타겟 간행물, 리드 증가를 위한 스크립트를 생성합니다. ➥ B2B 전문가 감독 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/sequens-ai.png",
+      "url": "https://www.aixploria.com/en/sequens-ai-marketing-content-b2b/",
+      "type": "부분 무료",
+      "category": "#Marketing, #Writing & Web SEO",
+      "upvotes": 33
+    },
+    {
+      "name": "NeuralText",
+      "description": "« SEO AI 전문가와 함께 글쓰기와 텍스트 생성을 자동화하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/neuraltext.png",
+      "url": "https://www.aixploria.com/en/neuraltext/",
+      "type": "유료",
+      "category": "#Text Generators, #Writing & Web SEO",
+      "upvotes": 2
+    },
+    {
+      "name": "Ginger AI",
+      "description": "« 이 고품질 AI 도우미로 글쓰기를 향상해보세요. 지능적인 상황별 제안을 통해 텍스트를 수정하고, 스타일을 다듬고, 창의력을 자극하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ginger-ai.png",
+      "url": "https://www.aixploria.com/en/ginger-ai-wrting/",
+      "type": "부분 무료",
+      "category": "#Writing & Web SEO",
+      "upvotes": 29
+    },
+    {
+      "name": "Wordhero",
+      "description": "« 소셜 네트워크, 이메일 등을 위한 콘텐츠 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/wordhero.png",
+      "url": "https://www.aixploria.com/en/wordhero/",
+      "type": "유료",
+      "category": "#Social Networks, #Text Generators",
+      "upvotes": 2
+    },
+    {
+      "name": "Mango SEO",
+      "description": "« 전문 SEO 카피라이팅 플랫폼으로 SEO를 강화하세요. 무제한 SEO 콘텐츠 생성 및 실시간으로 키워드 분석 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/mango-seo.png",
+      "url": "https://www.aixploria.com/en/mango-seo-ai/",
+      "type": "Free-Trial",
+      "category": "#Writing & Web SEO",
+      "upvotes": 21
+    },
+    {
+      "name": "Botowski",
+      "description": "« SEO 기술을 모두 아는 글쓰기 조수(카피라이터) »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/botowski.png",
+      "url": "https://www.aixploria.com/en/botowski/",
+      "type": "무료",
+      "category": "#Text Generators, #Writing & Web SEO",
+      "upvotes": 0
+    },
+    {
+      "name": "AI Article Writer 6.0",
+      "description": "« 몇 분 안에 정확하고 SEO에 최적화된 기사를 생성하세요. 웹 검색, 의미 분석, 내부 링크 및 인용 포함 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-article-writer-6-0.png",
+      "url": "https://www.aixploria.com/en/ai-article-writer-6-0-writesonic/",
+      "type": "부분 무료",
+      "category": "#Text Generators, #Writing & Web SEO",
+      "upvotes": 39
+    },
+    {
+      "name": "TextFX by Google",
+      "description": "« 창의적인 콘텐츠를 전문으로 하는 10가지 글쓰기 도구 세트입니다. 이 사이트는 Google의 PaLM 2 모델을 사용하여 작동합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/textfx-by-google.png",
+      "url": "https://www.aixploria.com/en/textfx-by-google/",
+      "type": "무료",
+      "category": "#Writing & Web SEO",
+      "upvotes": 3
+    },
+    {
+      "name": "SchoolHack",
+      "description": "« 학생을 위한 다용도 모바일 앱: 작문 보조, 에세이, 요약, Q&A 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/schoolhack.png",
+      "url": "https://www.aixploria.com/en/schoolhack/",
+      "type": "무료",
+      "category": "#Education / Studies, #Summarizer",
+      "upvotes": 1
+    },
+    {
+      "name": "NeuroSpell",
+      "description": "« 30개 이상의 언어로 사용 가능한 맞춤법 및 문법 검사기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/neurospell.png",
+      "url": "https://www.aixploria.com/en/neurospell/",
+      "type": "무료",
+      "category": "#Education / Studies, #Productivity",
+      "upvotes": 1
+    },
+    {
+      "name": "WordTune",
+      "description": "« SEO 친화적으로 만들기 위해 글을 다듬고 완성하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/wordtune.png",
+      "url": "https://www.aixploria.com/en/wordtune/",
+      "type": "부분 무료",
+      "category": "#Writing & Web SEO",
+      "upvotes": 1
+    },
+    {
+      "name": "AI Paraphrasing Tool",
+      "description": "« 문장, 구문, 단락 등 다양한 수준에서 콘텐츠를 재구성하는 이 패러프레이징 도구를 사용하여 글쓰기를 단순화하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-paraphrasing-tool.png",
+      "url": "https://www.aixploria.com/en/ai-paraphrasing-tool/",
+      "type": "부분 무료",
+      "category": "#Writing & Web SEO",
+      "upvotes": 2
+    },
+    {
+      "name": "Corrector App",
+      "description": "« AI 기반 맞춤법 검사기로 텍스트를 빠르게 확인하세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/corrector-app.png",
+      "url": "https://www.aixploria.com/en/corrector-app/",
+      "type": "무료",
+      "category": "#Education / Studies, #Writing & Web SEO",
+      "upvotes": 1
+    },
+    {
+      "name": "BlogNLP",
+      "description": "« 블로그와 웹사이트를 위해 특별히 설계된 사용하기 쉬운 텍스트 또는 기사 생성기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/blognlp.png",
+      "url": "https://www.aixploria.com/en/blognlp/",
+      "type": "무료",
+      "category": "#Text Generators, #Writing & Web SEO",
+      "upvotes": 0
+    },
+    {
+      "name": "Bypassgpt",
+      "description": "« AI 감지 시스템이 텍스트를 감지할 수 없도록 만드는 AI 콘텐츠 재작성 도구입니다. SEO 및 표절 방지에 매우 중요합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/bypassgpt.png",
+      "url": "https://www.aixploria.com/en/bypassgpt-ai/",
+      "type": "부분 무료",
+      "category": "#AI detection, #Writing & Web SEO",
+      "upvotes": 6
+    },
+    {
+      "name": "LongShot",
+      "description": "« 몇 분 만에 블로그를 위한 고유한 콘텐츠 만들기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/longshot.png",
+      "url": "https://www.aixploria.com/en/longshot/",
+      "type": "부분 무료",
+      "category": "#Text Generators, #Writing & Web SEO",
+      "upvotes": 2
+    },
+    {
+      "name": "Textero AI",
+      "description": "« 학문적 수준의 글쓰기 조수. 학교 에세이 또는 기사 작성에 이상적입니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/textero-ai.png",
+      "url": "https://www.aixploria.com/en/textero-ai/",
+      "type": "무료",
+      "category": "#Education / Studies, #Text Generators",
+      "upvotes": 2
+    },
+    {
+      "name": "WriteText.ai",
+      "description": "« WooCommerce를 위해 특별히 개발된 글쓰기 도우미입니다. 제품 설명과 SEO 콘텐츠를 매우 빠르게 생성할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/writetext-ai.png",
+      "url": "https://www.aixploria.com/en/writetext-ai/",
+      "type": "부분 무료",
+      "category": "#E-commerce, #Writing & Web SEO",
+      "upvotes": 8
+    },
+    {
+      "name": "Aithor",
+      "description": "« 에세이와 기사를 생성하는 다국어 AI 글쓰기 도우미. 학술적 글쓰기를 촉진하기 위한 검색 도구와 제안된 개요를 제공합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/aithor.png",
+      "url": "https://www.aixploria.com/en/aithor-ai-writing/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Text Generators",
+      "upvotes": 22
+    },
+    {
+      "name": "StudyCrumb",
+      "description": "« 이 전문적인 의역 도구를 사용하여 문장을 빠르고 쉽게 바꿔보세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/studycrumb.png",
+      "url": "https://www.aixploria.com/en/studycrumb/",
+      "type": "무료",
+      "category": "#Education / Studies, #Writing & Web SEO",
+      "upvotes": 1
+    },
+    {
+      "name": "Respona",
+      "description": "« 이 올인원 AI 도구를 사용하여 링크 구축 및 홍보 캠페인을 자동화하세요. 고품질의 SEO 백링크를 얻고, 파트너십 기회를 찾고, 메시지를 쉽게 개인화하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/respona.png",
+      "url": "https://www.aixploria.com/en/respona-ai-link-building-seo/",
+      "type": "Free-Trial",
+      "category": "#Writing & Web SEO",
+      "upvotes": 21
+    },
+    {
+      "name": "BlitzBear",
+      "description": "« 경쟁사를 분석하고 관련 개선 사항을 제안하는 SEO 소프트웨어로 참조 최적화 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/blitzbear.png",
+      "url": "https://www.aixploria.com/en/blitzbear-ai-seo/",
+      "type": "부분 무료",
+      "category": "#Writing & Web SEO",
+      "upvotes": 4
+    },
+    {
+      "name": "Seona AI",
+      "description": "« 웹사이트의 URL을 입력하고 SEO 순위 최적화를 위한 지능적인 제안을 받으세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/seona-ai.png",
+      "url": "https://www.aixploria.com/en/seona-ai/",
+      "type": "무료",
+      "category": "#Writing & Web SEO",
+      "upvotes": 3
+    },
+    {
+      "name": "WriteMe",
+      "description": "« 고품질 텍스트 콘텐츠 제작을 위한 AI 기반 글쓰기 도우미. 약 20개 언어로 이용 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/writeme.png",
+      "url": "https://www.aixploria.com/en/writeme/",
+      "type": "부분 무료",
+      "category": "#Text Generators, #Writing & Web SEO",
+      "upvotes": 1
+    },
+    {
+      "name": "RivalFlow AI",
+      "description": "« AI에 최적화된 콘텐츠 제안으로 기존 콘텐츠를 개선하고 SEO 격차를 메우세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/rivalflow-ai.png",
+      "url": "https://www.aixploria.com/en/rivalflow-ai/",
+      "type": "부분 무료",
+      "category": "#Writing & Web SEO",
+      "upvotes": 1
+    },
+    {
+      "name": "AI Magicx",
+      "description": "« AI의 도움으로 SEO 기사와 카피라이팅 콘텐츠를 생성하세요. ChatGPT 4 Turbo 및 Claude v2에 사용할 수 있는 75개 이상의 템플릿 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-magicx.png",
+      "url": "https://www.aixploria.com/en/ai-magicx/",
+      "type": "부분 무료",
+      "category": "#Text Generators, #Writing & Web SEO",
+      "upvotes": 0
+    },
+    {
+      "name": "Junia AI",
+      "description": "« AI로 검색엔진(SEO)에 최적화된 콘텐츠 생성기, 아주 긴 글도 전문적으로 작성하는 전문가 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/junia-ai.png",
+      "url": "https://www.aixploria.com/en/junia-ai/",
+      "type": "부분 무료",
+      "category": "#Writing & Web SEO",
+      "upvotes": 3
+    },
+    {
+      "name": "WriteHuman",
+      "description": "« AI가 생성한 텍스트를 감지할 수 없는 사람의 손글씨로 변환합니다. AI 콘텐츠 탐지 방지 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/writehuman.png",
+      "url": "https://www.aixploria.com/en/writehuman/",
+      "type": "부분 무료",
+      "category": "#AI detection, #Writing & Web SEO",
+      "upvotes": 3
+    },
+    {
+      "name": "Better Synonyms AI",
+      "description": "« 1초 이내에 동의어를 찾을 수 있는 편리한 AI 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/better-synonyms-ai.png",
+      "url": "https://www.aixploria.com/en/better-synonyms-ai/",
+      "type": "무료",
+      "category": "#Education / Studies, #Writing & Web SEO",
+      "upvotes": 1
+    },
+    {
+      "name": "Fixkey AI",
+      "description": "« 글쓰기 속도에 맞춰 실시간으로 작동하는 AI 글쓰기 도우미. 수정이나 제안은 즉각적으로 이루어집니다. macOS에서 사용 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/fixkey-ai.png",
+      "url": "https://www.aixploria.com/en/fixkey-ai/",
+      "type": "Free-Trial",
+      "category": "#Education / Studies, #Writing & Web SEO",
+      "upvotes": 12
+    },
+    {
+      "name": "Monica",
+      "description": "« 번역, 요약, 이메일 작성, 텍스트 생성 등을 수행할 수 있는 ChatGPT용 Chrome 확장 프로그램 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/monica.png",
+      "url": "https://www.aixploria.com/en/monica/",
+      "type": "부분 무료",
+      "category": "#Extensions ChatGPT, #Summarizer",
+      "upvotes": 8
+    },
+    {
+      "name": "EssayService AI",
+      "description": "« 주제에 대한 지능적인 이해를 바탕으로 에세이를 작성하기 위한 도구: 논문 구성, 문법 개선, 표절 감지 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/essayservice-ai.png",
+      "url": "https://www.aixploria.com/en/essayservice-ai/",
+      "type": "부분 무료",
+      "category": "#Writing & Web SEO",
+      "upvotes": 2
+    },
+    {
+      "name": "Strut",
+      "description": "« 작가 전용 공동 작업 공간: 더 나은 조직화, 실시간 공동 작업 및 AI를 통한 고품질 콘텐츠 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/strut.png",
+      "url": "https://www.aixploria.com/en/strut-ai/",
+      "type": "무료",
+      "category": "#Productivity, #Writing & Web SEO",
+      "upvotes": 2
+    },
+    {
+      "name": "Samwell",
+      "description": "« 내용이 진짜인지(표절) 확인하면서 기사, 에세이, 논문을 생성하는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/samwell.png",
+      "url": "https://www.aixploria.com/en/samwell/",
+      "type": "무료",
+      "category": "#Text Generators, #Writing & Web SEO",
+      "upvotes": 2
+    },
+    {
+      "name": "Rephraser.co",
+      "description": "« 원래 의미를 잃지 않고 텍스트를 재구성하십시오. 연구자, 학생, 마케팅 전문가에게 적합 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/rephraser-co.png",
+      "url": "https://www.aixploria.com/en/rephraser-co/",
+      "type": "부분 무료",
+      "category": "#Writing & Web SEO",
+      "upvotes": 1
+    },
+    {
+      "name": "SpinBot",
+      "description": "« 그에게 ​​텍스트나 기사를 제출하면 그는 새로운 글을 만들어 줍니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/spinbot.png",
+      "url": "https://www.aixploria.com/en/spinbot/",
+      "type": "무료",
+      "category": "#Writing & Web SEO",
+      "upvotes": 1
+    },
+    {
+      "name": "BlogFox",
+      "description": "« Anthropic의 Claude Opus를 효과적으로 활용하는 AI 도구를 사용하여 YouTube 동영상을 SEO에 최적화된 블로그 게시물로 전환하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/blogfox.png",
+      "url": "https://www.aixploria.com/en/blogfox-ai-convert-youtube-video/",
+      "type": "Free-Trial",
+      "category": "#Transcriber, #Writing & Web SEO",
+      "upvotes": 14
+    },
+    {
+      "name": "FigGPT",
+      "description": "« 이 AI 기반 플러그인을 사용하여 Figma의 생산성을 높이세요. 텍스트 작성 및 편집을 전문으로 하는 다국어 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/figgpt.png",
+      "url": "https://www.aixploria.com/en/figgpt/",
+      "type": "무료",
+      "category": "#Writing & Web SEO",
+      "upvotes": 0
+    },
+    {
+      "name": "Wikipedia Article AI",
+      "description": "« AI로 단 몇 초 만에 Wikipedia 페이지를 만드세요. Wikipedia에서 부과한 규칙을 존중하는 사실에 기반한 콘텐츠 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/wikipedia-article-ai.png",
+      "url": "https://www.aixploria.com/en/wikipedia-article-ai/",
+      "type": "유료",
+      "category": "#Writing & Web SEO",
+      "upvotes": 14
+    },
+    {
+      "name": "CreativAI",
+      "description": "« 이메일, 광고, 기사 등을 작성하고 개선할 수 있는 멀티태스킹 글쓰기 도우미 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/creativai.png",
+      "url": "https://www.aixploria.com/en/creativai/",
+      "type": "부분 무료",
+      "category": "#Writing & Web SEO",
+      "upvotes": 2
+    },
+    {
+      "name": "Copymatic",
+      "description": "« 이 고품질 SEO 콘텐츠 생성기로 트래픽을 늘리세요 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/copymatic.png",
+      "url": "https://www.aixploria.com/en/copymatic/",
+      "type": "부분 무료",
+      "category": "#Text Generators, #Writing & Web SEO",
+      "upvotes": 1
+    },
+    {
+      "name": "Cowriter",
+      "description": "« 직관적인 인터페이스를 통해 매우 빠르게 기사나 에세이를 작성할 수 있는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/cowriter.png",
+      "url": "https://www.aixploria.com/en/cowriter/",
+      "type": "부분 무료",
+      "category": "#Text Generators, #Writing & Web SEO",
+      "upvotes": 1
+    },
+    {
+      "name": "AI Cowriter",
+      "description": "« 글쓰기 스타일을 향상시켜주는 강력한 글쓰기 도우미입니다. 실시간 자동 완성 제안 기능도 제공됩니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ai-cowriter.png",
+      "url": "https://www.aixploria.com/en/ai-cowriter/",
+      "type": "무료",
+      "category": "#Writing & Web SEO",
+      "upvotes": 2
+    },
+    {
+      "name": "Jack AI",
+      "description": "« 마케팅 개발에 전념하는 카피라이팅 보조원입니다. 즉시 콘텐츠를 생성, 개선 및 다듬기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/jack-ai.png",
+      "url": "https://www.aixploria.com/en/jack-ai/",
+      "type": "부분 무료",
+      "category": "#Marketing, #Writing & Web SEO",
+      "upvotes": 13
+    },
+    {
+      "name": "Cordial",
+      "description": "« 텍스트를 수정하고 철자 오류를 강조하는 AI(프랑스어에만 해당) »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/cordial.png",
+      "url": "https://www.aixploria.com/en/cordial/",
+      "type": "무료",
+      "category": "#Education / Studies, #Writing & Web SEO",
+      "upvotes": 1
+    },
+    {
+      "name": "Flot.ai",
+      "description": "« 귀하의 애플리케이션이나 웹사이트에 원활하게 통합되는 GPT-4 부조종사. 옵션: 카피라이팅, 의역, 문법 교정 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/flot-ai.png",
+      "url": "https://www.aixploria.com/en/flot-ai/",
+      "type": "부분 무료",
+      "category": "#Writing & Web SEO",
+      "upvotes": 0
+    },
+    {
+      "name": "SEOBox.ai",
+      "description": "« 귀하의 백링크에 대한 맞춤형 지침을 받아보세요. AI는 귀하의 키워드나 SEO와 관련이 있다고 판단되는 것에서 영감을 얻습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/seobox-ai/",
+      "type": "유료",
+      "category": "#Writing & Web SEO",
+      "upvotes": 0
+    },
+    {
+      "name": "Scribens",
+      "description": "« 텍스트의 실수를 확인하는 맞춤법 검사기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/scribens.png",
+      "url": "https://www.aixploria.com/en/scribens/",
+      "type": "무료",
+      "category": "#Education / Studies, #Writing & Web SEO",
+      "upvotes": 3
+    },
+    {
+      "name": "Merchynt",
+      "description": "« Google 비즈니스 프로필을 관리하는 AI 기반 서비스입니다. Google(SEO)에서 가시성을 빠르게 높이세요. 기업에 이상적 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/merchynt.png",
+      "url": "https://www.aixploria.com/en/merchynt-ai/",
+      "type": "부분 무료",
+      "category": "#Business, #Writing & Web SEO",
+      "upvotes": 2
+    },
+    {
+      "name": "BlogSEO AI",
+      "description": "« AI의 도움으로 SEO 친화적인 블로그 게시물을 만드세요. 블로그를 개선하고, 새로운 타겟 키워드를 찾고, SERP를 최신 상태로 유지하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/blogseo-ai.png",
+      "url": "https://www.aixploria.com/en/blogseo-ai/",
+      "type": "부분 무료",
+      "category": "#Writing & Web SEO",
+      "upvotes": 1
+    },
+    {
+      "name": "Redense AI",
+      "description": "« 뉴스레터 작성을 단순화하고 가속화합니다. 관련 제목 생성, 작성 자동화 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/redense-ai.png",
+      "url": "https://www.aixploria.com/en/redense-ai/",
+      "type": "부분 무료",
+      "category": "#E-mail, #Writing & Web SEO",
+      "upvotes": 0
+    },
+    {
+      "name": "Multilings",
+      "description": "« 카피라이팅, 표절 감지 및 언어 번역을 전문으로 하는 멀티 태스킹 AI 도구입니다. 사용하기 쉬운 인터페이스 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/multilings.png",
+      "url": "https://www.aixploria.com/en/multilings-ai/",
+      "type": "부분 무료",
+      "category": "#Text Generators, #Writing & Web SEO",
+      "upvotes": 1
+    },
+    {
+      "name": "ContentPie",
+      "description": "« AI로 SEO에 최적화된 콘텐츠를 쉽게 생성하세요. 기사 아이디어와 이미지를 얻고 모든 것을 사이트에 직접 게시하세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/contentpie.png",
+      "url": "https://www.aixploria.com/en/contentpie/",
+      "type": "Free-Trial",
+      "category": "#Writing & Web SEO",
+      "upvotes": 13
+    },
+    {
+      "name": "EasySEO.ai",
+      "description": "« 독특하고 SEO에 최적화된 콘텐츠를 생성할 수 있는 지능적인 글쓰기 도우미를 활용해 보세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/easyseo-ai/",
+      "type": "부분 무료",
+      "category": "#RIP AI, #Writing & Web SEO",
+      "upvotes": 0
+    },
+    {
+      "name": "Yaara AI",
+      "description": "« 문법과 어휘도 향상할 수 있는 텍스트 콘텐츠 생성기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/yaara-ai.png",
+      "url": "https://www.aixploria.com/en/yaara-ai/",
+      "type": "부분 무료",
+      "category": "#Text Generators, #Writing & Web SEO",
+      "upvotes": 0
+    },
+    {
+      "name": "Remagine AI",
+      "description": "« 150개가 넘는 AI 템플릿과 도구의 도움으로 콘텐츠 제작을 강화하세요. 맞춤 제안 및 문법 수정 활용 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/remagine-ai.png",
+      "url": "https://www.aixploria.com/en/remagine-ai/",
+      "type": "부분 무료",
+      "category": "#Writing & Web SEO",
+      "upvotes": 0
+    },
+    {
+      "name": "CTRify",
+      "description": "« 웹사이트 순위를 향상시키는 AI 기반 SEO 플랫폼입니다. 또한 유기적 트래픽을 늘리는 데 도움이 됩니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/ctrify.png",
+      "url": "https://www.aixploria.com/en/ctrify/",
+      "type": "부분 무료",
+      "category": "#Writing & Web SEO",
+      "upvotes": 0
+    },
+    {
+      "name": "Trolly.ai",
+      "description": "« SEO 기사를 더 빠르게 작성하는 데 도움이 되는 도구 모음입니다. 20개 언어로 이용 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/trolly-ai.png",
+      "url": "https://www.aixploria.com/en/trolly-ai/",
+      "type": "부분 무료",
+      "category": "#Writing & Web SEO",
+      "upvotes": 0
+    },
+    {
+      "name": "Essay Builder AI",
+      "description": "« 학생들의 학술 작문 및 연습을 돕기 위해 특별히 설계된 텍스트 생성기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/essay-builder-ai.png",
+      "url": "https://www.aixploria.com/en/essay-builder-ai/",
+      "type": "무료",
+      "category": "#Education / Studies, #Text Generators",
+      "upvotes": 1
+    },
+    {
+      "name": "Magic Type AI",
+      "description": "« 시, 가사, 랩까지 작성하는 텍스트 생성기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/magic-type-ai.png",
+      "url": "https://www.aixploria.com/en/magic-type-ai/",
+      "type": "무료",
+      "category": "#Amazing, #Text Generators",
+      "upvotes": 1
+    },
+    {
+      "name": "Loyae",
+      "description": "« 웹사이트의 검색 엔진 최적화(SEO)를 개선하는 데 도움이 되는 AI 애플리케이션입니다. 사이트를 더욱 눈에 띄고 매력적으로 만듭니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/loyae.png",
+      "url": "https://www.aixploria.com/en/loyae/",
+      "type": "무료",
+      "category": "#Writing & Web SEO",
+      "upvotes": 1
+    },
+    {
+      "name": "Rewriter AI",
+      "description": "« AI로 글쓰기 시간 단축: 다른 표현, 다른 표현, 문법 및 텍스트 요약 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/02/favicon-defa.png",
+      "url": "https://www.aixploria.com/en/rewriter-ai/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Summarizer",
+      "upvotes": 0
+    },
+    {
+      "name": "Autowrite App",
+      "description": "« 기업의 트래픽, SEO 및 매출 증대를 돕는 AI 작성 도우미 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/autowrite-app.png",
+      "url": "https://www.aixploria.com/en/autowrite/",
+      "type": "부분 무료",
+      "category": "#Text Generators, #Writing & Web SEO",
+      "upvotes": 0
+    },
+    {
+      "name": "Article Fiesta",
+      "description": "« 몇 가지 키워드로 고품질 문단을 생성할 수 있는 SEO 기사 생성기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/article-fiesta.png",
+      "url": "https://www.aixploria.com/en/article-fiesta/",
+      "type": "부분 무료",
+      "category": "#Text Generators, #Writing & Web SEO",
+      "upvotes": 1
+    },
+    {
+      "name": "Seo Review Tools",
+      "description": "« 실시간으로 SEO를 극대화하고 심층적으로 최적화하기 위한 AI 기반의 다양한 도구(66개 이상) »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/seo-review-tools.png",
+      "url": "https://www.aixploria.com/en/seo-review-tools/",
+      "type": "무료",
+      "category": "#Business, #Productivity",
+      "upvotes": 0
+    },
+    {
+      "name": "WriteSmart",
+      "description": "« LinkedIn 게시물에 매력적인 응답과 댓글을 작성하는 데 도움이 되는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/writesmart.png",
+      "url": "https://www.aixploria.com/en/writesmart/",
+      "type": "부분 무료",
+      "category": "#Social Networks, #Writing & Web SEO",
+      "upvotes": 1
+    },
+    {
+      "name": "Hemingway App",
+      "description": "« 원본 텍스트 작성을 도와주는 AI. 또한 철자와 문법도 확인합니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/hemingway-app.png",
+      "url": "https://www.aixploria.com/en/hemingway-app/",
+      "type": "무료",
+      "category": "#Education / Studies, #Writing & Web SEO",
+      "upvotes": 0
+    },
+    {
+      "name": "Buni AI",
+      "description": "« 텍스트, 이미지 및 코드 생성 도구를 사용하여 몇 분 만에 고품질 콘텐츠 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/buni-ai.png",
+      "url": "https://www.aixploria.com/en/buni-ai/",
+      "type": "유료",
+      "category": "#Text Generators, #Writing & Web SEO",
+      "upvotes": 0
+    },
+    {
+      "name": "Surfer Seo",
+      "description": "« 콘텐츠(SEO)를 분석하고 최적화하는 AI 기반 도구입니다. 경쟁사 덕분에 Google 순위 향상 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/surfer-seo.png",
+      "url": "https://www.aixploria.com/en/surfer-seo/",
+      "type": "유료",
+      "category": "#Writing & Web SEO",
+      "upvotes": 0
+    },
+    {
+      "name": "Machined.ai",
+      "description": "« SEO 기사 작성에 특화된 AI 기반 다국어 텍스트 생성기입니다. GPT 3.5 또는 GPT 4 사용 가능성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/machined-ai.png",
+      "url": "https://www.aixploria.com/en/machined-ai/",
+      "type": "유료",
+      "category": "#Text Generators, #Writing & Web SEO",
+      "upvotes": 0
+    },
+    {
+      "name": "Shakespeare",
+      "description": "« 마케팅 및 광고 캠페인을 위한 텍스트 기반 콘텐츠를 작성할 수 있는 AI 기반 작가 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/shakespeare.png",
+      "url": "https://www.aixploria.com/en/shakespeare/",
+      "type": "부분 무료",
+      "category": "#Text Generators, #Writing & Web SEO",
+      "upvotes": 0
+    },
+    {
+      "name": "Squirrly SEO",
+      "description": "« 콘텐츠를 최적화하고 트래픽을 늘리는 데 도움이 되는 AI 기반 SEO 도구의 전체 제품군 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/squirrly-seo.png",
+      "url": "https://www.aixploria.com/en/squirrly-seo/",
+      "type": "유료",
+      "category": "#Writing & Web SEO",
+      "upvotes": 1
+    },
+    {
+      "name": "Eye2.ai",
+      "description": "« 인공 지능과 인간의 전문 지식을 결합하여 콘텐츠를 정밀하게 개선하고 인간화하는 온라인 서비스의 이점을 누리세요. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/eye2-ai.png",
+      "url": "https://www.aixploria.com/en/eye2-ai/",
+      "type": "유료",
+      "category": "#Writing & Web SEO",
+      "upvotes": 0
+    },
+    {
+      "name": "WordfixerBot",
+      "description": "« 의역, 문법 검사, 텍스트 요약 등을 위한 AI 작성 도우미 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/wordfixerbot.png",
+      "url": "https://www.aixploria.com/en/wordfixerbot/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Summarizer",
+      "upvotes": 0
+    },
+    {
+      "name": "ThunderContent",
+      "description": "« 기사 작성에 특화된 글쓰기 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/thundercontent.png",
+      "url": "https://www.aixploria.com/en/thundercontent/",
+      "type": "유료",
+      "category": "#Text Generators, #Writing & Web SEO",
+      "upvotes": 1
+    },
+    {
+      "name": "Newswriter AI",
+      "description": "« GPT-3에서 보도 자료 작성을 위한 AI 도우미 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/newswriter-ai.png",
+      "url": "https://www.aixploria.com/en/newswriter-ai/",
+      "type": "무료",
+      "category": "#Business, #Text Generators",
+      "upvotes": 1
+    },
+    {
+      "name": "Great Headlines",
+      "description": "« 몇 초 만에 눈길을 끄는 헤드라인을 생성하는 AI, 마케터와 카피라이터에게 이상적 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/great-headlines.png",
+      "url": "https://www.aixploria.com/en/great-headlines/",
+      "type": "무료",
+      "category": "#Writing & Web SEO",
+      "upvotes": 0
+    },
+    {
+      "name": "Scribble AI",
+      "description": "« 사용자 정의 스타일 옵션을 사용하여 다양한 콘텐츠 유형에 대한 자동 텍스트 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/scribble-ai.png",
+      "url": "https://www.aixploria.com/en/scribble-ai/",
+      "type": "무료",
+      "category": "#Text Generators, #Writing & Web SEO",
+      "upvotes": 1
+    },
+    {
+      "name": "Copymate",
+      "description": "« 여러 언어로 최적화된 기사를 빠르게 생성할 수 있는 AI 기반 SEO 콘텐츠 생성기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/copymate.png",
+      "url": "https://www.aixploria.com/en/copymate/",
+      "type": "부분 무료",
+      "category": "#Writing & Web SEO",
+      "upvotes": 1
+    },
+    {
+      "name": "SEO GPT",
+      "description": "« SEO에 최적화된 텍스트를 생성하기 위한 GPT-3 기반의 무료 콘텐츠 생성기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/seo-gpt.png",
+      "url": "https://www.aixploria.com/en/seo-gpt/",
+      "type": "무료",
+      "category": "#Text Generators, #Writing & Web SEO",
+      "upvotes": 1
+    },
+    {
+      "name": "Rizz! Keyboard",
+      "description": "« 이메일, 문자, 소셜 네트워크 메시지 등 짧은 문자를 작성하기 위해 설계된 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/rizz--keyboard.png",
+      "url": "https://www.aixploria.com/en/rizz-keyboard/",
+      "type": "무료",
+      "category": "#Life Assistants, #Social Networks",
+      "upvotes": 1
+    },
+    {
+      "name": "Text Generator",
+      "description": "« 고품질, 다국어 AI 텍스트 생성기. 매월 100개의 무료 요청을 받습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/text-generator.png",
+      "url": "https://www.aixploria.com/en/text-generator/",
+      "type": "부분 무료",
+      "category": "#Text Generators, #Writing & Web SEO",
+      "upvotes": 0
+    },
+    {
+      "name": "Textbuddy",
+      "description": "« 텍스트를 분석하여 글쓰기를 개선하고 단순화하는 지능형 도구 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/textbuddy.png",
+      "url": "https://www.aixploria.com/en/textbuddy/",
+      "type": "부분 무료",
+      "category": "#Education / Studies, #Writing & Web SEO",
+      "upvotes": 1
+    },
+    {
+      "name": "SEO.ai",
+      "description": "« 고품질의 고성능 SEO 콘텐츠를 빠르게 생성하세요. 50개 이상의 언어로 이용 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/seo-ai.png",
+      "url": "https://www.aixploria.com/en/seo-ai/",
+      "type": "유료",
+      "category": "#Text Generators, #Writing & Web SEO",
+      "upvotes": 0
+    },
+    {
+      "name": "Moji",
+      "description": "« 멀티 태스킹 AI 비서: 글쓰기, 이메일, 코드, 키워드 및 이미지 생성. IOS에서 사용 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/moji.png",
+      "url": "https://www.aixploria.com/en/moji/",
+      "type": "부분 무료",
+      "category": "#Writing & Web SEO",
+      "upvotes": 0
+    },
+    {
+      "name": "Adwrite",
+      "description": "« 편집 콘텐츠 전문 카피라이팅 어시스턴트: SEO, 마케팅, 전자상거래 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/adwrite/",
+      "type": "부분 무료",
+      "category": "#Marketing, #RIP AI",
+      "upvotes": 0
+    },
+    {
+      "name": "Juice AI",
+      "description": "« 마케팅 콘텐츠 제작에 특화된 AI: SEO 텍스트 생성, 키워드 등 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/juice-ai.png",
+      "url": "https://www.aixploria.com/en/juice/",
+      "type": "유료",
+      "category": "#Marketing, #Writing & Web SEO",
+      "upvotes": 0
+    },
+    {
+      "name": "Jaq n Jil",
+      "description": "« SEO 및 마케팅 콘텐츠 작성을 위한 AI 기반 작성 도우미 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/jaq-n-jil.png",
+      "url": "https://www.aixploria.com/en/jaq-n-jil/",
+      "type": "부분 무료",
+      "category": "#Marketing, #Text Generators",
+      "upvotes": 0
+    },
+    {
+      "name": "StoryLab AI",
+      "description": "« 글쓰기를 향상시키기 위한 콘텐츠 아이디어, 후크 및 계획을 생성하는 AI »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/storylab-ai.png",
+      "url": "https://www.aixploria.com/en/storylab-ai/",
+      "type": "부분 무료",
+      "category": "#Productivity, #Writing & Web SEO",
+      "upvotes": 0
+    },
+    {
+      "name": "Keywrds AI",
+      "description": "« AI를 사용하여 키워드 생성, 청중과 관련된 틈새 및 SEO 주제 찾기 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/keywrds-ai.png",
+      "url": "https://www.aixploria.com/en/keywrds-ai/",
+      "type": "유료",
+      "category": "#Writing & Web SEO",
+      "upvotes": 0
+    },
+    {
+      "name": "Articly",
+      "description": "« 검색 엔진(SEO)에 최적화된 AI 부조종사와 함께 기사 작성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/articly.png",
+      "url": "https://www.aixploria.com/en/articly/",
+      "type": "유료",
+      "category": "#Text Generators, #Writing & Web SEO",
+      "upvotes": 0
+    },
+    {
+      "name": "Jounce",
+      "description": "« 텍스트 작성을 도와주는 AI 솔루션. 매우 빠르게 카피라이팅 콘텐츠 생성 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/jounce.png",
+      "url": "https://www.aixploria.com/en/jounce/",
+      "type": "유료",
+      "category": "#Text Generators, #Writing & Web SEO",
+      "upvotes": 0
+    },
+    {
+      "name": "Auri AI",
+      "description": "« 철자 교정, 의역, 번역 및 텍스트 생성 기능을 제공하는 AI 글쓰기 도우미 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/auri-ai.png",
+      "url": "https://www.aixploria.com/en/auri-ai/",
+      "type": "부분 무료",
+      "category": "#Productivity, #Transcriber",
+      "upvotes": 0
+    },
+    {
+      "name": "Relume Ipsum",
+      "description": "« 디자이너를 위한 AI 지원 글쓰기 도구. Figma를 종료하지 않고도 빠르게 텍스트를 생성할 수 있습니다. »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/favicons/relume-ipsum.png",
+      "url": "https://www.aixploria.com/en/relume-ipsum/",
+      "type": "유료",
+      "category": "#Text Generators, #Writing & Web SEO",
+      "upvotes": 0
+    },
+    {
+      "name": "SpellBound",
+      "description": "« 스타일을 개선하고 실수나 문법을 수정하는 AI 기반 글쓰기 도우미입니다. MacOS에서 사용 가능 »",
+      "logo": "https://www.aixploria.com/wp-content/uploads/2023/04/website-icon-default.webp",
+      "url": "https://www.aixploria.com/en/spellbound/",
+      "type": "유료",
+      "category": "#Writing & Web SEO",
+      "upvotes": 0
+    }
+  ]
+}
