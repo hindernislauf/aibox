@@ -1,14 +1,14 @@
 // 이 파일은 카테고리 데이터를 제공하는 API 엔드포인트입니다.
 
-import db from '../../utils/db';
+import { sql } from '@vercel/postgres';
 
 export default async function handler(req, res) {
   try {
-    // 간단한 쿼리로 연결 테스트
-    const testResult = await db.query('SELECT NOW()');
+    // 연결 테스트
+    const testResult = await sql`SELECT NOW()`;
     console.log('Database connection successful:', testResult.rows[0]);
 
-    const result = await db.query(`
+    const result = await sql`
       SELECT c.name, 
              COUNT(DISTINCT s.name) as totalItems
       FROM categories c
@@ -16,18 +16,18 @@ export default async function handler(req, res) {
       JOIN services s ON sc.service_id = s.id
       GROUP BY c.name
       ORDER BY c.name
-    `);
+    `;
 
     const categories = await Promise.all(result.rows.map(async (category) => {
-      const items = await db.query(`
+      const items = await sql`
         SELECT DISTINCT ON (s.name) s.* 
         FROM services s
         JOIN service_categories sc ON s.id = sc.service_id
         JOIN categories c ON c.id = sc.category_id
-        WHERE c.name = $1 
+        WHERE c.name = ${category.name}
         ORDER BY s.name, s.upvotes DESC 
         LIMIT 20
-      `, [category.name]);
+      `;
 
       return {
         id: encodeURIComponent(category.name.toLowerCase().replace(/\s+/g, '-')),
@@ -40,13 +40,15 @@ export default async function handler(req, res) {
       };
     }));
 
-    // All Categories 항목 추가
-    const allItems = await db.query(`
+    // All Categories 항목
+    const allItems = await sql`
       SELECT DISTINCT ON (s.name) s.* 
       FROM services s
       ORDER BY s.name, s.upvotes DESC 
       LIMIT 50
-    `);
+    `;
+
+    const totalCount = await sql`SELECT COUNT(DISTINCT name) FROM services`;
 
     const allCategories = {
       id: 'all-categories',
@@ -55,11 +57,10 @@ export default async function handler(req, res) {
         ...item,
         logo: `https://images.weserv.nl/?url=${encodeURIComponent(item.logo)}&w=48&h=48&fit=contain&output=png`
       })),
-      totalItems: await db.query('SELECT COUNT(DISTINCT name) FROM services').then(res => res.rows[0].count)
+      totalItems: parseInt(totalCount.rows[0].count)
     };
 
     categories.unshift(allCategories);
-
     res.status(200).json(categories);
   } catch (error) {
     console.error('Database error:', error);

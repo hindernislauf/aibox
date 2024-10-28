@@ -1,13 +1,15 @@
-import { Pool } from 'pg';
-
-const pool = new Pool({
-  user: 'postgres',
-  host: 'localhost',
-  database: 'aibox2',
-  password: '0000',
-  port: 5432,
-});
+import { sql } from '@vercel/postgres';
 
 export default {
-  query: (text, params) => pool.query(text, params),
+  query: async (text, params) => {
+    try {
+      if (params) {
+        return await sql.query(text, params);
+      }
+      return await sql.query(text);
+    } catch (error) {
+      console.error('Database query error:', error);
+      throw error;
+    }
+  }
 };

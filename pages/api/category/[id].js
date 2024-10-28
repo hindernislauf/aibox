@@ -1,26 +1,25 @@
-import db from '../../../utils/db';
+import { sql } from '@vercel/postgres';
 
 export default async function handler(req, res) {
   const { id } = req.query;
   try {
     let result;
     if (id === 'all-categories') {
-      result = await db.query(`
+      result = await sql`
         SELECT DISTINCT ON (s.name) s.* 
         FROM services s
         ORDER BY s.name, s.upvotes DESC
-      `);
+      `;
     } else {
       const decodedId = decodeURIComponent(id).replace(/-/g, ' ').toLowerCase();
-      console.log('Requested category:', decodedId);
-      result = await db.query(`
+      result = await sql`
         SELECT DISTINCT ON (s.name) s.* 
         FROM services s
         JOIN service_categories sc ON s.id = sc.service_id
         JOIN categories c ON c.id = sc.category_id
-        WHERE LOWER(c.name) = $1
+        WHERE LOWER(c.name) = ${decodedId}
         ORDER BY s.name, s.upvotes DESC
-      `, [decodedId]);
+      `;
     }
 
     if (result.rows.length === 0) {
