@@ -5,9 +5,9 @@ import styles from '../styles/ServiceCard.module.css';
 export default function ServiceCard({ service, rank }) {
   const typeClass = (service.type || '').replace(/\s+/g, '').toLowerCase();
   
-  // URL에서 로고 URL 생성
+  // 서비스의 실제 URL에서 로고 URL 생성
   const logoUrl = service.url ? 
-    `https://www.aixploria.com/wp-content/uploads/favicons/${service.name.toLowerCase().replace(/\s+/g, '-')}.png` 
+    new URL(service.url).origin + '/favicon.ico'  // 실제 서비스의 favicon 사용
     : '/default-favicon.png';
 
   return (
@@ -21,7 +21,6 @@ export default function ServiceCard({ service, rank }) {
           className={styles.logo}
           onError={(e) => {
             e.target.onerror = null;
-            // 첫 번째 시도 실패시 기본 이미지로 폴백
             e.target.src = '/default-favicon.png';
           }}
         />
