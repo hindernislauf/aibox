@@ -3,13 +3,18 @@ const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
   distDir: '.next',
-  experimental: {
-    appDir: false
-  },
-  // 정적 내보내기 설정 추가
   output: 'standalone',
   images: {
-    unoptimized: true
+    unoptimized: true,
+    domains: ['images.weserv.nl']
+  },
+  async rewrites() {
+    return [
+      {
+        source: '/api/:path*',
+        destination: '/api/:path*'
+      }
+    ];
   }
 }
 
